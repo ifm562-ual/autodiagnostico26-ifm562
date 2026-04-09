@@ -20,12 +20,14 @@ Además, si el usuario decide contratar el servicio, puede realizar un **seguimi
 
 Estudiantes de **Desarrollo Rápido de Aplicaciones** en la Universidad de Almería:
 
-| Integrante | Usuario GitHub | Correo UAL |
-| **David Casado Fernández** | [dcf313](https://github.com/dcf313)
-| **Ismael Fernández Méndez** | [ifm562-ual](https://github.com/ifm562-ual)
-| **Juan José Fernández Requena** | [ualjfr498](https://github.com/ualjfr498)
-| **Franco Sergio Pereyra** | [ualfsp323](https://github.com/ualfsp323)
-| **David Granados Pérez** | [dgp336](https://github.com/dgp336)
+| Integrante | Usuario GitHub |
+| --- | --- |
+| **David Casado Fernández** | [dcf313](https://github.com/dcf313) |
+| **Ismael Fernández Méndez** | [ifm562-ual](https://github.com/ifm562-ual) |
+| **Juan José Fernández Requena** | [ualjfr498](https://github.com/ualjfr498) |
+| **Franco Sergio Pereyra** | [ualfsp323](https://github.com/ualfsp323) |
+| **David Granados Pérez** | [dgp336](https://github.com/dgp336) |
+| **Pablo Martínez Gálvez** | [ualpmg943](https://github.com/ualpmg943) |
 
 ---
 

@@ -1,0 +1,798 @@
+{
+  "models": [
+    {
+      "modelName": "G70",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G70 2.0T 197HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "G70 2.0T 245HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "G70 2.0T 245HP AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "G70 2.0T 252HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G70 2.0T 252HP AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G70 3.3T 370HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G70 3.3T 370HP AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 2.2 e-VGT 202HP Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 2.2 e-VGT 202HP AWD Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 2.2D 200HP Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 2.2D 200HP AWD Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "G70 - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "283.5 cm / 111.61 pulgadas",
+            "Consumos Medio:": "de 6.5 L/100 km / 43 MPG UK / 36 MPG US a 9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 197 PS / 194 HP / 145 kW a 370 PS / 365 HP / 272 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "468.5 cm / 184.45 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3342 cm3 / 203.9 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1838 kg / 4052 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13571/G70-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G70 Shooting Brake 2.0T 197HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "G70 Shooting Brake 2.0T 245HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "G70 Shooting Brake 2.0T 245HP AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 Shooting Brake 2.2D 200HP Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "G70 Shooting Brake 2.2D 200HP AWD Automatic Ficha Tecnica",
+              "Cilindrada": "2199 cm3 (134.2 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "G70 - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "283.5 cm / 111.61 pulgadas",
+            "Consumos Medio:": "de 6.9 L/100 km / 41 MPG UK / 34 MPG US a 9.3 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 197 PS / 194 HP / 145 kW a 245 PS / 242 HP / 180 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "468.5 cm / 184.45 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2199 cm3 / 134.2 cu-in",
+            "Peso:": "de 1717 kg / 3785 lbs a 1875 kg / 4134 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13572/G70-Shooting-Brake"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G70 2.0T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "256 hp / 188 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "G70 2.0T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "256 hp / 188 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "G70 3.3T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "G70 3.3T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "G70 (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "283.5 cm / 111.61 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 256 PS / 253 HP / 188 kW a 370 PS / 365 HP / 272 kW",
+            "Largo:": "468.6 cm / 184.49 pulgadas",
+            "Ancho:": "184.9 cm / 72.8 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3342 cm3 / 203.9 cu-in",
+            "Peso:": "de 1595 kg / 3516 lbs a 1775 kg / 3913 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M10856/G70-(HS)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/13571/w170_Genesis-G70-2020-7884718885e6524a23.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-G70"
+    },
+    {
+      "modelName": "G80",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "G80 Electrified AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "G80 (RG3) - 2024 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "314.0 cm / 123.62 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "370 PS / 365 HP / 272 kW",
+            "Largo:": "513.5 cm / 202.17 pulgadas",
+            "Ancho:": "192.5 cm / 75.79 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Peso:": "2410 kg / 5313 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M15407/G80-Electrified"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G80 2.5T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G80 2.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G80 3.5T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "G80 3.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G80 (RG3) - 2021 New Model (2020 - 2023)",
+          "specifications": {
+            "Batalla:": "301.0 cm / 118.5 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Potencia:": "de 304 PS / 300 HP / 224 kW a 380 PS / 375 HP / 279 kW",
+            "Largo:": "499.6 cm / 196.69 pulgadas",
+            "Ancho:": "192.5 cm / 75.79 pulgadas",
+            "Período de producción:": "de 2020 a 2023",
+            "Cilindrada:": "de 2497 cm3 / 152.4 cu-in a 3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 1795 kg / 3957 lbs a 1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M11451/G80-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G80 3.3T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "G80 3.3T HTRAC AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "G80 3.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G80 3.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "G80 3.8 HTRAC AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G80 3.8 HTRAC AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "G80 5.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G80 5.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "G80 5.0 HTRAC AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "G80 (DH) (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "301.0 cm / 118.5 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "de 315 PS / 311 HP / 232 kW a 426 PS / 420 HP / 313 kW",
+            "Largo:": "499.0 cm / 196.46 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "de 3342 cm3 / 203.9 cu-in a 5038 cm3 / 307.4 cu-in",
+            "Peso:": "de 1903 kg / 4195 lbs a 2139 kg / 4716 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M10858/G80-2017"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/15407/w170_Genesis-G80-Electrified-8376987e296e6b92b7.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-G80"
+    },
+    {
+      "modelName": "G90",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G90 LWB 3.5T V6 e-S/C AWD Automatic 4-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "G90 LWB 3.5T V6 e-S/C AWD Automatic 5-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "G90 (RS4) - 2021 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "337.0 cm / 132.68 pulgadas",
+            "Consumos Medio:": "11 L/100 km / 26 MPG UK / 21 MPG US",
+            "Alto:": "149.0 cm / 58.66 pulgadas",
+            "Emisiones de CO2:": "de 209 a 248 g/Km",
+            "Potencia:": "415 PS / 409 HP / 305 kW",
+            "Largo:": "546.5 cm / 215.16 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 2420 kg / 5335 lbs a 2470 kg / 5445 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13955/G90-LWB"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G90 3.5T V6 e-S/C Automatic 4-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "G90 3.5T V6 e-S/C Automatic 5-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "G90 3.5T V6 e-S/C AWD Automatic 4-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "G90 3.5T V6 e-S/C AWD Automatic 5-seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "G90 (RS4) - 2021 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "318.0 cm / 125.2 pulgadas",
+            "Consumos Medio:": "11 L/100 km / 26 MPG UK / 21 MPG US",
+            "Alto:": "149.0 cm / 58.66 pulgadas",
+            "Emisiones de CO2:": "de 188 a 248 g/Km",
+            "Potencia:": "415 PS / 409 HP / 305 kW",
+            "Largo:": "527.5 cm / 207.68 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 2175 kg / 4795 lbs a 2305 kg / 5082 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13618/G90-SWB-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G90 3.3T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "G90 3.3T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "G90 5.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "G90 5.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "G90 (HI) - 2020 Facelift (2019 - 2021)",
+          "specifications": {
+            "Batalla:": "316.0 cm / 124.41 pulgadas",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Potencia:": "de 370 PS / 365 HP / 272 kW a 426 PS / 420 HP / 313 kW",
+            "Largo:": "520.5 cm / 204.92 pulgadas",
+            "Ancho:": "191.5 cm / 75.39 pulgadas",
+            "Período de producción:": "de 2019 a 2021",
+            "Cilindrada:": "de 3342 cm3 / 203.9 cu-in a 5038 cm3 / 307.4 cu-in",
+            "Peso:": "de 2100 kg / 4630 lbs a 2225 kg / 4905 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M11450/G90-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G90 3.3T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G90 3.3T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3342 cm3 (203.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G90 5.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "G90 5.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5038 cm3 (307.4 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "G90 (HI) - 2016 New Model (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "316.0 cm / 124.41 pulgadas",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Potencia:": "de 370 PS / 365 HP / 272 kW a 426 PS / 420 HP / 313 kW",
+            "Largo:": "520.5 cm / 204.92 pulgadas",
+            "Ancho:": "191.5 cm / 75.39 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "de 3342 cm3 / 203.9 cu-in a 5038 cm3 / 307.4 cu-in",
+            "Peso:": "de 2100 kg / 4630 lbs a 2225 kg / 4905 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M10859/G90-2016"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/13618/w170_Genesis-G90-SWB-2021-ae4a096f0f4b79bd30.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-G90"
+    },
+    {
+      "modelName": "GV70",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GV70 Electrified AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "490 hp / 360 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "GV70 (JK1) - 2025 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "287.5 cm / 113.19 pulgadas",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "490 PS / 483 HP / 360 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "471.5 cm / 185.63 pulgadas",
+            "Ancho:": "191.0 cm / 75.2 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Peso:": "2335 kg / 5148 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M15408/GV70-2025-Electrified"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GV70 Electrified 77.4 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "490 hp / 360 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "77.4 kWh"
+            },
+            {
+              "Motores de Gasolina": "GV70 2.5T AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "GV70 2.2D 201HP AWD Automatic Ficha Tecnica",
+              "Cilindrada": "2151 cm3 (131.3 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2022"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "GV70 2.2D 210HP AWD Automatic Ficha Tecnica",
+              "Cilindrada": "2151 cm3 (131.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "GV70 (JK1) - 2022 New Model (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "287.5 cm / 113.19 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 9.5 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "de 201 PS / 198 HP / 148 kW a 490 PS / 483 HP / 360 kW",
+            "Peso de remolque:": "de 1800 kg / 3968 lbs a 2500 kg / 5512 lbs",
+            "Largo:": "471.5 cm / 185.63 pulgadas",
+            "Ancho:": "191.0 cm / 75.2 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Cilindrada:": "de 2151 cm3 / 131.3 cu-in a 2497 cm3 / 152.4 cu-in",
+            "Peso:": "de 1985 kg / 4376 lbs a 2310 kg / 5093 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13959/GV70"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/15408/w170_Genesis-GV70-2025-Electrified-cee278260c9612b69b.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-GV70"
+    },
+    {
+      "modelName": "GV80",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GV80 2.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "GV80 3.5T AWD 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "GV80 3.5T AWD 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "GV80 - 2024 Facelift (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "295.4 cm / 116.3 pulgadas",
+            "Alto:": "171.5 cm / 67.52 pulgadas",
+            "Potencia:": "de 304 PS / 300 HP / 224 kW a 380 PS / 375 HP / 279 kW",
+            "Peso de remolque:": "2722 kg / 6001 lbs",
+            "Largo:": "494.0 cm / 194.49 pulgadas",
+            "Ancho:": "197.5 cm / 77.76 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 2497 cm3 / 152.4 cu-in a 3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 2200 kg / 4850 lbs a 2320 kg / 5115 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M14344/GV80-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GV80 Coupe 3.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "GV80 Coupe 3.5Te-SC AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "415 hp / 305 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "GV80 - 2024 Facelift (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "295.4 cm / 116.3 pulgadas",
+            "Alto:": "171.0 cm / 67.32 pulgadas",
+            "Potencia:": "de 380 PS / 375 HP / 279 kW a 415 PS / 409 HP / 305 kW",
+            "Largo:": "496.5 cm / 195.47 pulgadas",
+            "Ancho:": "197.5 cm / 77.76 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 2290 kg / 5049 lbs a 2340 kg / 5159 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M14345/GV80-2024-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GV80 2.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "GV80 2.5T RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "GV80 3.5T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3470 cm3 (211.8 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "GV80 3.0D AWD Ficha Tecnica",
+              "Cilindrada": "2996 cm3 (182.8 cu-in)",
+              "Potencia": "277 hp / 204 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "GV80 - 2021 New Model (2020 - 2024)",
+          "specifications": {
+            "Batalla:": "295.4 cm / 116.3 pulgadas",
+            "Consumos Medio:": "8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "171.5 cm / 67.52 pulgadas",
+            "Potencia:": "de 277 PS / 273 HP / 204 kW a 380 PS / 375 HP / 279 kW",
+            "Peso de remolque:": "2722 kg / 6001 lbs",
+            "Largo:": "494.5 cm / 194.69 pulgadas",
+            "Ancho:": "197.6 cm / 77.8 pulgadas",
+            "Período de producción:": "de 2020 a 2024",
+            "Cilindrada:": "de 2497 cm3 / 152.4 cu-in a 3470 cm3 / 211.8 cu-in",
+            "Peso:": "de 2044 kg / 4506 lbs a 2267 kg / 4998 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M11448/GV80-2021"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/14344/w170_Genesis-GV80-2024-b01a8c2f988d6e23fc.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-GV80"
+    },
+    {
+      "modelName": "GV60",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GV60 GV60 Magma Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "650 hp / 478 kW",
+              "Año": "2026",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "GV60 - 2026 Facelift (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "650 PS / 641 HP / 478 kW",
+            "Largo:": "454.5 cm / 178.94 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2026 a a presente"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M16202/GV60-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GV60 318HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "318 hp / 234 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "77.4 kWh"
+            },
+            {
+              "Eléctrico": "GV60 Performance 435HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "77.4 kWh"
+            },
+            {
+              "Eléctrico": "GV60 RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "229 hp / 168 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "77.4 kWh"
+            },
+            {
+              "Eléctrico": "GV60 Sport Plus 490HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "490 hp / 360 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "77.4 kWh"
+            }
+          ],
+          "actualFinalModelName": "CV60 - 2021 New Model (2021 - 2025)",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "de 229 PS / 226 HP / 168 kW a 490 PS / 483 HP / 360 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "451.5 cm / 177.76 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2021 a 2025",
+            "Peso:": "de 1975 kg / 4354 lbs a 2145 kg / 4729 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Genesis/M13735/GV60"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/935/16202/w170_Genesis-GV60-2025-86efff40315036d07c.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Genesis-models/Genesis-GV60"
+    }
+  ],
+  "brandName": "Genesis"
+}

@@ -1,0 +1,910 @@
+{
+  "models": [
+    {
+      "modelName": "Crossfire",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Crossfire Coupe 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Coupe 3.2 Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Coupe 3.2 Limited Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Coupe 3.2 SRT6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "334 hp / 246 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Crossfire Coupe (2005 - 2007)",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Alto:": "130.5 cm / 51.38 pulgadas",
+            "Emisiones de CO2:": "de 239 a 264 g/Km",
+            "Potencia:": "de 218 PS / 215 HP / 160 kW a 334 PS / 329 HP / 246 kW",
+            "Largo:": "405.9 cm / 159.8 pulgadas",
+            "Ancho:": "176.6 cm / 69.53 pulgadas",
+            "Período de producción:": "de 2005 a 2007",
+            "Cilindrada:": "3199 cm3 / 195.2 cu-in",
+            "Peso:": "de 1388 kg / 3060 lbs a 1469 kg / 3239 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6118/Crossfire-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Crossfire Roadster 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Roadster 3.2 Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Roadster 3.2 Limited Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Crossfire Roadster 3.2 SRT6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3199 cm3 (195.2 cu-in)",
+              "Potencia": "334 hp / 246 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Crossfire Roadster (2005 - 2007)",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Alto:": "129.6 cm / 51.02 pulgadas",
+            "Emisiones de CO2:": "de 239 a 264 g/Km",
+            "Potencia:": "de 218 PS / 215 HP / 160 kW a 334 PS / 329 HP / 246 kW",
+            "Largo:": "405.9 cm / 159.8 pulgadas",
+            "Ancho:": "176.6 cm / 69.53 pulgadas",
+            "Período de producción:": "de 2005 a 2007",
+            "Cilindrada:": "3199 cm3 / 195.2 cu-in",
+            "Peso:": "de 1424 kg / 3139 lbs a 1509 kg / 3327 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M8453/Crossfire-Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/8453/w170_Chrysler-Crossfire-Roadster-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-Crossfire"
+    },
+    {
+      "modelName": "200",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 2.4 LX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "200 2.4 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "200 3.6 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "287 hp / 211 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "200 I (2011 - 2014)",
+          "specifications": {
+            "Batalla:": "276.6 cm / 108.9 pulgadas",
+            "Alto:": "148.3 cm / 58.39 pulgadas",
+            "Potencia:": "de 175 PS / 173 HP / 129 kW a 287 PS / 283 HP / 211 kW",
+            "Largo:": "486.9 cm / 191.69 pulgadas",
+            "Ancho:": "184.2 cm / 72.52 pulgadas",
+            "Período de producción:": "de 2011 a 2014",
+            "Cilindrada:": "de 2360 cm3 / 144 cu-in a 3605 cm3 / 220 cu-in",
+            "Peso:": "de 1537 kg / 3389 lbs a 1614 kg / 3558 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M5515/200"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 Convertible 2.4 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "200 Convertible 3.6 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "287 hp / 211 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "200 I (2011 - 2014)",
+          "specifications": {
+            "Batalla:": "276.6 cm / 108.9 pulgadas",
+            "Alto:": "146.8 cm / 57.8 pulgadas",
+            "Potencia:": "de 175 PS / 173 HP / 129 kW a 287 PS / 283 HP / 211 kW",
+            "Largo:": "494.8 cm / 194.8 pulgadas",
+            "Ancho:": "184.2 cm / 72.52 pulgadas",
+            "Período de producción:": "de 2011 a 2014",
+            "Cilindrada:": "de 2360 cm3 / 144 cu-in a 3605 cm3 / 220 cu-in",
+            "Peso:": "de 1733 kg / 3821 lbs a 1804 kg / 3977 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M8451/200-Convertible"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/5515/w170_Chrysler-200-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-200"
+    },
+    {
+      "modelName": "300",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "300C 2.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "193 hp / 142 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3518 cm3 (214.7 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C 5.7 Hemi V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C 6.1 SRT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6059 cm3 (369.7 cu-in)",
+              "Potencia": "431 hp / 317 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C 3.0 V6 CRD Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C 3.0 V6 CRD Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C 3.0 V6 CRD Executive Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C 3.0 V6 CRD SRT Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "300C I (2003 - 2010)",
+          "specifications": {
+            "Batalla:": "304.8 cm / 120 pulgadas",
+            "Alto:": "148.3 cm / 58.39 pulgadas",
+            "Emisiones de CO2:": "de 215 a 330 g/Km",
+            "Potencia:": "de 193 PS / 190 HP / 142 kW a 431 PS / 425 HP / 317 kW",
+            "Largo:": "499.9 cm / 196.81 pulgadas",
+            "Ancho:": "188.1 cm / 74.06 pulgadas",
+            "Período de producción:": "de 2003 a 2010",
+            "Cilindrada:": "de 2736 cm3 / 167 cu-in a 6059 cm3 / 369.7 cu-in",
+            "Peso:": "de 1810 kg / 3990 lbs a 1963 kg / 4328 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3556/300C"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "300C Touring 2.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "193 hp / 142 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C Touring 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3518 cm3 (214.7 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C Touring 3.5 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3518 cm3 (214.7 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C Touring 5.7 Hemi V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C Touring 5.7 V8 Hemi AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "300C Touring 6.1 SRT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6059 cm3 (369.7 cu-in)",
+              "Potencia": "431 hp / 317 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C Touring 3.0 V6 CRD Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "300C Touring 3.0 V6 CRD Executive Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "300C I (2003 - 2010)",
+          "specifications": {
+            "Batalla:": "304.8 cm / 120 pulgadas",
+            "Consumos Medio:": "de 11.3 L/100 km / 25 MPG UK / 21 MPG US a 12.5 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "148.1 cm / 58.31 pulgadas",
+            "Potencia:": "de 193 PS / 190 HP / 142 kW a 431 PS / 425 HP / 317 kW",
+            "Largo:": "501.5 cm / 197.44 pulgadas",
+            "Ancho:": "188.1 cm / 74.06 pulgadas",
+            "Período de producción:": "de 2003 a 2010",
+            "Cilindrada:": "de 2736 cm3 / 167 cu-in a 6059 cm3 / 369.7 cu-in",
+            "Peso:": "de 1852 kg / 4083 lbs a 2050 kg / 4519 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M8452/300C-Touring"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/3556/w170_Chrysler-300C-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-300"
+    },
+    {
+      "modelName": "Grand Voyager",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager Grand Voyager Limited 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager Grand Voyager LX 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager Grand Voyager Touring 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Chrysler Grand Voyager Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "307.8 cm / 121.18 pulgadas",
+            "Alto:": "175.0 cm / 68.9 pulgadas",
+            "Emisiones de CO2:": "222 g/Km",
+            "Potencia:": "163 PS / 161 HP / 120 kW",
+            "Largo:": "514.3 cm / 202.48 pulgadas",
+            "Ancho:": "195.4 cm / 76.93 pulgadas",
+            "Período de producción:": "de 2008 a 2011",
+            "Cilindrada:": "2776 cm3 / 169.4 cu-in",
+            "Peso:": "2100 kg / 4630 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3555/Grand-Voyager"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/3555/w170_Chrysler-Grand-Voyager-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3555/Grand-Voyager"
+    },
+    {
+      "modelName": "PT Cruiser",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "PT Cruiser 2.0 Limited Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "PT Cruiser 2.2 CRD Limited Ficha Tecnica",
+              "Cilindrada": "2148 cm3 (131.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "PT Cruiser 2.2 CRD Touring Ficha Tecnica",
+              "Cilindrada": "2148 cm3 (131.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Chrysler PT Cruiser Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "261.6 cm / 102.99 pulgadas",
+            "Alto:": "160.1 cm / 63.03 pulgadas",
+            "Potencia:": "de 140 PS / 138 HP / 103 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "428.8 cm / 168.82 pulgadas",
+            "Ancho:": "170.4 cm / 67.09 pulgadas",
+            "Período de producción:": "de 2000 a 2011",
+            "Cilindrada:": "de 1996 cm3 / 121.8 cu-in a 2148 cm3 / 131.1 cu-in",
+            "Peso:": "de 1425 kg / 3142 lbs a 1575 kg / 3472 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3557/PT-Cruiser"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/3557/w170_Chrysler-PT-Cruiser-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3557/PT-Cruiser"
+    },
+    {
+      "modelName": "Neon",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Neon LE 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon LE 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon LE 2.0 Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon LX 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon LX 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon RT 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon SE 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Neon SE 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Chrysler Neon Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.7 cm / 105 pulgadas",
+            "Consumos Medio:": "de 7.3 L/100 km / 39 MPG UK / 32 MPG US a 8.7 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "142.1 cm / 55.94 pulgadas",
+            "Potencia:": "de 116 PS / 114 HP / 85 kW a 152 PS / 150 HP / 112 kW",
+            "Largo:": "439.0 cm / 172.83 pulgadas",
+            "Ancho:": "171.5 cm / 67.52 pulgadas",
+            "Período de producción:": "de 1999 a 2004",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1996 cm3 / 121.8 cu-in",
+            "Peso:": "de 1225 kg / 2701 lbs a 1325 kg / 2921 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6044/Neon"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/6044/w170_Chrysler-Neon-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6044/Neon"
+    },
+    {
+      "modelName": "Sebring",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sebring 2.0 CRD Limited Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sebring 2.0 CRD Touring Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sebring Cabrio 2.0 CRD Touring Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Third Generation JS (2007 - 2010)",
+          "specifications": {
+            "Batalla:": "276.5 cm / 108.86 pulgadas",
+            "Alto:": "149.7 cm / 58.94 pulgadas",
+            "Emisiones de CO2:": "de 170 a 178 g/Km",
+            "Potencia:": "140 PS / 138 HP / 103 kW",
+            "Largo:": "485.0 cm / 190.94 pulgadas",
+            "Ancho:": "184.3 cm / 72.56 pulgadas",
+            "Período de producción:": "de 2007 a 2010",
+            "Cilindrada:": "1968 cm3 / 120.1 cu-in",
+            "Peso:": "de 1635 kg / 3605 lbs a 1850 kg / 4079 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M3558/Sebring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.4 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.4 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.4 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Sebring Sedan 2.7 V6 Auto U.S. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Second Generarion ST-22/JR (2001 - 2006)",
+          "specifications": {
+            "Batalla:": "274.3 cm / 107.99 pulgadas",
+            "Consumos Medio:": "de 8.4 L/100 km / 34 MPG UK / 28 MPG US a 10.8 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "139.4 cm / 54.88 pulgadas",
+            "Potencia:": "de 141 PS / 139 HP / 104 kW a 203 PS / 200 HP / 149 kW",
+            "Largo:": "484.4 cm / 190.71 pulgadas",
+            "Ancho:": "179.2 cm / 70.55 pulgadas",
+            "Período de producción:": "de 2001 a 2006",
+            "Cilindrada:": "de 1996 cm3 / 121.8 cu-in a 2736 cm3 / 167 cu-in",
+            "Peso:": "de 1435 kg / 3164 lbs a 1504 kg / 3316 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M13777/Sebring-Sedan-ST-22-JR"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/3558/w170_Chrysler-Sebring-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-Sebring"
+    },
+    {
+      "modelName": "300M",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "300M 2.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "300M 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3518 cm3 (214.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Chrysler 300M Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "11.5 L/100 km / 25 MPG UK / 20 MPG US",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 252 PS / 249 HP / 185 kW",
+            "Largo:": "499.9 cm / 196.81 pulgadas",
+            "Ancho:": "189.2 cm / 74.49 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de 2736 cm3 / 167 cu-in a 3518 cm3 / 214.7 cu-in",
+            "Peso:": "de 1645 kg / 3627 lbs a 1660 kg / 3660 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6149/300M"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/6149/w170_Chrysler-300M-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6149/300M"
+    },
+    {
+      "modelName": "LeBaron",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LeBaron V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Chrysler LeBaron Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255 cm / 100.39 pulgadas",
+            "Alto:": "135.4 cm / 53.31 pulgadas",
+            "Potencia:": "143 PS / 141 HP / 105 kW",
+            "Largo:": "469.6 cm / 184.88 pulgadas",
+            "Ancho:": "175.8 cm / 69.21 pulgadas",
+            "Período de producción:": "de 1992 a 1995",
+            "Cilindrada:": "2972 cm3 / 181.4 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6299/LeBaron"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/6299/w170_Chrysler-LeBaron-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M6299/LeBaron"
+    },
+    {
+      "modelName": "Daytona",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Daytona GS Turbo 2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2213 cm3 (135 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "Chrysler Daytona Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "246.4 cm / 97.01 pulgadas",
+            "Alto:": "132 cm / 51.97 pulgadas",
+            "Potencia:": "177 PS / 175 HP / 130 kW",
+            "Largo:": "459 cm / 180.71 pulgadas",
+            "Ancho:": "173 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1987 a 1990",
+            "Cilindrada:": "2213 cm3 / 135 cu-in",
+            "Peso:": "1345 kg / 2965 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M10441/Daytona"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/10441/w170_Chrysler-Daytona-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M10441/Daytona"
+    },
+    {
+      "modelName": "Pacifica",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Plugin Híbrido": "Pacifica Hybrid Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Pacifica 2nd Gen. (RU) - 2021 Update (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "308.9 cm / 121.61 pulgadas",
+            "Alto:": "177.7 cm / 69.96 pulgadas",
+            "Potencia:": "de 264 PS / 260 HP / 194 kW a 291 PS / 287 HP / 214 kW",
+            "Peso de remolque:": "1633 kg / 3600 lbs",
+            "Largo:": "518.9 cm / 204.29 pulgadas",
+            "Ancho:": "202.2 cm / 79.61 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "3604 cm3 / 219.9 cu-in",
+            "Peso:": "de 2051 kg / 4522 lbs a 2273 kg / 5011 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M13330/Pacifica-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Plugin Híbrido": "Pacifica Hybrid Ficha Tecnica",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 LX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Pacifica 3.6 V6 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "291 hp / 214 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Pacifica 2nd Gen. (RU) - 2017 New Model (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "308.9 cm / 121.61 pulgadas",
+            "Alto:": "177.5 cm / 69.88 pulgadas",
+            "Potencia:": "de 264 PS / 260 HP / 194 kW a 291 PS / 287 HP / 214 kW",
+            "Largo:": "517.6 cm / 203.78 pulgadas",
+            "Ancho:": "202.2 cm / 79.61 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "3604 cm3 / 219.9 cu-in",
+            "Peso:": "de 1964 kg / 4330 lbs a 2262 kg / 4987 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M13327/Pacifica-2017"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/13330/w170_Chrysler-Pacifica-2021-33bf9c7142e909d78a.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-Pacifica"
+    },
+    {
+      "modelName": "Voyager",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Voyager 3rd Generation 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Voyager 3rd Generation 2.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Voyager 3rd Generation 2.4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Voyager 3rd Generation 3.3 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3301 cm3 (201.4 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Voyager 3rd Generation 3.8 V6 AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "166 hp / 122 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 3rd Generation 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Voyager 3rd Generation (1996 - 2000)",
+          "specifications": {
+            "Batalla:": "287.8 cm / 113.31 pulgadas",
+            "Consumos Medio:": "de 8.6 L/100 km / 33 MPG UK / 27 MPG US a 13.6 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "182.0 cm / 71.65 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 166 PS / 164 HP / 122 kW",
+            "Largo:": "473.3 cm / 186.34 pulgadas",
+            "Ancho:": "195.0 cm / 76.77 pulgadas",
+            "Período de producción:": "de 1996 a 2000",
+            "Cilindrada:": "de 1996 cm3 / 121.8 cu-in a 3778 cm3 / 230.5 cu-in",
+            "Peso:": "de 1705 kg / 3759 lbs a 1925 kg / 4244 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler/M13355/Voyager-3rd-Generation"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/96/13355/w170_Chrysler-Voyager-3rd-Gen-d2dc5b349910097127.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Chrysler-models/Chrysler-Voyager"
+    }
+  ],
+  "brandName": "Chrysler"
+}

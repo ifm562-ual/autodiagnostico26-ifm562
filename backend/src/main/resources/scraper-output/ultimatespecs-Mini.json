@@ -1,0 +1,2871 @@
+{
+  "models": [
+    {
+      "modelName": "Mini",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F66 Hatch Cooper C 1.5 DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "F66 Hatch Cooper S DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "F66 Hatch John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Mini F66 / F67 / J01 - 2024 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 6.5 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "143.2 cm / 56.38 pulgadas",
+            "Potencia:": "de 156 PS / 154 HP / 115 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "387.6 cm / 152.6 pulgadas",
+            "Ancho:": "174.4 cm / 68.66 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1335 kg / 2943 lbs a 1405 kg / 3097 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M13802/F66-Hatch"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "J01 Hatch Electric Cooper E 40.7 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "40.7 kWh"
+            },
+            {
+              "Eléctrico": "J01 Hatch Electric Cooper SE 54.2 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "54.2 kWh"
+            },
+            {
+              "Eléctrico": "J01 Hatch Electric John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "54.2 kWh"
+            }
+          ],
+          "actualFinalModelName": "Mini F66 / F67 / J01 - 2024 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "252.6 cm / 99.45 pulgadas",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 184 PS / 181 HP / 135 kW a 258 PS / 254 HP / 190 kW",
+            "Largo:": "385.8 cm / 151.89 pulgadas",
+            "Ancho:": "175.6 cm / 69.13 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "de 1615 kg / 3560 lbs a 1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M13647/J01-Hatch-Electric"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cooper 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Cooper Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Cooper S 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Cooper S (JCW Pack) Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Cooper S Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "One 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "One Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Mini F55 / F56 LCI - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "256.7 cm / 101.06 pulgadas",
+            "Consumos Medio:": "de 5.5 L/100 km / 51 MPG UK / 43 MPG US a 6.2 L/100 km / 46 MPG UK / 38 MPG US",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 178 PS / 176 HP / 131 kW",
+            "Largo:": "402.3 cm / 158.39 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1286 kg / 2835 lbs a 1355 kg / 2987 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M11708/F55-LCI-5-Door"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Mini Cooper SE Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "32.6 kWh"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini One First Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Mini F55 / F56 LCI - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "de 5.4 L/100 km / 52 MPG UK / 44 MPG US a 7 L/100 km / 40 MPG UK / 34 MPG US",
+            "Alto:": "143.2 cm / 56.38 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "385.0 cm / 151.57 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Cilindrada:": "de - cm3 / - cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1226 kg / 2703 lbs a 1440 kg / 3175 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M11643/Mini-F56-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cooper 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Cooper Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Cooper S 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Cooper S Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "One 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "One Auto 5 Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cooper D 5 Door Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cooper D Auto 5 Door Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cooper SD 5 Door Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cooper SD Auto 5 Door Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "One D 5 Door Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Mini F55 / F56 - 2015 New Model (2014 - 2021)",
+          "specifications": {
+            "Batalla:": "256.7 cm / 101.06 pulgadas",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Emisiones de CO2:": "de 92 a 136 g/Km",
+            "Potencia:": "de 95 PS / 94 HP / 70 kW a 192 PS / 189 HP / 141 kW",
+            "Largo:": "398.2 cm / 156.77 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2014 a 2021",
+            "Cilindrada:": "de 1198 cm3 / 73.1 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1220 kg / 2690 lbs a 1325 kg / 2921 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M7480/F55-5-Door"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Mini Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "32.6 kWh"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works GP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Mini One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Mini One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1233 cm3 (75.2 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Mini F55 / F56 - 2015 New Model (2014 - 2021)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "7.3 L/100 km / 39 MPG UK / 32 MPG US",
+            "Alto:": "141.4 cm / 55.67 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 306 PS / 302 HP / 225 kW",
+            "Largo:": "387.4 cm / 152.52 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2014 a 2021",
+            "Cilindrada:": "de - cm3 / - cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1160 kg / 2557 lbs a 1440 kg / 3175 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M7230/Mini-F56"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "174 hp / 128 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1397 cm3 (85.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Mini One 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini One 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini One 98HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini One 98HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini One 98HP Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini One 98HP Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini One Minimalism Line 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini One Minimalism Line 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Aut. Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper D Aut. Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cooper SD Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Mini R56 - 2007 New Model (2006 - 2014)",
+          "specifications": {
+            "Batalla:": "247.0 cm / 97.24 pulgadas",
+            "Consumos Medio:": "3.9 L/100 km / 72 MPG UK / 60 MPG US",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Emisiones de CO2:": "de 104 a 165 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 2006 a 2014",
+            "Cilindrada:": "de 1397 cm3 / 85.3 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1035 kg / 2282 lbs a 1245 kg / 2745 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M267/Mini-R56"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S 170 Auto R53 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S 170 R53 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S GP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper S R53 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Mini One 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Mini One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Mini One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D 75 Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D 75 Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini One D 90 Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Mini R50 / R53 - 2001 New Model (2000 - 2006)",
+          "specifications": {
+            "Batalla:": "246.7 cm / 97.13 pulgadas",
+            "Consumos Medio:": "de 4.8 L/100 km / 59 MPG UK / 49 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "141.6 cm / 55.75 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "362.6 cm / 142.76 pulgadas",
+            "Ancho:": "168.8 cm / 66.46 pulgadas",
+            "Período de producción:": "de 2000 a 2006",
+            "Cilindrada:": "de 1364 cm3 / 83.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1235 kg / 2723 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M266/Mini-R50"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/13647/w170_Mini-Electric-32b2cad4c630f5efcf.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini-models/Mini-Mini"
+    },
+    {
+      "modelName": "Mini Cabrio",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cabrio F67 Cooper C 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio F67 Cooper S 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio F67 John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible F67 - 2025 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "de 6.5 L/100 km / 43 MPG UK / 36 MPG US a 6.8 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "143.1 cm / 56.34 pulgadas",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "387.9 cm / 152.72 pulgadas",
+            "Ancho:": "174.4 cm / 68.66 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1500 kg / 3307 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M14491/Mini-Cabrio-F67"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible F57 LCI - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "de 5.8 L/100 km / 49 MPG UK / 41 MPG US a 7.1 L/100 km / 40 MPG UK / 33 MPG US",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "386.3 cm / 152.09 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1326 kg / 2923 lbs a 1450 kg / 3197 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M11644/Mini-Cabrio-F57-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Mini Cabrio F57 LCI Electric Cooper SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "32.6 kWh"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible F57 LCI - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "184 PS / 181 HP / 135 kW",
+            "Largo:": "387.6 cm / 152.6 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2021 a 2024"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M13340/Mini-Cabrio-F57-LCI-Electric"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible F57 - 2016 New Model (2016 - 2021)",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Emisiones de CO2:": "de 100 a 152 g/Km",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "382.1 cm / 150.43 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "de 2016 a 2021",
+            "Cilindrada:": "de 1198 cm3 / 73.1 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1280 kg / 2822 lbs a 1395 kg / 3075 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M8597/Mini-Cabrio-F57"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Mini Cabrio Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible R57 - 2009 New Model (2009 - 2016)",
+          "specifications": {
+            "Batalla:": "246.7 cm / 97.13 pulgadas",
+            "Alto:": "141.4 cm / 55.67 pulgadas",
+            "Emisiones de CO2:": "de 105 a 169 g/Km",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "372.3 cm / 146.57 pulgadas",
+            "Ancho:": "168.3 cm / 66.26 pulgadas",
+            "Período de producción:": "de 2009 a 2016",
+            "Cilindrada:": "de 1580 cm3 / 96.4 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1235 kg / 2723 lbs a 1340 kg / 2954 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1403/Mini-Cabrio-R57"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Mini Cabrio One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Mini Convertible R52 - 2005 New Model (2004 - 2008)",
+          "specifications": {
+            "Batalla:": "247.0 cm / 97.24 pulgadas",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Emisiones de CO2:": "de 173 a 211 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "366.0 cm / 144.09 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2004 a 2008",
+            "Cilindrada:": "1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1215 kg / 2679 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1133/Mini-Cabrio-R52"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/14491/w170_Mini-Mini-Cabrio-F67-870227117d94e1a5bc.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini-models/Mini-Mini-Cabrio"
+    },
+    {
+      "modelName": "Clubman",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Clubman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Clubman JCW ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman JCW ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman One D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman One D Auto Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Clubman F54 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 4.8 L/100 km / 59 MPG UK / 49 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "144.1 cm / 56.73 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 306 PS / 302 HP / 225 kW",
+            "Peso de remolque:": "de 1100 kg / 2425 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "425.3 cm / 167.44 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "de 1496 cm3 / 91.3 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1381 kg / 3045 lbs a 1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M10579/Clubman-(F54-LCI)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Clubman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S ALL4 Auto 8 Speeds Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Clubman John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Clubman John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD ALL4 Auto 8 Speeds Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman One D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman One D Auto Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Clubman F54 (2015 - 2020)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 4.8 L/100 km / 59 MPG UK / 49 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "144.1 cm / 56.73 pulgadas",
+            "Emisiones de CO2:": "de 99 a 168 g/Km",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "425.3 cm / 167.44 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2015 a 2020",
+            "Cilindrada:": "de 1496 cm3 / 91.3 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1375 kg / 3031 lbs a 1565 kg / 3450 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M8432/Clubman-(F54)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Clubman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Clubman One Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Aut. Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper D Aut. Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman Cooper SD Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Clubman One D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Clubman R55 (2007 - 2014)",
+          "specifications": {
+            "Batalla:": "254.7 cm / 100.28 pulgadas",
+            "Alto:": "142.6 cm / 56.14 pulgadas",
+            "Emisiones de CO2:": "de 103 a 167 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "394.5 cm / 155.31 pulgadas",
+            "Ancho:": "168.3 cm / 66.26 pulgadas",
+            "Período de producción:": "de 2007 a 2014",
+            "Cilindrada:": "de 1560 cm3 / 95.2 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1215 kg / 2679 lbs a 1330 kg / 2932 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1402/Clubman-(R55)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/10579/w170_Mini-Clubman-2020-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini-models/Mini-Clubman"
+    },
+    {
+      "modelName": "Aceman",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Aceman E Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "42.5 kWh"
+            },
+            {
+              "Eléctrico": "Aceman John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "54.2 kWh"
+            },
+            {
+              "Eléctrico": "Aceman SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "54.2 kWh"
+            }
+          ],
+          "actualFinalModelName": "Aceman J05 - 2025 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "260.6 cm / 102.6 pulgadas",
+            "Alto:": "151.4 cm / 59.61 pulgadas",
+            "Potencia:": "de 184 PS / 181 HP / 135 kW a 258 PS / 254 HP / 190 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "407.9 cm / 160.59 pulgadas",
+            "Ancho:": "175.4 cm / 69.06 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "de 1720 kg / 3792 lbs a 1825 kg / 4023 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M14059/Aceman"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/14059/w170_Mini-Aceman-087f0481f34f5939c7.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini-models/Mini-Aceman"
+    },
+    {
+      "modelName": "Paceman",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Paceman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S ALL4 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman Cooper S Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Paceman John Cooper Works ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Paceman John Cooper Works ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman John Cooper Works ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Paceman John Cooper Works ALL4 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D ALL4 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D ALL4 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D ALL4 Automatic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper D Automatic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD ALL4 Automatic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Paceman Cooper SD Automatic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Mini Paceman Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.6 cm / 102.2 pulgadas",
+            "Alto:": "151.8 cm / 59.76 pulgadas",
+            "Emisiones de CO2:": "de 111 a 184 g/Km",
+            "Potencia:": "de 111 PS / 109 HP / 82 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "410.9 cm / 161.77 pulgadas",
+            "Ancho:": "178.6 cm / 70.31 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1495 kg / 3296 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M6372/Paceman"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/6372/w170_Mini-Paceman-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M6372/Paceman"
+    },
+    {
+      "modelName": "Countryman",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Countryman C 1.5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Countryman C 1.5 DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Countryman JCW ALL4 DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Countryman S ALL4 DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman 2.0 D DKG Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "U25 (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "269.2 cm / 105.98 pulgadas",
+            "Consumos Medio:": "de 4.6 L/100 km / 61 MPG UK / 51 MPG US a 7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "166.1 cm / 65.39 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "444.4 cm / 174.96 pulgadas",
+            "Ancho:": "184.3 cm / 72.56 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1735 kg / 3825 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M13651/Countryman-U25"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Countryman Electric E Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2026",
+              "Capacidad de la batería": "66.5 kWh"
+            },
+            {
+              "Eléctrico": "Countryman Electric E 66.5 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "66.5 kWh"
+            },
+            {
+              "Eléctrico": "Countryman Electric SE ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2026",
+              "Capacidad de la batería": "66.5 kWh"
+            },
+            {
+              "Eléctrico": "Countryman Electric SE ALL4 66.5 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "66.5 kWh"
+            }
+          ],
+          "actualFinalModelName": "U25 (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "269.2 cm / 105.98 pulgadas",
+            "Alto:": "163.5 cm / 64.37 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 313 PS / 309 HP / 230 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1200 kg / 2646 lbs",
+            "Largo:": "444.5 cm / 175 pulgadas",
+            "Ancho:": "184.3 cm / 72.56 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "de 1940 kg / 4277 lbs a 2075 kg / 4575 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M13650/Countryman-U25-Electric"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Plugin Híbrido": "Countryman Cooper SE ALL4 Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman JCW ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "F60 LCI (2020 - 2023)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 1.7 L/100 km / 166 MPG UK / 138 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "155.7 cm / 61.3 pulgadas",
+            "Emisiones de CO2:": "de 40 a 173 g/Km",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 306 PS / 302 HP / 225 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "429.7 cm / 169.17 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 2020 a 2023",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1473 kg / 3247 lbs a 1790 kg / 3946 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M10825/Countryman-(F60-LCI)"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "224 hp / 165 kW",
+              "Plugin Híbrido": "Countryman Cooper S E ALL4 Ficha Tecnica",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Countryman John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Countryman John Cooper Works Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman One D Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman One D Auto Ficha Tecnica",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "F60 (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 2.1 L/100 km / 135 MPG UK / 112 MPG US a 4.5 L/100 km / 63 MPG UK / 52 MPG US",
+            "Alto:": "155.7 cm / 61.3 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 231 PS / 228 HP / 170 kW",
+            "Peso de remolque:": "de 1100 kg / 2425 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "429.9 cm / 169.25 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 1496 cm3 / 91.3 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1440 kg / 3175 lbs a 1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M9055/Countryman-(F60)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Countryman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman John Cooper Works ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman John Cooper Works ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD Auto Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman One D Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "R60 (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "259.5 cm / 102.17 pulgadas",
+            "Alto:": "156.1 cm / 61.46 pulgadas",
+            "Emisiones de CO2:": "de 111 a 175 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "409.7 cm / 161.3 pulgadas",
+            "Ancho:": "178.9 cm / 70.43 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1340 kg / 2954 lbs a 1505 kg / 3318 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M7412/Countryman-(R60-LCI)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Countryman Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper ALL4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S ALL4 Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Countryman One Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1580 cm3 (96.4 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D ALL4 Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper D Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD ALL4 Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman Cooper SD Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Countryman One D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "R60 (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "259.5 cm / 102.17 pulgadas",
+            "Consumos Medio:": "de 4.4 L/100 km / 64 MPG UK / 53 MPG US a 6.7 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "156.1 cm / 61.46 pulgadas",
+            "Emisiones de CO2:": "de 115 a 180 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 184 PS / 181 HP / 135 kW",
+            "Largo:": "409.7 cm / 161.3 pulgadas",
+            "Ancho:": "178.9 cm / 70.43 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1560 cm3 / 95.2 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1340 kg / 2954 lbs a 1495 kg / 3296 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1404/Countryman-R60"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/13650/w170_Mini-Countryman-U25-Electric-fd7c9f002ed055dfa0.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini-models/Mini-Countryman"
+    },
+    {
+      "modelName": "Roadster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Roadster Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Roadster Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Roadster Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Roadster Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Roadster John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Roadster Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Roadster Cooper SD Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Mini Roadster Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "246.7 cm / 97.13 pulgadas",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Emisiones de CO2:": "de 118 a 169 g/Km",
+            "Potencia:": "de 122 PS / 120 HP / 90 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "373.4 cm / 147.01 pulgadas",
+            "Ancho:": "168.3 cm / 66.26 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1195 kg / 2635 lbs a 1290 kg / 2844 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M5851/Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/5851/w170_Mini-Roadster-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M5851/Roadster"
+    },
+    {
+      "modelName": "Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Coupe Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Coupe Cooper Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Coupe Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Coupe Cooper S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Coupe John Cooper Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Coupe Cooper SD Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Coupe Cooper SD Aut. Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Mini Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "246.7 cm / 97.13 pulgadas",
+            "Alto:": "138.4 cm / 54.49 pulgadas",
+            "Emisiones de CO2:": "de 114 a 165 g/Km",
+            "Potencia:": "de 122 PS / 120 HP / 90 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "373.4 cm / 147.01 pulgadas",
+            "Ancho:": "168.3 cm / 66.26 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1270 kg / 2800 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M3619/Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/3619/w170_Mini-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M3619/Coupe"
+    },
+    {
+      "modelName": "Mini MkIII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini MkIII 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Mini MkIII Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Mini MkIII Cooper S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Mini Mini MkIII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "204.0 cm / 80.31 pulgadas",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Emisiones de CO2:": "158 g/Km",
+            "Potencia:": "63 PS / 62 HP / 46 kW",
+            "Largo:": "305.0 cm / 120.08 pulgadas",
+            "Ancho:": "141.0 cm / 55.51 pulgadas",
+            "Período de producción:": "de 1997 a 2000",
+            "Cilindrada:": "1275 cm3 / 77.8 cu-in",
+            "Peso:": "670 kg / 1477 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1134/Mini-MkIII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/1134/w170_Mini-Mini-MkIII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M1134/Mini-MkIII"
+    },
+    {
+      "modelName": "ERA",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ERA Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Mini ERA Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "133.1 cm / 52.4 pulgadas",
+            "Potencia:": "95 PS / 94 HP / 70 kW",
+            "Largo:": "305 cm / 120.08 pulgadas",
+            "Ancho:": "156 cm / 61.42 pulgadas",
+            "Período de producción:": "de 1989 a 1991",
+            "Cilindrada:": "1275 cm3 / 77.8 cu-in",
+            "Peso:": "737 kg / 1625 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M10155/ERA"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/55/10155/w170_Mini-ERA-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mini/M10155/ERA"
+    }
+  ],
+  "brandName": "Mini"
+}

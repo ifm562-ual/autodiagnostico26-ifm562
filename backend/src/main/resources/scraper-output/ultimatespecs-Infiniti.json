@@ -1,0 +1,1346 @@
+{
+  "models": [
+    {
+      "modelName": "Q50 2018",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q50 S Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "364 hp / 268 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Q50 S Hybrid AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "364 hp / 268 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Auto Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q50 2018 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Emisiones de CO2:": "de 114 a 159 g/Km",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 364 PS / 359 HP / 268 kW",
+            "Largo:": "479.0 cm / 188.58 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "2018",
+            "Cilindrada:": "de 2143 cm3 / 130.8 cu-in a 3498 cm3 / 213.5 cu-in",
+            "Peso:": "de 1679 kg / 3702 lbs a 1809 kg / 3988 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9669/Q50-2018"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/9669/w170_Infiniti-Q50-2018-78.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9669/Q50-2018"
+    },
+    {
+      "modelName": "Q60 II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q60 2.0t Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Q60 3.0t AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q60 II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Emisiones de CO2:": "de 156 a 210 g/Km",
+            "Potencia:": "de 211 PS / 208 HP / 155 kW a 405 PS / 399 HP / 298 kW",
+            "Largo:": "469.0 cm / 184.65 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "de 1991 cm3 / 121.5 cu-in a 2997 cm3 / 182.9 cu-in",
+            "Peso:": "de 1749 kg / 3856 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9185/Q60-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/9185/w170_Infiniti-Q60-II-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9185/Q60-II"
+    },
+    {
+      "modelName": "QX30",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "QX30 2.0t AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX30 2.2d 7DCT AWD Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Infiniti QX30 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "151.5 cm / 59.65 pulgadas",
+            "Emisiones de CO2:": "de 128 a 155 g/Km",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 211 PS / 208 HP / 155 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "442.5 cm / 174.21 pulgadas",
+            "Ancho:": "181.5 cm / 71.46 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2143 cm3 / 130.8 cu-in",
+            "Peso:": "de 1596 kg / 3519 lbs a 1634 kg / 3602 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9037/QX30"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/9037/w170_Infiniti-QX30-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M9037/QX30"
+    },
+    {
+      "modelName": "Q70 2015",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q70 3.5 Hybrid GT Premium Tech Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "364 hp / 268 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Q70 3.7 GT Sport Tech Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 2.2d GT Premium Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 2.2d GT Sport Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 2.2d GT Sport Tech Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q70 2015 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "149.3 cm / 58.78 pulgadas",
+            "Emisiones de CO2:": "de 129 a 235 g/Km",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 364 PS / 359 HP / 268 kW",
+            "Largo:": "498.0 cm / 196.06 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "2015",
+            "Cilindrada:": "de 2143 cm3 / 130.8 cu-in a 3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1826 kg / 4026 lbs a 1920 kg / 4233 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M8082/Q70-2015"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/8082/w170_Infiniti-Q70-2015-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M8082/Q70-2015"
+    },
+    {
+      "modelName": "Q30",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q30 1.6t 122HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1595 cm3 (97.3 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Q30 1.6t 156HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1595 cm3 (97.3 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Q30 1.6t Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1595 cm3 (97.3 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Q30 2.0t 211HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 1.5d 109HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 1.5d 109HP DCT Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 1.5d Premium Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 1.5d Premium Tech Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 1.5d Sport Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d 170HP AWD DCT Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d 170HP DCT Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d Premium Tech 7DCT Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d Premium Tech 7DCT AWD Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d Sport 7DCT Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q30 2.2d Sport 7DCT AWD Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q30 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 3.9 L/100 km / 72 MPG UK / 60 MPG US a 5.8 L/100 km / 49 MPG UK / 41 MPG US",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Emisiones de CO2:": "de 103 a 134 g/Km",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "442.5 cm / 174.21 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2015",
+            "Cilindrada:": "de 1461 cm3 / 89.2 cu-in a 2143 cm3 / 130.8 cu-in",
+            "Peso:": "de 1407 kg / 3102 lbs a 1598 kg / 3523 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M8241/Q30"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/8241/w170_Infiniti-Q30-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M8241/Q30"
+    },
+    {
+      "modelName": "Q60",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q60 Cabrio GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q60 Coupe GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q60 Coupe S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q60 Coupe S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q60 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "139.1 cm / 54.76 pulgadas",
+            "Emisiones de CO2:": "de 246 a 264 g/Km",
+            "Potencia:": "320 PS / 316 HP / 235 kW",
+            "Largo:": "465.5 cm / 183.27 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2014 a 2016",
+            "Cilindrada:": "3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1793 kg / 3953 lbs a 1973 kg / 4350 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7429/Q60"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/7429/w170_Infiniti-Q60-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7429/Q60"
+    },
+    {
+      "modelName": "QX50",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "QX50 37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX50 37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX50 30d Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX50 30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX50 30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Infiniti QX50 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "157.5 cm / 62.01 pulgadas",
+            "Emisiones de CO2:": "de 224 a 265 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 320 PS / 316 HP / 235 kW",
+            "Largo:": "464.5 cm / 182.87 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "2014",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1951 kg / 4301 lbs a 2060 kg / 4542 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7431/QX50"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/7431/w170_Infiniti-QX50-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7431/QX50"
+    },
+    {
+      "modelName": "Q70",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q70 35h GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "365 hp / 268 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 35h GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "365 hp / 268 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 37 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Q70 37 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d Business Edition Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d S Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q70 30d S Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q70 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "de 159 a 235 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 365 PS / 360 HP / 268 kW",
+            "Largo:": "494.5 cm / 194.69 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "2014",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1790 kg / 3946 lbs a 1920 kg / 4233 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7430/Q70"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/7430/w170_Infiniti-Q70-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7430/Q70"
+    },
+    {
+      "modelName": "QX70",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "QX70 37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX70 37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX70 37 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX70 37 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX70 50 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5026 cm3 (306.7 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "QX70 Vettel Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5026 cm3 (306.7 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX70 30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX70 30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX70 30d S Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX70 30d S Design Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "QX70 30d S Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Infiniti QX70 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "288.5 cm / 113.58 pulgadas",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Emisiones de CO2:": "de 225 a 307 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 420 PS / 414 HP / 309 kW",
+            "Largo:": "486.5 cm / 191.54 pulgadas",
+            "Ancho:": "192.5 cm / 75.79 pulgadas",
+            "Período de producción:": "2014",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 5026 cm3 / 306.7 cu-in",
+            "Peso:": "de 2087 kg / 4601 lbs a 2250 kg / 4960 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7432/QX70"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/7432/w170_Infiniti-QX70-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M7432/QX70"
+    },
+    {
+      "modelName": "Q50",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Q50 2.0 Turbo 211HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Q50 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "328 hp / 241 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Premium Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Premium Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Premium Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Sport Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Sport Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d GT Sport Auto 7 Speeds Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Q50 2.2d Premiere Edition Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Infiniti Q50 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Consumos Medio:": "4.4 L/100 km / 64 MPG UK / 53 MPG US",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 328 PS / 324 HP / 241 kW",
+            "Largo:": "479.0 cm / 188.58 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2013 a 2018",
+            "Cilindrada:": "de 1991 cm3 / 121.5 cu-in a 3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1716 kg / 3783 lbs a 1764 kg / 3889 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M6879/Q50"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/6879/w170_Infiniti-Q50-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M6879/Q50"
+    },
+    {
+      "modelName": "M",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "M 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "M 37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "M 37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "M 37 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "M 37 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "M 30d Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "M 30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "M 30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "M 30d S Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "M 30d S Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Infiniti M Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "de 199 a 235 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 320 PS / 316 HP / 235 kW",
+            "Largo:": "494.5 cm / 194.69 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1790 kg / 3946 lbs a 1920 kg / 4233 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1501/M"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/1501/w170_Infiniti-M-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1501/M"
+    },
+    {
+      "modelName": "FX II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "FX II FX37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "FX II FX37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "FX II FX37 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "FX II FX37 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "FX II FX50 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5026 cm3 (306.7 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "FX II FX30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "FX II FX30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "FX II FX30d S Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "FX II FX30d S Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Infiniti FX II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "289.0 cm / 113.78 pulgadas",
+            "Consumos Medio:": "9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Emisiones de CO2:": "de 238 a 307 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 390 PS / 385 HP / 287 kW",
+            "Largo:": "487.0 cm / 191.73 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 5026 cm3 / 306.7 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1393/FX-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/1393/w170_Infiniti-FX-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1393/FX-II"
+    },
+    {
+      "modelName": "EX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "EX 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "EX 37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "EX 37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "EX 30d Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "EX 30d GT Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "EX 30d GT Premium Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Infiniti EX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Consumos Medio:": "8.5 L/100 km / 33 MPG UK / 28 MPG US",
+            "Alto:": "157.5 cm / 62.01 pulgadas",
+            "Emisiones de CO2:": "de 224 a 265 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 320 PS / 316 HP / 235 kW",
+            "Largo:": "464.5 cm / 182.87 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 3696 cm3 / 225.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1396/EX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/1396/w170_Infiniti-EX-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1396/EX"
+    },
+    {
+      "modelName": "G",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G IV G37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 GT Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 GT Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 S Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 S Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37 S Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37x Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37x GT Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G IV G37x GT Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "G37 (V36) (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Emisiones de CO2:": "de 246 a 255 g/Km",
+            "Potencia:": "320 PS / 316 HP / 235 kW",
+            "Largo:": "477.5 cm / 187.99 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1784 kg / 3933 lbs a 1876 kg / 4136 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1440/G-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G37 Cabrio GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Cabrio GT Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Cabrio GT Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Cabrio GT Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "G37 (V36) (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Emisiones de CO2:": "de 264 a 275 g/Km",
+            "Potencia:": "320 PS / 316 HP / 235 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "185.2 cm / 72.91 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1888 kg / 4162 lbs a 1898 kg / 4184 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M1372/G37-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G37 Coupé 7-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé GT (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé GT Automatic (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé S (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé S Automatic (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "G37 Coupé x AWD 7-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3696 cm3 (225.5 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "G37 (V36) (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "139.2 cm / 54.8 pulgadas",
+            "Potencia:": "de 320 PS / 316 HP / 235 kW a 335 PS / 330 HP / 246 kW",
+            "Largo:": "465.1 cm / 183.11 pulgadas",
+            "Ancho:": "182.4 cm / 71.81 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "3696 cm3 / 225.5 cu-in",
+            "Peso:": "de 1631 kg / 3596 lbs a 1745 kg / 3847 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M4530/G37-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G35 Coupe 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "G35 Coupe 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "302 hp / 222 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "G35 Coupe 3.5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "G35 (V35) (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "285 cm / 112.2 pulgadas",
+            "Alto:": "139.2 cm / 54.8 pulgadas",
+            "Potencia:": "de 284 PS / 280 HP / 209 kW a 302 PS / 298 HP / 222 kW",
+            "Largo:": "462.8 cm / 182.2 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "3498 cm3 / 213.5 cu-in",
+            "Peso:": "de 1549 kg / 3415 lbs a 1558 kg / 3435 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M11900/G35-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "G35 Sedan 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "G35 Sedan 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "302 hp / 222 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "G35 Sedan 3.5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "G35 Sedan 3.5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "G35 (V35) (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "285 cm / 112.2 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Potencia:": "de 264 PS / 260 HP / 194 kW a 302 PS / 298 HP / 222 kW",
+            "Largo:": "473.7 cm / 186.5 pulgadas",
+            "Ancho:": "175.3 cm / 69.02 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "3498 cm3 / 213.5 cu-in",
+            "Peso:": "de 1513 kg / 3336 lbs a 1593 kg / 3512 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti/M11901/G35-Sedan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/89/1372/w170_Infiniti-G37-Cabrio-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Infiniti-models/Infiniti-G"
+    }
+  ],
+  "brandName": "Infiniti"
+}

@@ -6,7 +6,7 @@ public class CloudflareDelay {
 
     public static void waitRandomTime() {
         // Generate a random number between 1 and 10 (seconds)
-        int randomSeconds = ThreadLocalRandom.current().nextInt(1, 11);
+        int randomSeconds = ThreadLocalRandom.current().nextInt(0, 2);
         System.out.println("Waiting for " + randomSeconds + " seconds to avoid Cloudflare 520 error...");
 
         try {

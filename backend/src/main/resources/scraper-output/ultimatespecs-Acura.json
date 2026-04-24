@@ -1,0 +1,3071 @@
+{
+  "models": [
+    {
+      "modelName": "ILX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ILX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "ILX 2.4i A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "ILX - 2019 Facelift (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "141.3 cm / 55.63 pulgadas",
+            "Potencia:": "201 PS / 198 HP / 148 kW",
+            "Largo:": "462.8 cm / 182.2 pulgadas",
+            "Ancho:": "179.4 cm / 70.63 pulgadas",
+            "Período de producción:": "de 2018 a a presente",
+            "Cilindrada:": "2356 cm3 / 143.8 cu-in",
+            "Peso:": "de 1404 kg / 3095 lbs a 1426 kg / 3144 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11503/ILX-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ILX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "ILX 2.4i A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "ILX - 2016 Facelift (2015 - 2018)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "141.2 cm / 55.59 pulgadas",
+            "Potencia:": "201 PS / 198 HP / 148 kW",
+            "Largo:": "462.0 cm / 181.89 pulgadas",
+            "Ancho:": "179.4 cm / 70.63 pulgadas",
+            "Período de producción:": "de 2015 a 2018",
+            "Cilindrada:": "2356 cm3 / 143.8 cu-in",
+            "Peso:": "de 1403 kg / 3093 lbs a 1421 kg / 3133 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11502/ILX-2016"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ILX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "ILX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "ILX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "ILX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "ILX Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1497 cm3 (91.4 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "ILX - 2013 New Model (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "141.2 cm / 55.59 pulgadas",
+            "Potencia:": "de 111 PS / 109 HP / 82 kW a 201 PS / 198 HP / 148 kW",
+            "Largo:": "455.0 cm / 179.13 pulgadas",
+            "Ancho:": "179.4 cm / 70.63 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "de 1497 cm3 / 91.4 cu-in a 2354 cm3 / 143.6 cu-in",
+            "Peso:": "de 1320 kg / 2910 lbs a 1351 kg / 2978 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11501/ILX-2013"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11503/w170_Acura-ILX-2019-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-ILX"
+    },
+    {
+      "modelName": "TLX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "TLX A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "TLX SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "TLX SH-AWD A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "TLX 2 - 2021 New Model (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Alto:": "143.3 cm / 56.42 pulgadas",
+            "Potencia:": "276 PS / 272 HP / 203 kW",
+            "Largo:": "494.3 cm / 194.61 pulgadas",
+            "Ancho:": "191.0 cm / 75.2 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "de 1682 kg / 3708 lbs a 1810 kg / 3990 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11455/TLX-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TLX 2.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "TLX 2.4 A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 SH-AWD A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "TLX 1 (UB1/2) - 2018 Facelift (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "277.6 cm / 109.29 pulgadas",
+            "Alto:": "144.8 cm / 57.01 pulgadas",
+            "Potencia:": "de 209 PS / 206 HP / 154 kW a 294 PS / 290 HP / 216 kW",
+            "Largo:": "486.9 cm / 191.69 pulgadas",
+            "Ancho:": "185.4 cm / 72.99 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 2356 cm3 / 143.8 cu-in a 3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1590 kg / 3505 lbs a 1741 kg / 3838 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11459/TLX-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TLX 2.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "TLX 2.4 GT Package Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2356 cm3 (143.8 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 GT Package Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "TLX V6 SH-AWD GT Package Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "TLX 1 (UB1/2) - 2015 New Model (2014 - 2017)",
+          "specifications": {
+            "Batalla:": "277.6 cm / 109.29 pulgadas",
+            "Alto:": "144.8 cm / 57.01 pulgadas",
+            "Potencia:": "de 209 PS / 206 HP / 154 kW a 294 PS / 290 HP / 216 kW",
+            "Largo:": "483.4 cm / 190.31 pulgadas",
+            "Ancho:": "185.4 cm / 72.99 pulgadas",
+            "Período de producción:": "de 2014 a 2017",
+            "Cilindrada:": "de 2356 cm3 / 143.8 cu-in a 3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1580 kg / 3483 lbs a 1700 kg / 3748 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11458/TLX-2015"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11455/w170_Acura-TLX-2021-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-TLX"
+    },
+    {
+      "modelName": "RLX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Sport Hybrid SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "377 hp / 277 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "RLX (KC1/2) - 2018 Facelift (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Potencia:": "de 310 PS / 306 HP / 228 kW a 382 PS / 377 HP / 281 kW",
+            "Largo:": "503.2 cm / 198.11 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1804 kg / 3977 lbs a 1987 kg / 4381 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11542/RLX-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RLX 3.5 V6 Sport Hybrid SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "377 hp / 277 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "RLX (KC1/2) - 2014 New Model (2013 - 2017)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Potencia:": "de 310 PS / 306 HP / 228 kW a 382 PS / 377 HP / 281 kW",
+            "Largo:": "498.2 cm / 196.14 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2013 a 2017",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1784 kg / 3933 lbs a 1956 kg / 4312 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11541/RLX-2014"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11542/w170_Acura-RLX-2018-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-RLX"
+    },
+    {
+      "modelName": "RDX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RDX 2.0 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.0 SH-AWD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "RDX (TC1/2) - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "275.1 cm / 108.31 pulgadas",
+            "Alto:": "166.9 cm / 65.71 pulgadas",
+            "Potencia:": "276 PS / 272 HP / 203 kW",
+            "Peso de remolque:": "680 kg / 1499 lbs",
+            "Largo:": "476.0 cm / 187.4 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "de 1718 kg / 3788 lbs a 1821 kg / 4015 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M14184/RDX-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RDX 2.0T FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.0T FWD A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.0T PMC Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.0T SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.0T SH-AWD A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "RDX (TC1/2) - 2019 New Model (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "275.1 cm / 108.31 pulgadas",
+            "Alto:": "166.9 cm / 65.71 pulgadas",
+            "Potencia:": "272 PS / 268 HP / 200 kW",
+            "Peso de remolque:": "680 kg / 1499 lbs",
+            "Largo:": "474.4 cm / 186.77 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "de 1716 kg / 3783 lbs a 1837 kg / 4050 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11537/RDX-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "RDX (TB3/4) - 2016 Facelift (2015 - 2018)",
+          "specifications": {
+            "Batalla:": "268.5 cm / 105.71 pulgadas",
+            "Alto:": "165.1 cm / 65 pulgadas",
+            "Potencia:": "279 PS / 275 HP / 205 kW",
+            "Largo:": "468.4 cm / 184.41 pulgadas",
+            "Ancho:": "187.2 cm / 73.7 pulgadas",
+            "Período de producción:": "de 2015 a 2018",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1695 kg / 3737 lbs a 1770 kg / 3902 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11535/RDX-2016"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "273 hp / 201 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "RDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "273 hp / 201 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "RDX (TB3/4) - 2013 New Model (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "268.5 cm / 105.71 pulgadas",
+            "Alto:": "167.8 cm / 66.06 pulgadas",
+            "Potencia:": "273 PS / 269 HP / 201 kW",
+            "Peso de remolque:": "680 kg / 1499 lbs",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "187.2 cm / 73.7 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1686 kg / 3717 lbs a 1741 kg / 3838 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11533/RDX-2013"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RDX 2.3T 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.3T 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.3T SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.3T SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.3T SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "RDX 2.3T SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2300 cm3 (140.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "RDX (TB1/2) - 2007 New Model (2006 - 2012)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Alto:": "165.5 cm / 65.16 pulgadas",
+            "Potencia:": "240 PS / 237 HP / 177 kW",
+            "Peso de remolque:": "680 kg / 1499 lbs",
+            "Largo:": "463.5 cm / 182.48 pulgadas",
+            "Ancho:": "187.0 cm / 73.62 pulgadas",
+            "Período de producción:": "de 2006 a 2012",
+            "Cilindrada:": "2300 cm3 / 140.4 cu-in",
+            "Peso:": "de 1698 kg / 3743 lbs a 1784 kg / 3933 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5513/RDX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/14184/w170_Acura-RDX-2021-530426403b4f19aa52.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-RDX"
+    },
+    {
+      "modelName": "MDX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "MDX (YD4) - 2022 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "289.1 cm / 113.82 pulgadas",
+            "Alto:": "170.4 cm / 67.09 pulgadas",
+            "Potencia:": "290 PS / 286 HP / 213 kW",
+            "Peso de remolque:": "de 1588 kg / 3501 lbs a 2268 kg / 5000 lbs",
+            "Largo:": "503.9 cm / 198.39 pulgadas",
+            "Ancho:": "199.9 cm / 78.7 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "1829 kg / 4032 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11559/MDX-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD A-Spec Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "MDX Hybrid SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "321 hp / 236 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "MDX Hybrid SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "321 hp / 236 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "MDX (YD3) - 2017 Facelift (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "282.0 cm / 111.02 pulgadas",
+            "Alto:": "171.3 cm / 67.44 pulgadas",
+            "Potencia:": "de 257 PS / 254 HP / 189 kW a 321 PS / 317 HP / 236 kW",
+            "Peso de remolque:": "de 1588 kg / 3501 lbs a 2268 kg / 5000 lbs",
+            "Largo:": "498.4 cm / 196.22 pulgadas",
+            "Ancho:": "196.2 cm / 77.24 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1815 kg / 4001 lbs a 2028 kg / 4471 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11522/MDX-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 FWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 SH-AWD Advance Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "MDX (YD3) - 2014 New Model (2013 - 2016)",
+          "specifications": {
+            "Batalla:": "282.0 cm / 111.02 pulgadas",
+            "Alto:": "171.6 cm / 67.56 pulgadas",
+            "Potencia:": "290 PS / 286 HP / 213 kW",
+            "Peso de remolque:": "1588 kg / 3501 lbs",
+            "Largo:": "491.7 cm / 193.58 pulgadas",
+            "Ancho:": "196.2 cm / 77.24 pulgadas",
+            "Período de producción:": "de 2013 a 2016",
+            "Cilindrada:": "3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1796 kg / 3960 lbs a 1930 kg / 4255 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11520/MDX-2014"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.7 V6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "MDX (YD2) - 2007 New Model (2006 - 2013)",
+          "specifications": {
+            "Batalla:": "275.0 cm / 108.27 pulgadas",
+            "Alto:": "172.5 cm / 67.91 pulgadas",
+            "Potencia:": "300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "2268 kg / 5000 lbs",
+            "Largo:": "484.5 cm / 190.75 pulgadas",
+            "Ancho:": "199.5 cm / 78.54 pulgadas",
+            "Período de producción:": "de 2006 a 2013",
+            "Cilindrada:": "3664 cm3 / 223.6 cu-in",
+            "Peso:": "de 2057 kg / 4535 lbs a 2075 kg / 4575 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11519/MDX-2007"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "257 hp / 189 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "MDX 3.5 V6 Touring Pkg Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "257 hp / 189 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "MDX (YD1) - 2001 New Model (2000 - 2006)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "174.4 cm / 68.66 pulgadas",
+            "Potencia:": "de 240 PS / 237 HP / 177 kW a 265 PS / 261 HP / 195 kW",
+            "Largo:": "478.9 cm / 188.54 pulgadas",
+            "Ancho:": "193.8 cm / 76.3 pulgadas",
+            "Período de producción:": "de 2000 a 2006",
+            "Cilindrada:": "3474 cm3 / 212 cu-in",
+            "Peso:": "de 1963 kg / 4328 lbs a 2043 kg / 4504 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3474/MDX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11559/w170_Acura-MDX-2022-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-MDX"
+    },
+    {
+      "modelName": "NSX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "NSX 3.5 V6 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3493 cm3 (213.2 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.5 V6 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3493 cm3 (213.2 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "NSX 2nd Gen (NC1) - 2018 New Model (2016 - Presente)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Alto:": "121.4 cm / 47.8 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "221.7 cm / 87.28 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "3493 cm3 / 213.2 cu-in",
+            "Peso:": "de 1725 kg / 3803 lbs a 1759 kg / 3878 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11530/NSX-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "NSX-T 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "NSX-T 3.2 V6 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3179 cm3 (194 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "NSX 1st Gen (NA2) - 2002 Facelift (2001 - 2005)",
+          "specifications": {
+            "Batalla:": "253.0 cm / 99.61 pulgadas",
+            "Alto:": "117.0 cm / 46.06 pulgadas",
+            "Potencia:": "de 252 PS / 249 HP / 185 kW a 290 PS / 286 HP / 213 kW",
+            "Largo:": "442.5 cm / 174.21 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 2977 cm3 / 181.7 cu-in a 3179 cm3 / 194 cu-in",
+            "Peso:": "1450 kg / 3197 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11529/NSX-T-(NA2)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.2 V6 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3179 cm3 (194 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "NSX 3.2 V6 Alex Zanardi Edition 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3179 cm3 (194 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "NSX 1st Gen (NA1) - 1991 New Model (1990 - 2001)",
+          "specifications": {
+            "Batalla:": "253.0 cm / 99.61 pulgadas",
+            "Alto:": "117.0 cm / 46.06 pulgadas",
+            "Potencia:": "de 252 PS / 249 HP / 185 kW a 290 PS / 286 HP / 213 kW",
+            "Largo:": "440.5 cm / 173.43 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 1990 a 2001",
+            "Cilindrada:": "de 2977 cm3 / 181.7 cu-in a 3179 cm3 / 194 cu-in",
+            "Peso:": "de 1365 kg / 3009 lbs a 1412 kg / 3113 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11525/NSX-(NA1)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "NSX-T 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "NSX-T 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "NSX-T 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2977 cm3 (181.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "NSX-T 3.2 V6 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3179 cm3 (194 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "NSX 1st Gen (NA1) - 1991 New Model (1990 - 2001)",
+          "specifications": {
+            "Batalla:": "253.0 cm / 99.61 pulgadas",
+            "Alto:": "117.0 cm / 46.06 pulgadas",
+            "Potencia:": "de 252 PS / 249 HP / 185 kW a 290 PS / 286 HP / 213 kW",
+            "Largo:": "442.5 cm / 174.21 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 1990 a 2001",
+            "Cilindrada:": "de 2977 cm3 / 181.7 cu-in a 3179 cm3 / 194 cu-in",
+            "Peso:": "de 1425 kg / 3142 lbs a 1455 kg / 3208 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11528/NSX-T-(NA1)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11530/w170_Acura-NSX-2018-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-NSX"
+    },
+    {
+      "modelName": "CL",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "CL 3.2 Type-S 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "CL 3.2 Type-S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "CL 3.2 Type-S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "YA4 (2001 - 2003)",
+          "specifications": {
+            "Batalla:": "271.5 cm / 106.89 pulgadas",
+            "Alto:": "141 cm / 55.51 pulgadas",
+            "Potencia:": "de 228 PS / 225 HP / 168 kW a 264 PS / 260 HP / 194 kW",
+            "Peso de remolque:": "454 kg / 1001 lbs",
+            "Largo:": "487.7 cm / 192.01 pulgadas",
+            "Ancho:": "179.3 cm / 70.59 pulgadas",
+            "Período de producción:": "de 2001 a 2003",
+            "Cilindrada:": "3210 cm3 / 195.9 cu-in",
+            "Peso:": "de 1563 kg / 3446 lbs a 1592 kg / 3510 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3157/CL-(YA4)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CL 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2156 cm3 (131.6 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "CL 2.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2156 cm3 (131.6 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "CL 2.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2254 cm3 (137.5 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "CL 2.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2254 cm3 (137.5 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "CL 2.3 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2254 cm3 (137.5 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "CL 2.3 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2254 cm3 (137.5 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "CL 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "CL 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "CL 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "YA1 (1997 - 1999)",
+          "specifications": {
+            "Batalla:": "271.5 cm / 106.89 pulgadas",
+            "Alto:": "138.9 cm / 54.69 pulgadas",
+            "Potencia:": "de 145 PS / 143 HP / 107 kW a 203 PS / 200 HP / 149 kW",
+            "Largo:": "482.6 cm / 190 pulgadas",
+            "Ancho:": "178.1 cm / 70.12 pulgadas",
+            "Período de producción:": "de 1997 a 1999",
+            "Cilindrada:": "de 2156 cm3 / 131.6 cu-in a 2997 cm3 / 182.9 cu-in",
+            "Peso:": "de 1365 kg / 3009 lbs a 1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5974/CL-(YA1)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/3157/w170_Acura-CL-(YA4)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-CL"
+    },
+    {
+      "modelName": "CSX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CSX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "CSX 2.0i Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Acura CSX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "143.5 cm / 56.5 pulgadas",
+            "Potencia:": "de 157 PS / 155 HP / 115 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "454.4 cm / 178.9 pulgadas",
+            "Ancho:": "175.2 cm / 68.98 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1292 kg / 2848 lbs a 1339 kg / 2952 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11497/CSX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11497/w170_Acura-CSX-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11497/CSX"
+    },
+    {
+      "modelName": "EL",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "EL 1.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "EL 1.7 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1668 cm3 (101.8 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "ES3 (Canada Only) - 2001 New Model (2000 - 2005)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "127 PS / 125 HP / 93 kW",
+            "Largo:": "448.8 cm / 176.69 pulgadas",
+            "Ancho:": "171.5 cm / 67.52 pulgadas",
+            "Período de producción:": "de 2000 a 2005",
+            "Cilindrada:": "1668 cm3 / 101.8 cu-in",
+            "Peso:": "de 1155 kg / 2546 lbs a 1205 kg / 2657 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11499/EL-(ES3)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "EL 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "EL 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "EL 1.6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "EL 1.6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "MB4 (Canada Only) - 1997 New Model (1996 - 2000)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "139.4 cm / 54.88 pulgadas",
+            "Potencia:": "129 PS / 127 HP / 95 kW",
+            "Largo:": "447.8 cm / 176.3 pulgadas",
+            "Ancho:": "170.4 cm / 67.09 pulgadas",
+            "Período de producción:": "de 1996 a 2000",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 1124 kg / 2478 lbs a 1170 kg / 2579 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11498/EL-(MB4)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11499/w170_Acura-EL-(ES3)-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-EL"
+    },
+    {
+      "modelName": "Integra",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i VTEC Type-R (DC2 - Canada) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "198 hp / 146 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Integra Coupe 1.8i VTEC Type-R (DC2) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "195 hp / 143 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Integra 3rd Gen. (DB7 - DC4 - DB8 - DC2) - 1994 New Model (1993 - 2001)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "129.0 cm / 50.79 pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 198 PS / 195 HP / 146 kW",
+            "Largo:": "438.0 cm / 172.44 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1993 a 2001",
+            "Cilindrada:": "de 1797 cm3 / 109.7 cu-in a 1834 cm3 / 111.9 cu-in",
+            "Peso:": "de 1170 kg / 2579 lbs a 1218 kg / 2685 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11509/Integra-1994-Sports-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Integra Sedan 1.8i VTEC GS-R (DB8) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1797 cm3 (109.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Integra 3rd Gen. (DB7 - DC4 - DB8 - DC2) - 1994 New Model (1993 - 2001)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "132.3 cm / 52.09 pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "452.5 cm / 178.15 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1993 a 2001",
+            "Cilindrada:": "de 1797 cm3 / 109.7 cu-in a 1834 cm3 / 111.9 cu-in",
+            "Peso:": "de 1192 kg / 2628 lbs a 1255 kg / 2767 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M1791/Integra-1994-Sports-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra 3-door 1.7i VTEC GS-R (DB2) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1678 cm3 (102.4 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Integra 2nd Gen. (DA9 - DB1 - DB2) - 1990 New Model (1989 - 1993)",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Alto:": "127.0 cm / 50 pulgadas",
+            "Potencia:": "de 132 PS / 130 HP / 97 kW a 162 PS / 160 HP / 119 kW",
+            "Largo:": "439.2 cm / 172.91 pulgadas",
+            "Ancho:": "171.4 cm / 67.48 pulgadas",
+            "Período de producción:": "de 1989 a 1993",
+            "Cilindrada:": "de 1678 cm3 / 102.4 cu-in a 1834 cm3 / 111.9 cu-in",
+            "Peso:": "de 1154 kg / 2544 lbs a 1205 kg / 2657 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11506/Integra-1990-3-door"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Integra 4-door 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Integra 2nd Gen. (DA9 - DB1 - DB2) - 1990 New Model (1989 - 1993)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "134.0 cm / 52.76 pulgadas",
+            "Potencia:": "de 132 PS / 130 HP / 97 kW a 142 PS / 140 HP / 104 kW",
+            "Largo:": "448.4 cm / 176.54 pulgadas",
+            "Ancho:": "171.2 cm / 67.4 pulgadas",
+            "Período de producción:": "de 1989 a 1993",
+            "Cilindrada:": "1834 cm3 / 111.9 cu-in",
+            "Peso:": "de 1170 kg / 2579 lbs a 1209 kg / 2665 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11507/Integra-1990-4-door"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Integra 3-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Integra 1st Gen. (DA1 - DA3) - 1986 New Model (1985 - 1989)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 120 PS / 118 HP / 88 kW",
+            "Largo:": "428.0 cm / 168.5 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 1985 a 1989",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 1068 kg / 2355 lbs a 1085 kg / 2392 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11504/Integra-1986-3-door"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Integra 5-door 1.6i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Integra 1st Gen. (DA1 - DA3) - 1986 New Model (1985 - 1989)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 120 PS / 118 HP / 88 kW",
+            "Largo:": "435.0 cm / 171.26 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 1985 a 1989",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 1087 kg / 2396 lbs a 1112 kg / 2452 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11505/Integra-1986-5-door"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/1791/w170_Acura-Integra-1994-Sports-Sedan-43.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-Integra"
+    },
+    {
+      "modelName": "Legend",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "KA7-KA8 (1991 - 1995)",
+          "specifications": {
+            "Batalla:": "283 cm / 111.42 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "489 cm / 192.52 pulgadas",
+            "Ancho:": "181 cm / 71.26 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "3206 cm3 / 195.6 cu-in",
+            "Peso:": "de 1563 kg / 3446 lbs a 1615 kg / 3560 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M1790/Legend-2-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 GS 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 3.2 V6 GS Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "KA7-KA8 (1991 - 1995)",
+          "specifications": {
+            "Batalla:": "291 cm / 114.57 pulgadas",
+            "Alto:": "140 cm / 55.12 pulgadas",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "495 cm / 194.88 pulgadas",
+            "Ancho:": "181 cm / 71.26 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "3206 cm3 / 195.6 cu-in",
+            "Peso:": "de 1567 kg / 3455 lbs a 1640 kg / 3616 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11516/Legend-2-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "161 hp / 118 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "161 hp / 118 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "161 hp / 118 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "161 hp / 118 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Legend Coupe 2.7i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Legend 1st Gen. (KA1-KA6) - 1986 New Model (1985 - 1990)",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 161 PS / 159 HP / 118 kW",
+            "Largo:": "477.5 cm / 187.99 pulgadas",
+            "Ancho:": "174.5 cm / 68.7 pulgadas",
+            "Período de producción:": "de 1985 a 1990",
+            "Cilindrada:": "2675 cm3 / 163.2 cu-in",
+            "Peso:": "de 1401 kg / 3089 lbs a 1444 kg / 3183 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11515/Legend-1-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legend Sedan 2.5i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "151 hp / 111 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.5i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "153 hp / 113 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.7i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "161 hp / 118 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Legend Sedan 2.7i V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Legend 1st Gen. (KA1-KA6) - 1986 New Model (1985 - 1990)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 151 PS / 149 HP / 111 kW a 163 PS / 161 HP / 120 kW",
+            "Largo:": "481.0 cm / 189.37 pulgadas",
+            "Ancho:": "173.5 cm / 68.31 pulgadas",
+            "Período de producción:": "de 1985 a 1990",
+            "Cilindrada:": "de 2494 cm3 / 152.2 cu-in a 2675 cm3 / 163.2 cu-in",
+            "Peso:": "de 1391 kg / 3067 lbs a 1458 kg / 3214 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11514/Legend-1-Sedan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/1790/w170_Acura-Legend-2-Coupe-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-Legend"
+    },
+    {
+      "modelName": "RL",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RL 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "RL 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "RL 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "RL 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "RL 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "KB1 (2005 - 2012)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "145.2 cm / 57.17 pulgadas",
+            "Potencia:": "de 290 PS / 286 HP / 213 kW a 300 PS / 296 HP / 221 kW",
+            "Largo:": "491.7 cm / 193.58 pulgadas",
+            "Ancho:": "184.7 cm / 72.72 pulgadas",
+            "Período de producción:": "de 2005 a 2012",
+            "Cilindrada:": "de 3471 cm3 / 211.8 cu-in a 3664 cm3 / 223.6 cu-in",
+            "Peso:": "de 1807 kg / 3984 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3122/RL-(KB)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "RL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "RL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3474 cm3 (212 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "KA9 (1996 - 2004)",
+          "specifications": {
+            "Batalla:": "291.0 cm / 114.57 pulgadas",
+            "Alto:": "143.5 cm / 56.5 pulgadas",
+            "Potencia:": "de 213 PS / 210 HP / 157 kW a 228 PS / 225 HP / 168 kW",
+            "Largo:": "495.5 cm / 195.08 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 1996 a 2004",
+            "Cilindrada:": "3474 cm3 / 212 cu-in",
+            "Peso:": "de 1660 kg / 3660 lbs a 1755 kg / 3869 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5973/RL-(KA9)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/3122/w170_Acura-RL-(KB)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-RL"
+    },
+    {
+      "modelName": "RSX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RSX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "RSX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "RSX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "RSX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "RSX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "RSX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "RSX Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "RSX Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "RSX Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Acura RSX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "257 cm / 101.18 pulgadas",
+            "Alto:": "140 cm / 55.12 pulgadas",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 210 PS / 207 HP / 154 kW",
+            "Largo:": "437.4 cm / 172.2 pulgadas",
+            "Ancho:": "172.5 cm / 67.91 pulgadas",
+            "Período de producción:": "de 2001 a 2006",
+            "Cilindrada:": "1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1234 kg / 2721 lbs a 1288 kg / 2840 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3446/RSX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/3446/w170_Acura-RSX-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3446/RSX"
+    },
+    {
+      "modelName": "SLX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SLX 3.2 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3165 cm3 (193.1 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "SLX 3.2 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3165 cm3 (193.1 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "SLX 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3494 cm3 (213.2 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "SLX - 1996 New Model (1995 - 1999)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Alto:": "183.5 cm / 72.24 pulgadas",
+            "Potencia:": "de 192 PS / 189 HP / 141 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "183.5 cm / 72.24 pulgadas",
+            "Período de producción:": "de 1995 a 1999",
+            "Cilindrada:": "de 3165 cm3 / 193.1 cu-in a 3494 cm3 / 213.2 cu-in",
+            "Peso:": "de 1961 kg / 4323 lbs a 2093 kg / 4614 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M4645/SLX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/4645/w170_Acura-SLX-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-SLX"
+    },
+    {
+      "modelName": "TSX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TSX 2.4i 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "TSX 3.5i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "TSX 3.5i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TSX 3.5i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "CU2 (2009 - 2014)",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Alto:": "144 cm / 56.69 pulgadas",
+            "Potencia:": "de 201 PS / 198 HP / 148 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "472.6 cm / 186.06 pulgadas",
+            "Ancho:": "184 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2009 a 2014",
+            "Cilindrada:": "de 2354 cm3 / 143.6 cu-in a 3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1542 kg / 3400 lbs a 1669 kg / 3680 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5972/TSX-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TSX Sport Wagon 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TSX Sport Wagon 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "CU2 (2009 - 2014)",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Alto:": "147 cm / 57.87 pulgadas",
+            "Potencia:": "201 PS / 198 HP / 148 kW",
+            "Largo:": "480.5 cm / 189.17 pulgadas",
+            "Ancho:": "184 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2009 a 2014",
+            "Cilindrada:": "2354 cm3 / 143.6 cu-in",
+            "Peso:": "1633 kg / 3600 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11561/TSX-Sport-Wagon"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TSX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "TSX 2.4i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2354 cm3 (143.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "CL9 (2004 - 2008)",
+          "specifications": {
+            "Batalla:": "267 cm / 105.12 pulgadas",
+            "Alto:": "145.6 cm / 57.32 pulgadas",
+            "Potencia:": "de 203 PS / 200 HP / 149 kW a 208 PS / 205 HP / 153 kW",
+            "Largo:": "465.7 cm / 183.35 pulgadas",
+            "Ancho:": "176.2 cm / 69.37 pulgadas",
+            "Período de producción:": "de 2004 a 2008",
+            "Cilindrada:": "2354 cm3 / 143.6 cu-in",
+            "Peso:": "de 1465 kg / 3230 lbs a 1505 kg / 3318 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3839/TSX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/5972/w170_Acura-TSX-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-TSX"
+    },
+    {
+      "modelName": "TL",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TL 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "TL 3.7 SH-AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "TL 4th Gen. (UA8-UA9) - 2009 New Model (2008 - 2014)",
+          "specifications": {
+            "Batalla:": "277.5 cm / 109.25 pulgadas",
+            "Alto:": "145.2 cm / 57.17 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "496.6 cm / 195.51 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2008 a 2014",
+            "Cilindrada:": "de 3471 cm3 / 211.8 cu-in a 3664 cm3 / 223.6 cu-in",
+            "Peso:": "de 1688 kg / 3721 lbs a 1800 kg / 3968 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M3111/TL-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TL 3.2 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "274 hp / 202 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "274 hp / 202 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "262 hp / 193 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "274 hp / 202 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "274 hp / 202 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "262 hp / 193 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "262 hp / 193 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "262 hp / 193 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Type-S 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Type-S 6-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Type-S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3471 cm3 (211.8 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "TL 3.5 Type-S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "TL 3rd Gen. (UA6-UA7) - 2004 New Model (2003 - 2008)",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "144.1 cm / 56.73 pulgadas",
+            "Potencia:": "de 262 PS / 258 HP / 193 kW a 290 PS / 286 HP / 213 kW",
+            "Largo:": "480.9 cm / 189.33 pulgadas",
+            "Ancho:": "183.5 cm / 72.24 pulgadas",
+            "Período de producción:": "de 2003 a 2008",
+            "Cilindrada:": "de 3210 cm3 / 195.9 cu-in a 3471 cm3 / 211.8 cu-in",
+            "Peso:": "de 1580 kg / 3483 lbs a 1666 kg / 3673 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5925/TL-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TL 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Type S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "TL 2nd Gen. (UA4-UA5) - 1999 New Model (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "274.6 cm / 108.11 pulgadas",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "de 228 PS / 225 HP / 168 kW a 264 PS / 260 HP / 194 kW",
+            "Largo:": "490.0 cm / 192.91 pulgadas",
+            "Ancho:": "178.5 cm / 70.28 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "3210 cm3 / 195.9 cu-in",
+            "Peso:": "de 1563 kg / 3446 lbs a 1614 kg / 3558 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5924/TL-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TL 2.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "TL 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3206 cm3 (195.6 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "TL 1st Gen. (UA1-UA3) - 1996 New Model (1995 - 1998)",
+          "specifications": {
+            "Batalla:": "284 cm / 111.81 pulgadas",
+            "Alto:": "140.5 cm / 55.31 pulgadas",
+            "Potencia:": "de 178 PS / 176 HP / 131 kW a 203 PS / 200 HP / 149 kW",
+            "Largo:": "486.5 cm / 191.54 pulgadas",
+            "Ancho:": "178.5 cm / 70.28 pulgadas",
+            "Período de producción:": "de 1995 a 1998",
+            "Cilindrada:": "de 2451 cm3 / 149.6 cu-in a 3206 cm3 / 195.6 cu-in",
+            "Peso:": "de 1475 kg / 3252 lbs a 1570 kg / 3461 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M5923/TL-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/3111/w170_Acura-TL-IV-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-TL"
+    },
+    {
+      "modelName": "Vigor",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vigor 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Vigor 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Vigor 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Vigor 2.5i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Vigor 2.5i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Vigor 2.5i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "176 hp / 129 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Acura Vigor Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "176 PS / 174 HP / 129 kW",
+            "Largo:": "483.5 cm / 190.35 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1991 a 1994",
+            "Cilindrada:": "2451 cm3 / 149.6 cu-in",
+            "Peso:": "de 1425 kg / 3142 lbs a 1457 kg / 3212 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11556/Vigor"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/11556/w170_Acura-Vigor-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M11556/Vigor"
+    },
+    {
+      "modelName": "ZDX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "ZDX EV A-Spec AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "0 hp / - kW",
+              "Año": "2024",
+              "Capacidad de la batería": "102.00 kWh"
+            },
+            {
+              "Eléctrico": "ZDX EV A-Spec RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "0 hp / - kW",
+              "Año": "2024",
+              "Capacidad de la batería": "102.00 kWh"
+            },
+            {
+              "Eléctrico": "ZDX EV Type-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "0 hp / - kW",
+              "Año": "2024",
+              "Capacidad de la batería": "102.00 kWh"
+            }
+          ],
+          "actualFinalModelName": "ZDX 2nd Gen. - 2024 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "309.4 cm / 121.81 pulgadas",
+            "Alto:": "163.6 cm / 64.41 pulgadas",
+            "Potencia:": "de 363 PS / 358 HP / 267 kW a 506 PS / 499 HP / 372 kW",
+            "Peso de remolque:": "1588 kg / 3501 lbs",
+            "Largo:": "502.2 cm / 197.72 pulgadas",
+            "Ancho:": "195.6 cm / 77.01 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "de 2459 kg / 5421 lbs a 2745 kg / 6052 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M14754/ZDX-EV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZDX 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3664 cm3 (223.6 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "ZDX 1st Gen. (YB1) - 2010 New Model (2009 - 2013)",
+          "specifications": {
+            "Batalla:": "275 cm / 108.27 pulgadas",
+            "Alto:": "159.6 cm / 62.83 pulgadas",
+            "Potencia:": "304 PS / 300 HP / 224 kW",
+            "Peso de remolque:": "680 kg / 1499 lbs",
+            "Largo:": "488.7 cm / 192.4 pulgadas",
+            "Ancho:": "199.3 cm / 78.46 pulgadas",
+            "Período de producción:": "de 2009 a 2013",
+            "Cilindrada:": "3664 cm3 / 223.6 cu-in",
+            "Peso:": "2007 kg / 4425 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Acura/M4870/ZDX-(YB1)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/232/14754/w170_Acura-ZDX-EV-1a3d573c7cb45f5d7c.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Acura-models/Acura-ZDX"
+    }
+  ],
+  "brandName": "Acura"
+}

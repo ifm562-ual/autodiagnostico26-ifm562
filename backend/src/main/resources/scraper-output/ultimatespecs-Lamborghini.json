@@ -1,0 +1,1099 @@
+{
+  "models": [
+    {
+      "modelName": "Temerario",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3995 cm3 (243.8 cu-in)",
+              "Potencia": "920 hp / 677 kW",
+              "Plugin Híbrido": "Temerario Alleggerita e-DCT Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3995 cm3 (243.8 cu-in)",
+              "Potencia": "920 hp / 677 kW",
+              "Plugin Híbrido": "Temerario e-DCT Ficha Tecnica",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Temerario Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265.8 cm / 104.65 pulgadas",
+            "Alto:": "120.1 cm / 47.28 pulgadas",
+            "Potencia:": "de 800 PS / 789 HP / 588 kW a 920 PS / 907 HP / 677 kW",
+            "Largo:": "470.6 cm / 185.28 pulgadas",
+            "Ancho:": "199.6 cm / 78.58 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "de 1740 kg / 3836 lbs a 1765 kg / 3891 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M14524/Temerario"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/14524/w170_Lamborghini-Temerario-5761509bc7152f4e0b.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M14524/Temerario"
+    },
+    {
+      "modelName": "Revuelto",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "1015 hp / 747 kW",
+              "Plugin Híbrido": "Revuelto 6.5 V12 HPEV AWD Ficha Tecnica",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Revuelto Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "277.9 cm / 109.41 pulgadas",
+            "Alto:": "116.0 cm / 45.67 pulgadas",
+            "Potencia:": "de 825 PS / 814 HP / 607 kW a 1015 PS / 1001 HP / 747 kW",
+            "Largo:": "494.7 cm / 194.76 pulgadas",
+            "Ancho:": "203.3 cm / 80.04 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "1847 kg / 4072 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M13392/Revuelto"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/13392/w170_Lamborghini-Revuelto-0b32be5244ac2ee2f3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M13392/Revuelto"
+    },
+    {
+      "modelName": "Urus",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Urus 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "650 hp / 478 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Urus Performante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "666 hp / 490 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Urus S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "666 hp / 490 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Urus (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "300.3 cm / 118.23 pulgadas",
+            "Consumos Medio:": "14.1 L/100 km / 20 MPG UK / 17 MPG US",
+            "Alto:": "163.8 cm / 64.49 pulgadas",
+            "Potencia:": "de 650 PS / 641 HP / 478 kW a 666 PS / 657 HP / 490 kW",
+            "Largo:": "511.2 cm / 201.26 pulgadas",
+            "Ancho:": "201.6 cm / 79.37 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "3996 cm3 / 243.9 cu-in",
+            "Peso:": "de 2150 kg / 4740 lbs a 2200 kg / 4850 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M11461/Urus"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/11461/w170_Lamborghini-Urus-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini-models/Lamborghini-Urus"
+    },
+    {
+      "modelName": "Sian",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sian FKP 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "819 hp / 602 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Sián FKP 37 Mid-engine Hybrid (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "113.3 cm / 44.61 pulgadas",
+            "Potencia:": "de 785 PS / 774 HP / 577 kW a 819 PS / 808 HP / 602 kW",
+            "Largo:": "498.0 cm / 196.06 pulgadas",
+            "Ancho:": "210.1 cm / 82.72 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "6498 cm3 / 396.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M11416/Sian"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sian Roadster FKP 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "819 hp / 602 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Sián FKP 37 Mid-engine Hybrid (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "270 cm / 106.3 pulgadas",
+            "Alto:": "113.3 cm / 44.61 pulgadas",
+            "Potencia:": "de 785 PS / 774 HP / 577 kW a 819 PS / 808 HP / 602 kW",
+            "Largo:": "498 cm / 196.06 pulgadas",
+            "Ancho:": "210.1 cm / 82.72 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "6498 cm3 / 396.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M10873/Sian-Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/10873/w170_Lamborghini-Sián-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini-models/Lamborghini-Sian"
+    },
+    {
+      "modelName": "Huracan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Huracan 5.2 V10 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "640 hp / 471 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Huracan 5.2 V10 RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Huracan Sterrato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Huracan STO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "639 hp / 470 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Huracan Evo - 2019 Update (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Consumos Medio:": "332 L/100 km / 1 MPG UK / 1 MPG US",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Potencia:": "de 610 PS / 602 HP / 449 kW a 640 PS / 631 HP / 471 kW",
+            "Largo:": "445.9 cm / 175.55 pulgadas",
+            "Ancho:": "192.4 cm / 75.75 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1468 kg / 3236 lbs a 1551 kg / 3419 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M12644/Huracan-Evo"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Huracan Evo Spyder 5.2 V10 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "640 hp / 471 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Huracan Evo Spyder 5.2 V10 RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Huracan Evo - 2019 Update (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Potencia:": "de 610 PS / 602 HP / 449 kW a 640 PS / 631 HP / 471 kW",
+            "Largo:": "445.9 cm / 175.55 pulgadas",
+            "Ancho:": "192.4 cm / 75.75 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1638 kg / 3611 lbs a 1671 kg / 3684 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M12713/Huracan-Evo-Spyder"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Huracan Tecnica 5.2 V10 LDF Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "640 hp / 471 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Huracan Evo - 2019 Update (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Consumos Medio:": "14.5 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Potencia:": "640 PS / 631 HP / 471 kW",
+            "Largo:": "456.7 cm / 179.8 pulgadas",
+            "Ancho:": "193.3 cm / 76.1 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1379 kg / 3040 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M13613/Huracan-Tecnica"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Huracan LP 580-2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Huracan LP 610-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Huracan LP610-4 Avio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Huracan Performante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "640 hp / 471 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Huracan - 2015 New Model (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Emisiones de CO2:": "de 278 a 314 g/Km",
+            "Potencia:": "de 580 PS / 572 HP / 427 kW a 640 PS / 631 HP / 471 kW",
+            "Largo:": "445.9 cm / 175.55 pulgadas",
+            "Ancho:": "192.4 cm / 75.75 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1382 kg / 3047 lbs a 1551 kg / 3419 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M7175/Huracan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Huracan Spyder LP 580-2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Huracan Spyder LP 610-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Huracan - 2015 New Model (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Emisiones de CO2:": "de 283 a 290 g/Km",
+            "Potencia:": "de 580 PS / 572 HP / 427 kW a 610 PS / 602 HP / 449 kW",
+            "Largo:": "445.9 cm / 175.55 pulgadas",
+            "Ancho:": "192.4 cm / 75.75 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1509 kg / 3327 lbs a 1551 kg / 3419 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M12712/Huracan-Spyder"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/12644/w170_Lamborghini-Huracan-Evo-78.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini-models/Lamborghini-Huracan"
+    },
+    {
+      "modelName": "Aventador",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Aventador LP 700-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "700 hp / 515 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Aventador LP 720-4 50 Anniversario Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "721 hp / 530 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Aventador LP 750-4 SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "750 hp / 552 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Aventador S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "740 hp / 544 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Aventador SVJ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "770 hp / 566 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Aventador (LB834) - 2012 New Model (2011 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "113.6 cm / 44.72 pulgadas",
+            "Potencia:": "de 700 PS / 690 HP / 515 kW a 770 PS / 760 HP / 566 kW",
+            "Largo:": "478.0 cm / 188.19 pulgadas",
+            "Ancho:": "203.0 cm / 79.92 pulgadas",
+            "Período de producción:": "de 2011 a a presente",
+            "Cilindrada:": "6498 cm3 / 396.5 cu-in",
+            "Peso:": "de 1525 kg / 3362 lbs a 1745 kg / 3847 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M3581/Aventador"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Aventador Roadster LP 700-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "700 hp / 515 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Aventador Roadster LP 720-4 50 Anniversario Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "721 hp / 530 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Aventador Roadster LP 750-4 SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "750 hp / 552 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Aventador Roadster S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "740 hp / 544 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Aventador Roadster SVJ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "770 hp / 566 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Aventador (LB834) - 2012 New Model (2011 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "113.6 cm / 44.72 pulgadas",
+            "Potencia:": "de 700 PS / 690 HP / 515 kW a 770 PS / 760 HP / 566 kW",
+            "Largo:": "478.0 cm / 188.19 pulgadas",
+            "Ancho:": "203.0 cm / 79.92 pulgadas",
+            "Período de producción:": "de 2013 a a presente",
+            "Cilindrada:": "6498 cm3 / 396.5 cu-in",
+            "Peso:": "de 1708 kg / 3765 lbs a 1795 kg / 3957 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M12714/Aventador-Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/3581/w170_Lamborghini-Aventador-162.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini-models/Lamborghini-Aventador"
+    },
+    {
+      "modelName": "Veneno",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Veneno Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "751 hp / 552 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Veneno Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6498 cm3 (396.5 cu-in)",
+              "Potencia": "750 hp / 552 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Veneno Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Emisiones de CO2:": "250 g/Km",
+            "Potencia:": "de 750 PS / 740 HP / 552 kW a 751 PS / 741 HP / 552 kW",
+            "Largo:": "478.0 cm / 188.19 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2013",
+            "Cilindrada:": "6498 cm3 / 396.5 cu-in",
+            "Peso:": "1450 kg / 3197 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M6497/Veneno"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/6497/w170_Lamborghini-Veneno-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M6497/Veneno"
+    },
+    {
+      "modelName": "Reventon",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Reventon 6.5 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6496 cm3 (396.4 cu-in)",
+              "Potencia": "659 hp / 485 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Reventon 6.5 V12 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6496 cm3 (396.4 cu-in)",
+              "Potencia": "670 hp / 493 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Reventon Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.5 cm / 104.92 pulgadas",
+            "Alto:": "113.5 cm / 44.69 pulgadas",
+            "Emisiones de CO2:": "495 g/Km",
+            "Potencia:": "de 659 PS / 650 HP / 485 kW a 670 PS / 661 HP / 493 kW",
+            "Largo:": "470 cm / 185.04 pulgadas",
+            "Ancho:": "205.8 cm / 81.02 pulgadas",
+            "Período de producción:": "2007",
+            "Cilindrada:": "6496 cm3 / 396.4 cu-in",
+            "Peso:": "de 1665 kg / 3671 lbs a 1690 kg / 3726 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4567/Reventon"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/4567/w170_Lamborghini-Reventon-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4567/Reventon"
+    },
+    {
+      "modelName": "Gallardo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Gallardo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4961 cm3 (302.7 cu-in)",
+              "Potencia": "00 hp / - kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Gallardo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4961 cm3 (302.7 cu-in)",
+              "Potencia": "519 hp / 382 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP550-2 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP550-2 Coupe e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP550-2 Valentino Balboni Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP550-2 Valentino Balboni e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Bicolore Coupe e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Coupe e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Spyder Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Spyder Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Spyder e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP560-4 Spyder e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP570-4 Spyder Performante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP570-4 Spyder Performante e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP570-4 Superleggera Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Gallardo LP570-4 Superleggera e-gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Gallardo SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4961 cm3 (302.7 cu-in)",
+              "Potencia": "520 hp / 382 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Gallardo Spyder Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4961 cm3 (302.7 cu-in)",
+              "Potencia": "519 hp / 382 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Gallardo Superleggera Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4961 cm3 (302.7 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Gallardo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "256.0 cm / 100.79 pulgadas",
+            "Consumos Medio:": "de 13.3 L/100 km / 21 MPG UK / 18 MPG US a 19.5 L/100 km / 14 MPG UK / 12 MPG US",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Potencia:": "de - PS / - HP / - kW a 570 PS / 562 HP / 419 kW",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2003 a 2006",
+            "Cilindrada:": "de 4961 cm3 / 302.7 cu-in a 5204 cm3 / 317.6 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M448/Gallardo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lamborghini/448/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M448/Gallardo"
+    },
+    {
+      "modelName": "Murcielago",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Murcielago Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6192 cm3 (377.9 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Murcielago LP640 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6496 cm3 (396.4 cu-in)",
+              "Potencia": "640 hp / 471 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Murcielago Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6192 cm3 (377.9 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Murcielago Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.5 cm / 104.92 pulgadas",
+            "Consumos Medio:": "21.5 L/100 km / 13 MPG UK / 11 MPG US",
+            "Alto:": "113.5 cm / 44.69 pulgadas",
+            "Potencia:": "de 580 PS / 572 HP / 427 kW a 640 PS / 631 HP / 471 kW",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "204.5 cm / 80.51 pulgadas",
+            "Período de producción:": "2001",
+            "Cilindrada:": "de 6192 cm3 / 377.9 cu-in a 6496 cm3 / 396.4 cu-in",
+            "Peso:": "de 1650 kg / 3638 lbs a 1665 kg / 3671 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M449/Murcielago"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lamborghini/449/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M449/Murcielago"
+    },
+    {
+      "modelName": "Diablo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Diablo 30 Special Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5703 cm3 (348 cu-in)",
+              "Potencia": "525 hp / 386 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Diablo 5.7 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Diablo 6.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5992 cm3 (365.7 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Diablo Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Diablo Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Diablo SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Diablo SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Diablo VT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5707 cm3 (348.3 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Diablo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Consumos Medio:": "de 19.1 L/100 km / 15 MPG UK / 12 MPG US a 24.9 L/100 km / 11 MPG UK / 9 MPG US",
+            "Alto:": "110.0 cm / 43.31 pulgadas",
+            "Potencia:": "de 525 PS / 518 HP / 386 kW a 550 PS / 543 HP / 405 kW",
+            "Largo:": "451.0 cm / 177.56 pulgadas",
+            "Ancho:": "204.0 cm / 80.31 pulgadas",
+            "Período de producción:": "de 1990 a 2001",
+            "Cilindrada:": "de 5703 cm3 / 348 cu-in a 5992 cm3 / 365.7 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1625 kg / 3583 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M594/Diablo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/594/w170_Lamborghini-Diablo-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M594/Diablo"
+    },
+    {
+      "modelName": "LM",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LM 002/5000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4754 cm3 (290.1 cu-in)",
+              "Potencia": "332 hp / 244 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "LM 004/7000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7257 cm3 (442.8 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini LM Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "300 cm / 118.11 pulgadas",
+            "Alto:": "185 cm / 72.83 pulgadas",
+            "Potencia:": "de 332 PS / 327 HP / 244 kW a 420 PS / 414 HP / 309 kW",
+            "Largo:": "490 cm / 192.91 pulgadas",
+            "Ancho:": "200 cm / 78.74 pulgadas",
+            "Período de producción:": "de 1982 a 1986",
+            "Cilindrada:": "de 4754 cm3 / 290.1 cu-in a 7257 cm3 / 442.8 cu-in",
+            "Peso:": "2600 kg / 5732 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M161/LM"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lamborghini/161/w170_default2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M161/LM"
+    },
+    {
+      "modelName": "Countach",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Countach LP 500 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4754 cm3 (290.1 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Countach LP400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1974"
+            },
+            {
+              "Motores de Gasolina": "Countach LP400S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "Countach LP5000S QV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5167 cm3 (315.3 cu-in)",
+              "Potencia": "455 hp / 335 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Countach Prototype Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4971 cm3 (303.3 cu-in)",
+              "Potencia": "446 hp / 328 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Countach Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245 cm / 96.46 pulgadas",
+            "Alto:": "107 cm / 42.13 pulgadas",
+            "Potencia:": "de 375 PS / 370 HP / 276 kW a 455 PS / 449 HP / 335 kW",
+            "Largo:": "414 cm / 162.99 pulgadas",
+            "Ancho:": "200 cm / 78.74 pulgadas",
+            "Período de producción:": "de 1971 a 1986",
+            "Cilindrada:": "de 3929 cm3 / 239.8 cu-in a 5167 cm3 / 315.3 cu-in",
+            "Peso:": "de 1130 kg / 2491 lbs a 1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M160/Countach"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lamborghini/160/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M160/Countach"
+    },
+    {
+      "modelName": "Jalpa",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Jalpa 3500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3483 cm3 (212.5 cu-in)",
+              "Potencia": "255 hp / 188 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Jalpa Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245 cm / 96.46 pulgadas",
+            "Alto:": "114 cm / 44.88 pulgadas",
+            "Potencia:": "255 PS / 252 HP / 188 kW",
+            "Largo:": "433 cm / 170.47 pulgadas",
+            "Ancho:": "188 cm / 74.02 pulgadas",
+            "Período de producción:": "de 1981 a 1989",
+            "Cilindrada:": "3483 cm3 / 212.5 cu-in",
+            "Peso:": "1510 kg / 3329 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M159/Jalpa"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lamborghini/159/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M159/Jalpa"
+    },
+    {
+      "modelName": "Urraco",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Urraco P111 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2463 cm3 (150.3 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Urraco P200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1974"
+            },
+            {
+              "Motores de Gasolina": "Urraco P250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2463 cm3 (150.3 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "1970"
+            },
+            {
+              "Motores de Gasolina": "Urraco P300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2996 cm3 (182.8 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1974"
+            },
+            {
+              "Motores de Gasolina": "Urraco Silhouette Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2996 cm3 (182.8 cu-in)",
+              "Potencia": "274 hp / 202 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "Urraco Silhouette Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2996 cm3 (182.8 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1979"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Urraco Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245 cm / 96.46 pulgadas",
+            "Alto:": "116 cm / 45.67 pulgadas",
+            "Potencia:": "de 180 PS / 178 HP / 132 kW a 274 PS / 270 HP / 202 kW",
+            "Largo:": "444 cm / 174.8 pulgadas",
+            "Ancho:": "174 cm / 68.5 pulgadas",
+            "Período de producción:": "1970",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2996 cm3 / 182.8 cu-in",
+            "Peso:": "de 1100 kg / 2425 lbs a 1300 kg / 2866 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4853/Urraco"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/4853/w170_Lamborghini-Urraco-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4853/Urraco"
+    },
+    {
+      "modelName": "Espada",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Espada S I Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Espada S II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "Espada S III Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "1972"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Espada Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265 cm / 104.33 pulgadas",
+            "Alto:": "119.1 cm / 46.89 pulgadas",
+            "Potencia:": "de 330 PS / 326 HP / 243 kW a 355 PS / 350 HP / 261 kW",
+            "Largo:": "467.4 cm / 184.02 pulgadas",
+            "Ancho:": "182.1 cm / 71.69 pulgadas",
+            "Período de producción:": "1968",
+            "Cilindrada:": "3929 cm3 / 239.8 cu-in",
+            "Peso:": "de 1480 kg / 3263 lbs a 1700 kg / 3748 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4851/Espada"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/4851/w170_Lamborghini-Espada-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4851/Espada"
+    },
+    {
+      "modelName": "Miura",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Miura P400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "1967"
+            },
+            {
+              "Motores de Gasolina": "Miura P400S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Miura P400SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3929 cm3 (239.8 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Lamborghini Miura Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250 cm / 98.43 pulgadas",
+            "Alto:": "106.7 cm / 42.01 pulgadas",
+            "Potencia:": "de 355 PS / 350 HP / 261 kW a 390 PS / 385 HP / 287 kW",
+            "Largo:": "436 cm / 171.65 pulgadas",
+            "Ancho:": "176 cm / 69.29 pulgadas",
+            "Período de producción:": "1967",
+            "Cilindrada:": "3929 cm3 / 239.8 cu-in",
+            "Peso:": "de 1293 kg / 2851 lbs a 1298 kg / 2862 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4852/Miura"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/40/4852/w170_Lamborghini-Miura-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lamborghini/M4852/Miura"
+    }
+  ],
+  "brandName": "Lamborghini"
+}

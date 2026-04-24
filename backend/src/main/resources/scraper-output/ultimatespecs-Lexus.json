@@ -1,0 +1,2971 @@
+{
+  "models": [
+    {
+      "modelName": "IS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "IS 350 F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "IS (XE30) - 2021 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "143.5 cm / 56.5 pulgadas",
+            "Potencia:": "de 244 PS / 241 HP / 179 kW a 315 PS / 311 HP / 232 kW",
+            "Largo:": "471.0 cm / 185.43 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1685 kg / 3715 lbs a 1760 kg / 3880 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M11436/IS-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 200t Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 200t Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 200t F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 200t F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300 F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 300h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "IS 350 F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "IS 350 F-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "IS (XE30) - 2017 Facelift (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 315 PS / 311 HP / 232 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "468.0 cm / 184.25 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1595 kg / 3516 lbs a 1713 kg / 3777 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10178/IS-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 200t Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "IS 250 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "IS 250 F SPORT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "IS 300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "IS 300h ECO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "IS 300h ECO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "IS 300h F SPORT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "IS 300h Sport Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "IS 350 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "IS 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "IS (XE30) - 2014 New Model (2013 - 2016)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 310 PS / 306 HP / 228 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "466.5 cm / 183.66 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2013 a 2016",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1555 kg / 3428 lbs a 1735 kg / 3825 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7008/IS-(XE30)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Luxury Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Luxury Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Premium Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "IS 250 President Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "IS 250 President Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Sport Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "IS 250 Sport Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "IS F President Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "423 hp / 311 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 200d Premium Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Luxury (cambio 2.4) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Luxury (final gear 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Luxury (ratio 2.4) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Luxury (ratio 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Premium (cambio 2.4) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Premium (final gear 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Premium (ratio 2.4) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Premium (ratio 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d President (final gear 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d President (ratio 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Sport (final gear 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "IS 220d Sport (ratio 2.9) Ficha Tecnica",
+              "Cilindrada": "2231 cm3 (136.1 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "IS (XE2) (2005 - 2013)",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Consumos Medio:": "de 5.6 L/100 km / 50 MPG UK / 42 MPG US a 9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Emisiones de CO2:": "de 134 a 270 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 423 PS / 417 HP / 311 kW",
+            "Largo:": "458.5 cm / 180.51 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2005 a 2013",
+            "Cilindrada:": "de 2231 cm3 / 136.1 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1570 kg / 3461 lbs a 1775 kg / 3913 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M412/IS-(II)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 250C Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "IS (XE2) (2005 - 2013)",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Emisiones de CO2:": "213 g/Km",
+            "Potencia:": "208 PS / 205 HP / 153 kW",
+            "Largo:": "463.5 cm / 182.48 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2005 a 2013",
+            "Cilindrada:": "2500 cm3 / 152.6 cu-in",
+            "Peso:": "1805 kg / 3979 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10706/IS-Convertible"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS 200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1988 cm3 (121.3 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "IS 200 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1988 cm3 (121.3 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "IS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "IS (XE1) (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 214 PS / 211 HP / 157 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1988 cm3 / 121.3 cu-in a 2997 cm3 / 182.9 cu-in",
+            "Peso:": "de 1355 kg / 2987 lbs a 1475 kg / 3252 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1215/IS-I"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "IS SportCross 200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1988 cm3 (121.3 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "IS SportCross 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "IS (XE1) (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Emisiones de CO2:": "de 233 a 265 g/Km",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 214 PS / 211 HP / 157 kW",
+            "Largo:": "450.0 cm / 177.17 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1988 cm3 / 121.3 cu-in a 2997 cm3 / 182.9 cu-in",
+            "Peso:": "de 1405 kg / 3097 lbs a 1515 kg / 3340 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1216/IS-I-SportCross"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/11436/w170_Lexus-IS-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-IS"
+    },
+    {
+      "modelName": "ES",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ES 250 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "206 hp / 152 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "ES 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "ES 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "ES 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "ES 7 (XZ10) - 2022 Update (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "de 5.1 L/100 km / 55 MPG UK / 46 MPG US a 5.5 L/100 km / 51 MPG UK / 43 MPG US",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 178 PS / 176 HP / 131 kW a 306 PS / 302 HP / 225 kW",
+            "Largo:": "497.5 cm / 195.87 pulgadas",
+            "Ancho:": "186.5 cm / 73.43 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 2487 cm3 / 151.8 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1674 kg / 3691 lbs a 1762 kg / 3885 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12023/ES-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ES 250 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "206 hp / 152 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "ES 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "ES 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "ES 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "ES 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "ES 7 (XZ10) - 2019 New Model (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "287 cm / 112.99 pulgadas",
+            "Consumos Medio:": "5.5 L/100 km / 51 MPG UK / 43 MPG US",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 178 PS / 176 HP / 131 kW a 306 PS / 302 HP / 225 kW",
+            "Largo:": "497.6 cm / 195.91 pulgadas",
+            "Ancho:": "186.4 cm / 73.39 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "de 2487 cm3 / 151.8 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1655 kg / 3649 lbs a 1762 kg / 3885 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10177/ES"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/12023/w170_Lexus-ES-2022-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-ES"
+    },
+    {
+      "modelName": "GS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GS 300h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Eco Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "GS 450h F SPORT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "GS F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "GS 4 - 2016 Facelift (2015 - 2020)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Consumos Medio:": "4.7 L/100 km / 60 MPG UK / 50 MPG US",
+            "Alto:": "145.5 cm / 57.28 pulgadas",
+            "Emisiones de CO2:": "de 109 a 260 g/Km",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 477 PS / 471 HP / 351 kW",
+            "Largo:": "488.0 cm / 192.13 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2015 a 2020",
+            "Cilindrada:": "de 2494 cm3 / 152.2 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1830 kg / 4034 lbs a 1920 kg / 4233 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M8516/GS-2016"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GS 250 Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 250 F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 250 Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Eco Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Hybrid Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Hybrid ECO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Hybrid Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "GS 300h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "343 hp / 252 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS 450h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "343 hp / 252 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Hybrid Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "343 hp / 252 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Hybrid Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "343 hp / 252 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "343 hp / 252 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "GS GS F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "GS 4 - 2012 New Model (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Consumos Medio:": "6.2 L/100 km / 46 MPG UK / 38 MPG US",
+            "Alto:": "145.5 cm / 57.28 pulgadas",
+            "Emisiones de CO2:": "de 109 a 251 g/Km",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 477 PS / 471 HP / 351 kW",
+            "Largo:": "485.0 cm / 190.94 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "de 2494 cm3 / 152.2 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1720 kg / 3792 lbs a 1895 kg / 4178 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1494/GS-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "GS 300 Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "GS 300 Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "GS 300 President Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "GS 430 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "283 hp / 208 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "GS 450h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "GS 460 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "GS 3 (S190) (2005 - 2011)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Emisiones de CO2:": "de 186 a 269 g/Km",
+            "Potencia:": "de 249 PS / 246 HP / 183 kW a 347 PS / 342 HP / 255 kW",
+            "Largo:": "483.5 cm / 190.35 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2005 a 2011",
+            "Cilindrada:": "de 2995 cm3 / 182.8 cu-in a 4608 cm3 / 281.2 cu-in",
+            "Peso:": "de 1595 kg / 3516 lbs a 1865 kg / 4112 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M413/GS-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "GS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "GS 430 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "283 hp / 208 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "GS 2 (S160) (1997 - 2005)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Emisiones de CO2:": "de 272 a 296 g/Km",
+            "Potencia:": "de 219 PS / 216 HP / 161 kW a 283 PS / 279 HP / 208 kW",
+            "Largo:": "480.0 cm / 188.98 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1997 a 2005",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 4293 cm3 / 262 cu-in",
+            "Peso:": "de 1640 kg / 3616 lbs a 1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1214/GS-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GS 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "212 hp / 156 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "GS 1 (S140) (1991 - 1997)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "10.4 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "212 PS / 209 HP / 156 kW",
+            "Largo:": "496.0 cm / 195.28 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1991 a 1997",
+            "Cilindrada:": "2997 cm3 / 182.9 cu-in",
+            "Peso:": "1675 kg / 3693 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1213/GS-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/8516/w170_Lexus-GS-2016-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-GS"
+    },
+    {
+      "modelName": "LS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 500h AWD Executive Line Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "LS 500h AWD F Sport Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "LS 500h AWD Luxury Line Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "LS 500h AWD President Line Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "LS 500h F Sport Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "LS 500h Luxury Line Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "LS (USF50 / XF50) - 2021 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "312.5 cm / 123.03 pulgadas",
+            "Consumos Medio:": "de 8 L/100 km / 35 MPG UK / 29 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 359 PS / 354 HP / 264 kW",
+            "Largo:": "523.5 cm / 206.1 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 2293 kg / 5055 lbs a 2483 kg / 5474 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M11651/LS-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 500 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3445 cm3 (210.2 cu-in)",
+              "Potencia": "418 hp / 307 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "LS 500 AWD F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3445 cm3 (210.2 cu-in)",
+              "Potencia": "418 hp / 307 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "LS 500h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "LS 500h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "LS 500h AWD F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "LS 500h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "LS (USF50) - 2018 New Model (2018 - 2020)",
+          "specifications": {
+            "Batalla:": "312.5 cm / 123.03 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Emisiones de CO2:": "de 147 a 223 g/Km",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 418 PS / 412 HP / 307 kW",
+            "Largo:": "523.5 cm / 206.1 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2018 a 2020",
+            "Cilindrada:": "de 3445 cm3 / 210.2 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 2245 kg / 4949 lbs a 2418 kg / 5331 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M9674/LS-(XF50)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 460 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Ambassador Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Ambassador AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Executive AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Luxury AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 Premium AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 President Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 460 President AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4608 cm3 (281.2 cu-in)",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "LS 600h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "445 hp / 327 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "LS 600h Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "445 hp / 327 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "LS 600h Long Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "445 hp / 327 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "LS (USF40/USF41/UVF45/UVF6) (2006 - 2018)",
+          "specifications": {
+            "Batalla:": "297.0 cm / 116.93 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Emisiones de CO2:": "de 199 a 274 g/Km",
+            "Potencia:": "de 367 PS / 362 HP / 270 kW a 445 PS / 439 HP / 327 kW",
+            "Largo:": "509.0 cm / 200.39 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "de 2006 a 2018",
+            "Cilindrada:": "de 4608 cm3 / 281.2 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1945 kg / 4288 lbs a 2160 kg / 4762 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M414/LS-(USF40)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 430 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "281 hp / 207 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "LS 430 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "282 hp / 207 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "LS (UCF30/UCF31) (2000 - 2006)",
+          "specifications": {
+            "Batalla:": "292.0 cm / 114.96 pulgadas",
+            "Consumos Medio:": "12.1 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Potencia:": "de 281 PS / 277 HP / 207 kW a 282 PS / 278 HP / 207 kW",
+            "Largo:": "500.0 cm / 196.85 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 2000 a 2006",
+            "Cilindrada:": "4293 cm3 / 262 cu-in",
+            "Peso:": "de 1815 kg / 4001 lbs a 1830 kg / 4034 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1219/LS-(USF30)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "LS 400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "LS (UCF20/UCF21) (1994 - 2000)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Consumos Medio:": "10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "de 264 PS / 260 HP / 194 kW a 284 PS / 280 HP / 209 kW",
+            "Largo:": "500.0 cm / 196.85 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 1994 a 2000",
+            "Cilindrada:": "3969 cm3 / 242.2 cu-in",
+            "Peso:": "de 1670 kg / 3682 lbs a 1755 kg / 3869 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1218/LS-(USF20)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LS 400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "LS (UCF10/UCF11) (1989 - 1994)",
+          "specifications": {
+            "Batalla:": "281.4 cm / 110.79 pulgadas",
+            "Consumos Medio:": "11 L/100 km / 26 MPG UK / 21 MPG US",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "245 PS / 242 HP / 180 kW",
+            "Largo:": "499.4 cm / 196.61 pulgadas",
+            "Ancho:": "181.9 cm / 71.61 pulgadas",
+            "Período de producción:": "de 1989 a 1994",
+            "Cilindrada:": "3969 cm3 / 242.2 cu-in",
+            "Peso:": "1764 kg / 3889 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1217/LS-(USF10)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/11651/w170_Lexus-LS-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-LS"
+    },
+    {
+      "modelName": "LBX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LBX 1.5 Hybrid e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "LBX 1.5 Hybrid e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "LBX 1.5 Hybrid E-Four e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "LBX 1.5 Hybrid E-Four e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Lexus LBX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "258.0 cm / 101.57 pulgadas",
+            "Consumos Medio:": "de 4.5 L/100 km / 63 MPG UK / 52 MPG US a 4.8 L/100 km / 59 MPG UK / 49 MPG US",
+            "Alto:": "156.0 cm / 61.42 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 136 PS / 134 HP / 100 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "419.0 cm / 164.96 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "de 2024 a 2025",
+            "Cilindrada:": "1490 cm3 / 90.9 cu-in",
+            "Peso:": "de 1280 kg / 2822 lbs a 1365 kg / 3009 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13569/LBX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/13569/w170_Lexus-LBX-ded792774435cce46f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13569/LBX"
+    },
+    {
+      "modelName": "UX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "UX 300e Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "54.3 kWh"
+            },
+            {
+              "Eléctrico": "UX 300e Electric 72.8 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "72.8 kWh"
+            },
+            {
+              "Motores de Gasolina": "UX 200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "171 hp / 126 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "UX 200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "173 hp / 127 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "UX 250h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "UX 250h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "UX 300h (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "199 hp / 146 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "UX 300h (U.S.A) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "199 hp / 146 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "UX 300h E-Four AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1987 cm3 (121.3 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Lexus UX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Consumos Medio:": "de 5 L/100 km / 56 MPG UK / 47 MPG US a 6.6 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "154.5 cm / 60.83 pulgadas",
+            "Potencia:": "de 152 PS / 150 HP / 112 kW a 204 PS / 201 HP / 150 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "449.5 cm / 176.97 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2019 a 2023",
+            "Cilindrada:": "de - cm3 / - cu-in a 1987 cm3 / 121.3 cu-in",
+            "Peso:": "de 1460 kg / 3219 lbs a 1925 kg / 4244 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10595/UX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/10595/w170_Lexus-UX-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10595/UX"
+    },
+    {
+      "modelName": "NX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "NX 450h+ 4WD Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "NX 450h+ E-FOUR Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "NX 450h+ E-FOUR Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "NX 350h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "242 hp / 178 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "NX 350h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "NX 350h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "NX 350h 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "NX 350h E-FOUR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "NX 350h E-FOUR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "NX (AZ20) - 2022 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Consumos Medio:": "de 0.9 L/100 km / 314 MPG UK / 261 MPG US a 6 L/100 km / 47 MPG UK / 39 MPG US",
+            "Alto:": "166.0 cm / 65.35 pulgadas",
+            "Potencia:": "de 185 PS / 182 HP / 136 kW a 309 PS / 305 HP / 227 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "186.5 cm / 73.43 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "2487 cm3 / 151.8 cu-in",
+            "Peso:": "de 1805 kg / 3979 lbs a 2101 kg / 4632 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M11832/NX-(AZ20)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "NX 300h 4x2 Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "NX 300h 4x4 Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "NX 300h 4x4 Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "NX 300h 4x4 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "NX 300h AWD Edition 30 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "NX 300h AWD Executive Line Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "NX 300h AWD F Sport Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "NX 300h AWD Sport Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "NX 300h Edition 30 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "NX 300h Sport Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "NX (AZ10) - 2015 New Model (2014 - 2021)",
+          "specifications": {
+            "Batalla:": "266.0 cm / 104.72 pulgadas",
+            "Consumos Medio:": "de 5.1 L/100 km / 55 MPG UK / 46 MPG US a 5.4 L/100 km / 52 MPG UK / 44 MPG US",
+            "Alto:": "164.5 cm / 64.76 pulgadas",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 211 PS / 208 HP / 155 kW",
+            "Peso de remolque:": "de 650 kg / 1433 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "463.0 cm / 182.28 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "de 2014 a 2021",
+            "Cilindrada:": "2494 cm3 / 152.2 cu-in",
+            "Peso:": "de 1806 kg / 3982 lbs a 1871 kg / 4125 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7491/NX-(AZ10)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/11832/w170_Lexus-NX-(AZ20)-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-NX"
+    },
+    {
+      "modelName": "RX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "RX 450h+ Plug-in Hybrid AWD e-CVT Ficha Tecnica",
+              "Año": "2022"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "RX 450h+ Plug-in Hybrid AWD e-CVT Ficha Tecnica",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "RX 350 AWD ECT-i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "RX 350 ECT-i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "RX 350h AWD CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "RX 350h Hybrid AWD e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "RX 500h AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "371 hp / 273 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "RX 5th Gen. (AL30) - 2022 New Model (2022 - Presente)",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Consumos Medio:": "de 1.1 L/100 km / 257 MPG UK / 214 MPG US a 9.8 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "169.5 cm / 66.73 pulgadas",
+            "Potencia:": "de 185 PS / 182 HP / 136 kW a 371 PS / 366 HP / 273 kW",
+            "Peso de remolque:": "de 1585 kg / 3494 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "489.0 cm / 192.52 pulgadas",
+            "Ancho:": "192.0 cm / 75.59 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "de 2393 cm3 / 146 cu-in a 2487 cm3 / 151.8 cu-in",
+            "Peso:": "de 1885 kg / 4156 lbs a 2185 kg / 4817 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13717/RX-(AL30)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RX 350 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RX 450h AWD EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RX 450h AWD US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "308 hp / 227 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "RX 4th Gen. (AL20) - 2020 Facelift (2019 - 2022)",
+          "specifications": {
+            "Batalla:": "279.0 cm / 109.84 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Potencia:": "de 263 PS / 259 HP / 193 kW a 313 PS / 309 HP / 230 kW",
+            "Peso de remolque:": "de 1587 kg / 3499 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "489.0 cm / 192.52 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2019 a 2022",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1915 kg / 4222 lbs a 2197 kg / 4844 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12184/RX-(AL20-2020)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX L 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RX L 350 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RX L 450h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "312 hp / 229 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "RX 4th Gen. (AL20) - 2020 Facelift (2019 - 2022)",
+          "specifications": {
+            "Batalla:": "279.0 cm / 109.84 pulgadas",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "de 263 PS / 259 HP / 193 kW a 312 PS / 308 HP / 229 kW",
+            "Largo:": "500.0 cm / 196.85 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2019 a 2022",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 2025 kg / 4464 lbs a 2297 kg / 5064 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12185/RX-L-(AL20-2020)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX 200t AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RX 200t FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RX 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RX 350 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RX 450h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "308 hp / 227 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "RX 4th Gen. (AL20) - 2016 New Model (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "278.9 cm / 109.8 pulgadas",
+            "Consumos Medio:": "5.3 L/100 km / 53 MPG UK / 44 MPG US",
+            "Alto:": "172 cm / 67.72 pulgadas",
+            "Emisiones de CO2:": "de 120 a 184 g/Km",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 308 PS / 304 HP / 227 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "489 cm / 192.52 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1915 kg / 4222 lbs a 2080 kg / 4586 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M8447/RX-(AL20)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX L 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RX L 350 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RX L 450h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "312 hp / 229 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "RX 4th Gen. (AL20) - 2016 New Model (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "279.0 cm / 109.84 pulgadas",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "de 263 PS / 259 HP / 193 kW a 312 PS / 308 HP / 229 kW",
+            "Largo:": "500.0 cm / 196.85 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 2025 kg / 4464 lbs a 2297 kg / 5064 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12183/RX-L-(AL20)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX 450h 25 Anniversary Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "RX 450h Corporate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "RX 450h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "RX 450h Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "RX 3rd Gen. (AL10) - 2013 Facelift (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "169.0 cm / 66.54 pulgadas",
+            "Emisiones de CO2:": "145 g/Km",
+            "Potencia:": "de 249 PS / 246 HP / 183 kW a 299 PS / 295 HP / 220 kW",
+            "Largo:": "477.0 cm / 187.8 pulgadas",
+            "Ancho:": "188.5 cm / 74.21 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "2185 kg / 4817 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7703/RX-3-Restyling"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "RX 350 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "RX 400h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3311 cm3 (202 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "RX 2nd Gen. (XU30) - 2004 New Model (2003 - 2008)",
+          "specifications": {
+            "Batalla:": "271.5 cm / 106.89 pulgadas",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Emisiones de CO2:": "de 192 a 288 g/Km",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 276 PS / 272 HP / 203 kW",
+            "Largo:": "475.5 cm / 187.2 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "de 2003 a 2008",
+            "Cilindrada:": "de 2995 cm3 / 182.8 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1810 kg / 3990 lbs a 1975 kg / 4354 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M416/RX-(II)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RX 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "RX 1st Gen. (XU10) - 1999 New Model (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "166.0 cm / 65.35 pulgadas",
+            "Emisiones de CO2:": "311 g/Km",
+            "Potencia:": "201 PS / 198 HP / 148 kW",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "2995 cm3 / 182.8 cu-in",
+            "Peso:": "1765 kg / 3891 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1220/RX-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/13717/w170_Lexus-RX-(AL30)-b1c45d2bf1ccf78c09.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-RX"
+    },
+    {
+      "modelName": "RZ",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "RZ 300e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "72.80 kWh"
+            },
+            {
+              "Eléctrico": "RZ 450e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "71.4 kWh"
+            }
+          ],
+          "actualFinalModelName": "Lexus RZ Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "163.5 cm / 64.37 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 313 PS / 309 HP / 230 kW",
+            "Largo:": "480.5 cm / 189.17 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "de 1965 kg / 4332 lbs a 2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13285/RZ"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/13285/w170_Lexus-RZ-bd026e82b9b5e5600a.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13285/RZ"
+    },
+    {
+      "modelName": "RC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RC 300 (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC 300 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC 350 (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "316 hp / 232 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC 350 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "316 hp / 232 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "464 hp / 341 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "RC F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "464 hp / 341 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "RC F (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "479 hp / 352 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "RC (XC10) - 2019 Facelift (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Consumos Medio:": "de 11.3 L/100 km / 25 MPG UK / 21 MPG US a 11.8 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 479 PS / 472 HP / 352 kW",
+            "Largo:": "469.5 cm / 184.84 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2018 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1695 kg / 3737 lbs a 1808 kg / 3986 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10213/RC-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RC 200t Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "RC 200t (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RC 300 (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "244 hp / 179 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "RC 300 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RC 300 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "RC 300h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RC 300h F Black Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC 300h F Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "RC 350 (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "RC 350 (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "316 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "RC 350 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "RC 350 AWD (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "316 hp / 232 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "RC F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "464 hp / 341 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "RC F (U.S.A.) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "474 hp / 349 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "RC F Carbon Package Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "RC F Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "RC (XC10) - New Model (2014 - 2019)",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Consumos Medio:": "5 L/100 km / 56 MPG UK / 47 MPG US",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Potencia:": "de 181 PS / 179 HP / 133 kW a 477 PS / 471 HP / 351 kW",
+            "Largo:": "469.5 cm / 184.84 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2014 a 2019",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1630 kg / 3594 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7082/RC"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/10213/w170_Lexus-RC-2019-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-RC"
+    },
+    {
+      "modelName": "LC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LC 500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "473 hp / 348 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "LC 500 Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "LC 500 Sport+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "LC 500h Sport+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "359 hp / 264 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "LC (XZ100) - 2018 New Model (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Emisiones de CO2:": "de 150 a 263 g/Km",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 477 PS / 471 HP / 351 kW",
+            "Largo:": "477.0 cm / 187.8 pulgadas",
+            "Ancho:": "192.0 cm / 75.59 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "de 3456 cm3 / 210.9 cu-in a 4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 1910 kg / 4211 lbs a 1980 kg / 4365 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M8591/LC"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LC 500 (Europe) Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "464 hp / 341 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "LC 500 (North America) Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4969 cm3 (303.2 cu-in)",
+              "Potencia": "477 hp / 351 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "LC (XZ100) - 2018 New Model (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Emisiones de CO2:": "de 275 a 288 g/Km",
+            "Potencia:": "de 464 PS / 458 HP / 341 kW a 477 PS / 471 HP / 351 kW",
+            "Largo:": "477.0 cm / 187.8 pulgadas",
+            "Ancho:": "192.0 cm / 75.59 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "4969 cm3 / 303.2 cu-in",
+            "Peso:": "de 2059 kg / 4539 lbs a 2138 kg / 4713 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M10899/LC-Convertible"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/8591/w170_Lexus-LC-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-LC"
+    },
+    {
+      "modelName": "CT200H",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CT200H Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "CT200H ECO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "CT200H Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "CT200H F SPORT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "CT200H Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "CT200H Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "CT200H Sport Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Lexus CT200H Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Emisiones de CO2:": "de 82 a 94 g/Km",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "432.0 cm / 170.08 pulgadas",
+            "Ancho:": "176.5 cm / 69.49 pulgadas",
+            "Período de producción:": "2013",
+            "Cilindrada:": "1798 cm3 / 109.7 cu-in",
+            "Peso:": "de 1345 kg / 2965 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7109/CT200H"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/7109/w170_Lexus-CT200H-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M7109/CT200H"
+    },
+    {
+      "modelName": "SC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SC 430 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "SC (Z40) 2nd Gen. - 2006 Facelift (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Emisiones de CO2:": "269 g/Km",
+            "Potencia:": "286 PS / 282 HP / 210 kW",
+            "Largo:": "453.5 cm / 178.54 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "4293 cm3 / 262 cu-in",
+            "Peso:": "1815 kg / 4001 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M415/SC-2006"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SC 430 (Europe) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "SC 430 (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4293 cm3 (262 cu-in)",
+              "Potencia": "304 hp / 224 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "SC (Z40) 2nd Gen. - 2001 New Model (2001 - 2005)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Emisiones de CO2:": "287 g/Km",
+            "Potencia:": "de 286 PS / 282 HP / 210 kW a 304 PS / 300 HP / 224 kW",
+            "Largo:": "451.5 cm / 177.76 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "4293 cm3 / 262 cu-in",
+            "Peso:": "de 1740 kg / 3836 lbs a 1742 kg / 3840 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12174/SC-2001"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "SC (Z30) 1st Gen. - 1996 Facelift (1995 - 2000)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Alto:": "133.6 cm / 52.6 pulgadas",
+            "Potencia:": "de 228 PS / 225 HP / 168 kW a 294 PS / 290 HP / 216 kW",
+            "Largo:": "485.5 cm / 191.14 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1995 a 2000",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 3969 cm3 / 242.2 cu-in",
+            "Peso:": "de 1605 kg / 3538 lbs a 1658 kg / 3655 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12173/SC-1996"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "SC 300 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "SC 300 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "253 hp / 186 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "253 hp / 186 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "253 hp / 186 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "SC 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3969 cm3 (242.2 cu-in)",
+              "Potencia": "253 hp / 186 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "SC (Z30) 1st Gen. - 1992 New Model (1991 - 1995)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Alto:": "133.0 cm / 52.36 pulgadas",
+            "Potencia:": "de 228 PS / 225 HP / 168 kW a 253 PS / 250 HP / 186 kW",
+            "Largo:": "485.5 cm / 191.14 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 3969 cm3 / 242.2 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1695 kg / 3737 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M12172/SC-1992"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lexus/415/w170_default2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-SC"
+    },
+    {
+      "modelName": "HS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "HS 250h Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2362 cm3 (144.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Lexus HS Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270 cm / 106.3 pulgadas",
+            "Alto:": "150.6 cm / 59.29 pulgadas",
+            "Potencia:": "150 PS / 148 HP / 110 kW",
+            "Largo:": "469.4 cm / 184.8 pulgadas",
+            "Ancho:": "178.6 cm / 70.31 pulgadas",
+            "Período de producción:": "2011",
+            "Cilindrada:": "2362 cm3 / 144.1 cu-in",
+            "Peso:": "1670 kg / 3682 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M5632/HS"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/5632/w170_Lexus-HS-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M5632/HS"
+    },
+    {
+      "modelName": "LFA",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LFA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4805 cm3 (293.2 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Lexus LFA Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260.5 cm / 102.56 pulgadas",
+            "Alto:": "122.0 cm / 48.03 pulgadas",
+            "Potencia:": "560 PS / 552 HP / 412 kW",
+            "Largo:": "450.5 cm / 177.36 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "4805 cm3 / 293.2 cu-in",
+            "Peso:": "1555 kg / 3428 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1386/LFA"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/1386/w170_Lexus-LFA-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M1386/LFA"
+    },
+    {
+      "modelName": "LM",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "LM 350h Executive E-FOUR 6+1-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "206 hp / 152 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "LM 350h Hybrid E-Four e-CVT 4 Seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "LM 350h Hybrid E-Four e-CVT 7 Seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "LM 350h Luxury E-FOUR 4-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "206 hp / 152 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "LM 500h Hybrid Direct4 4 Seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "371 hp / 273 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "LM 500h Hybrid Direct4 6 Seat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "371 hp / 273 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "LM (AW10) 2nd Generation (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "194.0 cm / 76.38 pulgadas",
+            "Potencia:": "de 147 PS / 145 HP / 108 kW a 371 PS / 366 HP / 273 kW",
+            "Largo:": "512.5 cm / 201.77 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "de 2393 cm3 / 146 cu-in a 2487 cm3 / 151.8 cu-in",
+            "Peso:": "de 2345 kg / 5170 lbs a 2460 kg / 5423 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M13692/LM-2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/13692/w170_Lexus-LM-2-d34b4fd997fa457982.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus-models/Lexus-LM"
+    },
+    {
+      "modelName": "TX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TX 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "TX 350 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "TX 350 FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "TX 500h AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "371 hp / 273 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "TX 550h+ AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Lexus TX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "295.0 cm / 116.14 pulgadas",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Potencia:": "de 279 PS / 275 HP / 205 kW a 409 PS / 403 HP / 301 kW",
+            "Peso de remolque:": "2268 kg / 5000 lbs",
+            "Largo:": "516.0 cm / 203.15 pulgadas",
+            "Ancho:": "199.0 cm / 78.35 pulgadas",
+            "Período de producción:": "de 2023 a 2024",
+            "Cilindrada:": "de 2393 cm3 / 146 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1995 kg / 4398 lbs a 2430 kg / 5357 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M14695/TX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/14695/w170_Lexus-TX-030614cafb3f77c680.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M14695/TX"
+    },
+    {
+      "modelName": "GX (J250)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GX 550 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3445 cm3 (210.2 cu-in)",
+              "Potencia": "354 hp / 260 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Lexus GX (J250) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "285.0 cm / 112.2 pulgadas",
+            "Alto:": "191.5 cm / 75.39 pulgadas",
+            "Potencia:": "354 PS / 349 HP / 260 kW",
+            "Peso de remolque:": "3638 kg / 8020 lbs",
+            "Largo:": "500.5 cm / 197.05 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "2023",
+            "Cilindrada:": "3445 cm3 / 210.2 cu-in",
+            "Peso:": "2524 kg / 5564 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M14762/GX-(J250)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/62/14762/w170_Lexus-GX-(J250)-4a54c31d412caa1367.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lexus/M14762/GX-(J250)"
+    }
+  ],
+  "brandName": "Lexus"
+}

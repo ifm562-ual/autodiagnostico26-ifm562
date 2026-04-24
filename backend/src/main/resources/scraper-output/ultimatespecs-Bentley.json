@@ -1,0 +1,1282 @@
+{
+  "models": [
+    {
+      "modelName": "Continental GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Plugin Híbrido": "Continental GT Coupé Azure Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "782 hp / 575 kW",
+              "Plugin Híbrido": "Continental GT Coupé Speed Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "782 hp / 575 kW",
+              "Plugin Híbrido": "Continental GT Coupé Speed Mulliner Ficha Tecnica",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Continental GT - Gen. 4 (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "285.1 cm / 112.24 pulgadas",
+            "Consumos Medio:": "10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "139.7 cm / 55 pulgadas",
+            "Potencia:": "de 519 PS / 512 HP / 382 kW a 782 PS / 771 HP / 575 kW",
+            "Largo:": "489.5 cm / 192.72 pulgadas",
+            "Ancho:": "196.6 cm / 77.4 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "2459 kg / 5421 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M14187/Continental-GT-CoupÃ©-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GT 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Continental GT W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5950 cm3 (363.1 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Continental GT - Gen. 3 (2018 - 2024)",
+          "specifications": {
+            "Batalla:": "285.1 cm / 112.24 pulgadas",
+            "Alto:": "140.5 cm / 55.31 pulgadas",
+            "Potencia:": "de 550 PS / 543 HP / 405 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "485.0 cm / 190.94 pulgadas",
+            "Ancho:": "196.6 cm / 77.4 pulgadas",
+            "Período de producción:": "de 2018 a 2024",
+            "Cilindrada:": "de 3996 cm3 / 243.9 cu-in a 5950 cm3 / 363.1 cu-in",
+            "Peso:": "de 2198 kg / 4846 lbs a 2277 kg / 5020 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M10051/Continental-GT-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GT GT3-R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "579 hp / 426 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Continental GT V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4000 cm3 (244.1 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Continental GT V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "529 hp / 389 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Otros": "Continental GT Speed W12 Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Otros": "Continental GT W12 Ficha Tecnica",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Continental GT - Gen. 2 (2011 - 2018)",
+          "specifications": {
+            "Batalla:": "274.6 cm / 108.11 pulgadas",
+            "Alto:": "139.4 cm / 54.88 pulgadas",
+            "Emisiones de CO2:": "de 246 a 338 g/Km",
+            "Potencia:": "de 507 PS / 500 HP / 373 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "480.6 cm / 189.21 pulgadas",
+            "Ancho:": "194.4 cm / 76.54 pulgadas",
+            "Período de producción:": "de 2011 a 2018",
+            "Cilindrada:": "de 3993 cm3 / 243.7 cu-in a 5998 cm3 / 366 cu-in",
+            "Peso:": "de 2270 kg / 5004 lbs a 2395 kg / 5280 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M1491/Continental-GT-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GT Supersports Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "710 hp / 522 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Continental GT V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Continental GT V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "529 hp / 389 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Continental GT W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "590 hp / 434 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Continental GT - Gen. 2 (2011 - 2018)",
+          "specifications": {
+            "Batalla:": "274.6 cm / 108.11 pulgadas",
+            "Alto:": "139.4 cm / 54.88 pulgadas",
+            "Emisiones de CO2:": "de 246 a 358 g/Km",
+            "Potencia:": "de 507 PS / 500 HP / 373 kW a 710 PS / 700 HP / 522 kW",
+            "Largo:": "480.6 cm / 189.21 pulgadas",
+            "Ancho:": "194.4 cm / 76.54 pulgadas",
+            "Período de producción:": "de 2011 a 2018",
+            "Cilindrada:": "de 3993 cm3 / 243.7 cu-in a 5998 cm3 / 366 cu-in",
+            "Peso:": "de 2280 kg / 5027 lbs a 2395 kg / 5280 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M7939/Continental-GT-2-(Facelift-2015)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Continental GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Continental GT Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Otros": "Continental GT Supersports Ficha Tecnica",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Otros": "Continental GT W12 Ficha Tecnica",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Continental GT - Gen. 1 (2003 - 2011)",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Emisiones de CO2:": "de 384 a 410 g/Km",
+            "Potencia:": "de 560 PS / 552 HP / 412 kW a 630 PS / 621 HP / 463 kW",
+            "Largo:": "480.4 cm / 189.13 pulgadas",
+            "Ancho:": "196.5 cm / 77.36 pulgadas",
+            "Período de producción:": "de 2003 a 2011",
+            "Cilindrada:": "5998 cm3 / 366 cu-in",
+            "Peso:": "de 2240 kg / 4938 lbs a 2460 kg / 5423 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M222/Continental-GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/14187/w170_Bentley-Continental-GT-Coupé-2024-d2a13bdd0aa1a8d244.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley-models/Bentley-Continental-GT"
+    },
+    {
+      "modelName": "Continental GTC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Plugin Híbrido": "Continental GTC Azure Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "782 hp / 575 kW",
+              "Plugin Híbrido": "Continental GTC Speed Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "782 hp / 575 kW",
+              "Plugin Híbrido": "Continental GTC Speed Mulliner Ficha Tecnica",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Continental GTC - Gen. 4 (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "284.8 cm / 112.13 pulgadas",
+            "Consumos Medio:": "10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "139.2 cm / 54.8 pulgadas",
+            "Potencia:": "de 519 PS / 512 HP / 382 kW a 782 PS / 771 HP / 575 kW",
+            "Largo:": "489.5 cm / 192.72 pulgadas",
+            "Ancho:": "196.6 cm / 77.4 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "2636 kg / 5811 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M14186/Continental-GTC-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GTC 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC 6.0 W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5950 cm3 (363.1 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Continental GTC - Gen. 3 (2019 - 2024)",
+          "specifications": {
+            "Batalla:": "285.1 cm / 112.24 pulgadas",
+            "Alto:": "140.5 cm / 55.31 pulgadas",
+            "Potencia:": "de 550 PS / 543 HP / 405 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "485.0 cm / 190.94 pulgadas",
+            "Ancho:": "196.6 cm / 77.4 pulgadas",
+            "Período de producción:": "de 2019 a 2024",
+            "Cilindrada:": "de 3996 cm3 / 243.9 cu-in a 5950 cm3 / 363.1 cu-in",
+            "Peso:": "de 2368 kg / 5221 lbs a 2447 kg / 5395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M11024/Continental-GTC-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GTC V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4000 cm3 (244.1 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "529 hp / 389 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "625 hp / 460 kW",
+              "Otros": "Continental GTC Speed W12 Ficha Tecnica",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Otros": "Continental GTC Speed W12 Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Otros": "Continental GTC W12 Ficha Tecnica",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Continental GTC - Gen. 2 (2011 - 2018)",
+          "specifications": {
+            "Batalla:": "274.6 cm / 108.11 pulgadas",
+            "Alto:": "140.3 cm / 55.24 pulgadas",
+            "Emisiones de CO2:": "de 254 a 384 g/Km",
+            "Potencia:": "de 507 PS / 500 HP / 373 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "480.6 cm / 189.21 pulgadas",
+            "Ancho:": "194.3 cm / 76.5 pulgadas",
+            "Período de producción:": "de 2011 a 2018",
+            "Cilindrada:": "de 3993 cm3 / 243.7 cu-in a 5998 cm3 / 366 cu-in",
+            "Peso:": "de 2495 kg / 5501 lbs a 2570 kg / 5666 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M4846/Continental-GTC-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GTC Supersports Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "710 hp / 522 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "529 hp / 389 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC W12 Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Continental GTC - Gen. 2 (2011 - 2018)",
+          "specifications": {
+            "Batalla:": "274.6 cm / 108.11 pulgadas",
+            "Alto:": "139.3 cm / 54.84 pulgadas",
+            "Emisiones de CO2:": "de 254 a 362 g/Km",
+            "Potencia:": "de 507 PS / 500 HP / 373 kW a 710 PS / 700 HP / 522 kW",
+            "Largo:": "480.6 cm / 189.21 pulgadas",
+            "Ancho:": "194.4 cm / 76.54 pulgadas",
+            "Período de producción:": "de 2011 a 2018",
+            "Cilindrada:": "de 3993 cm3 / 243.7 cu-in a 5998 cm3 / 366 cu-in",
+            "Peso:": "de 2395 kg / 5280 lbs a 2545 kg / 5611 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M8533/Continental-GTC-II-(Facelift-2015)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental GTC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Continental GTC Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "611 hp / 449 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Otros": "Continental GTC Supersports Ficha Tecnica",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Otros": "Continental GTC Supersports ISR Ficha Tecnica",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Continental GTC - Gen.1 (2006 - 2011)",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Alto:": "139.8 cm / 55.04 pulgadas",
+            "Emisiones de CO2:": "de 388 a 396 g/Km",
+            "Potencia:": "de 560 PS / 552 HP / 412 kW a 630 PS / 621 HP / 463 kW",
+            "Largo:": "480.4 cm / 189.13 pulgadas",
+            "Ancho:": "192.7 cm / 75.87 pulgadas",
+            "Período de producción:": "de 2006 a 2011",
+            "Cilindrada:": "5998 cm3 / 366 cu-in",
+            "Peso:": "de 2395 kg / 5280 lbs a 2560 kg / 5644 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M1380/Continental-GTC"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/14186/w170_Bentley-Continental-GT-Convertible-2024-a7738942e0556e47d5.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley-models/Bentley-Continental-GTC"
+    },
+    {
+      "modelName": "Bentayga",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "462 hp / 340 kW",
+              "Plugin Híbrido": "Bentayga V6 Plug-in Hybrid Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Bentayga 6.0 W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5950 cm3 (363.1 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Bentayga V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Bentayga V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Bentayga - 1st Generation 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "299.5 cm / 117.91 pulgadas",
+            "Consumos Medio:": "de 3.3 L/100 km / 86 MPG UK / 71 MPG US a 13 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "172.8 cm / 68.03 pulgadas",
+            "Emisiones de CO2:": "de 294 a 325 g/Km",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 635 PS / 626 HP / 467 kW",
+            "Peso de remolque:": "3500 kg / 7716 lbs",
+            "Largo:": "514.4 cm / 202.52 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 2995 cm3 / 182.8 cu-in a 5950 cm3 / 363.1 cu-in",
+            "Peso:": "de 2415 kg / 5324 lbs a 2508 kg / 5529 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M13484/Bentayga-2020-Facelift"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Bentayga EWB EWB V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Bentayga - 1st Generation 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "317.5 cm / 125 pulgadas",
+            "Consumos Medio:": "13 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "172.8 cm / 68.03 pulgadas",
+            "Emisiones de CO2:": "de 272 a 294 g/Km",
+            "Potencia:": "550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "3500 kg / 7716 lbs",
+            "Largo:": "530.5 cm / 208.86 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "3996 cm3 / 243.9 cu-in",
+            "Peso:": "2514 kg / 5542 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M13747/Bentayga-EWB"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Bentayga V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Bentayga W12 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6000 cm3 (366.1 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Bentayga W12 TSI First Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6000 cm3 (366.1 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Bentayga Diesel Ficha Tecnica",
+              "Cilindrada": "3956 cm3 (241.4 cu-in)",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Bentayga Diesel 7-seats Ficha Tecnica",
+              "Cilindrada": "3956 cm3 (241.4 cu-in)",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Bentayga - 1st Generation (2015 - 2020)",
+          "specifications": {
+            "Batalla:": "299.5 cm / 117.91 pulgadas",
+            "Consumos Medio:": "9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "174.2 cm / 68.58 pulgadas",
+            "Emisiones de CO2:": "de 210 a 292 g/Km",
+            "Potencia:": "de 435 PS / 429 HP / 320 kW a 608 PS / 600 HP / 447 kW",
+            "Largo:": "514.0 cm / 202.36 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "de 2015 a 2020",
+            "Cilindrada:": "de 3956 cm3 / 241.4 cu-in a 6000 cm3 / 366.1 cu-in",
+            "Peso:": "de 2390 kg / 5269 lbs a 2538 kg / 5595 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M8313/Bentayga"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/13484/w170_Bentley-Bentayga-2020-Facelift-a4f1116e3b9b4ae3fa.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley-models/Bentley-Bentayga"
+    },
+    {
+      "modelName": "Flying Spur",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Plugin Híbrido": "Flying Spur Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "782 hp / 575 kW",
+              "Plugin Híbrido": "Flying Spur Speed Ficha Tecnica",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Flying Spur 4th Gen. (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "319.4 cm / 125.75 pulgadas",
+            "Alto:": "147.4 cm / 58.03 pulgadas",
+            "Potencia:": "de 519 PS / 512 HP / 382 kW a 782 PS / 771 HP / 575 kW",
+            "Largo:": "531.6 cm / 209.29 pulgadas",
+            "Ancho:": "198.8 cm / 78.27 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "2646 kg / 5833 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M15103/Flying-Spur-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2894 cm3 (176.6 cu-in)",
+              "Potencia": "544 hp / 400 kW",
+              "Plugin Híbrido": "Flying Spur Hybrid DCT Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur 4.0 V8 DCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur 6.0 W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5950 cm3 (363.1 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur 6.0 W12 DCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5950 cm3 (363.1 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Flying Spur 3rd Generation (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "319.4 cm / 125.75 pulgadas",
+            "Consumos Medio:": "de 3.3 L/100 km / 86 MPG UK / 71 MPG US a 14.8 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "148.3 cm / 58.39 pulgadas",
+            "Potencia:": "de 416 PS / 410 HP / 306 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "531.6 cm / 209.29 pulgadas",
+            "Ancho:": "201.3 cm / 79.25 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "de 2894 cm3 / 176.6 cu-in a 5950 cm3 / 363.1 cu-in",
+            "Peso:": "de 2330 kg / 5137 lbs a 2505 kg / 5523 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M13485/Flying-Spur-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Flying Spur V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3993 cm3 (243.7 cu-in)",
+              "Potencia": "528 hp / 388 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "625 hp / 460 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur W12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "625 hp / 460 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Flying Spur W12 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "635 hp / 467 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Flying Spur 2nd Generation (2013 - 2019)",
+          "specifications": {
+            "Batalla:": "306.6 cm / 120.71 pulgadas",
+            "Alto:": "148.8 cm / 58.58 pulgadas",
+            "Emisiones de CO2:": "de 254 a 343 g/Km",
+            "Potencia:": "de 507 PS / 500 HP / 373 kW a 635 PS / 626 HP / 467 kW",
+            "Largo:": "529.9 cm / 208.62 pulgadas",
+            "Ancho:": "192.4 cm / 75.75 pulgadas",
+            "Período de producción:": "de 2013 a 2019",
+            "Cilindrada:": "de 3993 cm3 / 243.7 cu-in a 5998 cm3 / 366 cu-in",
+            "Peso:": "de 2417 kg / 5329 lbs a 2574 kg / 5675 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M7315/Flying-Spur"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental Flying Spur Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Continental Flying Spur Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Continental Flying Spur Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "610 hp / 449 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Flying Spur 1st Generation (2005 - 2013)",
+          "specifications": {
+            "Batalla:": "306.5 cm / 120.67 pulgadas",
+            "Alto:": "147.9 cm / 58.23 pulgadas",
+            "Emisiones de CO2:": "de 396 a 423 g/Km",
+            "Potencia:": "de 560 PS / 552 HP / 412 kW a 610 PS / 602 HP / 449 kW",
+            "Largo:": "530.7 cm / 208.94 pulgadas",
+            "Ancho:": "191.6 cm / 75.43 pulgadas",
+            "Período de producción:": "de 2005 a 2013",
+            "Cilindrada:": "5998 cm3 / 366 cu-in",
+            "Peso:": "de 2475 kg / 5456 lbs a 2525 kg / 5567 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M223/Continental-Flying-Spur"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/15103/w170_Bentley-Flying-Spur-2025-3f68826bb1f9ac7705.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley-models/Bentley-Flying-Spur"
+    },
+    {
+      "modelName": "Mulsanne II 2016",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mulsanne Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Mulsanne Extended Wheelbase Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Mulsanne Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "537 hp / 395 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Bentley Mulsanne II 2016 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "326.6 cm / 128.58 pulgadas",
+            "Alto:": "152.1 cm / 59.88 pulgadas",
+            "Emisiones de CO2:": "de 342 a 344 g/Km",
+            "Potencia:": "de 513 PS / 506 HP / 377 kW a 537 PS / 530 HP / 395 kW",
+            "Largo:": "557.5 cm / 219.49 pulgadas",
+            "Ancho:": "192.6 cm / 75.83 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2685 kg / 5919 lbs a 2760 kg / 6085 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M8722/Mulsanne-II-2016"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/8722/w170_Bentley-Mulsanne-II-2016-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M8722/Mulsanne-II-2016"
+    },
+    {
+      "modelName": "Mulsanne II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "537 hp / 395 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Bentley Mulsanne II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "326.6 cm / 128.58 pulgadas",
+            "Alto:": "152.1 cm / 59.88 pulgadas",
+            "Emisiones de CO2:": "de 342 a 393 g/Km",
+            "Potencia:": "de 513 PS / 506 HP / 377 kW a 537 PS / 530 HP / 395 kW",
+            "Largo:": "557.5 cm / 219.49 pulgadas",
+            "Ancho:": "192.6 cm / 75.83 pulgadas",
+            "Período de producción:": "de 2010 a 2016",
+            "Cilindrada:": "6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2585 kg / 5699 lbs a 2760 kg / 6085 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M4847/Mulsanne-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/4847/w170_Bentley-Mulsanne-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M4847/Mulsanne-II"
+    },
+    {
+      "modelName": "Brooklands 2008",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Brooklands Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6761 cm3 (412.6 cu-in)",
+              "Potencia": "537 hp / 395 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Bentley Brooklands 2008 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "311.6 cm / 122.68 pulgadas",
+            "Alto:": "147.3 cm / 57.99 pulgadas",
+            "Emisiones de CO2:": "465 g/Km",
+            "Potencia:": "537 PS / 530 HP / 395 kW",
+            "Largo:": "541.1 cm / 213.03 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "de 2007 a 2011",
+            "Cilindrada:": "6761 cm3 / 412.6 cu-in",
+            "Peso:": "2655 kg / 5853 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M9159/Brooklands-2008"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/9159/w170_Bentley-Brooklands-2008-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M9159/Brooklands-2008"
+    },
+    {
+      "modelName": "Azure II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Azure II T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Bentley Azure II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "311.6 cm / 122.68 pulgadas",
+            "Alto:": "149.2 cm / 58.74 pulgadas",
+            "Emisiones de CO2:": "465 g/Km",
+            "Potencia:": "507 PS / 500 HP / 373 kW",
+            "Largo:": "541.0 cm / 212.99 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2006 a 2009",
+            "Cilindrada:": "6753 cm3 / 412.1 cu-in",
+            "Peso:": "2770 kg / 6107 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M1377/Azure-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/1377/w170_Bentley-Azure-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M1377/Azure-II"
+    },
+    {
+      "modelName": "Arnage",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Arnage Green Label Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "354 hp / 260 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Arnage R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Arnage R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "457 hp / 336 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Arnage Red Label Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Arnage Red Label LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Arnage T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Bentley Arnage Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "312.0 cm / 122.83 pulgadas",
+            "Consumos Medio:": "19.2 L/100 km / 15 MPG UK / 12 MPG US",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Potencia:": "de 354 PS / 349 HP / 260 kW a 457 PS / 451 HP / 336 kW",
+            "Largo:": "539.0 cm / 212.2 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "de 1998 a 2009",
+            "Cilindrada:": "de 4398 cm3 / 268.4 cu-in a 6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2396 kg / 5282 lbs a 2660 kg / 5864 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M224/Arnage"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/224/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M224/Arnage"
+    },
+    {
+      "modelName": "Azure",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Azure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Bentley Azure Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "148 cm / 58.27 pulgadas",
+            "Potencia:": "385 PS / 380 HP / 283 kW",
+            "Largo:": "534 cm / 210.24 pulgadas",
+            "Ancho:": "206 cm / 81.1 pulgadas",
+            "Período de producción:": "1995",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2450 kg / 5401 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M44/Azure"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/44/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M44/Azure"
+    },
+    {
+      "modelName": "Brooklands",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Brooklands Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Brooklands Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Bentley Brooklands Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "149 cm / 58.66 pulgadas",
+            "Potencia:": "de 225 PS / 222 HP / 165 kW a 245 PS / 242 HP / 180 kW",
+            "Largo:": "527 cm / 207.48 pulgadas",
+            "Ancho:": "189 cm / 74.41 pulgadas",
+            "Período de producción:": "de 1992 a 1997",
+            "Cilindrada:": "de 6750 cm3 / 411.9 cu-in a 6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2350 kg / 5181 lbs a 2430 kg / 5357 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M14/Brooklands"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/14/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M14/Brooklands"
+    },
+    {
+      "modelName": "Continental R",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Bentley Continental R Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "146 cm / 57.48 pulgadas",
+            "Potencia:": "320 PS / 316 HP / 235 kW",
+            "Largo:": "534 cm / 210.24 pulgadas",
+            "Ancho:": "187 cm / 73.62 pulgadas",
+            "Período de producción:": "1992",
+            "Cilindrada:": "6753 cm3 / 412.1 cu-in",
+            "Peso:": "2420 kg / 5335 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M17/Continental-R"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/17/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M17/Continental-R"
+    },
+    {
+      "modelName": "Continental",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Continental R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Continental R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Continental T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Bentley Continental Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "152 cm / 59.84 pulgadas",
+            "Potencia:": "de 225 PS / 222 HP / 165 kW a 385 PS / 380 HP / 283 kW",
+            "Largo:": "520 cm / 204.72 pulgadas",
+            "Ancho:": "184 cm / 72.44 pulgadas",
+            "Período de producción:": "1992",
+            "Cilindrada:": "de 6750 cm3 / 411.9 cu-in a 6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2430 kg / 5357 lbs a 2450 kg / 5401 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M16/Continental"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/16/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M16/Continental"
+    },
+    {
+      "modelName": "Turbo R",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Turbo R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Turbo R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Turbo R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Turbo R Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Bentley Turbo R Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "149 cm / 58.66 pulgadas",
+            "Potencia:": "de 320 PS / 316 HP / 235 kW a 385 PS / 380 HP / 283 kW",
+            "Largo:": "527 cm / 207.48 pulgadas",
+            "Ancho:": "189 cm / 74.41 pulgadas",
+            "Período de producción:": "1992",
+            "Cilindrada:": "de 6750 cm3 / 411.9 cu-in a 6753 cm3 / 412.1 cu-in",
+            "Peso:": "de 2410 kg / 5313 lbs a 2450 kg / 5401 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M15/Turbo-R"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/15/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M15/Turbo-R"
+    },
+    {
+      "modelName": "Mulsanne",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6753 cm3 (412.1 cu-in)",
+              "Potencia": "513 hp / 377 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Mulsanne Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "Bentley Mulsanne Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "326.6 cm / 128.58 pulgadas",
+            "Alto:": "152.6 cm / 60.08 pulgadas",
+            "Potencia:": "513 PS / 506 HP / 377 kW",
+            "Largo:": "557.5 cm / 219.49 pulgadas",
+            "Ancho:": "192.6 cm / 75.83 pulgadas",
+            "Período de producción:": "de 1980 a 1987",
+            "Cilindrada:": "de 6750 cm3 / 411.9 cu-in a 6753 cm3 / 412.1 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M129/Mulsanne"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/129/w170_default2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M129/Mulsanne"
+    },
+    {
+      "modelName": "Corniche",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Corniche Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Bentley Corniche Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "305 cm / 120.08 pulgadas",
+            "Alto:": "152 cm / 59.84 pulgadas",
+            "Potencia:": "de 9999 PS / 9863 HP / 7354 kW a - PS / - HP / - kW",
+            "Largo:": "520 cm / 204.72 pulgadas",
+            "Ancho:": "182 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1971 a 1984",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2360 kg / 5203 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M130/Corniche"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bentley/130/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M130/Corniche"
+    },
+    {
+      "modelName": "8 Litre",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "8 Litre Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7983 cm3 (487.2 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1930"
+            }
+          ],
+          "actualFinalModelName": "Bentley 8 Litre Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "396.2 cm / 155.98 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "203 PS / 200 HP / 149 kW",
+            "Largo:": "541 cm / 212.99 pulgadas",
+            "Ancho:": "174 cm / 68.5 pulgadas",
+            "Período de producción:": "1930",
+            "Cilindrada:": "7983 cm3 / 487.2 cu-in",
+            "Peso:": "2540 kg / 5600 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M3441/8-Litre"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/3/3441/w170_Bentley-8-Litre-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bentley/M3441/8-Litre"
+    }
+  ],
+  "brandName": "Bentley"
+}

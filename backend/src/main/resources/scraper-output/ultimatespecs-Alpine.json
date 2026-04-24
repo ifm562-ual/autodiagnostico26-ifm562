@@ -1,0 +1,641 @@
+{
+  "models": [
+    {
+      "modelName": "A290",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "A290 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "52 kWh"
+            },
+            {
+              "Eléctrico": "A290 GTS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "52 kWh"
+            }
+          ],
+          "actualFinalModelName": "Alpine A290 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "253.4 cm / 99.76 pulgadas",
+            "Alto:": "151.2 cm / 59.53 pulgadas",
+            "Potencia:": "de 177 PS / 175 HP / 130 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "399.7 cm / 157.36 pulgadas",
+            "Ancho:": "182.3 cm / 71.77 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "1554 kg / 3426 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M13835/A290"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/13835/w170_Alpine-A290-1a30e53e6fe5694c1a.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M13835/A290"
+    },
+    {
+      "modelName": "A390",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "A390 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "A390 GTS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "470 hp / 346 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "Alpine A390 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.8 cm / 106.61 pulgadas",
+            "Alto:": "153.2 cm / 60.31 pulgadas",
+            "Potencia:": "de 400 PS / 395 HP / 294 kW a 470 PS / 464 HP / 346 kW",
+            "Largo:": "461.5 cm / 181.69 pulgadas",
+            "Ancho:": "188.5 cm / 74.21 pulgadas",
+            "Período de producción:": "2025"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M15528/A390"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/15528/w170_Alpine-A390-9020fb0374a62d3b48.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M15528/A390"
+    },
+    {
+      "modelName": "A110",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A110 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "A110 GT Jean Rédélé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "A110 Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "A110 R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "A110 R Le Mans Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "A110 R Turini Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "A110 R Ultime Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "A110 R Ultime La Bleue Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "345 hp / 254 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "A110 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "A110 S Enstone Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "A110 San Remo 73 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "A110 Tour de Corse 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "A110 2nd Gen (AEF) - 2022 Update (2022 - Presente)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Consumos Medio:": "de 6.7 L/100 km / 42 MPG UK / 35 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "125.2 cm / 49.29 pulgadas",
+            "Potencia:": "de 252 PS / 249 HP / 185 kW a 345 PS / 340 HP / 254 kW",
+            "Largo:": "418.1 cm / 164.61 pulgadas",
+            "Ancho:": "179.8 cm / 70.79 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "1798 cm3 / 109.7 cu-in",
+            "Peso:": "de 1082 kg / 2385 lbs a 1294 kg / 2853 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M12668/A110-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A110 Color Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "292 hp / 215 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "A110 Legende Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "A110 Legende GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "292 hp / 215 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "A110 Première Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "A110 Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "A110 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "292 hp / 215 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "A110 2nd Gen (AEF) - 2018 New Model (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Consumos Medio:": "de 6.2 L/100 km / 46 MPG UK / 38 MPG US a 7.3 L/100 km / 39 MPG UK / 32 MPG US",
+            "Alto:": "125.2 cm / 49.29 pulgadas",
+            "Emisiones de CO2:": "de 141 a 163 g/Km",
+            "Potencia:": "de 252 PS / 249 HP / 185 kW a 292 PS / 288 HP / 215 kW",
+            "Largo:": "418.0 cm / 164.57 pulgadas",
+            "Ancho:": "179.8 cm / 70.79 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "1798 cm3 / 109.7 cu-in",
+            "Peso:": "de 1098 kg / 2421 lbs a 1218 kg / 2685 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M9527/A110-2018"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/12668/w170_Alpine-A110-2022-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine-models/Alpine-A110"
+    },
+    {
+      "modelName": "A310",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A310 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1606 cm3 (98 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "A310 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2849 cm3 (173.9 cu-in)",
+              "Potencia": "193 hp / 142 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "A310 i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1606 cm3 (98 cu-in)",
+              "Potencia": "124 hp / 91 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "A310 TX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1647 cm3 (100.5 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "A310 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2664 cm3 (162.6 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "A310 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2664 cm3 (162.6 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "A310 V6 5 speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2664 cm3 (162.6 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "1976"
+            }
+          ],
+          "actualFinalModelName": "Alpine A310 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "227 cm / 89.37 pulgadas",
+            "Alto:": "115.1 cm / 45.31 pulgadas",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 193 PS / 190 HP / 142 kW",
+            "Largo:": "417.8 cm / 164.49 pulgadas",
+            "Ancho:": "162.1 cm / 63.82 pulgadas",
+            "Período de producción:": "de 1971 a 1984",
+            "Cilindrada:": "de 1606 cm3 / 98 cu-in a 2849 cm3 / 173.9 cu-in",
+            "Peso:": "de 840 kg / 1852 lbs a 1037 kg / 2286 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M43/A310"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/renault/43/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M43/A310"
+    },
+    {
+      "modelName": "GTA",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GTA V6 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2849 cm3 (173.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "GTA V6 Le Mans Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "GTA V6 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "GTA V6 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Alpine GTA Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Consumos Medio:": "de 9.1 L/100 km / 31 MPG UK / 26 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "120.0 cm / 47.24 pulgadas",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "433.0 cm / 170.47 pulgadas",
+            "Ancho:": "175.0 cm / 68.9 pulgadas",
+            "Período de producción:": "de 1985 a 1991",
+            "Cilindrada:": "de 2458 cm3 / 150 cu-in a 2849 cm3 / 173.9 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1210 kg / 2668 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M1057/GTA"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/1057/w170_Alpine-GTA-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M1057/GTA"
+    },
+    {
+      "modelName": "A610",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A610 V6 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2975 cm3 (181.5 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Alpine A610 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234 cm / 92.13 pulgadas",
+            "Alto:": "118.8 cm / 46.77 pulgadas",
+            "Potencia:": "250 PS / 247 HP / 184 kW",
+            "Largo:": "441.5 cm / 173.82 pulgadas",
+            "Ancho:": "176.2 cm / 69.37 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "2975 cm3 / 181.5 cu-in",
+            "Peso:": "1420 kg / 3131 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M466/A610"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/renault/466/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M466/A610"
+    },
+    {
+      "modelName": "A110",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A110 1000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "956 cm3 (58.3 cu-in)",
+              "Potencia": "49 hp / 36 kW",
+              "Año": "1964"
+            },
+            {
+              "Motores de Gasolina": "A110 1100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1108 cm3 (67.6 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "A110 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1255 cm3 (76.6 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "A110 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1296 cm3 (79.1 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "A110 1600S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1606 cm3 (98 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "A110 1600S Tour de France Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1565 cm3 (95.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1972"
+            },
+            {
+              "Motores de Gasolina": "A110 85 Tour de France Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1289 cm3 (78.7 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1972"
+            },
+            {
+              "Motores de Gasolina": "A110 SX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1647 cm3 (100.5 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1976"
+            }
+          ],
+          "actualFinalModelName": "Alpine A110 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "213 cm / 83.86 pulgadas",
+            "Alto:": "113 cm / 44.49 pulgadas",
+            "Potencia:": "de 49 PS / 48 HP / 36 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "385.1 cm / 151.61 pulgadas",
+            "Ancho:": "146.1 cm / 57.52 pulgadas",
+            "Período de producción:": "1964",
+            "Cilindrada:": "de 956 cm3 / 58.3 cu-in a 1647 cm3 / 100.5 cu-in",
+            "Peso:": "de 545 kg / 1202 lbs a 790 kg / 1742 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M1732/A110"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/1732/w170_Alpine-A110-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M1732/A110"
+    },
+    {
+      "modelName": "Berlinette",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Berlinette Tour de France Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "956 cm3 (58.3 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1963"
+            }
+          ],
+          "actualFinalModelName": "Alpine Berlinette Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "210 cm / 82.68 pulgadas",
+            "Alto:": "113 cm / 44.49 pulgadas",
+            "Potencia:": "75 PS / 74 HP / 55 kW",
+            "Largo:": "384 cm / 151.18 pulgadas",
+            "Ancho:": "145 cm / 57.09 pulgadas",
+            "Período de producción:": "1963",
+            "Cilindrada:": "956 cm3 / 58.3 cu-in",
+            "Peso:": "520 kg / 1146 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4283/Berlinette"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/4283/w170_Alpine-Berlinette-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4283/Berlinette"
+    },
+    {
+      "modelName": "A108",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A108 904 Mille Milles Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "904 cm3 (55.2 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "1955"
+            },
+            {
+              "Motores de Gasolina": "A108 904 Mille Milles Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "904 cm3 (55.2 cu-in)",
+              "Potencia": "51 hp / 38 kW",
+              "Año": "1957"
+            }
+          ],
+          "actualFinalModelName": "Alpine A108 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "210.2 cm / 82.76 pulgadas",
+            "Alto:": "127 cm / 50 pulgadas",
+            "Potencia:": "de 51 PS / 50 HP / 38 kW a 61 PS / 60 HP / 45 kW",
+            "Largo:": "369.6 cm / 145.51 pulgadas",
+            "Ancho:": "144.8 cm / 57.01 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "904 cm3 / 55.2 cu-in",
+            "Peso:": "550 kg / 1213 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M2570/A108"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/2570/w170_Alpine-A108-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M2570/A108"
+    },
+    {
+      "modelName": "A106",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A106 Mille Milles 21hp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "21 hp / 15 kW",
+              "Año": "1957"
+            },
+            {
+              "Motores de Gasolina": "A106 Mille Milles 43hp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1957"
+            }
+          ],
+          "actualFinalModelName": "Alpine A106 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "210 cm / 82.68 pulgadas",
+            "Alto:": "127 cm / 50 pulgadas",
+            "Potencia:": "de 21 PS / 21 HP / 15 kW a 44 PS / 43 HP / 32 kW",
+            "Largo:": "369.6 cm / 145.51 pulgadas",
+            "Ancho:": "145 cm / 57.09 pulgadas",
+            "Período de producción:": "1957",
+            "Cilindrada:": "747 cm3 / 45.6 cu-in",
+            "Peso:": "530 kg / 1168 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M2522/A106"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/2522/w170_Alpine-A106-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M2522/A106"
+    },
+    {
+      "modelName": "Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Coupe GT4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "956 cm3 (58.3 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1963"
+            }
+          ],
+          "actualFinalModelName": "Alpine Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "226 cm / 88.98 pulgadas",
+            "Alto:": "120 cm / 47.24 pulgadas",
+            "Potencia:": "75 PS / 74 HP / 55 kW",
+            "Largo:": "408 cm / 160.63 pulgadas",
+            "Ancho:": "149 cm / 58.66 pulgadas",
+            "Período de producción:": "1963",
+            "Cilindrada:": "956 cm3 / 58.3 cu-in",
+            "Peso:": "610 kg / 1345 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4275/Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/4275/w170_Alpine-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4275/Coupe"
+    },
+    {
+      "modelName": "Cabriolet",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cabriolet Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "845 cm3 (51.6 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1963"
+            }
+          ],
+          "actualFinalModelName": "Alpine Cabriolet Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "210 cm / 82.68 pulgadas",
+            "Alto:": "120 cm / 47.24 pulgadas",
+            "Potencia:": "55 PS / 54 HP / 40 kW",
+            "Largo:": "378 cm / 148.82 pulgadas",
+            "Ancho:": "145 cm / 57.09 pulgadas",
+            "Período de producción:": "1963",
+            "Cilindrada:": "845 cm3 / 51.6 cu-in",
+            "Peso:": "540 kg / 1190 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4284/Cabriolet"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/65/4284/w170_Alpine-Cabriolet-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpine/M4284/Cabriolet"
+    }
+  ],
+  "brandName": "Alpine"
+}

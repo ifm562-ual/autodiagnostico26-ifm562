@@ -1,0 +1,18 @@
+<div class="map-wrapper">
+  <div #mapContainer class="map-container"></div>
+
+  @if (geoService.locationState().loading) {
+    <div class="map-overlay">Buscando tu ubicación...</div>
+  }
+  @if (geoService.locationState().error) {
+    <div class="map-overlay error">{{ geoService.locationState().error }}</div>
+  }
+
+  <button 
+    class="fab-appointment" 
+    (click)="handleRequestAppointment()"
+    title="Solicitar Cita">
+    <span class="icon">📅</span>
+    Solicitar Cita
+  </button>
+</div>

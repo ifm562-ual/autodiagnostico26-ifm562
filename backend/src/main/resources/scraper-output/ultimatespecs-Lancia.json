@@ -1,0 +1,3099 @@
+{
+  "models": [
+    {
+      "modelName": "Ypsilon",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Ypsilon Elettrica 156HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "51.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Ypsilon L21 (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "254.5 cm / 100.2 pulgadas",
+            "Alto:": "143.5 cm / 56.5 pulgadas",
+            "Potencia:": "156 PS / 154 HP / 115 kW",
+            "Largo:": "407.5 cm / 160.43 pulgadas",
+            "Ancho:": "175.5 cm / 69.09 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "1561 kg / 3441 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M14034/Ypsilon-L21"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.0 Mild Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 Fire Evo II 69HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 TwinAir Turbo 85HP DFN Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 Multijet II 16V 95HP Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Otros": "Ypsilon 2 1.2 Fire Evo II 69HP LPG Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Ypsilon 2 TwinAir Turbo 80HP Methane Ficha Tecnica",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Ypsilon 2 - 2015 Facelift (2015 - 2021)",
+          "specifications": {
+            "Batalla:": "239.0 cm / 94.09 pulgadas",
+            "Alto:": "151.8 cm / 59.76 pulgadas",
+            "Emisiones de CO2:": "de 90 a 120 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 95 PS / 94 HP / 70 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1000 kg / 2205 lbs",
+            "Largo:": "383.7 cm / 151.06 pulgadas",
+            "Ancho:": "167.6 cm / 65.98 pulgadas",
+            "Período de producción:": "de 2015 a 2021",
+            "Cilindrada:": "de 875 cm3 / 53.4 cu-in a 1248 cm3 / 76.2 cu-in",
+            "Peso:": "de 965 kg / 2127 lbs a 1090 kg / 2403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M11256/Ypsilon-2-2015"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ypsilon 2 0.9 TwinAir 85HP Stop & Start Gold Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 0.9 TwinAir 85HP Stop & Start Gold MTA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 0.9 TwinAir 85HP Stop & Start Platinum Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 0.9 TwinAir 85HP Stop & Start Platinum MTA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 69HP Stop & Start Gold Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 69HP Stop & Start Platinum Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 69HP Stop & Start Silver Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 0.9 TwinAir 30th Anniversary Start&Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "875 cm3 (53.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 30th Anniversary Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 Elefantino Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 Elle Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 2 1.2 Gold Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 JTD 95HP Stop & Start Gold Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 JTD 95HP Stop & Start Platinum Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 JTD 95HP Stop & Start Silver Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 Multijet 30th Anniversary Start&Stop Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 Multijet Elefantino Start&Stop Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 2 1.3 Multijet Elle Start&Stop Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Otros": "Ypsilon 2 1.2 30th Anniversary GLP Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Otros": "Ypsilon 2 1.2 Gold GLP Ficha Tecnica",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Ypsilon 2 (2011 - 2016)",
+          "specifications": {
+            "Batalla:": "239.0 cm / 94.09 pulgadas",
+            "Consumos Medio:": "5.1 L/100 km / 55 MPG UK / 46 MPG US",
+            "Alto:": "151.7 cm / 59.72 pulgadas",
+            "Emisiones de CO2:": "de 97 a 120 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 95 PS / 94 HP / 70 kW",
+            "Largo:": "384.2 cm / 151.26 pulgadas",
+            "Ancho:": "167.6 cm / 65.98 pulgadas",
+            "Período de producción:": "de 2011 a 2016",
+            "Cilindrada:": "de 875 cm3 / 53.4 cu-in a 1248 cm3 / 76.2 cu-in",
+            "Peso:": "de 1040 kg / 2293 lbs a 1125 kg / 2480 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M5913/Ypsilon-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ypsilon 1 1.2 60HP Elle Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 1 1.2 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 1 1.4 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Ypsilon 1 1.4 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 1 1.3 JTD 70 Ficha Tecnica",
+              "Cilindrada": "1251 cm3 (76.3 cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 1 1.3 JTD 75 Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 1 1.3 JTD 90 Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ypsilon 1 1.3 JTD 90CV Elle Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Ypsilon 1 (2003 - 2011)",
+          "specifications": {
+            "Batalla:": "238.8 cm / 94.02 pulgadas",
+            "Alto:": "153.0 cm / 60.24 pulgadas",
+            "Emisiones de CO2:": "de 117 a 155 g/Km",
+            "Potencia:": "de 60 PS / 59 HP / 44 kW a 95 PS / 94 HP / 70 kW",
+            "Largo:": "381.0 cm / 150 pulgadas",
+            "Ancho:": "170.4 cm / 67.09 pulgadas",
+            "Período de producción:": "de 2003 a 2011",
+            "Cilindrada:": "de 1242 cm3 / 75.8 cu-in a 1368 cm3 / 83.5 cu-in",
+            "Peso:": "de 900 kg / 1984 lbs a 1120 kg / 2469 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M444/Ypsilon-1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/14034/w170_Lancia-Ypsilon-L21-4ad0f1c25c696cbe59.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Ypsilon"
+    },
+    {
+      "modelName": "Musa",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Oro Dualogic StartStop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Oro Plus Dualogic StartStop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Oro Plus StartStop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Oro StartStop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Start&Stop 5th Avenue Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Start&Stop 5th Avenue MTA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 16v Start&Stop Gold Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 8v Argento Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Musa 1.4 8v Oro Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 JTD 70 Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 JTD 90 Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 90cv Oro Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 90cv Oro Dualogic Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 90cv Oro Plus Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 90cv Oro Plus Dualogic Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 95HP Start&Stop 5th Avenue Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 95HP Start&Stop 5th Avenue MTA Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.3 Multijet 95HP Start&Stop Gold Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Musa 1.9 JTD 100 Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Lancia Musa Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.8 cm / 98.74 pulgadas",
+            "Alto:": "166.0 cm / 65.35 pulgadas",
+            "Emisiones de CO2:": "de 109 a 157 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 101 PS / 100 HP / 74 kW",
+            "Largo:": "398.5 cm / 156.89 pulgadas",
+            "Ancho:": "169.8 cm / 66.85 pulgadas",
+            "Período de producción:": "2004",
+            "Cilindrada:": "de 1248 cm3 / 76.2 cu-in a 1910 cm3 / 116.6 cu-in",
+            "Peso:": "de 1130 kg / 2491 lbs a 1280 kg / 2822 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M445/Musa"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/445/w170_default2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M445/Musa"
+    },
+    {
+      "modelName": "Delta",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Delta III Argento 1.4 Turbojet 120HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Hard Black 1.8 Di Turbojet 200HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1742 cm3 (106.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Oro 1.4 MultiAir 140HP Start&Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Oro 1.4 Turbojet 120HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Oro 1.8 Di Turbojet 200HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1742 cm3 (106.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Platino 1.4 MuliAir 140HP Start&Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Platino 1.8 Di Turbojet 200HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1742 cm3 (106.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Delta III Premiere Collection 1.8 Di TurboJet 200HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1742 cm3 (106.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III 1.6 Multijet 105HP Silver Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III 1.6 Multijet 105HP Steel Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III 1.6 Multijet 120HP Gold Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III 1.6 Multijet 120HP S Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Argento 1.6 Multijet DPF 120HP Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Argento 1.6 Multijet DPF 120HP Selectronic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Executive 1.9 Multijet Twin Turbo DPF 190HP Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Executive 1.9 Multijet Twin Turbo DPF 190HP Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Hard Black 1.6 Multijet DPF 120HP Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Hard Black 1.6 Multijet DPF 120HP Selectronic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Oro 1.6 Multijet DPF 120HP Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Oro 1.6 Multijet DPF 120HP Selectronic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Oro 1.9 Multijet Twin Turbo DPF 190HP Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Oro 2.0 Multijet DPF 165HP Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Platino 1.6 Multijet DPF 120HP Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Platino 1.6 Multijet DPF 120HP Selectronic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Platino 1.9 Multijet Twin Turbo DPF 190HP Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Platino 2.0 Multijet DPF 165HP Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Premiere Collection 1.6 Multijet DPF 120HP Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta III Premiere Collection 1.6 Multijet DPF 120HP Selectronic Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Otros": "Delta III 1.4 Turbo-Jet 120HP LPG Silver Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Otros": "Delta III 1.4 Turbo-Jet 120HP LPG Steel Ficha Tecnica",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Delta 3 (2008 - 2014)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 4.9 L/100 km / 58 MPG UK / 48 MPG US a 7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "149.9 cm / 59.02 pulgadas",
+            "Emisiones de CO2:": "de 115 a 185 g/Km",
+            "Potencia:": "de 105 PS / 104 HP / 77 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "452.0 cm / 177.95 pulgadas",
+            "Ancho:": "179.7 cm / 70.75 pulgadas",
+            "Período de producción:": "de 2008 a 2014",
+            "Cilindrada:": "de 1368 cm3 / 83.5 cu-in a 1956 cm3 / 119.4 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1376/Delta-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Delta II 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Delta II 1.8 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Delta II 2.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1993"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta II 1.9 Turbo DS Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta II 1.9 Turbo DS Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Delta 2 (1993 - 1999)",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Consumos Medio:": "de 6.2 L/100 km / 46 MPG UK / 38 MPG US a 8.2 L/100 km / 34 MPG UK / 29 MPG US",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 142 PS / 140 HP / 104 kW",
+            "Largo:": "401.0 cm / 157.87 pulgadas",
+            "Ancho:": "176.0 cm / 69.29 pulgadas",
+            "Período de producción:": "de 1993 a 1999",
+            "Cilindrada:": "de 1581 cm3 / 96.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1130 kg / 2491 lbs a 1280 kg / 2822 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1267/Delta-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Delta II HPE 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "139 hp / 102 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 2.0 16v HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "186 hp / 137 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Delta II HPE 2.0 16v HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "186 hp / 137 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta II HPE 1.9 Turbo DS Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta II HPE 1.9 Turbo DS Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Delta 2 (1993 - 1999)",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Consumos Medio:": "de 6.2 L/100 km / 46 MPG UK / 38 MPG US a 9.5 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 186 PS / 183 HP / 137 kW",
+            "Largo:": "401.1 cm / 157.91 pulgadas",
+            "Ancho:": "175.9 cm / 69.25 pulgadas",
+            "Período de producción:": "de 1993 a 1999",
+            "Cilindrada:": "de 1581 cm3 / 96.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1130 kg / 2491 lbs a 1330 kg / 2932 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1268/Delta-II-HPE"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Delta 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1301 cm3 (79.4 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Delta 1500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Delta GT 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Delta GT i.e. 107 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "108 hp / 79 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Delta GT i.e. 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Delta HF 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Delta HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Delta HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Delta HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Delta Integrale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Delta Integrale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Delta Integrale 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Delta Integrale Evoluzione Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Delta S4 Stradale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1759 cm3 (107.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1985"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Delta Turbo DS Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "Delta 1 (1979 - 1993)",
+          "specifications": {
+            "Batalla:": "247.5 cm / 97.44 pulgadas",
+            "Consumos Medio:": "de 5.8 L/100 km / 49 MPG UK / 41 MPG US a 10 L/100 km / 28 MPG UK / 24 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 78 PS / 77 HP / 57 kW a 250 PS / 247 HP / 184 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "389.5 cm / 153.35 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1979 a 1993",
+            "Cilindrada:": "de 1301 cm3 / 79.4 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 935 kg / 2061 lbs a 1300 kg / 2866 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M162/Delta"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1376/w170_Lancia-Delta-III-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Delta"
+    },
+    {
+      "modelName": "Thema",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Thema II 3.6 V6 VVT 286HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema II Executive 3.0 V6 CRD 239HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "239 hp / 176 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema II Gold 3.0 V6 CRD 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema II Platinum 3.0 V6 CRD 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema II Platinum 3.0 V6 CRD 239HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "239 hp / 176 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Thema 2 (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "305.2 cm / 120.16 pulgadas",
+            "Alto:": "148.8 cm / 58.58 pulgadas",
+            "Emisiones de CO2:": "de 185 a 219 g/Km",
+            "Potencia:": "de 190 PS / 187 HP / 140 kW a 286 PS / 282 HP / 210 kW",
+            "Largo:": "506.6 cm / 199.45 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2012 a a presente",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 3605 cm3 / 220 cu-in",
+            "Peso:": "de 1876 kg / 4136 lbs a 2038 kg / 4493 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M5912/Thema-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. (no KAT) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "166 hp / 122 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Turbo 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Turbo 16v Kat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Thema 2.0 i.e. Turbo Kat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Thema 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2959 cm3 (180.6 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Thema 8.32 Ferrari Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2927 cm3 (178.6 cu-in)",
+              "Potencia": "215 hp / 158 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Thema 8.32 Ferrari Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2927 cm3 (178.6 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Thema V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2849 cm3 (173.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Thema V6 (no KAT) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2849 cm3 (173.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1985"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema Turbo D Ficha Tecnica",
+              "Cilindrada": "2445 cm3 (149.2 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1985"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema Turbo D Ficha Tecnica",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1989"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thema Turbo DS Ficha Tecnica",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Thema 1 (1984 - 1994)",
+          "specifications": {
+            "Batalla:": "266.0 cm / 104.72 pulgadas",
+            "Consumos Medio:": "de 6.9 L/100 km / 41 MPG UK / 34 MPG US a 11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 215 PS / 212 HP / 158 kW",
+            "Largo:": "459.0 cm / 180.71 pulgadas",
+            "Ancho:": "176.0 cm / 69.29 pulgadas",
+            "Período de producción:": "de 1984 a 1994",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2959 cm3 / 180.6 cu-in",
+            "Peso:": "de 1120 kg / 2469 lbs a 1400 kg / 3086 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1275/Thema"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/5912/w170_Lancia-Thema-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Thema"
+    },
+    {
+      "modelName": "Voyager",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Voyager 3.6 V6 VVT 287HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "287 hp / 211 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 2.8 CRD 163HP Gold Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 2.8 CRD 163HP Gold Plus Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 2.8 CRD 163HP Platinum Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 2.8 CRD 163HP Silver Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager 2.8 CRD 178HP S Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Voyager Gold 2.8 CRD 163HP Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Lancia Voyager Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "307.8 cm / 121.18 pulgadas",
+            "Alto:": "175.0 cm / 68.9 pulgadas",
+            "Emisiones de CO2:": "de 207 a 252 g/Km",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 287 PS / 283 HP / 211 kW",
+            "Largo:": "521.8 cm / 205.43 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "de 2776 cm3 / 169.4 cu-in a 3605 cm3 / 220 cu-in",
+            "Peso:": "de 2097 kg / 4623 lbs a 2242 kg / 4943 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M5849/Voyager"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/5849/w170_Lancia-Voyager-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M5849/Voyager"
+    },
+    {
+      "modelName": "Grand Voyager",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 163HP Gold Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 163HP Gold Plus Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 163HP Platinum Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 163HP Silver Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 178HP Family Class Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 178HP Gold Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 178HP Platinum Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Voyager 2.8 CRD 178HP Silver Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Lancia Grand Voyager Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "307.8 cm / 121.18 pulgadas",
+            "Alto:": "175.0 cm / 68.9 pulgadas",
+            "Emisiones de CO2:": "207 g/Km",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 178 PS / 176 HP / 131 kW",
+            "Largo:": "521.8 cm / 205.43 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "2776 cm3 / 169.4 cu-in",
+            "Peso:": "2242 kg / 4943 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M7450/Grand-Voyager"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/7450/w170_Lancia-Grand-Voyager-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M7450/Grand-Voyager"
+    },
+    {
+      "modelName": "Y",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Y 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1108 cm3 (67.6 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 16v elefantino rosso Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Y 1.2 16v elefantino rosso Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Y 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1370 cm3 (83.6 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Lancia Y Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Consumos Medio:": "de 5.7 L/100 km / 50 MPG UK / 41 MPG US a 7 L/100 km / 40 MPG UK / 34 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 86 PS / 85 HP / 63 kW",
+            "Largo:": "372.0 cm / 146.46 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1996 a 2003",
+            "Cilindrada:": "de 1108 cm3 / 67.6 cu-in a 1370 cm3 / 83.6 cu-in",
+            "Peso:": "de 835 kg / 1841 lbs a 942 kg / 2077 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1278/Y"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1278/w170_Lancia-Y-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1278/Y"
+    },
+    {
+      "modelName": "Lybra",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lybra 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Lybra 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Lybra 1.8 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Lybra 1.8 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Lybra 2.0 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Lybra 2.0 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Lybra 2.0 20v Confortronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lybra 1.9 JTD Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lybra 1.9 JTD Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lybra 2.4 JTD Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "134 hp / 99 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lybra 2.4 JTD Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Lancia Lybra Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 8.2 L/100 km / 34 MPG UK / 29 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 103 PS / 102 HP / 76 kW a 154 PS / 152 HP / 113 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1999 a 2005",
+            "Cilindrada:": "de 1581 cm3 / 96.5 cu-in a 2387 cm3 / 145.7 cu-in",
+            "Peso:": "de 1225 kg / 2701 lbs a 1355 kg / 2987 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1273/Lybra"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1273/w170_Lancia-Lybra-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1273/Lybra"
+    },
+    {
+      "modelName": "Thesis",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Thesis 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Thesis 2.4 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2446 cm3 (149.3 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Thesis 3.0 V6 24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2959 cm3 (180.6 cu-in)",
+              "Potencia": "215 hp / 158 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Thesis 3.0 V6 24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3179 cm3 (194 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thesis 2.4 JTD 10v 150 Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thesis 2.4 JTD 20v 175 Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Thesis 2.4 Multijet 20v 185 Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Lancia Thesis Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.3 cm / 110.35 pulgadas",
+            "Alto:": "146.5 cm / 57.68 pulgadas",
+            "Emisiones de CO2:": "de 199 a 355 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "488.8 cm / 192.44 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 2002 a 2006",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3179 cm3 / 194 cu-in",
+            "Peso:": "de 1760 kg / 3880 lbs a 1820 kg / 4012 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M446/Thesis"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/446/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M446/Thesis"
+    },
+    {
+      "modelName": "Kappa",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Kappa Coupe 2.0 16v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Kappa Coupe 2.0 20v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kappa Coupe 2.4 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2446 cm3 (149.3 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Kappa Coupe 3.0 24v V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2959 cm3 (180.6 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Kappa Coupe (1997 - 2001)",
+          "specifications": {
+            "Batalla:": "258 cm / 101.57 pulgadas",
+            "Consumos Medio:": "9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "de 175 PS / 173 HP / 129 kW a 220 PS / 217 HP / 162 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "456.7 cm / 179.8 pulgadas",
+            "Ancho:": "183 cm / 72.05 pulgadas",
+            "Período de producción:": "de 1997 a 2001",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2959 cm3 / 180.6 cu-in",
+            "Peso:": "de 1425 kg / 3142 lbs a 1515 kg / 3340 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1272/Kappa-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Kappa 2.0 16v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Kappa 2.0 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Kappa 2.0 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Kappa 2.0 20v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kappa 2.4 20v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2446 cm3 (149.3 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Kappa 3.0 24v V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2959 cm3 (180.6 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Kappa 3.0 24v V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2959 cm3 (180.6 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Kappa 2.4 JTD Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Kappa 2.4 Turbo DS Ficha Tecnica",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "124 hp / 91 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Kappa (1994 - 2001)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 7 L/100 km / 40 MPG UK / 34 MPG US a 10.5 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 124 PS / 122 HP / 91 kW a 220 PS / 217 HP / 162 kW",
+            "Largo:": "469.0 cm / 184.65 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 1994 a 2001",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2959 cm3 / 180.6 cu-in",
+            "Peso:": "de 1424 kg / 3139 lbs a 1540 kg / 3395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1271/Kappa"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1272/w170_Lancia-Kappa-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Kappa"
+    },
+    {
+      "modelName": "Phedra",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Phedra 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Phedra 3.0 V6 24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2946 cm3 (179.8 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.0 JTD 16v 110 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.0 Mjet 16v 120 6sp Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.0 Mjet 16v 136 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.2 JTD 16v 130 5sp Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.2 JTD 16v 130 6sp Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.2 JTD 16V 170HP Limited Edition Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Phedra 2.2 JTD 16V 170HP Limited Edition Aut. Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": ""
+            }
+          ],
+          "actualFinalModelName": "Lancia Phedra Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "282.3 cm / 111.14 pulgadas",
+            "Consumos Medio:": "de 7.2 L/100 km / 39 MPG UK / 33 MPG US a 8.2 L/100 km / 34 MPG UK / 29 MPG US",
+            "Alto:": "175.2 cm / 68.98 pulgadas",
+            "Emisiones de CO2:": "de 182 a 275 g/Km",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 204 PS / 201 HP / 150 kW",
+            "Largo:": "475.0 cm / 187.01 pulgadas",
+            "Ancho:": "186.3 cm / 73.35 pulgadas",
+            "Período de producción:": "de 2002 a 2006",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2946 cm3 / 179.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M447/Phedra"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/447/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M447/Phedra"
+    },
+    {
+      "modelName": "Dedra",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Dedra 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.6 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1581 cm3 (96.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1750 cm3 (106.8 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.8 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.8 16v VVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Dedra 1.8 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1756 cm3 (107.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Dedra 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "139 hp / 102 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Dedra 2.0 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Dedra 2.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Dedra HF Integrale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "171 hp / 126 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Dedra HF Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dedra 1.9 td Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dedra 1.9 Turbo DS Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dedra Turbo DS Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Lancia Dedra Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Consumos Medio:": "de 6 L/100 km / 47 MPG UK / 39 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 80 PS / 79 HP / 59 kW a 171 PS / 169 HP / 126 kW",
+            "Largo:": "434.0 cm / 170.87 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1990 a 1999",
+            "Cilindrada:": "de 1581 cm3 / 96.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1082 kg / 2385 lbs a 1350 kg / 2976 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1266/Dedra"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1266/w170_Lancia-Dedra-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1266/Dedra"
+    },
+    {
+      "modelName": "Y10",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Y10 Phase 3 1.1 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1108 cm3 (67.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 3 1.3 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1301 cm3 (79.4 cu-in)",
+              "Potencia": "72 hp / 53 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Y10 Phase 3 (1992 - 1995)",
+          "specifications": {
+            "Batalla:": "216.0 cm / 85.04 pulgadas",
+            "Consumos Medio:": "de 6.1 L/100 km / 46 MPG UK / 39 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 50 PS / 49 HP / 37 kW a 72 PS / 71 HP / 53 kW",
+            "Largo:": "342.0 cm / 134.65 pulgadas",
+            "Ancho:": "151.0 cm / 59.45 pulgadas",
+            "Período de producción:": "de 1992 a 1995",
+            "Cilindrada:": "de 1108 cm3 / 67.6 cu-in a 1301 cm3 / 79.4 cu-in",
+            "Peso:": "de 783 kg / 1726 lbs a 840 kg / 1852 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1277/Y10-Phase-3"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.0 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.0 Kat Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1049 cm3 (64 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.1 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1108 cm3 (67.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.1 i.e. Selectronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1108 cm3 (67.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 1.3 i.e. GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1301 cm3 (79.4 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Y10 Phase 1 & 2 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1049 cm3 (64 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Y10 Phase 1 & 2 (1985 - 1992)",
+          "specifications": {
+            "Batalla:": "216 cm / 85.04 pulgadas",
+            "Consumos Medio:": "de 5.4 L/100 km / 52 MPG UK / 44 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "143 cm / 56.3 pulgadas",
+            "Potencia:": "de 44 PS / 43 HP / 32 kW a 86 PS / 85 HP / 63 kW",
+            "Largo:": "339 cm / 133.46 pulgadas",
+            "Ancho:": "151 cm / 59.45 pulgadas",
+            "Período de producción:": "de 1985 a 1992",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1301 cm3 / 79.4 cu-in",
+            "Peso:": "de 720 kg / 1587 lbs a 840 kg / 1852 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1276/Y10-Phase-1---2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1277/w170_Lancia-Y10-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Y10"
+    },
+    {
+      "modelName": "Prisma",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Prisma 1.6 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Prisma 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1301 cm3 (79.4 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Prisma 1500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Prisma 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Prisma 2.0 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Prisma Diesel Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Prisma Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "1929 cm3 (117.7 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Lancia Prisma Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "247.5 cm / 97.44 pulgadas",
+            "Consumos Medio:": "de 5.8 L/100 km / 49 MPG UK / 41 MPG US a 9.6 L/100 km / 29 MPG UK / 25 MPG US",
+            "Alto:": "138.5 cm / 54.53 pulgadas",
+            "Potencia:": "de 65 PS / 64 HP / 48 kW a 116 PS / 114 HP / 85 kW",
+            "Largo:": "418.0 cm / 164.57 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1983 a 1993",
+            "Cilindrada:": "de 1301 cm3 / 79.4 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 950 kg / 2094 lbs a 1180 kg / 2601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M163/Prisma"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/163/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M163/Prisma"
+    },
+    {
+      "modelName": "Beta",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Beta Spider 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1973"
+            },
+            {
+              "Motores de Gasolina": "Beta Spider 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1975"
+            }
+          ],
+          "actualFinalModelName": "Beta Spider (1974 - 1984)",
+          "specifications": {
+            "Batalla:": "235.0 cm / 92.52 pulgadas",
+            "Consumos Medio:": "de 9 L/100 km / 31 MPG UK / 26 MPG US a 9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "126.0 cm / 49.61 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 115 PS / 113 HP / 85 kW",
+            "Largo:": "404.0 cm / 159.06 pulgadas",
+            "Ancho:": "165.0 cm / 64.96 pulgadas",
+            "Período de producción:": "de 1974 a 1984",
+            "Cilindrada:": "de 1585 cm3 / 96.7 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "1050 kg / 2315 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1265/Beta-Spider"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Beta Coupe 1400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1367 cm3 (83.4 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Beta Coupe 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "Beta Coupe 2000 iE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Beta Coupe 2000 VX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "Beta Coupe (1973 - 1984)",
+          "specifications": {
+            "Batalla:": "235 cm / 92.52 pulgadas",
+            "Alto:": "128.5 cm / 50.59 pulgadas",
+            "Potencia:": "de 84 PS / 83 HP / 62 kW a 135 PS / 133 HP / 99 kW",
+            "Largo:": "399.5 cm / 157.28 pulgadas",
+            "Ancho:": "165 cm / 64.96 pulgadas",
+            "Período de producción:": "de 1973 a 1984",
+            "Cilindrada:": "de 1367 cm3 / 83.4 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1000 kg / 2205 lbs a 1100 kg / 2425 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M165/Beta-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Beta 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "Beta 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1975"
+            }
+          ],
+          "actualFinalModelName": "Beta (1972 - 1984)",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Consumos Medio:": "de 9.3 L/100 km / 30 MPG UK / 25 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 115 PS / 113 HP / 85 kW",
+            "Largo:": "432.0 cm / 170.08 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1972 a 1984",
+            "Cilindrada:": "de 1585 cm3 / 96.7 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1145 kg / 2524 lbs a 1165 kg / 2568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1264/Beta"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1265/w170_Lancia-Beta-Spider-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Beta"
+    },
+    {
+      "modelName": "Gamma",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Gamma 2500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2484 cm3 (151.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "Gamma 2500 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2484 cm3 (151.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Gamma (1976 - 1984)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 11.8 L/100 km / 24 MPG UK / 20 MPG US a 12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Potencia:": "140 PS / 138 HP / 103 kW",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1976 a 1984",
+            "Cilindrada:": "2484 cm3 / 151.6 cu-in",
+            "Peso:": "1340 kg / 2954 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1269/Gamma"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Gamma Coupe 2500 i.e. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2484 cm3 (151.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Gamma Coupe (1976 - 1984)",
+          "specifications": {
+            "Batalla:": "256.0 cm / 100.79 pulgadas",
+            "Consumos Medio:": "11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "133.0 cm / 52.36 pulgadas",
+            "Potencia:": "140 PS / 138 HP / 103 kW",
+            "Largo:": "448.0 cm / 176.38 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1976 a 1984",
+            "Cilindrada:": "2484 cm3 / 151.6 cu-in",
+            "Peso:": "1290 kg / 2844 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1270/Gamma-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1270/w170_Lancia-Gamma-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia-models/Lancia-Gamma"
+    },
+    {
+      "modelName": "Trevi",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Trevi 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Trevi 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Trevi 2000 iE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Trevi 2000 VX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Lancia Trevi Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "254 cm / 100 pulgadas",
+            "Consumos Medio:": "9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "140 cm / 55.12 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 135 PS / 133 HP / 99 kW",
+            "Largo:": "435.5 cm / 171.46 pulgadas",
+            "Ancho:": "170.6 cm / 67.17 pulgadas",
+            "Período de producción:": "de 1980 a 1985",
+            "Cilindrada:": "de 1585 cm3 / 96.7 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 975 kg / 2150 lbs a 1195 kg / 2635 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M164/Trevi"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/164/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M164/Trevi"
+    },
+    {
+      "modelName": "HPE",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "HPE 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1585 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "HPE 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "HPE 2000 iE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "HPE 2000 VX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "Lancia HPE Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "254 cm / 100 pulgadas",
+            "Consumos Medio:": "8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "130.8 cm / 51.5 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 135 PS / 133 HP / 99 kW",
+            "Largo:": "428 cm / 168.5 pulgadas",
+            "Ancho:": "165 cm / 64.96 pulgadas",
+            "Período de producción:": "de 1975 a 1984",
+            "Cilindrada:": "de 1585 cm3 / 96.7 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1060 kg / 2337 lbs a 1135 kg / 2502 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M166/HPE"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lancia/166/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M166/HPE"
+    },
+    {
+      "modelName": "Rally 037",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Rally 037 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Lancia Rally 037 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244 cm / 96.06 pulgadas",
+            "Alto:": "124.5 cm / 49.02 pulgadas",
+            "Potencia:": "205 PS / 202 HP / 151 kW",
+            "Largo:": "391.5 cm / 154.13 pulgadas",
+            "Ancho:": "185 cm / 72.83 pulgadas",
+            "Período de producción:": "de 1982 a 1984",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "1170 kg / 2579 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M167/Rally-037"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/167/w170_Lancia-Rally-037-43.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M167/Rally-037"
+    },
+    {
+      "modelName": "Monte Carlo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Monte Carlo 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "Lancia Monte Carlo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Consumos Medio:": "10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "119.0 cm / 46.85 pulgadas",
+            "Potencia:": "120 PS / 118 HP / 88 kW",
+            "Largo:": "381.0 cm / 150 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1980 a 1982",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "870 kg / 1918 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1274/Monte-Carlo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1274/w170_Lancia-Monte-Carlo-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1274/Monte-Carlo"
+    },
+    {
+      "modelName": "Zeta",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Zeta 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Zeta 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Zeta 2.0 JTD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Zeta 2.0 JTD 16v Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Zeta 2.1 Turbo DS Ficha Tecnica",
+              "Cilindrada": "2088 cm3 (127.4 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Lancia Zeta Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "282.0 cm / 111.02 pulgadas",
+            "Consumos Medio:": "de 6.7 L/100 km / 42 MPG UK / 35 MPG US a 10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 147 PS / 145 HP / 108 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 1997 a 2001",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2088 cm3 / 127.4 cu-in",
+            "Peso:": "de 1530 kg / 3373 lbs a 1578 kg / 3479 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1279/Zeta"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/1279/w170_Lancia-Zeta-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M1279/Zeta"
+    },
+    {
+      "modelName": "Fulvia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fulvia 1100 Saloon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "59 hp / 43 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Fulvia 1300 Saloon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Fulvia 1600 Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1584 cm3 (96.7 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "Fulvia 2 C Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Berlina GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1231 cm3 (75.1 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1216 cm3 (74.2 cu-in)",
+              "Potencia": "81 hp / 60 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe 1.3 Rallye Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1967"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe 1.3 Rallye HF Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1967"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe 1.3S Rallye Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "93 hp / 68 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe Concept Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1747 cm3 (106.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe S2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Coupe S3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1973"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1216 cm3 (74.2 cu-in)",
+              "Potencia": "81 hp / 60 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "Fulvia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1967"
+            }
+          ],
+          "actualFinalModelName": "Lancia Fulvia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "247.7 cm / 97.52 pulgadas",
+            "Consumos Medio:": "8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "139.7 cm / 55 pulgadas",
+            "Potencia:": "de 59 PS / 58 HP / 43 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "411.5 cm / 162.01 pulgadas",
+            "Ancho:": "155.7 cm / 61.3 pulgadas",
+            "Período de producción:": "1963",
+            "Cilindrada:": "de 1091 cm3 / 66.6 cu-in a 1747 cm3 / 106.6 cu-in",
+            "Peso:": "de 795 kg / 1753 lbs a 1070 kg / 2359 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2451/Fulvia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/2451/w170_Lancia-Fulvia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2451/Fulvia"
+    },
+    {
+      "modelName": "Flavia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Flavia 1800 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "93 hp / 68 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flavia 1800 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Flavia 1800 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flavia 1800 Coupe Injection Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "Flavia 1800 Injection Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "Flavia 1800 Injection Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Flavia 2000 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "Flavia 2000 Coupe Injection Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "124 hp / 91 kW",
+              "Año": "1970"
+            },
+            {
+              "Motores de Gasolina": "Flavia Berlina Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1486 cm3 (90.7 cu-in)",
+              "Potencia": "78 hp / 57 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Flavia Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1500 cm3 (91.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Flavia Saloon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "134 hp / 99 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "Flavia Saloon Injection Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "Flavia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flavia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1968"
+            },
+            {
+              "Motores de Gasolina": "Flavia Zagato Injection Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1800 cm3 (109.8 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1968"
+            }
+          ],
+          "actualFinalModelName": "Lancia Flavia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "264.9 cm / 104.29 pulgadas",
+            "Alto:": "150.9 cm / 59.41 pulgadas",
+            "Potencia:": "de 78 PS / 77 HP / 57 kW a 144 PS / 142 HP / 106 kW",
+            "Largo:": "458 cm / 180.31 pulgadas",
+            "Ancho:": "161 cm / 63.39 pulgadas",
+            "Período de producción:": "de 1960 a 1971",
+            "Cilindrada:": "de 1486 cm3 / 90.7 cu-in a 1991 cm3 / 121.5 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1210 kg / 2668 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2453/Flavia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/2453/w170_Lancia-Flavia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2453/Flavia"
+    },
+    {
+      "modelName": "Flaminia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Flaminia Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1957"
+            },
+            {
+              "Motores de Gasolina": "Flaminia Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2775 cm3 (169.3 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 2.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1957"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 2.5 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 2.5 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 2.8 GT Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2775 cm3 (169.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 2.8 GTL Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2775 cm3 (169.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 3C 2800 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2775 cm3 (169.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia 3C 2800 Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2775 cm3 (169.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Flaminia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "Flaminia Zagato Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2458 cm3 (150 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1960"
+            }
+          ],
+          "actualFinalModelName": "Lancia Flaminia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "287 cm / 112.99 pulgadas",
+            "Alto:": "146.1 cm / 57.52 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "485.1 cm / 190.98 pulgadas",
+            "Ancho:": "175.3 cm / 69.02 pulgadas",
+            "Período de producción:": "1956",
+            "Cilindrada:": "de 2458 cm3 / 150 cu-in a 2775 cm3 / 169.3 cu-in",
+            "Peso:": "de 1202 kg / 2650 lbs a 1480 kg / 3263 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2455/Flaminia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/2455/w170_Lancia-Flaminia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2455/Flaminia"
+    },
+    {
+      "modelName": "Appia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Appia C10 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "39 hp / 29 kW",
+              "Año": "1953"
+            },
+            {
+              "Motores de Gasolina": "Appia Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1953"
+            },
+            {
+              "Motores de Gasolina": "Appia Series II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1953"
+            },
+            {
+              "Motores de Gasolina": "Appia Series III Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Appia Series III Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Appia Series III de Luxe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Appia Series III Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "Appia Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "Appia Zagato GTE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1091 cm3 (66.6 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1957"
+            }
+          ],
+          "actualFinalModelName": "Lancia Appia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248.3 cm / 97.76 pulgadas",
+            "Alto:": "142.2 cm / 55.98 pulgadas",
+            "Potencia:": "de 39 PS / 38 HP / 29 kW a 60 PS / 59 HP / 44 kW",
+            "Largo:": "387.4 cm / 152.52 pulgadas",
+            "Ancho:": "142.2 cm / 55.98 pulgadas",
+            "Período de producción:": "1953",
+            "Cilindrada:": "1091 cm3 / 66.6 cu-in",
+            "Peso:": "de 790 kg / 1742 lbs a 925 kg / 2039 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2456/Appia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/2456/w170_Lancia-Appia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2456/Appia"
+    },
+    {
+      "modelName": "Aurelia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Aurelia B20 Gran Turismo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "1951"
+            },
+            {
+              "Motores de Gasolina": "Aurelia B20 Gran Turismo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1954"
+            },
+            {
+              "Motores de Gasolina": "Aurelia B21 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "1950"
+            },
+            {
+              "Motores de Gasolina": "Aurelia B24 2500 GT Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1954"
+            },
+            {
+              "Motores de Gasolina": "Aurelia B24 GT 2500 Convertible America Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "Aurelia B50 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1754 cm3 (107 cu-in)",
+              "Potencia": "57 hp / 42 kW",
+              "Año": "1950"
+            },
+            {
+              "Motores de Gasolina": "Aurelia Gran Turismo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2451 cm3 (149.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1953"
+            },
+            {
+              "Motores de Gasolina": "Aurelia Series II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2266 cm3 (138.3 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1952"
+            }
+          ],
+          "actualFinalModelName": "Lancia Aurelia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265 cm / 104.33 pulgadas",
+            "Alto:": "135.9 cm / 53.5 pulgadas",
+            "Potencia:": "de 57 PS / 56 HP / 42 kW a 120 PS / 118 HP / 88 kW",
+            "Largo:": "436.9 cm / 172.01 pulgadas",
+            "Ancho:": "155 cm / 61.02 pulgadas",
+            "Período de producción:": "1950",
+            "Cilindrada:": "de 1754 cm3 / 107 cu-in a 2451 cm3 / 149.6 cu-in",
+            "Peso:": "de 1070 kg / 2359 lbs a 1215 kg / 2679 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2472/Aurelia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/2472/w170_Lancia-Aurelia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M2472/Aurelia"
+    },
+    {
+      "modelName": "Stratos",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Stratos HF Stradale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2419 cm3 (147.6 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1974"
+            }
+          ],
+          "actualFinalModelName": "Lancia Stratos Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "218 cm / 85.83 pulgadas",
+            "Alto:": "111 cm / 43.7 pulgadas",
+            "Potencia:": "190 PS / 187 HP / 140 kW",
+            "Largo:": "371 cm / 146.06 pulgadas",
+            "Ancho:": "175 cm / 68.9 pulgadas",
+            "Período de producción:": "de 1974 a 1978",
+            "Cilindrada:": "2419 cm3 / 147.6 cu-in",
+            "Peso:": "980 kg / 2161 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M3648/Stratos"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/41/3648/w170_Lancia-Stratos-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lancia/M3648/Stratos"
+    }
+  ],
+  "brandName": "Lancia"
+}

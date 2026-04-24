@@ -1,0 +1,1251 @@
+{
+  "models": [
+    {
+      "modelName": "Materia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Materia 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Materia 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Materia 1.5 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Materia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Alto:": "164.0 cm / 64.57 pulgadas",
+            "Emisiones de CO2:": "de 156 a 172 g/Km",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 103 PS / 102 HP / 76 kW",
+            "Largo:": "380.0 cm / 149.61 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "2007",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1495 cm3 / 91.2 cu-in",
+            "Peso:": "de 1000 kg / 2205 lbs a 1075 kg / 2370 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M779/Materia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/779/w170_Daihatsu-Materia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M779/Materia"
+    },
+    {
+      "modelName": "Copen",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Copen 0.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 659 cm3 (- cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Copen 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Copen Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "222.0 cm / 87.4 pulgadas",
+            "Alto:": "124.0 cm / 48.82 pulgadas",
+            "Emisiones de CO2:": "de 140 a 151 g/Km",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 87 PS / 86 HP / 64 kW",
+            "Largo:": "340.0 cm / 133.86 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "de 2004 a 2006",
+            "Cilindrada:": "de - cm3 / - cu-in a 1298 cm3 / 79.2 cu-in",
+            "Peso:": "de 830 kg / 1830 lbs a 850 kg / 1874 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M768/Copen"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/768/w170_Daihatsu-Copen-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M768/Copen"
+    },
+    {
+      "modelName": "Trevis",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Trevis 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "989 cm3 (60.4 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Trevis Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "114 g/Km",
+            "Potencia:": "58 PS / 57 HP / 43 kW",
+            "Largo:": "340.0 cm / 133.86 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "989 cm3 / 60.4 cu-in",
+            "Peso:": "790 kg / 1742 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M787/Trevis"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/787/w170_Daihatsu-Trevis-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M787/Trevis"
+    },
+    {
+      "modelName": "Sirion II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sirion II 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 998 cm3 (- cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.0 12V HIRO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.0 12V SHO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V 4WD TAKA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V 4WD TAKA Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16v 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V HIRO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V HIRO Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V TAKA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.3 16V TAKA Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sirion II 1.5 16V SPORT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Sirion II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "243.0 cm / 95.67 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 118 a 159 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 103 PS / 102 HP / 76 kW",
+            "Largo:": "360.0 cm / 141.73 pulgadas",
+            "Ancho:": "166.0 cm / 65.35 pulgadas",
+            "Período de producción:": "2005",
+            "Cilindrada:": "de - cm3 / - cu-in a 1495 cm3 / 91.2 cu-in",
+            "Peso:": "de 865 kg / 1907 lbs a 1100 kg / 2425 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M784/Sirion-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/784/w170_Daihatsu-Sirion-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M784/Sirion-II"
+    },
+    {
+      "modelName": "Cuore VII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore VII 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "989 cm3 (60.4 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore VII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "109 g/Km",
+            "Potencia:": "58 PS / 57 HP / 43 kW",
+            "Largo:": "341.0 cm / 134.25 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "989 cm3 / 60.4 cu-in",
+            "Peso:": "740 kg / 1631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M775/Cuore-VII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/775/w170_Daihatsu-Cuore-VII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M775/Cuore-VII"
+    },
+    {
+      "modelName": "Terios II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Terios II 1.3 HIRO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.3 SHO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 16v 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 16v 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 HIRO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 HIRO Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 HIRO O/F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Terios II 1.5 SHO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Terios II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "258.0 cm / 101.57 pulgadas",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Emisiones de CO2:": "de 173 a 186 g/Km",
+            "Potencia:": "de 86 PS / 85 HP / 63 kW a 105 PS / 104 HP / 77 kW",
+            "Largo:": "405.5 cm / 159.65 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1495 cm3 / 91.2 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1265 kg / 2789 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M786/Terios-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/786/w170_Daihatsu-Terios-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M786/Terios-II"
+    },
+    {
+      "modelName": "Cuore VI",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore VI 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "989 cm3 (60.4 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore VI Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "109 g/Km",
+            "Potencia:": "58 PS / 57 HP / 43 kW",
+            "Largo:": "341.0 cm / 134.25 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "de 2003 a 2006",
+            "Cilindrada:": "989 cm3 / 60.4 cu-in",
+            "Peso:": "740 kg / 1631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M774/Cuore-VI"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/774/w170_Daihatsu-Cuore-VI-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M774/Cuore-VI"
+    },
+    {
+      "modelName": "YRV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "YRV 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 989 cm3 (- cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "YRV 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "YRV 1.3 16v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu YRV Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 135 a 165 g/Km",
+            "Potencia:": "de 58 PS / 57 HP / 43 kW a 129 PS / 127 HP / 95 kW",
+            "Largo:": "376.0 cm / 148.03 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 2001 a 2007",
+            "Cilindrada:": "de - cm3 / - cu-in a 1298 cm3 / 79.2 cu-in",
+            "Peso:": "de 847 kg / 1867 lbs a 902 kg / 1989 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M788/YRV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/788/w170_Daihatsu-YRV-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M788/YRV"
+    },
+    {
+      "modelName": "Move",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Move 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "989 cm3 (60.4 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Move 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 989 cm3 (- cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Move 850 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Move Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Consumos Medio:": "de 5.6 L/100 km / 50 MPG UK / 42 MPG US a 5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "de 42 PS / 41 HP / 31 kW a 58 PS / 57 HP / 43 kW",
+            "Largo:": "341.0 cm / 134.25 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "de 1997 a 2003",
+            "Cilindrada:": "de - cm3 / - cu-in a 989 cm3 / 60.4 cu-in",
+            "Peso:": "de 720 kg / 1587 lbs a 790 kg / 1742 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M780/Move"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/780/w170_Daihatsu-Move-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M780/Move"
+    },
+    {
+      "modelName": "Terios I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Terios I 1.3i 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Terios I 1.3i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1296 cm3 (79.1 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Terios I 1.3i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Terios I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Consumos Medio:": "7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "de 83 PS / 82 HP / 61 kW a 86 PS / 85 HP / 63 kW",
+            "Largo:": "384.0 cm / 151.18 pulgadas",
+            "Ancho:": "156.0 cm / 61.42 pulgadas",
+            "Período de producción:": "de 1997 a 2005",
+            "Cilindrada:": "de 1296 cm3 / 79.1 cu-in a 1298 cm3 / 79.2 cu-in",
+            "Peso:": "de 1005 kg / 2216 lbs a 1025 kg / 2260 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M785/Terios-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/785/w170_Daihatsu-Terios-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M785/Terios-I"
+    },
+    {
+      "modelName": "Grand Move",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Move 1.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Grand Move 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Grand Move Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Consumos Medio:": "7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "160.0 cm / 62.99 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 91 PS / 90 HP / 67 kW",
+            "Largo:": "410.0 cm / 161.42 pulgadas",
+            "Ancho:": "164.0 cm / 64.57 pulgadas",
+            "Período de producción:": "de 1997 a 2002",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1590 cm3 / 97 cu-in",
+            "Peso:": "965 kg / 2127 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M778/Grand-Move"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/778/w170_Daihatsu-Grand-Move-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M778/Grand-Move"
+    },
+    {
+      "modelName": "Cuore V (L700)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore V (L700) 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 989 cm3 (- cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Cuore V (L700) 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "989 cm3 (60.4 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore V (L700) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Emisiones de CO2:": "de 119 a 124 g/Km",
+            "Potencia:": "de 55 PS / 54 HP / 40 kW a 58 PS / 57 HP / 43 kW",
+            "Largo:": "341.0 cm / 134.25 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de - cm3 / - cu-in a 989 cm3 / 60.4 cu-in",
+            "Peso:": "715 kg / 1576 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M773/Cuore-V-(L700)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/773/w170_Daihatsu-Cuore-V-(L700)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M773/Cuore-V-(L700)"
+    },
+    {
+      "modelName": "Applause",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Applause 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Applause 16i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Applause 16i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Applause Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "247.0 cm / 97.24 pulgadas",
+            "Consumos Medio:": "de 7 L/100 km / 40 MPG UK / 34 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 105 PS / 104 HP / 77 kW",
+            "Largo:": "435.0 cm / 171.26 pulgadas",
+            "Ancho:": "166.0 cm / 65.35 pulgadas",
+            "Período de producción:": "de 1989 a 2001",
+            "Cilindrada:": "de 1589 cm3 / 97 cu-in a 1590 cm3 / 97 cu-in",
+            "Peso:": "de 960 kg / 2116 lbs a 1038 kg / 2288 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M763/Applause"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/763/w170_Daihatsu-Applause-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M763/Applause"
+    },
+    {
+      "modelName": "Sirion",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sirion 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 989 cm3 (- cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Sirion 1.0 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 989 cm3 (- cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Sirion 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Sirion 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Sirion Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Emisiones de CO2:": "de 131 a 154 g/Km",
+            "Potencia:": "de 55 PS / 54 HP / 40 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "368.0 cm / 144.88 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de - cm3 / - cu-in a 1298 cm3 / 79.2 cu-in",
+            "Peso:": "de 785 kg / 1731 lbs a 850 kg / 1874 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M783/Sirion"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/783/w170_Daihatsu-Sirion-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M783/Sirion"
+    },
+    {
+      "modelName": "Cuore IV (L500)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore IV (L500) 850 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Cuore IV (L500) TR-XX Avanzato R4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "659 cm3 (40.2 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore IV (L500) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 7.1 L/100 km / 40 MPG UK / 33 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "de 44 PS / 43 HP / 32 kW a 65 PS / 64 HP / 48 kW",
+            "Largo:": "331.0 cm / 130.31 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1995 a 1998",
+            "Cilindrada:": "de 659 cm3 / 40.2 cu-in a 847 cm3 / 51.7 cu-in",
+            "Peso:": "de 648 kg / 1429 lbs a 740 kg / 1631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M772/Cuore-IV-(L500)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/772/w170_Daihatsu-Cuore-IV-(L500)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M772/Cuore-IV-(L500)"
+    },
+    {
+      "modelName": "Rocky II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky II Hardtop Diesel Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky II Hardtop Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky II Wagon Diesel Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky II Wagon Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Rocky II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Consumos Medio:": "de 10.7 L/100 km / 26 MPG UK / 22 MPG US a 10.8 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "185.0 cm / 72.83 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "384.0 cm / 151.18 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1994 a 2003",
+            "Cilindrada:": "2765 cm3 / 168.7 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1720 kg / 3792 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M782/Rocky-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/782/w170_Daihatsu-Rocky-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M782/Rocky-II"
+    },
+    {
+      "modelName": "Feroza II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Feroza II Resin-Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Feroza II Soft-Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Feroza II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "218.0 cm / 85.83 pulgadas",
+            "Consumos Medio:": "de 10 L/100 km / 28 MPG UK / 24 MPG US a 10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "de 86 PS / 85 HP / 63 kW a 95 PS / 94 HP / 70 kW",
+            "Largo:": "380.0 cm / 149.61 pulgadas",
+            "Ancho:": "164.0 cm / 64.57 pulgadas",
+            "Período de producción:": "de 1994 a 1998",
+            "Cilindrada:": "1589 cm3 / 97 cu-in",
+            "Peso:": "de 1125 kg / 2480 lbs a 1220 kg / 2690 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M777/Feroza-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/777/w170_Daihatsu-Feroza-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M777/Feroza-II"
+    },
+    {
+      "modelName": "Charade (G200)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Charade (G200) 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1295 cm3 (79 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Charade (G200) 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1295 cm3 (79 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Charade (G200) 1.6 GTI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Charade (G200) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Consumos Medio:": "de 6.6 L/100 km / 43 MPG UK / 36 MPG US a 6.7 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 84 PS / 83 HP / 62 kW a 105 PS / 104 HP / 77 kW",
+            "Largo:": "375.0 cm / 147.64 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1993 a 2001",
+            "Cilindrada:": "de 1295 cm3 / 79 cu-in a 1590 cm3 / 97 cu-in",
+            "Peso:": "de 818 kg / 1803 lbs a 878 kg / 1936 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M766/Charade-(G200)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/766/w170_Daihatsu-Charade-(G200)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M766/Charade-(G200)"
+    },
+    {
+      "modelName": "Feroza I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Feroza I 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Feroza I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "218.0 cm / 85.83 pulgadas",
+            "Consumos Medio:": "10 L/100 km / 28 MPG UK / 24 MPG US",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Potencia:": "95 PS / 94 HP / 70 kW",
+            "Largo:": "378.0 cm / 148.82 pulgadas",
+            "Ancho:": "158.0 cm / 62.2 pulgadas",
+            "Período de producción:": "de 1991 a 1994",
+            "Cilindrada:": "1589 cm3 / 97 cu-in",
+            "Peso:": "1206 kg / 2659 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M776/Feroza-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/776/w170_Daihatsu-Feroza-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M776/Feroza-I"
+    },
+    {
+      "modelName": "Cuore III (L200)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore III (L200) 850 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 847 cm3 (- cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore III (L200) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "228.0 cm / 89.76 pulgadas",
+            "Consumos Medio:": "5.6 L/100 km / 50 MPG UK / 42 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "41 PS / 40 HP / 30 kW",
+            "Largo:": "330.0 cm / 129.92 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1990 a 1995",
+            "Cilindrada:": "- cm3 / - cu-in",
+            "Peso:": "660 kg / 1455 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M771/Cuore-III-(L200)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/771/w170_Daihatsu-Cuore-III-(L200)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M771/Cuore-III-(L200)"
+    },
+    {
+      "modelName": "Charade (G100)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Charade (G100) 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Charade (G100) 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1295 cm3 (79 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Charade (G100) 1.3i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1295 cm3 (79 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Charade (G100) GTti Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1987"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Charade (G100) Diesel Ficha Tecnica",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1987"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Charade (G100) Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Charade (G100) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 37 PS / 36 HP / 27 kW a 101 PS / 100 HP / 74 kW",
+            "Largo:": "361.0 cm / 142.13 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 1987 a 1994",
+            "Cilindrada:": "de - cm3 / - cu-in a 1295 cm3 / 79 cu-in",
+            "Peso:": "de 750 kg / 1653 lbs a 870 kg / 1918 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M765/Charade-(G100)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/765/w170_Daihatsu-Charade-(G100)-6.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M765/Charade-(G100)"
+    },
+    {
+      "modelName": "Charade (G11)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Charade (G11) 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Charade (G11) 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Charade (G11) Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Charade (G11) Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Charade (G11) Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1985"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Charade (G11) Diesel Ficha Tecnica",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1983"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Charade (G11) Diesel Ficha Tecnica",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1985"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Charade (G11) Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Charade (G11) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "216.0 cm / 85.04 pulgadas",
+            "Consumos Medio:": "de 4.9 L/100 km / 58 MPG UK / 48 MPG US a 6.6 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 37 PS / 36 HP / 27 kW a 68 PS / 67 HP / 50 kW",
+            "Largo:": "355.0 cm / 139.76 pulgadas",
+            "Ancho:": "155.0 cm / 61.02 pulgadas",
+            "Período de producción:": "de 1983 a 1987",
+            "Cilindrada:": "de - cm3 / - cu-in a 993 cm3 / 60.6 cu-in",
+            "Peso:": "de 677 kg / 1493 lbs a 744 kg / 1640 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M764/Charade-(G11)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/764/w170_Daihatsu-Charade-(G11)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M764/Charade-(G11)"
+    },
+    {
+      "modelName": "Cuore II (L70)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore II (L70) 850 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 846 cm3 (- cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore II (L70) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "225.0 cm / 88.58 pulgadas",
+            "Consumos Medio:": "5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Potencia:": "44 PS / 43 HP / 32 kW",
+            "Largo:": "320.0 cm / 125.98 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1985 a 1990",
+            "Cilindrada:": "- cm3 / - cu-in",
+            "Peso:": "615 kg / 1356 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M770/Cuore-II-(L70)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/770/w170_Daihatsu-Cuore-II-(L70)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M770/Cuore-II-(L70)"
+    },
+    {
+      "modelName": "Charmant",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Charmant 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1290 cm3 (78.7 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Charmant 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1587 cm3 (96.8 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Charmant Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Consumos Medio:": "de 7.4 L/100 km / 38 MPG UK / 32 MPG US a 7.5 L/100 km / 38 MPG UK / 31 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 65 PS / 64 HP / 48 kW a 83 PS / 82 HP / 61 kW",
+            "Largo:": "420.0 cm / 165.35 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1982 a 1988",
+            "Cilindrada:": "de 1290 cm3 / 78.7 cu-in a 1587 cm3 / 96.8 cu-in",
+            "Peso:": "de 860 kg / 1896 lbs a 895 kg / 1973 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M767/Charmant"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/767/w170_Daihatsu-Charmant-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M767/Charmant"
+    },
+    {
+      "modelName": "Rocky I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Rocky I 2.0 Hardtop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Rocky I 2.0 Softtop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Rocky I 2.0 Wagon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.7 Turbo Diesel Hardtop Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.7 Turbo Diesel Wagon Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.8 Diesel Hardtop Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.8 Diesel Softtop Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.8 Diesel Wagon Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.8 Turbo Diesel Hardtop Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Rocky I 2.8 Turbo Diesel Wagon Ficha Tecnica",
+              "Cilindrada": "2765 cm3 (168.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Rocky I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Consumos Medio:": "de 10.5 L/100 km / 27 MPG UK / 22 MPG US a 13.2 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "184.0 cm / 72.44 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "379.0 cm / 149.21 pulgadas",
+            "Ancho:": "158.0 cm / 62.2 pulgadas",
+            "Período de producción:": "de 1984 a 1994",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2765 cm3 / 168.7 cu-in",
+            "Peso:": "de 1433 kg / 3159 lbs a 1598 kg / 3523 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M781/Rocky-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/781/w170_Daihatsu-Rocky-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M781/Rocky-I"
+    },
+    {
+      "modelName": "Cuore I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cuore I 0.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "617 cm3 (37.7 cu-in)",
+              "Potencia": "33 hp / 24 kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "Daihatsu Cuore I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "215.0 cm / 84.65 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "33 PS / 33 HP / 24 kW",
+            "Largo:": "320.0 cm / 125.98 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1980 a 1986",
+            "Cilindrada:": "617 cm3 / 37.7 cu-in",
+            "Peso:": "575 kg / 1268 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M769/Cuore-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/71/769/w170_Daihatsu-Cuore-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Daihatsu/M769/Cuore-I"
+    }
+  ],
+  "brandName": "Daihatsu"
+}

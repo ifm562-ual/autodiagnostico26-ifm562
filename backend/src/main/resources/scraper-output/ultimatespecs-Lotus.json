@@ -1,0 +1,1421 @@
+{
+  "models": [
+    {
+      "modelName": "Emira",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Emira 2.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "365 hp / 268 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Emira 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Lotus Emira Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "257.5 cm / 101.38 pulgadas",
+            "Consumos Medio:": "de 9.8 L/100 km / 29 MPG UK / 24 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "122.5 cm / 48.23 pulgadas",
+            "Potencia:": "de 365 PS / 360 HP / 268 kW a 405 PS / 399 HP / 298 kW",
+            "Largo:": "441.2 cm / 173.7 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "2022",
+            "Cilindrada:": "de 1991 cm3 / 121.5 cu-in a 3456 cm3 / 210.9 cu-in",
+            "Peso:": "1405 kg / 3097 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M13026/Emira"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/13026/w170_Lotus-Emira-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M13026/Emira"
+    },
+    {
+      "modelName": "Emeya",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Emeya 600 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "102.0 kWh"
+            },
+            {
+              "Eléctrico": "Emeya 900 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "918 hp / 675 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "102.0 kWh"
+            },
+            {
+              "Eléctrico": "Emeya Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "108.0 kWh"
+            },
+            {
+              "Eléctrico": "Emeya R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "918 hp / 675 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "108.0 kWh"
+            },
+            {
+              "Eléctrico": "Emeya S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "108.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Lotus Emeya Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "306.9 cm / 120.83 pulgadas",
+            "Alto:": "145.9 cm / 57.44 pulgadas",
+            "Potencia:": "de 612 PS / 604 HP / 450 kW a 918 PS / 906 HP / 675 kW",
+            "Peso de remolque:": "de 1225 kg / 2701 lbs a 2250 kg / 4960 lbs",
+            "Largo:": "513.9 cm / 202.32 pulgadas",
+            "Ancho:": "200.5 cm / 78.94 pulgadas",
+            "Período de producción:": "de 2024 a 2025",
+            "Peso:": "de 2555 kg / 5633 lbs a 2650 kg / 5842 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M14087/Emeya"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/14087/w170_Lotus-21_09_2024__Emeya-(ab-07-24)-7619c1831e1211b711.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M14087/Emeya"
+    },
+    {
+      "modelName": "Eletre",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Eletre 600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "112.0 kWh"
+            },
+            {
+              "Eléctrico": "Eletre 600 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "112.0 kWh"
+            },
+            {
+              "Eléctrico": "Eletre 600 Sport SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "112.0 kWh"
+            },
+            {
+              "Eléctrico": "Eletre 900 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "918 hp / 675 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "112.0 kWh"
+            },
+            {
+              "Eléctrico": "Eletre R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "918 hp / 675 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "112.0 kWh"
+            },
+            {
+              "Eléctrico": "Eletre S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "112.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Lotus Eletre Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "301.9 cm / 118.86 pulgadas",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "de 612 PS / 604 HP / 450 kW a 918 PS / 906 HP / 675 kW",
+            "Peso de remolque:": "2250 kg / 4960 lbs",
+            "Largo:": "510.3 cm / 200.91 pulgadas",
+            "Ancho:": "206.0 cm / 81.1 pulgadas",
+            "Período de producción:": "de 2023 a 2025",
+            "Peso:": "de 2565 kg / 5655 lbs a 2745 kg / 6052 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M13025/Eletre"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/13025/w170_Lotus-Eletre-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M13025/Eletre"
+    },
+    {
+      "modelName": "Evija",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Evija EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "2000 hp / 1471 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "90.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Lotus Evija Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "112.3 cm / 44.21 pulgadas",
+            "Potencia:": "2000 PS / 1973 HP / 1471 kW",
+            "Largo:": "445.9 cm / 175.55 pulgadas",
+            "Ancho:": "199.9 cm / 78.7 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "1680 kg / 3704 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M10872/Evija"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/10872/w170_Lotus-Evija-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M10872/Evija"
+    },
+    {
+      "modelName": "Elise S3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elise S3 Cup 250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "246 hp / 181 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Elise S3 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Elise S3 Sport 220 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elise S3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "111.7 cm / 43.98 pulgadas",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 246 PS / 243 HP / 181 kW",
+            "Largo:": "382.4 cm / 150.55 pulgadas",
+            "Ancho:": "171.9 cm / 67.68 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1796 cm3 / 109.6 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M8733/Elise-S3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/8733/w170_Lotus-Elise-S3-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M8733/Elise-S3"
+    },
+    {
+      "modelName": "Exige S3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Exige S3 S V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Lotus Exige S3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "237.0 cm / 93.31 pulgadas",
+            "Alto:": "112.9 cm / 44.45 pulgadas",
+            "Emisiones de CO2:": "236 g/Km",
+            "Potencia:": "350 PS / 345 HP / 257 kW",
+            "Largo:": "408.4 cm / 160.79 pulgadas",
+            "Ancho:": "180.2 cm / 70.94 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "1251 kg / 2758 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M5881/Exige-S3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/5881/w170_Lotus-Exige-S3-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M5881/Exige-S3"
+    },
+    {
+      "modelName": "Evora",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Evora Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora 2+2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora 400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Evora 400 2+2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Evora 400 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Evora GTE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "444 hp / 327 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Evora IPS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora IPS 2+2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora S 2+2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora S IPS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Evora S IPS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora S IPS 2+2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Evora Sport 410 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Evora Sport 410 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3456 cm3 (210.9 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Lotus Evora Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "257.5 cm / 101.38 pulgadas",
+            "Consumos Medio:": "9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "122.9 cm / 48.39 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 444 PS / 438 HP / 327 kW",
+            "Largo:": "435.1 cm / 171.3 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2011",
+            "Cilindrada:": "3456 cm3 / 210.9 cu-in",
+            "Peso:": "de 1276 kg / 2813 lbs a 1517 kg / 3344 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1618/Evora"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1618/w170_Lotus-Evora-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1618/Evora"
+    },
+    {
+      "modelName": "Elise",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elise Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Elise 111 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise 111R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise 111S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise Club Racer Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Elise R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Elise R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Elise Race Tech Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1794 cm3 (109.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Elise S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Elise SC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Elise Sports Tourer Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise Type 72 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elise Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Consumos Medio:": "de 6.9 L/100 km / 41 MPG UK / 34 MPG US a 8.7 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "114.3 cm / 45 pulgadas",
+            "Potencia:": "de 120 PS / 118 HP / 88 kW a 222 PS / 219 HP / 163 kW",
+            "Largo:": "378.5 cm / 149.02 pulgadas",
+            "Ancho:": "171.9 cm / 67.68 pulgadas",
+            "Período de producción:": "de 2000 a 2010",
+            "Cilindrada:": "de 1598 cm3 / 97.5 cu-in a 1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 805 kg / 1775 lbs a 999 kg / 2202 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1411/Elise"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1411/w170_Lotus-Elise-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1411/Elise"
+    },
+    {
+      "modelName": "Europa II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Europa II S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Lotus Europa II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "233.0 cm / 91.73 pulgadas",
+            "Alto:": "112.0 cm / 44.09 pulgadas",
+            "Emisiones de CO2:": "220 g/Km",
+            "Potencia:": "200 PS / 197 HP / 147 kW",
+            "Largo:": "390.0 cm / 153.54 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "1998 cm3 / 121.9 cu-in",
+            "Peso:": "995 kg / 2194 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1226/Europa-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1226/w170_Lotus-Europa-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1226/Europa-II"
+    },
+    {
+      "modelName": "Elise S2",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elise S2 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 111 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 111 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 111R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 72 JPS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 Race 122 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Elise S2 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elise S2 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Consumos Medio:": "6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "114.0 cm / 44.88 pulgadas",
+            "Potencia:": "de 118 PS / 116 HP / 87 kW a 192 PS / 189 HP / 141 kW",
+            "Largo:": "378.0 cm / 148.82 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 2001 a 2006",
+            "Cilindrada:": "1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 710 kg / 1565 lbs a 860 kg / 1896 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1222/Elise-S2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1222/w170_Lotus-Elise-S2-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1222/Elise-S2"
+    },
+    {
+      "modelName": "Exige S2",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Exige S2 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "192 hp / 141 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Exige S2 Cup 260 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Exige S2 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Exige S2 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Lotus Exige S2 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Consumos Medio:": "9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "116.0 cm / 45.67 pulgadas",
+            "Potencia:": "de 192 PS / 189 HP / 141 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "380.0 cm / 149.61 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "2004",
+            "Cilindrada:": "1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 875 kg / 1929 lbs a 1010 kg / 2227 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1224/Exige-S2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1224/w170_Lotus-Exige-S2-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1224/Exige-S2"
+    },
+    {
+      "modelName": "Exige S1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Exige S1 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Lotus Exige S1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "118.0 cm / 46.46 pulgadas",
+            "Potencia:": "179 PS / 177 HP / 132 kW",
+            "Largo:": "378.0 cm / 148.82 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 2000 a 2003",
+            "Cilindrada:": "1796 cm3 / 109.6 cu-in",
+            "Peso:": "780 kg / 1720 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1223/Exige-S1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1223/w170_Lotus-Exige-S1-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1223/Exige-S1"
+    },
+    {
+      "modelName": "Elise S1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elise S1 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Elise S1 111S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Elise S1 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Elise S1 340R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elise S1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "120.0 cm / 47.24 pulgadas",
+            "Potencia:": "de 118 PS / 116 HP / 87 kW a 179 PS / 177 HP / 132 kW",
+            "Largo:": "373.0 cm / 146.85 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1997 a 2001",
+            "Cilindrada:": "1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 658 kg / 1451 lbs a 770 kg / 1698 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1221/Elise-S1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1221/w170_Lotus-Elise-S1-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1221/Elise-S1"
+    },
+    {
+      "modelName": "Esprit",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit S4 GT3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1973 cm3 (120.4 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Esprit S4 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3506 cm3 (213.9 cu-in)",
+              "Potencia": "354 hp / 260 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Esprit S4 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3506 cm3 (213.9 cu-in)",
+              "Potencia": "356 hp / 262 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Esprit S4 V8 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3506 cm3 (213.9 cu-in)",
+              "Potencia": "354 hp / 260 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Esprit S4 - 1994 Update (1994 - 2004)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Alto:": "115.0 cm / 45.28 pulgadas",
+            "Emisiones de CO2:": "de 298 a 318 g/Km",
+            "Potencia:": "de 240 PS / 237 HP / 177 kW a 356 PS / 351 HP / 262 kW",
+            "Largo:": "437.0 cm / 172.05 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 1994 a 2004",
+            "Cilindrada:": "de 1973 cm3 / 120.4 cu-in a 3506 cm3 / 213.9 cu-in",
+            "Peso:": "de 1300 kg / 2866 lbs a 1380 kg / 3042 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M1225/Esprit-S4"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit X180 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "174 hp / 128 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "174 hp / 128 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Sport 300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo Kat. 220HP EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo Kat. EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo S EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo SE 284HP EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo SE EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo SE EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo SE US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo UK-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 Turbo US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Esprit X180 X180-R Limited Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "285 hp / 210 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Esprit X180 - 1988 Update (1987 - 1994)",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Consumos Medio:": "de 10.1 L/100 km / 28 MPG UK / 23 MPG US a 12 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "113.8 cm / 44.8 pulgadas",
+            "Potencia:": "de 174 PS / 172 HP / 128 kW a 306 PS / 302 HP / 225 kW",
+            "Largo:": "433.0 cm / 170.47 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 1987 a 1994",
+            "Cilindrada:": "2174 cm3 / 132.7 cu-in",
+            "Peso:": "de 1154 kg / 2544 lbs a 1349 kg / 2974 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M12794/Esprit-X180"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit S3 2.0 (Italy-Market) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Esprit S3 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Esprit S3 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Esprit S3 H.C. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "169 hp / 124 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "Esprit S3 - 1982 Update (1982 - 1988)",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Consumos Medio:": "de 10.1 L/100 km / 28 MPG UK / 23 MPG US a 13.2 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "111.1 cm / 43.74 pulgadas",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 169 PS / 167 HP / 124 kW",
+            "Largo:": "419.1 cm / 165 pulgadas",
+            "Ancho:": "185.4 cm / 72.99 pulgadas",
+            "Período de producción:": "de 1982 a 1988",
+            "Cilindrada:": "de 1969 cm3 / 120.2 cu-in a 2174 cm3 / 132.7 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1100 kg / 2425 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M13190/Esprit-S3"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i HC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i HCPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Esprit Turbo 2.2i US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Esprit S3 - 1982 Update (1982 - 1988)",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Consumos Medio:": "de 10 L/100 km / 28 MPG UK / 24 MPG US a 11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "111.1 cm / 43.74 pulgadas",
+            "Potencia:": "de 208 PS / 205 HP / 153 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "419.1 cm / 165 pulgadas",
+            "Ancho:": "185.4 cm / 72.99 pulgadas",
+            "Período de producción:": "de 1982 a 1988",
+            "Cilindrada:": "2174 cm3 / 132.7 cu-in",
+            "Peso:": "de 1212 kg / 2672 lbs a 1230 kg / 2712 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M12857/Esprit-Turbo"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit S2 Essex Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 German-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 JPS Commemorative Edition EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 JPS Commemorative Edition US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 S2.2 EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 S2.2 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Esprit S2 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1978"
+            }
+          ],
+          "actualFinalModelName": "Esprit S2 - 1978 Update (1978 - 1982)",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Consumos Medio:": "de 10 L/100 km / 28 MPG UK / 24 MPG US a 10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "111.8 cm / 44.02 pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 213 PS / 210 HP / 157 kW",
+            "Largo:": "419.1 cm / 165 pulgadas",
+            "Ancho:": "185.9 cm / 73.19 pulgadas",
+            "Período de producción:": "de 1978 a 1982",
+            "Cilindrada:": "de 1969 cm3 / 120.2 cu-in a 2174 cm3 / 132.7 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1220 kg / 2690 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M117/Esprit-S2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Esprit S1 EU-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "Esprit S1 German-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "Esprit S1 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1977"
+            }
+          ],
+          "actualFinalModelName": "Esprit S1 - 1976 New Model (1976 - 1978)",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Alto:": "111.1 cm / 43.74 pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 162 PS / 160 HP / 119 kW",
+            "Largo:": "419.1 cm / 165 pulgadas",
+            "Ancho:": "186.1 cm / 73.27 pulgadas",
+            "Período de producción:": "de 1976 a 1978",
+            "Cilindrada:": "1969 cm3 / 120.2 cu-in",
+            "Peso:": "de 960 kg / 2116 lbs a 1065 kg / 2348 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M12793/Esprit-S1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/1225/w170_Lotus-Esprit-S4-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus-models/Lotus-Esprit"
+    },
+    {
+      "modelName": "Excel",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Excel 2.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2174 cm3 (132.7 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Lotus Excel Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248.3 cm / 97.76 pulgadas",
+            "Alto:": "120.7 cm / 47.52 pulgadas",
+            "Potencia:": "160 PS / 158 HP / 118 kW",
+            "Largo:": "436.7 cm / 171.93 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "de 1982 a 1992",
+            "Cilindrada:": "2174 cm3 / 132.7 cu-in",
+            "Peso:": "1135 kg / 2502 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M118/Excel"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/lotus/118/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M118/Excel"
+    },
+    {
+      "modelName": "Elite",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elite 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1973 cm3 (120.4 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1974"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elite Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248 cm / 97.64 pulgadas",
+            "Alto:": "120.7 cm / 47.52 pulgadas",
+            "Potencia:": "162 PS / 160 HP / 119 kW",
+            "Largo:": "445.8 cm / 175.51 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "de 1974 a 1982",
+            "Cilindrada:": "1973 cm3 / 120.4 cu-in",
+            "Peso:": "1158 kg / 2553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M6732/Elite"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/6732/w170_Lotus-Elite-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M6732/Elite"
+    },
+    {
+      "modelName": "Elan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elan 1500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "Elan Plus 2S 130 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "Elan S1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "106 hp / 78 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "Elan S3 SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "Elan S4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "Elan Sprint Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elan Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "213.4 cm / 84.02 pulgadas",
+            "Alto:": "110.5 cm / 43.5 pulgadas",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "368.9 cm / 145.24 pulgadas",
+            "Ancho:": "142.2 cm / 55.98 pulgadas",
+            "Período de producción:": "1962",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1558 cm3 / 95.1 cu-in",
+            "Peso:": "de 585 kg / 1290 lbs a 864 kg / 1905 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M2402/Elan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/2402/w170_Lotus-Elan-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M2402/Elan"
+    },
+    {
+      "modelName": "Elan M100",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Elan 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Elan S2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Elan SE 1.6i Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Lotus Elan M100 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "225 cm / 88.58 pulgadas",
+            "Alto:": "122.9 cm / 48.39 pulgadas",
+            "Potencia:": "de 130 PS / 128 HP / 96 kW a 165 PS / 163 HP / 121 kW",
+            "Largo:": "380.2 cm / 149.69 pulgadas",
+            "Ancho:": "173.5 cm / 68.31 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "1588 cm3 / 96.9 cu-in",
+            "Peso:": "de 997 kg / 2198 lbs a 1020 kg / 2249 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M12278/Elan-M100"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/12278/w170_Lotus-Elan-M100-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M12278/Elan-M100"
+    },
+    {
+      "modelName": "Seven",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Seven Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1957"
+            },
+            {
+              "Motores de Gasolina": "Seven Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1172 cm3 (71.5 cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "Seven Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1558 cm3 (95.1 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "1970"
+            },
+            {
+              "Motores de Gasolina": "Seven S4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1599 cm3 (97.6 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "1970"
+            },
+            {
+              "Motores de Gasolina": "Seven S4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Lotus Seven Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "218.4 cm / 85.98 pulgadas",
+            "Alto:": "94 cm / 37.01 pulgadas",
+            "Potencia:": "de 37 PS / 36 HP / 27 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "336.6 cm / 132.52 pulgadas",
+            "Ancho:": "154.9 cm / 60.98 pulgadas",
+            "Período de producción:": "de 1957 a 1960",
+            "Cilindrada:": "de 1172 cm3 / 71.5 cu-in a 1599 cm3 / 97.6 cu-in",
+            "Peso:": "de 387 kg / 853 lbs a 750 kg / 1653 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M3641/Seven"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/29/3641/w170_Lotus-Seven-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lotus/M3641/Seven"
+    }
+  ],
+  "brandName": "Lotus"
+}

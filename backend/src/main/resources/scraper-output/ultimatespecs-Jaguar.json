@@ -1,0 +1,3508 @@
+{
+  "models": [
+    {
+      "modelName": "XE",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XE P250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "XE P300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE D200 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE D200 AWD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "XE (X760) - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "283.5 cm / 111.61 pulgadas",
+            "Consumos Medio:": "de 4.8 L/100 km / 59 MPG UK / 49 MPG US a 9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "141.6 cm / 55.75 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "467.8 cm / 184.17 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1727 kg / 3807 lbs a 1833 kg / 4041 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M11071/XE-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XE 2.0 i4 200HP Portfolio Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 200HP Prestige Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 200HP Pure Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 200HP R-Sport Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 240HP Portfolio Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 240HP Prestige Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 240HP Pure Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 240HP R-Sport Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 250HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XE 2.0 i4 250HP AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XE 3.0 V6 380HP Auto S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XE 30t 300HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XE P250 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "XE P250 SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "XE P300 AWD S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "XE P300 AWD SE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 163HP Prestige Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 163HP Pure Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP AWD Portfolio Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP AWD Prestige Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP AWD Pure Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP AWD R-Sport Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Portfolio Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Portfolio Auto Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Prestige Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Prestige Auto Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Pure Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP Pure Auto Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP R-Sport Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 180HP R-Sport Auto Ficha Tecnica",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE 2.0 Diesel 240HP AWD Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE D180 S Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XE D180 SE Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "XE (X760) - 2015 New Model (2014 - 2019)",
+          "specifications": {
+            "Batalla:": "283.5 cm / 111.61 pulgadas",
+            "Consumos Medio:": "de 3.8 L/100 km / 74 MPG UK / 62 MPG US a 7.5 L/100 km / 38 MPG UK / 31 MPG US",
+            "Alto:": "141.6 cm / 55.75 pulgadas",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 381 PS / 376 HP / 280 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "467.2 cm / 183.94 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2014 a 2019",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2995 cm3 / 182.8 cu-in",
+            "Peso:": "de 1474 kg / 3250 lbs a 1806 kg / 3982 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M7666/XE"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/11071/w170_Jaguar-XE-2020-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-XE"
+    },
+    {
+      "modelName": "XF",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF P250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "XF P300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF D200 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF D200 AWD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "XF (X260) - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Consumos Medio:": "de 4.9 L/100 km / 58 MPG UK / 48 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "145.6 cm / 57.32 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1900 kg / 4189 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "496.2 cm / 195.35 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1858 kg / 4096 lbs a 1987 kg / 4381 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M11072/XF-(X260-2021)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF Sportbrake P250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "XF Sportbrake P300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake D200 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake D200 AWD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "XF (X260) - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Consumos Medio:": "de 5.2 L/100 km / 54 MPG UK / 45 MPG US a 9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "149.4 cm / 58.82 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1900 kg / 4189 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "496.4 cm / 195.43 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1924 kg / 4242 lbs a 2049 kg / 4517 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M11080/XF-(X260-2021)-Sportbrake"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF (X260) 2.0 GTDi 240HP Auto Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 2.0 GTDi 240HP Auto Prestige Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 2.0 GTDi 240HP Auto Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 2.0 GTDi 240HP Auto R-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 20t 200HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 25t 250HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 25t 250HP AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 3.0 S/C 380HP Auto XF-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 3.0 S/C 380HP AWD Auto XF-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 30t 300HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP Auto Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP Auto Prestige Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP Auto Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP Auto R-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP AWD Auto Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP AWD Auto Prestige Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP AWD Auto Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) 35t 340HP AWD Auto R-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 2.0 i4D 163HP E-Performance Auto Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 2.0 i4D 163HP E-Performance Auto Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 2.0 i4D 163HP E-Performance Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 2.0 i4D 163HP E-Performance Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Auto Portfolio Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Auto Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Auto Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Auto R-Sport Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Portfolio Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d 180HP R-Sport Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d AWD Chequered Flag Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 20d Chequered Flag Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 25d 240HP Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 25d 240HP AWD Auto Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 30d 300HP Auto Portfolio Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 30d 300HP Auto Prestige Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 30d 300HP Auto Pure Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) 30d 300HP Auto R-Sport Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "XF (X260) (2015 - 2020)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Consumos Medio:": "de 4.3 L/100 km / 66 MPG UK / 55 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "145.7 cm / 57.36 pulgadas",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 381 PS / 376 HP / 280 kW",
+            "Peso de remolque:": "de 1800 kg / 3968 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "495.4 cm / 195.04 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2015 a 2020",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2995 cm3 / 182.8 cu-in",
+            "Peso:": "de 1545 kg / 3406 lbs a 1818 kg / 4008 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M8008/XF-(X260)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF (X260) Sportbrake 25t 250HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XF (X260) Sportbrake 30t AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 2.0d E-Performance 163HP Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 2.0d E-Performance 163HP Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 20d 180HP Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 20d 180HP AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 25d 240HP AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X260) Sportbrake 30d 300HP Auto Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "XF (X260) (2015 - 2020)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Consumos Medio:": "de 4.5 L/100 km / 63 MPG UK / 52 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "149.6 cm / 58.9 pulgadas",
+            "Emisiones de CO2:": "de 118 a 173 g/Km",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1900 kg / 4189 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "495.5 cm / 195.08 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2015 a 2020",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1660 kg / 3660 lbs a 1961 kg / 4323 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9496/XF-(X260)-Sportbrake"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "XF 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "XF 3.0 V6 S/C Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XF 3.0 V6 S/C AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XF 5.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "XF 5.0 V8 S/C XFR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "XF 5.0 V8 S/C XFR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XF 5.0 V8 XFR-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF 2.2 Diesel Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF 2.2 Diesel Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF 3.0 V6 Diesel 240HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF 3.0 V6 Diesel 240HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF 3.0 V6 Diesel S 275HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "XF (X250) - 2011 Facelift (2011 - 2015)",
+          "specifications": {
+            "Batalla:": "290.9 cm / 114.53 pulgadas",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 190 PS / 187 HP / 140 kW a 550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "1850 kg / 4079 lbs",
+            "Largo:": "496.1 cm / 195.31 pulgadas",
+            "Ancho:": "187.7 cm / 73.9 pulgadas",
+            "Período de producción:": "de 2011 a 2015",
+            "Cilindrada:": "de 1999 cm3 / 122 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1660 kg / 3660 lbs a 1987 kg / 4381 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M14792/XF-(X250)-2011"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF Sportbrake 5.0 V8 S/C XFR-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake 2.2 Diesel Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake 2.2 Diesel R-Sport Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake 3.0 V6 Diesel 240HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF Sportbrake 3.0 V6 Diesel 275HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "XF (X250) - 2011 Facelift (2011 - 2015)",
+          "specifications": {
+            "Batalla:": "290.9 cm / 114.53 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Emisiones de CO2:": "de 135 a 297 g/Km",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "1850 kg / 4079 lbs",
+            "Largo:": "496.6 cm / 195.51 pulgadas",
+            "Ancho:": "187.7 cm / 73.9 pulgadas",
+            "Período de producción:": "de 2011 a 2015",
+            "Cilindrada:": "de 2179 cm3 / 133 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1824 kg / 4021 lbs a 1967 kg / 4336 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M7503/XF-Sportbrake"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XF (X250) 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "XF (X250) 4.2 SV8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "XF (X250) 4.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "298 hp / 219 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "XF (X250) 5.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "XF (X250) 5.0 V8 XFR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X250) 2.7 V6 Diesel Automatic Ficha Tecnica",
+              "Cilindrada": "2720 cm3 (166 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X250) 3.0 V6 Diesel 211HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X250) 3.0 V6 Diesel 240HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XF (X250) 3.0 V6 Diesel S 275HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "XF (X250) (2007 - 2011)",
+          "specifications": {
+            "Batalla:": "290.9 cm / 114.53 pulgadas",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 207 PS / 204 HP / 152 kW a 510 PS / 503 HP / 375 kW",
+            "Peso de remolque:": "1850 kg / 4079 lbs",
+            "Largo:": "496.1 cm / 195.31 pulgadas",
+            "Ancho:": "187.7 cm / 73.9 pulgadas",
+            "Período de producción:": "de 2007 a 2011",
+            "Cilindrada:": "de 2720 cm3 / 166 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1690 kg / 3726 lbs a 1891 kg / 4169 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1445/XF-(X250)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/11072/w170_Jaguar-XF-(X260-2021)-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-XF"
+    },
+    {
+      "modelName": "XJ",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ 3.0 Supercharged 340HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XJ 3.0 Supercharged 340HP AWD Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XJ XJR 5.0 Supercharged 550HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "XJ XJR575 5.0 V8 575HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 Diesel 300HP Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 Diesel 300HP Long Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 Diesel 300HP XJ50 Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "X351 (2010 - Presente)",
+          "specifications": {
+            "Batalla:": "303.2 cm / 119.37 pulgadas",
+            "Consumos Medio:": "de 5.7 L/100 km / 50 MPG UK / 41 MPG US a 11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Emisiones de CO2:": "de 149 a 264 g/Km",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 575 PS / 567 HP / 423 kW",
+            "Peso de remolque:": "1900 kg / 4189 lbs",
+            "Largo:": "513.0 cm / 201.97 pulgadas",
+            "Ancho:": "189.9 cm / 74.76 pulgadas",
+            "Período de producción:": "de 2015 a a presente",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1835 kg / 4045 lbs a 1900 kg / 4189 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9974/XJ-(X351-2016)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ 3.0 V6 S/C AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XJ 3.0 V6 S/C AWD Largo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Portfolio Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Portfolio Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Premium Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Premium Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Premium Luxury Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 Premium Luxury Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 S/C Supersport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 S/C Supersport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 S/C Supersport Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XJ 5.0 V8 S/C Supersport Long Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XJ XJR 5.0 Supercharged 550HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Luxury Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Luxury Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Portfolio Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Portfolio Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Portfolio Long Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Portfolio Long Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Premium Luxury Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Premium Luxury Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Premium Luxury Long Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ 3.0 V6 Diesel Premium Luxury Long Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "X351 (2010 - Presente)",
+          "specifications": {
+            "Batalla:": "303.2 cm / 119.37 pulgadas",
+            "Consumos Medio:": "9.8 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "144.8 cm / 57.01 pulgadas",
+            "Emisiones de CO2:": "de 184 a 289 g/Km",
+            "Potencia:": "de 275 PS / 271 HP / 202 kW a 550 PS / 543 HP / 405 kW",
+            "Largo:": "512.2 cm / 201.65 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2009 a a presente",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1830 kg / 4034 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1344/XJ-(X351)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ (X350) 6 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) 8 3.5 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3555 cm3 (216.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) 8 3.5 V8 L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3555 cm3 (216.9 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) 8 4.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "298 hp / 219 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) 8 4.2 V8 L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "298 hp / 219 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) R 4.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "396 hp / 291 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "XJ (X350) Super V8 L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "396 hp / 291 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ (X350) 6 2.7D Ficha Tecnica",
+              "Cilindrada": "2721 cm3 (166 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XJ (X350) 6 2.7D L Ficha Tecnica",
+              "Cilindrada": "2722 cm3 (166.1 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "X350 (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "303.4 cm / 119.45 pulgadas",
+            "Alto:": "144.8 cm / 57.01 pulgadas",
+            "Emisiones de CO2:": "de 214 a 289 g/Km",
+            "Potencia:": "de 207 PS / 204 HP / 152 kW a 396 PS / 391 HP / 291 kW",
+            "Largo:": "509.0 cm / 200.39 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "de 2721 cm3 / 166 cu-in a 4196 cm3 / 256.1 cu-in",
+            "Peso:": "de 1508 kg / 3325 lbs a 1689 kg / 3724 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M430/XJ-(X350)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ (X308) 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3248 cm3 (198.2 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) 3.2 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3248 cm3 (198.2 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) 4.0 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) R 4.0 Supercharged Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) Sovereign 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3248 cm3 (198.2 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) Sovereign 3.2 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3248 cm3 (198.2 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) Sovereign 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "XJ (X308) Sovereign 4.0 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "X308 (1997 - 2003)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Alto:": "131.0 cm / 51.57 pulgadas",
+            "Emisiones de CO2:": "de 284 a 313 g/Km",
+            "Potencia:": "de 240 PS / 237 HP / 177 kW a 370 PS / 365 HP / 272 kW",
+            "Largo:": "502.0 cm / 197.64 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1997 a 2003",
+            "Cilindrada:": "de 3248 cm3 / 198.2 cu-in a 3996 cm3 / 243.9 cu-in",
+            "Peso:": "de 1710 kg / 3770 lbs a 1775 kg / 3913 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1285/XJ-(X308)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ (X300) 12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5993 cm3 (365.7 cu-in)",
+              "Potencia": "318 hp / 234 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 12 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5993 cm3 (365.7 cu-in)",
+              "Potencia": "318 hp / 234 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 3.2 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 3.2 LWB Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) 6 4.0 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) R 4.0 supercharged Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) R 4.0 Supercharged Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 3.2 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 3.2 LWB Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "219 hp / 161 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 4.0 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "XJ (X300) Sovereign 4.0 LWB Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "X300 (1994 - 1997)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "de 10.3 L/100 km / 27 MPG UK / 23 MPG US a 15.2 L/100 km / 19 MPG UK / 15 MPG US",
+            "Alto:": "131.0 cm / 51.57 pulgadas",
+            "Potencia:": "de 219 PS / 216 HP / 161 kW a 326 PS / 322 HP / 240 kW",
+            "Largo:": "502.0 cm / 197.64 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1994 a 1997",
+            "Cilindrada:": "de 3239 cm3 / 197.7 cu-in a 5993 cm3 / 365.7 cu-in",
+            "Peso:": "de 1708 kg / 3765 lbs a 1975 kg / 4354 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1284/XJ-(X300)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ (XJ40) 12 6.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5994 cm3 (365.8 cu-in)",
+              "Potencia": "318 hp / 234 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 3.2 Sovereign Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 2.9 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2919 cm3 (178.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 2.9 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2919 cm3 (178.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 2.9 Sovereign Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2919 cm3 (178.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 3.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 3.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3590 cm3 (219.1 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 3.6 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3590 cm3 (219.1 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 3.6 Sovereign Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3590 cm3 (219.1 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "226 hp / 166 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 4.0 manual Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "226 hp / 166 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) 6 Sovereign 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "226 hp / 166 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) R 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "226 hp / 166 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJ (XJ40) R 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "226 hp / 166 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "XJ40 (1986 - 1994)",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Consumos Medio:": "de 10.3 L/100 km / 27 MPG UK / 23 MPG US a 15.2 L/100 km / 19 MPG UK / 15 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 318 PS / 314 HP / 234 kW",
+            "Largo:": "499.0 cm / 196.46 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1986 a 1994",
+            "Cilindrada:": "de 2919 cm3 / 178.1 cu-in a 5994 cm3 / 365.8 cu-in",
+            "Peso:": "de 1700 kg / 3748 lbs a 1985 kg / 4376 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1283/XJ-(XJ40)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Series III XJ12 HE - Sovereign HE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5345 cm3 (326.2 cu-in)",
+              "Potencia": "295 hp / 217 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Series III XJ6 3.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3442 cm3 (210 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Series III XJ6 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1979"
+            }
+          ],
+          "actualFinalModelName": "Series 3 (1979 - 1992)",
+          "specifications": {
+            "Batalla:": "286.5 cm / 112.8 pulgadas",
+            "Alto:": "137.7 cm / 54.21 pulgadas",
+            "Potencia:": "de 162 PS / 160 HP / 119 kW a 295 PS / 291 HP / 217 kW",
+            "Largo:": "495.9 cm / 195.24 pulgadas",
+            "Ancho:": "177 cm / 69.69 pulgadas",
+            "Período de producción:": "de 1979 a 1992",
+            "Cilindrada:": "de 3442 cm3 / 210 cu-in a 5345 cm3 / 326.2 cu-in",
+            "Peso:": "de 1770 kg / 3902 lbs a 1930 kg / 4255 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M110/Series-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ Series III 3.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3442 cm3 (210 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 3.4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3442 cm3 (210 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 4.2 manual Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 4.2 Sovereign Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 5.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5343 cm3 (326 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 5.3 Sovereign Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5345 cm3 (326.2 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "XJ Series III 5.3 Vanden Plas Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5345 cm3 (326.2 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Series 3 (1979 - 1992)",
+          "specifications": {
+            "Batalla:": "286.0 cm / 112.6 pulgadas",
+            "Consumos Medio:": "de 12.5 L/100 km / 23 MPG UK / 19 MPG US a 15.8 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 162 PS / 160 HP / 119 kW a 290 PS / 286 HP / 213 kW",
+            "Largo:": "496.0 cm / 195.28 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 1979 a 1992",
+            "Cilindrada:": "de 3442 cm3 / 210 cu-in a 5345 cm3 / 326.2 cu-in",
+            "Peso:": "de 1680 kg / 3704 lbs a 1900 kg / 4189 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1282/XJ-Series-III"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/1344/w170_Jaguar-XJ-(X351)-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-XJ"
+    },
+    {
+      "modelName": "XK",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XK (II) 5.0 V8 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XK (II) 5.0 V8 Convertible Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XK (II) 5.0 V8 SC Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "XK (II) 8 4.2 V8 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "298 hp / 219 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "XK (II) 8 4.2 V8 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "298 hp / 219 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "XK (II) R 4.2 V8 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "XK (II) R 4.2 V8 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "XK/XKR (2007 - 2014)",
+          "specifications": {
+            "Batalla:": "275.2 cm / 108.35 pulgadas",
+            "Alto:": "132.9 cm / 52.32 pulgadas",
+            "Emisiones de CO2:": "de 264 a 294 g/Km",
+            "Potencia:": "de 298 PS / 294 HP / 219 kW a 510 PS / 503 HP / 375 kW",
+            "Largo:": "479.4 cm / 188.74 pulgadas",
+            "Ancho:": "189.2 cm / 74.49 pulgadas",
+            "Período de producción:": "de 2007 a 2014",
+            "Cilindrada:": "de 4196 cm3 / 256.1 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1595 kg / 3516 lbs a 1875 kg / 4134 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M431/XK-(II)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XK 8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "XK 8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XK 8 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "XK 8 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XK R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "363 hp / 267 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "XK R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "XK R Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "363 hp / 267 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "XK R Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "XK8/XKR (1996 - 2006)",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Alto:": "130.0 cm / 51.18 pulgadas",
+            "Emisiones de CO2:": "de 279 a 305 g/Km",
+            "Potencia:": "de 290 PS / 286 HP / 213 kW a 400 PS / 395 HP / 294 kW",
+            "Largo:": "476.0 cm / 187.4 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 1996 a 2006",
+            "Cilindrada:": "de 3996 cm3 / 243.9 cu-in a 4196 cm3 / 256.1 cu-in",
+            "Peso:": "de 1615 kg / 3560 lbs a 1815 kg / 4001 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1287/XK"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/jaguar/431/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-XK"
+    },
+    {
+      "modelName": "F-Type",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type Convertible P300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible P450 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible P450 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible P575 AWD R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible R75 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 Restyling (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 9.6 L/100 km / 29 MPG UK / 25 MPG US a 10.9 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "130.8 cm / 51.5 pulgadas",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 575 PS / 567 HP / 423 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "188.5 cm / 74.21 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1735 kg / 3825 lbs a 1958 kg / 4317 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M10608/F-Type-Convertible-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type Coupe P300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Coupe P450 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Coupe P450 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Coupe P575 AWD R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Type Coupe R75 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 Restyling (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 9.4 L/100 km / 30 MPG UK / 25 MPG US a 10.8 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "131.1 cm / 51.61 pulgadas",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 575 PS / 567 HP / 423 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "188.5 cm / 74.21 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1715 kg / 3781 lbs a 1938 kg / 4273 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M10607/F-Type-Coupe-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type 2.0 I4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type 400 Sport AWD V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type 400 Sport V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type R V8 AWD 550HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type SVR V8 AWD 575HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 380HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 380HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 380HP AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 (2013 - 2020)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 7.2 L/100 km / 39 MPG UK / 33 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "131.1 cm / 51.61 pulgadas",
+            "Emisiones de CO2:": "de 163 a 269 g/Km",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 575 PS / 567 HP / 423 kW",
+            "Largo:": "448.2 cm / 176.46 pulgadas",
+            "Ancho:": "192.3 cm / 75.71 pulgadas",
+            "Período de producción:": "de 2013 a 2020",
+            "Cilindrada:": "de 2000 cm3 / 122 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1525 kg / 3362 lbs a 1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9156/F-Type-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type Project 7 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type R AWD V8 550HP Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type R V8 550HP Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type S AWD V6 380HP Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type S V6 380HP Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type S V6 380HP Auto 8 Speeds Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Auto 8 Speeds Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 380HP Auto British Design Edition Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 AWD 380HP Auto British Design Edition Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 S Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "F-Type V8 S Convertible Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "495 hp / 364 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 (2013 - 2020)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 8.4 L/100 km / 34 MPG UK / 28 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "127.7 cm / 50.28 pulgadas",
+            "Emisiones de CO2:": "de 199 a 269 g/Km",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 575 PS / 567 HP / 423 kW",
+            "Largo:": "451.9 cm / 177.91 pulgadas",
+            "Ancho:": "192.3 cm / 75.71 pulgadas",
+            "Período de producción:": "de 2013 a 2020",
+            "Cilindrada:": "de 2995 cm3 / 182.8 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1745 kg / 3847 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M6374/F-Type-Convertible-"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type Convertible 2.0 i4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible 400 Sport AWD V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible 400 Sport V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible R V8 AWD 550HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "551 hp / 405 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible SVR V8 AWD 575HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "575 hp / 423 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible V6 340HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible V6 340HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible V6 380HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible V6 380HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Type Convertible V6 AWD 380HP Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 (2013 - 2020)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 7.2 L/100 km / 39 MPG UK / 33 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "130.8 cm / 51.5 pulgadas",
+            "Emisiones de CO2:": "de 163 a 269 g/Km",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 575 PS / 567 HP / 423 kW",
+            "Largo:": "448.2 cm / 176.46 pulgadas",
+            "Ancho:": "192.3 cm / 75.71 pulgadas",
+            "Período de producción:": "de 2013 a 2020",
+            "Cilindrada:": "de 2000 cm3 / 122 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1545 kg / 3406 lbs a 1745 kg / 3847 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9158/F-Type-Convertible-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Type R AWD V8 550HP Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type R V8 550HP Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type S AWD V6 380HP Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type S V6 380HP Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type S V6 380HP Auto 8 Speeds Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 340HP Auto 8 Speeds Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 380HP Auto British Design Edition Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 AWD 380HP Auto British Design Edition Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "F-Type V6 S Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "F-Type V8 R Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F Type X152 (2013 - 2020)",
+          "specifications": {
+            "Batalla:": "262.2 cm / 103.23 pulgadas",
+            "Consumos Medio:": "de 8.4 L/100 km / 34 MPG UK / 28 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "131.4 cm / 51.73 pulgadas",
+            "Emisiones de CO2:": "de 199 a 269 g/Km",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 550 PS / 543 HP / 405 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "192.3 cm / 75.71 pulgadas",
+            "Período de producción:": "de 2013 a 2020",
+            "Cilindrada:": "de 2995 cm3 / 182.8 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1567 kg / 3455 lbs a 1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M7097/F-Type-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/10607/w170_Jaguar-F-Type-Coupe-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-F-Type"
+    },
+    {
+      "modelName": "I-Pace",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "I-Pace EV320 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "90 kWh"
+            },
+            {
+              "Eléctrico": "I-Pace EV400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2018",
+              "Capacidad de la batería": "90 kWh"
+            },
+            {
+              "Eléctrico": "I-Pace EV400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "90 kWh"
+            },
+            {
+              "Eléctrico": "I-Pace EV400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "90.2 kWh"
+            }
+          ],
+          "actualFinalModelName": "Jaguar I-Pace Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "299.0 cm / 117.72 pulgadas",
+            "Alto:": "156.5 cm / 61.61 pulgadas",
+            "Potencia:": "de 320 PS / 316 HP / 235 kW a 400 PS / 395 HP / 294 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "468.2 cm / 184.33 pulgadas",
+            "Ancho:": "201.1 cm / 79.17 pulgadas",
+            "Período de producción:": "de 2018 a 2023",
+            "Peso:": "de 2208 kg / 4868 lbs a 2249 kg / 4958 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9885/I-Pace"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/9885/w170_Jaguar-I-Pace-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9885/I-Pace"
+    },
+    {
+      "modelName": "E-Pace",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Plugin Híbrido": "E-Pace P300e AWD Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P200 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P250 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P300 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D165 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D165 AWD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D200 AWD Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "E-Pace (X540) - 2021 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "268.1 cm / 105.55 pulgadas",
+            "Consumos Medio:": "de 1.4 L/100 km / 202 MPG UK / 168 MPG US a 9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "164.8 cm / 64.88 pulgadas",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 309 PS / 305 HP / 227 kW",
+            "Largo:": "439.5 cm / 173.03 pulgadas",
+            "Ancho:": "198.4 cm / 78.11 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1901 kg / 4191 lbs a 2286 kg / 5040 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M11183/E-Pace-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E-Pace P200 AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P200 AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P250 AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "E-Pace P300 AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D150 AWD Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D150 AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D150 AWD Premium Edition Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D150 FWD Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D180 AWD Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D180 AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E-Pace D240 AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "E-Pace (X540) - 2018 New Model (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "268.1 cm / 105.55 pulgadas",
+            "Consumos Medio:": "de 6 L/100 km / 47 MPG UK / 39 MPG US a 8 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "164.9 cm / 64.92 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "439.5 cm / 173.03 pulgadas",
+            "Ancho:": "198.4 cm / 78.11 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 1999 cm3 / 122 cu-in",
+            "Peso:": "de 1775 kg / 3913 lbs a 1954 kg / 4308 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M9541/E-Pace"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/11183/w170_Jaguar-E-Pace-2021-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-E-Pace"
+    },
+    {
+      "modelName": "F-Pace",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "404 hp / 297 kW",
+              "Plugin Híbrido": "F-Pace P400e Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "404 hp / 297 kW",
+              "Plugin Híbrido": "F-Pace P400e Ficha Tecnica",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "F-Pace P250 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "249 hp / 183 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Pace P400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "F-Pace P550 SVR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace D165 Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace D165 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2023"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace D200 Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace D300 Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "F-Pace X761 Restyling (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "282.4 cm / 111.18 pulgadas",
+            "Consumos Medio:": "de 1.6 L/100 km / 177 MPG UK / 147 MPG US a 12.2 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "166.4 cm / 65.51 pulgadas",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "de 2000 kg / 4409 lbs a 2400 kg / 5291 lbs",
+            "Largo:": "474.7 cm / 186.89 pulgadas",
+            "Ancho:": "193.6 cm / 76.22 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1950 kg / 4299 lbs a 2234 kg / 4925 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M11021/F-Pace-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F-Pace 2.0 250HP AWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 2.0 250HP RWD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2000 cm3 (122 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 25t AWD Premium Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 25t AWD Premium Sport Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 340HP AWD Auto Portfolio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 340HP AWD Auto Prestige Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 340HP AWD Auto Pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 340HP AWD Auto R-Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 380HP AWD Auto First Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 3.0 V6 S/C 380HP AWD Auto S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2995 cm3 (182.8 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "F-Pace 30t 300HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "F-Pace V8 S/C SVR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5000 cm3 (305.1 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 163HP RWD Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Auto Portfolio Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Auto Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Auto Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Auto R-Sport Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Portfolio Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP AWD R-Sport Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP RWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP RWD Portfolio Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP RWD Prestige Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP RWD Pure Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 180HP RWD R-Sport Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 2.0 i4D 240HP AWD Auto Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 20d 180HP AWD Premium Edition Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 20d 180HP AWD Premium Sport Edition Ficha Tecnica",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto First Edition Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto Portfolio Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto Prestige Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto Pure Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto R-Sport Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "F-Pace 3.0 TDV6 300HP AWD Auto S Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "F-Pace X761 (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "287.4 cm / 113.15 pulgadas",
+            "Consumos Medio:": "de 4.9 L/100 km / 58 MPG UK / 48 MPG US a 11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "165.2 cm / 65.04 pulgadas",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "2400 kg / 5291 lbs",
+            "Largo:": "473.1 cm / 186.26 pulgadas",
+            "Ancho:": "193.6 cm / 76.22 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 5000 cm3 / 305.1 cu-in",
+            "Peso:": "de 1690 kg / 3726 lbs a 2186 kg / 4819 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M8249/F-Pace"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/11021/w170_Jaguar-F-Pace-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar-models/Jaguar-F-Pace"
+    },
+    {
+      "modelName": "X Type",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "X Type 2.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2099 cm3 (128.1 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "X Type 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "196 hp / 144 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "X Type 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "X Type 2.0 D Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "X Type 2.2 D Ficha Tecnica",
+              "Cilindrada": "2198 cm3 (134.1 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Jaguar X Type Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.0 cm / 106.69 pulgadas",
+            "Alto:": "139.2 cm / 54.8 pulgadas",
+            "Emisiones de CO2:": "de 149 a 244 g/Km",
+            "Potencia:": "de 130 PS / 128 HP / 96 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "467.2 cm / 183.94 pulgadas",
+            "Ancho:": "178.9 cm / 70.43 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2967 cm3 / 181.1 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1555 kg / 3428 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M428/X-Type"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/jaguar/428/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M428/X-Type"
+    },
+    {
+      "modelName": "X Type Estate",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "X Type Estate 2.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2099 cm3 (128.1 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "X Type Estate 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2495 cm3 (152.3 cu-in)",
+              "Potencia": "194 hp / 143 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "X Type Estate 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2968 cm3 (181.1 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "X Type Estate 2.0D Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "X Type Estate 2.2D Ficha Tecnica",
+              "Cilindrada": "2198 cm3 (134.1 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Jaguar X Type Estate Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.0 cm / 106.69 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Emisiones de CO2:": "de 154 a 249 g/Km",
+            "Potencia:": "de 130 PS / 128 HP / 96 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 2004 a 2005",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2968 cm3 / 181.1 cu-in",
+            "Peso:": "de 1510 kg / 3329 lbs a 1605 kg / 3538 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1281/X-Type-Estate"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/1281/w170_Jaguar-X-Type-Estate-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1281/X-Type-Estate"
+    },
+    {
+      "modelName": "S Type",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "S Type 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "S Type 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "S Type 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "S Type 3.0 V6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2967 cm3 (181.1 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "S Type 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "S Type 4.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "S Type 4.2 V8 R SuperCharger Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4196 cm3 (256.1 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "S Type 2.7D Ficha Tecnica",
+              "Cilindrada": "2720 cm3 (166 cu-in)",
+              "Potencia": "207 hp / 152 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Jaguar S Type Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.9 cm / 114.53 pulgadas",
+            "Consumos Medio:": "de 11.1 L/100 km / 25 MPG UK / 21 MPG US a 12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "144.7 cm / 56.97 pulgadas",
+            "Potencia:": "de 201 PS / 198 HP / 148 kW a 400 PS / 395 HP / 294 kW",
+            "Largo:": "490.5 cm / 193.11 pulgadas",
+            "Ancho:": "181.8 cm / 71.57 pulgadas",
+            "Período de producción:": "de 1999 a 2005",
+            "Cilindrada:": "de 2497 cm3 / 152.4 cu-in a 4196 cm3 / 256.1 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1800 kg / 3968 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M429/S-Type"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/jaguar/429/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M429/S-Type"
+    },
+    {
+      "modelName": "XJS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJS 3.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3590 cm3 (219.1 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "XJS 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "XJS 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJS 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "XJS 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJS HE V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5343 cm3 (326 cu-in)",
+              "Potencia": "295 hp / 217 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "XJS R 6.0 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5993 cm3 (365.7 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "XJS R 6.0 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5993 cm3 (365.7 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Jaguar XJS Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.1 cm / 102.01 pulgadas",
+            "Consumos Medio:": "de 10.7 L/100 km / 26 MPG UK / 22 MPG US a 15.9 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "126.1 cm / 49.65 pulgadas",
+            "Potencia:": "de 222 PS / 219 HP / 163 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "476.4 cm / 187.56 pulgadas",
+            "Ancho:": "179.3 cm / 70.59 pulgadas",
+            "Período de producción:": "de 1983 a 1996",
+            "Cilindrada:": "de 3590 cm3 / 219.1 cu-in a 5993 cm3 / 365.7 cu-in",
+            "Peso:": "de 1660 kg / 3660 lbs a 1825 kg / 4023 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M111/XJS"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/jaguar/111/w170_default2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M111/XJS"
+    },
+    {
+      "modelName": "XJS Convertible",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJS Convertible 3.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3590 cm3 (219.1 cu-in)",
+              "Potencia": "228 hp / 168 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "222 hp / 163 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible 4.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3980 cm3 (242.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5343 cm3 (326 cu-in)",
+              "Potencia": "277 hp / 204 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5343 cm3 (326 cu-in)",
+              "Potencia": "277 hp / 204 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5343 cm3 (326 cu-in)",
+              "Potencia": "277 hp / 204 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "XJS Convertible V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5994 cm3 (365.8 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Jaguar XJS Convertible Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Consumos Medio:": "de 10.7 L/100 km / 26 MPG UK / 22 MPG US a 15 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "126.0 cm / 49.61 pulgadas",
+            "Potencia:": "de 222 PS / 219 HP / 163 kW a 309 PS / 305 HP / 227 kW",
+            "Largo:": "476.0 cm / 187.4 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1985 a 1996",
+            "Cilindrada:": "de 3590 cm3 / 219.1 cu-in a 5994 cm3 / 365.8 cu-in",
+            "Peso:": "de 1660 kg / 3660 lbs a 1905 kg / 4200 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1286/XJS-Convertible"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/1286/w170_Jaguar-XJS-Convertible-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M1286/XJS-Convertible"
+    },
+    {
+      "modelName": "XJ220",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XJ220 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Jaguar XJ220 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "264 cm / 103.94 pulgadas",
+            "Consumos Medio:": "8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "115 cm / 45.28 pulgadas",
+            "Potencia:": "550 PS / 543 HP / 405 kW",
+            "Largo:": "493 cm / 194.09 pulgadas",
+            "Ancho:": "222 cm / 87.4 pulgadas",
+            "Período de producción:": "de 1991 a 1994",
+            "Cilindrada:": "3498 cm3 / 213.5 cu-in",
+            "Peso:": "1470 kg / 3241 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M8473/XJ220"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/8473/w170_Jaguar-XJ220-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M8473/XJ220"
+    },
+    {
+      "modelName": "Daimler DS 420",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Daimler DS 420 Limousine Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "1968"
+            }
+          ],
+          "actualFinalModelName": "Jaguar Daimler DS 420 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "358 cm / 140.94 pulgadas",
+            "Alto:": "161 cm / 63.39 pulgadas",
+            "Potencia:": "165 PS / 163 HP / 121 kW",
+            "Largo:": "574 cm / 225.98 pulgadas",
+            "Ancho:": "197 cm / 77.56 pulgadas",
+            "Período de producción:": "de 1968 a 1992",
+            "Cilindrada:": "4235 cm3 / 258.4 cu-in",
+            "Peso:": "2140 kg / 4718 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M112/Daimler-DS-420"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/jaguar/112/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M112/Daimler-DS-420"
+    },
+    {
+      "modelName": "E Type",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E Type 3.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3781 cm3 (230.7 cu-in)",
+              "Potencia": "269 hp / 198 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "E Type 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1964"
+            },
+            {
+              "Motores de Gasolina": "E Type V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5344 cm3 (326.1 cu-in)",
+              "Potencia": "276 hp / 203 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Jaguar E Type Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "243.8 cm / 95.98 pulgadas",
+            "Consumos Medio:": "de 15.7 L/100 km / 18 MPG UK / 15 MPG US a 17.7 L/100 km / 16 MPG UK / 13 MPG US",
+            "Alto:": "122.5 cm / 48.23 pulgadas",
+            "Potencia:": "de 265 PS / 261 HP / 195 kW a 276 PS / 272 HP / 203 kW",
+            "Largo:": "437.5 cm / 172.24 pulgadas",
+            "Ancho:": "165.7 cm / 65.24 pulgadas",
+            "Período de producción:": "de 1961 a 1974",
+            "Cilindrada:": "de 3781 cm3 / 230.7 cu-in a 5344 cm3 / 326.1 cu-in",
+            "Peso:": "de 1170 kg / 2579 lbs a 1565 kg / 3450 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M6731/E-Type"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/27/6731/w170_Jaguar-E-Type-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jaguar/M6731/E-Type"
+    }
+  ],
+  "brandName": "Jaguar"
+}

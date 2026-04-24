@@ -1,0 +1,181 @@
+/* =========================================
+   Buscar_Matricula — Contenedor principal
+   ========================================= */
+.buscar-matricula {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px 20px;
+  gap: 10px;
+
+  position: relative;
+  width: 932px;
+  height: 264px;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+/* =========================================
+   Encabezado — "Información del vehículo (opcional)"
+   ========================================= */
+.encabezado {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 24px;
+  gap: 10px;
+
+  width: 884px;
+  height: 38px;
+
+  background: #ffffff;
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.titulo {
+  font-family: 'Exo 2', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  margin: 0;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* =========================================
+   Info_Car — Fila de inputs (Matrícula / Marca / Modelo)
+   ========================================= */
+.campos-vehiculo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0px;
+  gap: 10px;
+
+  width: 884px;
+  height: 83px;
+
+  background: #ffffff;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* =========================================
+   Campo grupo (columna: label + input)
+   ========================================= */
+.campo-grupo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px 7px;
+  gap: 10px;
+
+  width: 294.67px;
+  height: 104px;
+
+  background: #ffffff;
+
+  flex: none;
+  flex-grow: 1;
+}
+
+.campo-grupo:nth-child(1) { order: 0; }
+.campo-grupo:nth-child(2) { order: 1; }
+.campo-grupo:nth-child(3) { order: 2; }
+
+/* Label */
+.campo-label {
+  font-family: 'Exo 2', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Input wrapper */
+.input-wrapper {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 24px 8px 9px;
+  gap: 3px;
+
+  width: 280.67px;
+  height: 42px;
+
+  background: #ffffff;
+  border: 1px solid #e8eaed;
+  border-radius: 8px;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Icono coche (directions_car) */
+.input-icono {
+  width: 24px;
+  height: 24px;
+  color: #79747e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Input de texto */
+.campo-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+
+  font-family: 'Exo 2', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.campo-input.placeholder-gris::placeholder {
+  color: #7f7f7f;
+}
+
+.campo-input::placeholder {
+  color: #7f7f7f;
+}

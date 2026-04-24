@@ -1,0 +1,2473 @@
+{
+  "models": [
+    {
+      "modelName": "Avenger",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Avenger EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "54.0 kWh"
+            },
+            {
+              "Motores de Gasolina": "Avenger 1.2 4xe eDCT6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Avenger 1.2 4xe eDCT6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Avenger 1.2 e-Hybrid e-DCS6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Avenger 1.2 e-Hybrid e-DCS6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Avenger 1.2 GSE T3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Avenger (516) (2022 - Presente)",
+          "specifications": {
+            "Batalla:": "256.2 cm / 100.87 pulgadas",
+            "Consumos Medio:": "de 4.9 L/100 km / 58 MPG UK / 48 MPG US a 5.6 L/100 km / 50 MPG UK / 42 MPG US",
+            "Alto:": "152.7 cm / 60.12 pulgadas",
+            "Emisiones de CO2:": "de 111 a 126 g/Km",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 156 PS / 154 HP / 115 kW",
+            "Peso de remolque:": "de 920 kg / 2028 lbs a 1200 kg / 2646 lbs",
+            "Largo:": "408.4 cm / 160.79 pulgadas",
+            "Ancho:": "177.6 cm / 69.92 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "1199 cm3 / 73.2 cu-in",
+            "Peso:": "de 1182 kg / 2606 lbs a 1520 kg / 3351 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M13022/Avenger"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/13022/w170_Jeep-Avenger-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Avenger"
+    },
+    {
+      "modelName": "Renegade",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Plugin Híbrido": "Renegade 4xe 190 PHEV Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Renegade 4xe 240 PHEV Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Renegade 4xe 240 PHEV Trailhawk Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.0T 115 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.0T 120 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.0T-e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.3T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.3T 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.3T-e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.5 GSE T4 48V e-Hybrid DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1469 cm3 (89.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.5 T4 e-Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1469 cm3 (89.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2022"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0D 4WD Trailhawk Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Renegade (BU/520) 2019 Facelift (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Consumos Medio:": "de 2.1 L/100 km / 135 MPG UK / 112 MPG US a 7.3 L/100 km / 39 MPG UK / 32 MPG US",
+            "Alto:": "169.7 cm / 66.81 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 240 PS / 237 HP / 177 kW",
+            "Peso de remolque:": "de 1150 kg / 2535 lbs a 1510 kg / 3329 lbs",
+            "Largo:": "423.6 cm / 166.77 pulgadas",
+            "Ancho:": "180.5 cm / 71.06 pulgadas",
+            "Período de producción:": "de 2018 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1956 cm3 / 119.4 cu-in",
+            "Peso:": "de 1401 kg / 3089 lbs a 1844 kg / 4065 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M10292/Renegade-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir 140HP Limited 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir 140HP Limited 4x2 DDCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir 140HP Longitude 4x2 DDCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 140HP Stop&Start 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 140HP Stop&Start 4x2 DDCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 140HP Stop&Start 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 170HP Stop&Start 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 170HP Stop&Start 4x2 DDCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.4 MultiAir2 170HP Stop&Start 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.6 E-torQ 110HP Limited 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.6 E-torQ 110HP Longitude 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.6 E-torQ 110HP Sport 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Renegade 1.6 E.torQ 110HP Stop&Start 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 1.6 MultiJet 120HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 1.6 MultiJet 120HP Limited 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 1.6 MultiJet 120HP Longitude 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 1.6 MultiJet II 120HP Stop&Start 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet 120HP G4me Ch4nger 4x4 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet 120HP Limited 4x4 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet 120HP Longitude 4x4 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet 140HP Limited 4x4 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 140HP Stop&Start 4x2 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 140HP Stop&Start 4x4 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 140HP Stop&Start 4x4 Auto Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 170HP Stop&Start 4x2 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 170HP Stop&Start 4x4 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade 2.0 MultiJet II 170HP Stop&Start 4x4 Auto Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Renegade Opening Edition 1.6 MultiJet II 120HP Stop&Start 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Renegade (BU/520) (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "169.7 cm / 66.81 pulgadas",
+            "Emisiones de CO2:": "de 115 a 150 g/Km",
+            "Potencia:": "de 110 PS / 109 HP / 81 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "425.5 cm / 167.52 pulgadas",
+            "Ancho:": "180.5 cm / 71.06 pulgadas",
+            "Período de producción:": "de 2014 a a presente",
+            "Cilindrada:": "de 1368 cm3 / 83.5 cu-in a 1956 cm3 / 119.4 cu-in",
+            "Peso:": "de 1395 kg / 3075 lbs a 1505 kg / 3318 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M7325/Renegade"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/10292/w170_Jeep-Renegade-2019-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Renegade"
+    },
+    {
+      "modelName": "Compass",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Compass e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "80.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Compass 3rd Gen. (J4U) - 2026 New Model (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "279.5 cm / 110.04 pulgadas",
+            "Alto:": "167.5 cm / 65.94 pulgadas",
+            "Potencia:": "213 PS / 210 HP / 157 kW",
+            "Peso de remolque:": "1000 kg / 2205 lbs",
+            "Largo:": "455.2 cm / 179.21 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Peso:": "2198 kg / 4846 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M15544/Compass-2026"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Compass 1.4 MultiAir 140HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Compass 2.0 MultiAir 170HP 4x4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 1.6 MultiJet 120HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 MultiJet 140HP 4x4 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 MultiJet 140HP 4x4 Auto Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 MultiJet 170HP 4x4 Auto Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 MultiJet 170HP 4x4 Auto Trailhawk Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Compass (MP/552) (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "263.6 cm / 103.78 pulgadas",
+            "Alto:": "163.5 cm / 64.37 pulgadas",
+            "Emisiones de CO2:": "de 117 a 160 g/Km",
+            "Potencia:": "de 120 PS / 118 HP / 88 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "439.4 cm / 172.99 pulgadas",
+            "Ancho:": "181.9 cm / 71.61 pulgadas",
+            "Período de producción:": "de 2017 a a presente",
+            "Cilindrada:": "de 1368 cm3 / 83.5 cu-in a 1956 cm3 / 119.4 cu-in",
+            "Peso:": "de 1505 kg / 3318 lbs a 1706 kg / 3761 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M9466/Compass-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Plugin Híbrido": "Compass 4xe 190 PHEV Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Compass 4xe 240 PHEV Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Compass 4xe 240 PHEV Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Compass 4xe 240 PHEV Trailhawk Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Compass 1.3T 130 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Compass 1.3T 150 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Compass 1.5 GSE T4 48V e-Hybrid DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1469 cm3 (89.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Compass 1.5 GSE T4 48V e-Hybrid DKG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1469 cm3 (89.6 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Compass (MP/552) (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "263.6 cm / 103.78 pulgadas",
+            "Consumos Medio:": "de 1.9 L/100 km / 149 MPG UK / 124 MPG US a 5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "162.9 cm / 64.13 pulgadas",
+            "Potencia:": "de 130 PS / 128 HP / 96 kW a 240 PS / 237 HP / 177 kW",
+            "Peso de remolque:": "de 1250 kg / 2756 lbs a 1750 kg / 3858 lbs",
+            "Largo:": "440.4 cm / 173.39 pulgadas",
+            "Ancho:": "181.9 cm / 71.61 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1332 cm3 / 81.3 cu-in a 1469 cm3 / 89.6 cu-in",
+            "Peso:": "de 1516 kg / 3342 lbs a 1935 kg / 4266 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M10769/Compass-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Compass 2.4 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Compass 2.4 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2359 cm3 (144 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Compass 2.4 CVT Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Compass 2.4 Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 CRD Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 CRD Limited Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.0 CRD Sport Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Overland Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Sport Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Compass (MK49) (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "de 140 PS / 138 HP / 103 kW a 175 PS / 173 HP / 129 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 1968 cm3 / 120.1 cu-in a 2360 cm3 / 144 cu-in",
+            "Peso:": "de 1435 kg / 3164 lbs a 1540 kg / 3395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M929/Compass-2007"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Compass 2.0 Sport 4x2 156HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited 4x2 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited 4x4 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited 4x4 163HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited Plus 4x2 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Limited Plus 4x4 163HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD North Edition 4x2 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD North Edition 4x4 163HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Sport 4x2 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Sport 4x4 136HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Compass 2.2 CRD Sport 4x4 163HP Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Compass (MK49) (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Alto:": "171.8 cm / 67.64 pulgadas",
+            "Emisiones de CO2:": "de 161 a 175 g/Km",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 163 PS / 161 HP / 120 kW",
+            "Largo:": "444.8 cm / 175.12 pulgadas",
+            "Ancho:": "181.2 cm / 71.34 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2143 cm3 / 130.8 cu-in",
+            "Peso:": "de 1499 kg / 3305 lbs a 1685 kg / 3715 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M9472/Compass-2011"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/15544/w170_Jeep-Compass-2026-4254deebdea1521bea.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Compass"
+    },
+    {
+      "modelName": "Cherokee",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.2 CRD 4x4 185HP Ficha Tecnica",
+              "Cilindrada": "2184 cm3 (133.3 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.2 CRD 4x4 200HP Ficha Tecnica",
+              "Cilindrada": "2184 cm3 (133.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Cherokee KL (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Potencia:": "de 185 PS / 182 HP / 136 kW a 200 PS / 197 HP / 147 kW",
+            "Peso de remolque:": "2370 kg / 5225 lbs",
+            "Largo:": "462.4 cm / 182.05 pulgadas",
+            "Ancho:": "185.9 cm / 73.19 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "2184 cm3 / 133.3 cu-in",
+            "Peso:": "1967 kg / 4336 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M10293/Cherokee-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cherokee 3.2 271HP Limited 4x4 Auto Active Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "271 hp / 199 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Cherokee 3.2 271HP Trailhawk 4x4 Auto Active Drive Lock Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "271 hp / 199 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Cherokee 3.2 271HP Trailhawk Auto 4x4 Active Drive Lock Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3239 cm3 (197.7 cu-in)",
+              "Potencia": "271 hp / 199 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 140HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 140HP Limited 4x2 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 140HP Limited 4x4 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 140HP Longitude 4x2 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 140HP Longitude 4x4 Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 170HP Limited 4x4 Auto Active Drive Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 170HP Limited 4x4 Auto Active Drive II Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.0 Diesel 170HP Longitude 4x4 Auto Active Drive I Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.2 Diesel 185HP Auto 4x4 Active Drive I Ficha Tecnica",
+              "Cilindrada": "2184 cm3 (133.3 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.2 Diesel 200HP Limited Auto 4x4 Active Drive II Ficha Tecnica",
+              "Cilindrada": "2184 cm3 (133.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee 2.2 Diesel 200HP Overland Auto 4x4 Active Drive I Ficha Tecnica",
+              "Cilindrada": "2184 cm3 (133.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Cherokee KL (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "269.9 cm / 106.26 pulgadas",
+            "Consumos Medio:": "10.7 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "166.9 cm / 65.71 pulgadas",
+            "Emisiones de CO2:": "de 139 a 251 g/Km",
+            "Potencia:": "de 140 PS / 138 HP / 103 kW a 271 PS / 267 HP / 199 kW",
+            "Largo:": "462.3 cm / 182.01 pulgadas",
+            "Ancho:": "185.9 cm / 73.19 pulgadas",
+            "Período de producción:": "de 2013 a a presente",
+            "Cilindrada:": "de 1956 cm3 / 119.4 cu-in a 3239 cm3 / 197.7 cu-in",
+            "Peso:": "de 1828 kg / 4030 lbs a 2036 kg / 4489 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M7163/Cherokee-KL"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (KK) 2.8 CRD Limited Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (KK) 2.8 CRD Sport Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Cherokee KK (2008 - 2013)",
+          "specifications": {
+            "Batalla:": "269.4 cm / 106.06 pulgadas",
+            "Alto:": "173.6 cm / 68.35 pulgadas",
+            "Emisiones de CO2:": "217 g/Km",
+            "Potencia:": "177 PS / 175 HP / 130 kW",
+            "Largo:": "449.3 cm / 176.89 pulgadas",
+            "Ancho:": "183.9 cm / 72.4 pulgadas",
+            "Período de producción:": "de 2008 a 2013",
+            "Cilindrada:": "2776 cm3 / 169.4 cu-in",
+            "Peso:": "2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3559/Cherokee-(KK)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cherokee (KJ) 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (KJ) 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (KJ) 3.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3700 cm3 (225.8 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (KJ) 3.7i V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3700 cm3 (225.8 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (KJ) 2.5 CRD Ficha Tecnica",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (KJ) 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (KJ) 2.8 CRD auto Ficha Tecnica",
+              "Cilindrada": "2755 cm3 (168.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Cherokee KJ (2002 - 2007)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Alto:": "187.0 cm / 73.62 pulgadas",
+            "Emisiones de CO2:": "de 250 a 347 g/Km",
+            "Potencia:": "de 143 PS / 141 HP / 105 kW a 211 PS / 208 HP / 155 kW",
+            "Largo:": "444.0 cm / 174.8 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2002 a 2007",
+            "Cilindrada:": "de 2429 cm3 / 148.2 cu-in a 3700 cm3 / 225.8 cu-in",
+            "Peso:": "de 1725 kg / 3803 lbs a 1892 kg / 4171 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M928/Cherokee-(KJ)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2464 cm3 (150.4 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2464 cm3 (150.4 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 4.0i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (XJ) 4.0i auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (XJ) 2.1 TD Ficha Tecnica",
+              "Cilindrada": "2068 cm3 (126.2 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "1989"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (XJ) 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Cherokee (XJ) 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Cherokee XJ (1984 - 2001)",
+          "specifications": {
+            "Batalla:": "258.0 cm / 101.57 pulgadas",
+            "Consumos Medio:": "de 9.1 L/100 km / 31 MPG UK / 26 MPG US a 14.2 L/100 km / 20 MPG UK / 17 MPG US",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "de 87 PS / 86 HP / 64 kW a 185 PS / 182 HP / 136 kW",
+            "Largo:": "424.0 cm / 166.93 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1984 a 2001",
+            "Cilindrada:": "de 2068 cm3 / 126.2 cu-in a 3960 cm3 / 241.7 cu-in",
+            "Peso:": "de 1420 kg / 3131 lbs a 1559 kg / 3437 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M927/Cherokee-(XJ)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cherokee (SJ) 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (SJ) 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (SJ) 5.9 V8 130hp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5899 cm3 (360 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (SJ) 5.9 V8 175hp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5896 cm3 (359.8 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Cherokee (SJ) 5.9 V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5896 cm3 (359.8 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Cherokee SJ (1974 - 1983)",
+          "specifications": {
+            "Batalla:": "276 cm / 108.66 pulgadas",
+            "Alto:": "170 cm / 66.93 pulgadas",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "466 cm / 183.46 pulgadas",
+            "Ancho:": "192 cm / 75.59 pulgadas",
+            "Período de producción:": "de 1974 a 1983",
+            "Cilindrada:": "de 4235 cm3 / 258.4 cu-in a 5899 cm3 / 360 cu-in",
+            "Peso:": "de 1750 kg / 3858 lbs a 2068 kg / 4559 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M5968/Cherokee-(SJ)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/7163/w170_Jeep-Cherokee-KL-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Cherokee"
+    },
+    {
+      "modelName": "Grand Cherokee",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Grand Cherokee 2.0 T-GDI Plug-in-Hybrid Limited 4xe Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Grand Cherokee 2.0 T-GDI Plug-in-Hybrid Summit Reserve 4xe Ficha Tecnica",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee WL - 2021 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "296.4 cm / 116.69 pulgadas",
+            "Consumos Medio:": "de 2.9 L/100 km / 97 MPG UK / 81 MPG US a 3.2 L/100 km / 88 MPG UK / 74 MPG US",
+            "Alto:": "185.8 cm / 73.15 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 380 PS / 375 HP / 279 kW",
+            "Peso de remolque:": "de 1588 kg / 3501 lbs a 2332 kg / 5141 lbs",
+            "Largo:": "491.4 cm / 193.46 pulgadas",
+            "Ancho:": "196.8 cm / 77.48 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "2434 kg / 5366 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M14489/Grand-Cherokee-(WL)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 3.6 V6 Overland Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 3.6 V6 Overland 286HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 5.7 V8 HEMI Overland Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "352 hp / 259 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 6.4 V8 HEMI SRT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6424 cm3 (392 cu-in)",
+              "Potencia": "461 hp / 339 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 6.4 V8 HEMI SRT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6410 cm3 (391.2 cu-in)",
+              "Potencia": "468 hp / 344 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK2) 6.4 V8 HEMI SRT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6410 cm3 (391.2 cu-in)",
+              "Potencia": "468 hp / 344 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Laredo 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Legend Class 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Limited 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Limited 241HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Limited 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Overland 241HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Overland 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK2) 3.0 V6 CRD Summit 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee WK2 (2011 - 2021)",
+          "specifications": {
+            "Batalla:": "291.5 cm / 114.76 pulgadas",
+            "Alto:": "178.1 cm / 70.12 pulgadas",
+            "Potencia:": "de 190 PS / 187 HP / 140 kW a 468 PS / 462 HP / 344 kW",
+            "Largo:": "482.2 cm / 189.84 pulgadas",
+            "Ancho:": "194.3 cm / 76.5 pulgadas",
+            "Período de producción:": "de 2011 a 2021",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 6424 cm3 / 392 cu-in",
+            "Peso:": "de 2266 kg / 4996 lbs a 2457 kg / 5417 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3522/Grand-Cherokee-(WK2)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Cherokee 3.6 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3605 cm3 (220 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee 5.7 V8 HEMI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "352 hp / 259 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee 6.2 V8 710HP HEMI Trackhawk Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6166 cm3 (376.3 cu-in)",
+              "Potencia": "710 hp / 522 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee 6.4 V8 468HP HEMI SRT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6410 cm3 (391.2 cu-in)",
+              "Potencia": "468 hp / 344 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee 3.0 V6 MultiJet 190HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee 3.0 V6 MultiJet 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee 3.0 V6 MultiJet Trailhawk 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee WK2 (2011 - 2021)",
+          "specifications": {
+            "Batalla:": "291.5 cm / 114.76 pulgadas",
+            "Alto:": "180.2 cm / 70.94 pulgadas",
+            "Potencia:": "de 190 PS / 187 HP / 140 kW a 710 PS / 700 HP / 522 kW",
+            "Peso de remolque:": "3500 kg / 7716 lbs",
+            "Largo:": "482.8 cm / 190.08 pulgadas",
+            "Ancho:": "194.3 cm / 76.5 pulgadas",
+            "Período de producción:": "de 2011 a 2021",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 6410 cm3 / 391.2 cu-in",
+            "Peso:": "de 2266 kg / 4996 lbs a 2567 kg / 5659 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M9393/Grand-Cherokee-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK) 3.7i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3701 cm3 (225.8 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK) 4.7i v8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4701 cm3 (286.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK) 5.7i HEMI V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WK) SRT-8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6059 cm3 (369.7 cu-in)",
+              "Potencia": "425 hp / 313 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WK) 3.0 CRD Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee WK (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "16.4 L/100 km / 17 MPG UK / 14 MPG US",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Potencia:": "de 201 PS / 198 HP / 148 kW a 425 PS / 419 HP / 313 kW",
+            "Largo:": "475.0 cm / 187.01 pulgadas",
+            "Ancho:": "187.0 cm / 73.62 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 6059 cm3 / 369.7 cu-in",
+            "Peso:": "de 2035 kg / 4486 lbs a 2150 kg / 4740 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M932/Grand-Cherokee-(WK)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Cherokee (WJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "195 hp / 143 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WJ) 4.7i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4701 cm3 (286.9 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (WJ) 4.7i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4701 cm3 (286.9 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WJ) 2.7 CRD Ficha Tecnica",
+              "Cilindrada": "2685 cm3 (163.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WJ) 2.7 CRD Ficha Tecnica",
+              "Cilindrada": "2685 cm3 (163.8 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (WJ) 3.1TD Ficha Tecnica",
+              "Cilindrada": "3125 cm3 (190.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee WJ (1999 - 2004)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Consumos Medio:": "15.7 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "184.0 cm / 72.44 pulgadas",
+            "Potencia:": "de 140 PS / 138 HP / 103 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "461.0 cm / 181.5 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 1999 a 2004",
+            "Cilindrada:": "de 2685 cm3 / 163.8 cu-in a 4701 cm3 / 286.9 cu-in",
+            "Peso:": "de 1776 kg / 3915 lbs a 1955 kg / 4310 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M931/Grand-Cherokee-(WJ)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Cherokee (ZJ) 4.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (ZJ) 5.2i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5216 cm3 (318.3 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Grand Cherokee (ZJ) 5.9i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5899 cm3 (360 cu-in)",
+              "Potencia": "237 hp / 174 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Cherokee (ZJ) 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2499 cm3 (152.5 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Grand Cherokee ZJ (1993 - 1998)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Consumos Medio:": "de 12 L/100 km / 24 MPG UK / 20 MPG US a 17.9 L/100 km / 16 MPG UK / 13 MPG US",
+            "Alto:": "170.8 cm / 67.24 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 237 PS / 234 HP / 174 kW",
+            "Largo:": "448.9 cm / 176.73 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1993 a 1998",
+            "Cilindrada:": "de 2499 cm3 / 152.5 cu-in a 5899 cm3 / 360 cu-in",
+            "Peso:": "de 1710 kg / 3770 lbs a 1933 kg / 4262 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M930/Grand-Cherokee-(ZJ)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/14489/w170_Jeep-Grand-Cherokee-(WL)-f1da7e4955c0e15519.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Grand-Cherokee"
+    },
+    {
+      "modelName": "Grand Wagoneer L",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Wagoneer L AWD 3.0-liter Twin Turbo HO Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "548 hp / 403 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Jeep Grand Wagoneer L Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "312.4 cm / 122.99 pulgadas",
+            "Alto:": "202.3 cm / 79.65 pulgadas",
+            "Potencia:": "548 PS / 541 HP / 403 kW",
+            "Peso de remolque:": "4286 kg / 9449 lbs",
+            "Largo:": "575.9 cm / 226.73 pulgadas",
+            "Ancho:": "212.4 cm / 83.62 pulgadas",
+            "Período de producción:": "2024",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "3003 kg / 6620 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M14398/Grand-Wagoneer-L"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/14398/w170_Jeep-ac_28_11_2024__Grand-Wagoneer-L-4WD-Wagon-2023-2025-7393dfd4a1fc908dbf.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M14398/Grand-Wagoneer-L"
+    },
+    {
+      "modelName": "Wrangler",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Wrangler JL Unlimited 2.0 T-GDI Plug-in Hybrid 4xe Auto Ficha Tecnica",
+              "Año": "2023"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Wrangler JL Unlimited 2.0 T-GDI Plug-in-Hybrid Rubicon 4xe Auto Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Wrangler JL Unlimited 2.0 T-GDI Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Wrangler JL Unlimited 2.0 T-GDI Automatic Rubicon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Wrangler JL - 2023 Facelift (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "300.8 cm / 118.43 pulgadas",
+            "Consumos Medio:": "de 3.3 L/100 km / 86 MPG UK / 71 MPG US a 11.4 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "183.8 cm / 72.36 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 380 PS / 375 HP / 279 kW",
+            "Peso de remolque:": "de 1587 kg / 3499 lbs a 2495 kg / 5501 lbs",
+            "Largo:": "488.2 cm / 192.2 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1938 kg / 4273 lbs a 2383 kg / 5254 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M13830/Wrangler-JL-Unlimited-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wrangler 2.0T Rubicon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Wrangler 2.0T Sahara Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler 2.2D Rubicon Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler 2.2D Sahara Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Wrangler JL (2018 - 2023)",
+          "specifications": {
+            "Batalla:": "245.9 cm / 96.81 pulgadas",
+            "Alto:": "184.1 cm / 72.48 pulgadas",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 272 PS / 268 HP / 200 kW",
+            "Peso de remolque:": "1497 kg / 3300 lbs",
+            "Largo:": "433.4 cm / 170.63 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2018 a 2023",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2143 cm3 / 130.8 cu-in",
+            "Peso:": "de 1901 kg / 4191 lbs a 2083 kg / 4592 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M10295/Wrangler-JL"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Wrangler Unlimited 4xe 380 Rubicon Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Plugin Híbrido": "Wrangler Unlimited 4xe 380 Sahara Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Wrangler Unlimited 2.0T Rubicon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Wrangler Unlimited 2.0T Sahara Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler Unlimited 2.2D Rubicon Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler Unlimited 2.2D Sahara Ficha Tecnica",
+              "Cilindrada": "2143 cm3 (130.8 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Wrangler JL (2018 - 2023)",
+          "specifications": {
+            "Batalla:": "300.8 cm / 118.43 pulgadas",
+            "Consumos Medio:": "de 3.5 L/100 km / 81 MPG UK / 67 MPG US a 4.1 L/100 km / 69 MPG UK / 57 MPG US",
+            "Alto:": "184.8 cm / 72.76 pulgadas",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 380 PS / 375 HP / 279 kW",
+            "Peso de remolque:": "de 1508 kg / 3325 lbs a 2495 kg / 5501 lbs",
+            "Largo:": "488.2 cm / 192.2 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2018 a 2023",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2143 cm3 / 130.8 cu-in",
+            "Peso:": "de 2040 kg / 4497 lbs a 2436 kg / 5370 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M10661/Wrangler-JL-Unlimited"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.6 Rubicon Aut Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.6 V6 Backcountry Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.6 V6 Rubicon Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.6 V6 Sahara Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "198 hp / 146 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.8 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "198 hp / 146 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) 3.8 V6 Rubicon Aut Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "199 hp / 146 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2777 cm3 (169.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Arctic Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Arctic Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Aut Sahara Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Auto Ficha Tecnica",
+              "Cilindrada": "2777 cm3 (169.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Moab Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Moab Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Polar Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Polar Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Rubicon 10th Anniversary Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Rubicon Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Rubicon X Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Sahara Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Sahara Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Sahara Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD Sport Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) 2.8 CRD X Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Wrangler JK (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Consumos Medio:": "de 11 L/100 km / 26 MPG UK / 21 MPG US a 11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "180.0 cm / 70.87 pulgadas",
+            "Emisiones de CO2:": "de 187 a 280 g/Km",
+            "Potencia:": "de 177 PS / 175 HP / 130 kW a 286 PS / 282 HP / 210 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "187.0 cm / 73.62 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 2776 cm3 / 169.4 cu-in a 3778 cm3 / 230.5 cu-in",
+            "Peso:": "de 1705 kg / 3759 lbs a 1945 kg / 4288 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M935/Wrangler-(JK)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.6 Rubicon Aut Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.6 V6 Backcountry Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.6 V6 Rubicon Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.6 V6 Sahara Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "199 hp / 146 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (JK) Unlimited 3.8 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3778 cm3 (230.5 cu-in)",
+              "Potencia": "199 hp / 146 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2777 cm3 (169.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Arctic Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Arctic Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD auto Ficha Tecnica",
+              "Cilindrada": "2777 cm3 (169.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Black Edition Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Moab Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Moab Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Polar Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Polar Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Rubicon 10th Anniversary Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Rubicon Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Rubicon X Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Sahara Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Sahara Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD Sport Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited 2.8 CRD X Auto Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited Rubicon 2.8 CRD Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited Sahara 2.8 CRD Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wrangler (JK) Unlimited Sahara 2.8 CRD Aut Ficha Tecnica",
+              "Cilindrada": "2776 cm3 (169.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Wrangler JK (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "295.0 cm / 116.14 pulgadas",
+            "Consumos Medio:": "de 11.4 L/100 km / 25 MPG UK / 21 MPG US a 11.8 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "180.0 cm / 70.87 pulgadas",
+            "Emisiones de CO2:": "de 194 a 282 g/Km",
+            "Potencia:": "de 177 PS / 175 HP / 130 kW a 286 PS / 282 HP / 210 kW",
+            "Largo:": "475.0 cm / 187.01 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 2776 cm3 / 169.4 cu-in a 3778 cm3 / 230.5 cu-in",
+            "Peso:": "de 1850 kg / 4079 lbs a 2128 kg / 4691 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M936/Wrangler-(JK)-Unlimited"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 2.4i soft Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2429 cm3 (148.2 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 2.5i Hard Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2464 cm3 (150.4 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 2.5i Soft Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2464 cm3 (150.4 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 4.0i Hard Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 4.0i Hard Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 4.0i Hard Top auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (TJ) 4.0i Hard Top auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Wrangler TJ (1997 - 2006)",
+          "specifications": {
+            "Batalla:": "237.0 cm / 93.31 pulgadas",
+            "Consumos Medio:": "de 10.4 L/100 km / 27 MPG UK / 23 MPG US a 12.7 L/100 km / 22 MPG UK / 19 MPG US",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Potencia:": "de 118 PS / 116 HP / 87 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "413.0 cm / 162.6 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1997 a 2006",
+            "Cilindrada:": "de 2429 cm3 / 148.2 cu-in a 3960 cm3 / 241.7 cu-in",
+            "Peso:": "de 1405 kg / 3097 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M934/Wrangler-(TJ)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wrangler (YJ) 2.5i Hard Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2463 cm3 (150.3 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (YJ) 2.5i Soft Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2463 cm3 (150.3 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (YJ) 4.0i Hard Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Wrangler (YJ) 4.0i Soft Top Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3960 cm3 (241.7 cu-in)",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Wrangler YJ (1987 - 1995)",
+          "specifications": {
+            "Batalla:": "237.0 cm / 93.31 pulgadas",
+            "Consumos Medio:": "de 13.4 L/100 km / 21 MPG UK / 18 MPG US a 15 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "183.0 cm / 72.05 pulgadas",
+            "Potencia:": "de 121 PS / 119 HP / 89 kW a 184 PS / 181 HP / 135 kW",
+            "Largo:": "388.0 cm / 152.76 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1987 a 1995",
+            "Cilindrada:": "de 2463 cm3 / 150.3 cu-in a 3960 cm3 / 241.7 cu-in",
+            "Peso:": "de 1340 kg / 2954 lbs a 1529 kg / 3371 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M933/Wrangler-(YJ)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/13830/w170_Jeep-Wrangler-JL-Unlimited-2023-be7ae91a0375885abc.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-Wrangler"
+    },
+    {
+      "modelName": "Gladiator JT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 6-speed Mohave Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 6-speed Overland Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 6-speed Rubicon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 6-speed Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 Max Tow Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 Mohave Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 Overland Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 Rubicon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Gladiator JT 3.6 V6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3604 cm3 (219.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Gladiator JT 3.0 EcoDiesel V6 Overland Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Gladiator JT 3.0 EcoDiesel V6 Rubicon Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Gladiator JT 3.0 EcoDiesel V6 Sport Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Jeep Gladiator JT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "348.7 cm / 137.28 pulgadas",
+            "Alto:": "185.7 cm / 73.11 pulgadas",
+            "Potencia:": "de 264 PS / 260 HP / 194 kW a 289 PS / 285 HP / 213 kW",
+            "Peso de remolque:": "de 1814 kg / 3999 lbs a 3470 kg / 7650 lbs",
+            "Largo:": "553.9 cm / 218.07 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "2019",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 3604 cm3 / 219.9 cu-in",
+            "Peso:": "de 2109 kg / 4650 lbs a 2428 kg / 5353 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M11254/Gladiator-JT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/11254/w170_Jeep-Gladiator-JT-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M11254/Gladiator-JT"
+    },
+    {
+      "modelName": "Commander",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Commander 4.7i V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4701 cm3 (286.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Commander 5.7i HEMI V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5654 cm3 (345 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Commander 3.0 CRD Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Jeep Commander Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Alto:": "183.0 cm / 72.05 pulgadas",
+            "Emisiones de CO2:": "de 284 a 368 g/Km",
+            "Potencia:": "de 218 PS / 215 HP / 160 kW a 326 PS / 322 HP / 240 kW",
+            "Largo:": "479.0 cm / 188.58 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "de 2987 cm3 / 182.3 cu-in a 5654 cm3 / 345 cu-in",
+            "Peso:": "de 2305 kg / 5082 lbs a 2355 kg / 5192 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M937/Commander"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/937/w170_Jeep-Commander-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M937/Commander"
+    },
+    {
+      "modelName": "CJ",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CJ 7 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "CJ 7 5.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4982 cm3 (304 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1979"
+            }
+          ],
+          "actualFinalModelName": "CJ7 (1976 - 1986)",
+          "specifications": {
+            "Batalla:": "237 cm / 93.31 pulgadas",
+            "Alto:": "172 cm / 67.72 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "376 cm / 148.03 pulgadas",
+            "Ancho:": "174 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1976 a 1986",
+            "Cilindrada:": "de 4235 cm3 / 258.4 cu-in a 4982 cm3 / 304 cu-in",
+            "Peso:": "1228 kg / 2707 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M2230/CJ-7"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CJ 5 4.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4235 cm3 (258.4 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "CJ 5 5.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4982 cm3 (304 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1979"
+            }
+          ],
+          "actualFinalModelName": "CJ5 (1954 - 1983)",
+          "specifications": {
+            "Batalla:": "212 cm / 83.46 pulgadas",
+            "Alto:": "172 cm / 67.72 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "351 cm / 138.19 pulgadas",
+            "Ancho:": "174 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1954 a 1983",
+            "Cilindrada:": "de 4235 cm3 / 258.4 cu-in a 4982 cm3 / 304 cu-in",
+            "Peso:": "1209 kg / 2665 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M2231/CJ-5"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/2230/w170_Jeep-CJ-7-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep-models/Jeep-CJ"
+    },
+    {
+      "modelName": "Willys Concept",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Willys Concept Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Jeep Willys Concept Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "241.3 cm / 95 pulgadas",
+            "Alto:": "160.5 cm / 63.19 pulgadas",
+            "Potencia:": "162 PS / 160 HP / 119 kW",
+            "Largo:": "361.7 cm / 142.4 pulgadas",
+            "Ancho:": "179.1 cm / 70.51 pulgadas",
+            "Período de producción:": "2001",
+            "Cilindrada:": "1600 cm3 / 97.6 cu-in",
+            "Peso:": "1315 kg / 2899 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3061/Willys-Concept"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/3061/w170_Jeep-Willys-Concept-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3061/Willys-Concept"
+    },
+    {
+      "modelName": "Icon",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Icon Concept Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2400 cm3 (146.5 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Jeep Icon Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "237.2 cm / 93.39 pulgadas",
+            "Alto:": "178.1 cm / 70.12 pulgadas",
+            "Potencia:": "- PS / - HP / - kW",
+            "Largo:": "360.7 cm / 142.01 pulgadas",
+            "Ancho:": "172 cm / 67.72 pulgadas",
+            "Período de producción:": "1997",
+            "Cilindrada:": "2400 cm3 / 146.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3431/Icon"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/86/3431/w170_Jeep-Icon-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Jeep/M3431/Icon"
+    }
+  ],
+  "brandName": "Jeep"
+}

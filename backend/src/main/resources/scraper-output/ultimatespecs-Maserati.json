@@ -1,0 +1,1510 @@
+{
+  "models": [
+    {
+      "modelName": "Ghibli",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghibli 2.0 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 3.0 V6 S Q4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 3.8 V8 Trofeo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Ghibli M157 - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "299.8 cm / 118.03 pulgadas",
+            "Consumos Medio:": "de 8.1 L/100 km / 35 MPG UK / 29 MPG US a 12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "146.1 cm / 57.52 pulgadas",
+            "Potencia:": "de 330 PS / 326 HP / 243 kW a 580 PS / 572 HP / 427 kW",
+            "Largo:": "497.1 cm / 195.71 pulgadas",
+            "Ancho:": "194.5 cm / 76.57 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3799 cm3 / 231.8 cu-in",
+            "Peso:": "de 1977 kg / 4359 lbs a 2087 kg / 4601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M11828/Ghibli-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghibli 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 3.0 V6 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "411 hp / 302 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 3.0 V6 S Q4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "411 hp / 302 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ghibli 3.0 V6 Diesel Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Ghibli M157 - 2019 Facelift (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "299.8 cm / 118.03 pulgadas",
+            "Alto:": "146.1 cm / 57.52 pulgadas",
+            "Emisiones de CO2:": "de 158 a 226 g/Km",
+            "Potencia:": "de 275 PS / 271 HP / 202 kW a 411 PS / 405 HP / 302 kW",
+            "Largo:": "497.1 cm / 195.71 pulgadas",
+            "Ancho:": "194.5 cm / 76.57 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2987 cm3 / 182.3 cu-in",
+            "Peso:": "de 1937 kg / 4270 lbs a 1997 kg / 4403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M9824/Ghibli-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghibli Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Ghibli Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Ghibli S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Ghibli S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Ghibli S Q4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Ghibli S Q4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ghibli Diesel Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ghibli Diesel 250HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ghibli Diesel 275HP Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Ghibli M157 - 2014 New Model (2013 - 2018)",
+          "specifications": {
+            "Batalla:": "299.8 cm / 118.03 pulgadas",
+            "Alto:": "146.1 cm / 57.52 pulgadas",
+            "Emisiones de CO2:": "de 158 a 246 g/Km",
+            "Potencia:": "de 250 PS / 247 HP / 184 kW a 430 PS / 424 HP / 316 kW",
+            "Largo:": "497.1 cm / 195.71 pulgadas",
+            "Ancho:": "194.5 cm / 76.57 pulgadas",
+            "Período de producción:": "de 2013 a 2018",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2987 cm3 / 182.3 cu-in",
+            "Peso:": "de 1885 kg / 4156 lbs a 1950 kg / 4299 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6868/Ghibli-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghibli 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Ghibli 2.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2790 cm3 (170.3 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Ghibli Cup Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Ghibli AM336 (1992 - 1997)",
+          "specifications": {
+            "Batalla:": "251.4 cm / 98.98 pulgadas",
+            "Alto:": "131 cm / 51.57 pulgadas",
+            "Potencia:": "de 284 PS / 280 HP / 209 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "422.3 cm / 166.26 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 1992 a 1997",
+            "Cilindrada:": "de 1990 cm3 / 121.4 cu-in a 2790 cm3 / 170.3 cu-in",
+            "Peso:": "de 1270 kg / 2800 lbs a 1365 kg / 3009 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M596/Ghibli-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/11828/w170_Maserati-Ghibli-2021-29.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-Ghibli"
+    },
+    {
+      "modelName": "Quattroporte",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte 3.0 Q4 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte VI - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "317.1 cm / 124.84 pulgadas",
+            "Consumos Medio:": "11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "148.1 cm / 58.31 pulgadas",
+            "Potencia:": "430 PS / 424 HP / 316 kW",
+            "Largo:": "526.2 cm / 207.17 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "2979 cm3 / 181.8 cu-in",
+            "Peso:": "2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M13866/Quattroporte-VI-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte GTS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "411 hp / 302 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S Q4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "411 hp / 302 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Quattroporte Diesel Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte VI - 2016 Facelift (2016 - 2021)",
+          "specifications": {
+            "Batalla:": "317.1 cm / 124.84 pulgadas",
+            "Alto:": "148.1 cm / 58.31 pulgadas",
+            "Emisiones de CO2:": "de 163 a 250 g/Km",
+            "Potencia:": "de 275 PS / 271 HP / 202 kW a 530 PS / 523 HP / 390 kW",
+            "Largo:": "526.4 cm / 207.24 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "de 2016 a 2021",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 3799 cm3 / 231.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M8886/Quattroporte-VI-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte GTS V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte GTS V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S Q4 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Quattroporte Diesel Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte VI (2013 - 2016)",
+          "specifications": {
+            "Batalla:": "317.1 cm / 124.84 pulgadas",
+            "Consumos Medio:": "de 10.5 L/100 km / 27 MPG UK / 22 MPG US a 11.8 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "148.1 cm / 58.31 pulgadas",
+            "Emisiones de CO2:": "de 163 a 278 g/Km",
+            "Potencia:": "de 275 PS / 271 HP / 202 kW a 530 PS / 523 HP / 390 kW",
+            "Largo:": "526.2 cm / 207.17 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "de 2013 a 2016",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 3799 cm3 / 231.8 cu-in",
+            "Peso:": "de 1935 kg / 4266 lbs a 2005 kg / 4420 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6527/Quattroporte-VI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quatroporte Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "431 hp / 317 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte Sport GT S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte Sport GT S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte Sport GT S \"Awards Edition\" Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Quatroporte Sport GT S \"Awards Edition\" Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "450 hp / 331 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte V - 2008 Facelift (2008 - 2013)",
+          "specifications": {
+            "Batalla:": "306.4 cm / 120.63 pulgadas",
+            "Alto:": "143.8 cm / 56.61 pulgadas",
+            "Emisiones de CO2:": "de 345 a 365 g/Km",
+            "Potencia:": "de 401 PS / 396 HP / 295 kW a 450 PS / 444 HP / 331 kW",
+            "Largo:": "509.7 cm / 200.67 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2008 a 2013",
+            "Cilindrada:": "de 4244 cm3 / 259 cu-in a 4691 cm3 / 286.3 cu-in",
+            "Peso:": "2065 kg / 4553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M14155/Quatroporte-V-2008"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte Executive GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "431 hp / 317 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte Sport GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte Sport GT S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": ""
+            }
+          ],
+          "actualFinalModelName": "Quattroporte V (2004 - 2008)",
+          "specifications": {
+            "Batalla:": "306.4 cm / 120.63 pulgadas",
+            "Consumos Medio:": "15.7 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "143.8 cm / 56.61 pulgadas",
+            "Emisiones de CO2:": "de 345 a 370 g/Km",
+            "Potencia:": "de 400 PS / 395 HP / 294 kW a 439 PS / 433 HP / 323 kW",
+            "Largo:": "505.2 cm / 198.9 pulgadas",
+            "Ancho:": "189.5 cm / 74.61 pulgadas",
+            "Período de producción:": "de 2004 a 2008",
+            "Cilindrada:": "de 4244 cm3 / 259 cu-in a 4691 cm3 / 286.3 cu-in",
+            "Peso:": "de 1860 kg / 4101 lbs a 2065 kg / 4553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M417/Quattroporte-V"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2790 cm3 (170.3 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte V6 Evoluzione Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2790 cm3 (170.3 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3217 cm3 (196.3 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte V8 Evoluzione Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3217 cm3 (196.3 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte IV (1994 - 2001)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Consumos Medio:": "17.3 L/100 km / 16 MPG UK / 14 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Emisiones de CO2:": "413 g/Km",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 335 PS / 330 HP / 246 kW",
+            "Largo:": "455.0 cm / 179.13 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 1994 a 2001",
+            "Cilindrada:": "de 2790 cm3 / 170.3 cu-in a 3217 cm3 / 196.3 cu-in",
+            "Peso:": "de 1543 kg / 3402 lbs a 1647 kg / 3631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M597/Quattroporte-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Quattroporte 4.9 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4930 cm3 (300.8 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Quattroporte 4200 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4136 cm3 (252.4 cu-in)",
+              "Potencia": "255 hp / 188 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Quattroporte III (1979 - 1986)",
+          "specifications": {
+            "Batalla:": "280 cm / 110.24 pulgadas",
+            "Alto:": "135.2 cm / 53.23 pulgadas",
+            "Potencia:": "de 255 PS / 252 HP / 188 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "491 cm / 193.31 pulgadas",
+            "Ancho:": "179 cm / 70.47 pulgadas",
+            "Período de producción:": "de 1979 a 1986",
+            "Cilindrada:": "de 4136 cm3 / 252.4 cu-in a 4930 cm3 / 300.8 cu-in",
+            "Peso:": "1900 kg / 4189 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M170/Quattroporte-III"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/13866/w170_Maserati-Quattroporte-VI-2021-d7e7bfde5d5e07aae0.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-Quattroporte"
+    },
+    {
+      "modelName": "Levante",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Levante 3.0 V6 GDI AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Levante GTS 3.8 V8 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Levante Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Levante S 3.0 V6 GDI AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Levante Trofeo 3.8 V8 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Levante (M161) Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "300.4 cm / 118.27 pulgadas",
+            "Consumos Medio:": "de 9.7 L/100 km / 29 MPG UK / 24 MPG US a 15.8 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "169.3 cm / 66.65 pulgadas",
+            "Potencia:": "de 330 PS / 326 HP / 243 kW a 580 PS / 572 HP / 427 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 2700 kg / 5952 lbs",
+            "Largo:": "500.5 cm / 197.05 pulgadas",
+            "Ancho:": "198.1 cm / 77.99 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 3799 cm3 / 231.8 cu-in",
+            "Peso:": "de 2165 kg / 4773 lbs a 2297 kg / 5064 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M13126/Levante-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Levante 350HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Levante GTS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Levante S 430HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Levante Trofeo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "580 hp / 427 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Levante Diesel Ficha Tecnica",
+              "Cilindrada": "2987 cm3 (182.3 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Levante (M161) (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "300.4 cm / 118.27 pulgadas",
+            "Consumos Medio:": "13.2 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "167.9 cm / 66.1 pulgadas",
+            "Potencia:": "de 275 PS / 271 HP / 202 kW a 580 PS / 572 HP / 427 kW",
+            "Peso de remolque:": "2700 kg / 5952 lbs",
+            "Largo:": "500.3 cm / 196.97 pulgadas",
+            "Ancho:": "196.8 cm / 77.48 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 3799 cm3 / 231.8 cu-in",
+            "Peso:": "de 2109 kg / 4650 lbs a 2332 kg / 5141 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M8697/Levante-2017"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/13126/w170_Maserati-Levante-2021-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-Levante"
+    },
+    {
+      "modelName": "Grecale",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Grecale Folgore 105 kWh BEV AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "558 hp / 410 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "105.0 kWh"
+            },
+            {
+              "Motores de Gasolina": "Grecale GT 2.0 Mild Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "301 hp / 221 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Grecale Modena 2.0 Mild Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Grecale Trofeo 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Maserati Grecale Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.3 cm / 114.29 pulgadas",
+            "Consumos Medio:": "de 8.7 L/100 km / 32 MPG UK / 27 MPG US a 11.2 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "165.1 cm / 65 pulgadas",
+            "Potencia:": "de 301 PS / 297 HP / 221 kW a 558 PS / 550 HP / 410 kW",
+            "Largo:": "486.5 cm / 191.54 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "2022",
+            "Cilindrada:": "de - cm3 / - cu-in a 3000 cm3 / 183.1 cu-in",
+            "Peso:": "de 1870 kg / 4123 lbs a 2480 kg / 5467 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M14127/Grecale"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/14127/w170_Maserati-Grecale-e76aea9c3c7c070df9.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M14127/Grecale"
+    },
+    {
+      "modelName": "GranTurismo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GranTurismo 2023 GranTurismo Folgore Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "761 hp / 560 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "92.5 kWh"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo 2023 GranTurismo Modena Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2992 cm3 (182.6 cu-in)",
+              "Potencia": "490 hp / 360 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo 2023 GranTurismo Trofeo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2992 cm3 (182.6 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "GranTurismo II (M189) (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "292.9 cm / 115.31 pulgadas",
+            "Consumos Medio:": "10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "135.3 cm / 53.27 pulgadas",
+            "Potencia:": "de 490 PS / 483 HP / 360 kW a 761 PS / 751 HP / 560 kW",
+            "Largo:": "495.9 cm / 195.24 pulgadas",
+            "Ancho:": "195.7 cm / 77.05 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "de - cm3 / - cu-in a 2992 cm3 / 182.6 cu-in",
+            "Peso:": "de 1795 kg / 3957 lbs a 2260 kg / 4982 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M13288/GranTurismo-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GranTurismo MC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "GranTurismo I (M145) - 2017 Facelift (2017 - 2019)",
+          "specifications": {
+            "Batalla:": "294.2 cm / 115.83 pulgadas",
+            "Alto:": "135.3 cm / 53.27 pulgadas",
+            "Emisiones de CO2:": "331 g/Km",
+            "Potencia:": "460 PS / 454 HP / 338 kW",
+            "Largo:": "492.0 cm / 193.7 pulgadas",
+            "Ancho:": "191.5 cm / 75.39 pulgadas",
+            "Período de producción:": "de 2017 a 2019",
+            "Cilindrada:": "4691 cm3 / 286.3 cu-in",
+            "Peso:": "1955 kg / 4310 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M9520/GranTurismo-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GranTurismo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "405 hp / 298 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo MC Stradale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "449 hp / 330 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo MC Stradale (4 seats) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo S Automatica Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "GranTurismo S Automatica Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "GranTurismo I (M145) (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "294.2 cm / 115.83 pulgadas",
+            "Consumos Medio:": "15.2 L/100 km / 19 MPG UK / 15 MPG US",
+            "Alto:": "135.3 cm / 53.27 pulgadas",
+            "Emisiones de CO2:": "de 330 a 387 g/Km",
+            "Potencia:": "de 405 PS / 399 HP / 298 kW a 460 PS / 454 HP / 338 kW",
+            "Largo:": "488.1 cm / 192.17 pulgadas",
+            "Ancho:": "184.7 cm / 72.72 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 4244 cm3 / 259 cu-in a 4691 cm3 / 286.3 cu-in",
+            "Peso:": "de 1770 kg / 3902 lbs a 1955 kg / 4310 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M1340/GranTurismo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/13288/w170_Maserati-GranTurismo-2023-4186467c5287426e5e.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-GranTurismo"
+    },
+    {
+      "modelName": "GranCabrio",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "GranCabrio Folgore 92.5 kWh Electric AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "762 hp / 560 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "92.5 kWh"
+            },
+            {
+              "Motores de Gasolina": "GranCabrio Trofeo 3.0 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2992 cm3 (182.6 cu-in)",
+              "Potencia": "542 hp / 399 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "GranCabrio II (M189) (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "292.9 cm / 115.31 pulgadas",
+            "Consumos Medio:": "10.4 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "136.5 cm / 53.74 pulgadas",
+            "Potencia:": "de 542 PS / 535 HP / 399 kW a 762 PS / 752 HP / 560 kW",
+            "Largo:": "496.6 cm / 195.51 pulgadas",
+            "Ancho:": "195.7 cm / 77.05 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de - cm3 / - cu-in a 2992 cm3 / 182.6 cu-in",
+            "Peso:": "de 1970 kg / 4343 lbs a 2415 kg / 5324 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M14063/GranCabrio-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GranCabrio MC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "GranCabrio Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "GranCabrio I (M145) - 2018 Facelift (2018 - 2020)",
+          "specifications": {
+            "Batalla:": "294.2 cm / 115.83 pulgadas",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Emisiones de CO2:": "337 g/Km",
+            "Potencia:": "460 PS / 454 HP / 338 kW",
+            "Largo:": "492.0 cm / 193.7 pulgadas",
+            "Ancho:": "191.5 cm / 75.39 pulgadas",
+            "Período de producción:": "de 2018 a 2020",
+            "Cilindrada:": "4691 cm3 / 286.3 cu-in",
+            "Peso:": "de 2048 kg / 4515 lbs a 2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M9521/GranCabrio-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GranCabrio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "GranCabrio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "439 hp / 323 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "GranCabrio Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4691 cm3 (286.3 cu-in)",
+              "Potencia": "449 hp / 330 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "GranCabrio I (M145) (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "294.2 cm / 115.83 pulgadas",
+            "Alto:": "135.3 cm / 53.27 pulgadas",
+            "Emisiones de CO2:": "de 337 a 358 g/Km",
+            "Potencia:": "de 439 PS / 433 HP / 323 kW a 449 PS / 443 HP / 330 kW",
+            "Largo:": "488.1 cm / 192.17 pulgadas",
+            "Ancho:": "184.7 cm / 72.72 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "4691 cm3 / 286.3 cu-in",
+            "Peso:": "2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M1431/GranCabrio"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/14063/w170_Maserati-GranCabrio-II-dd28b98ce1e95bf1b2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-GranCabrio"
+    },
+    {
+      "modelName": "GranSport",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GranSport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "GranSport Spyder Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Maserati GranSport Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.0 cm / 104.72 pulgadas",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Emisiones de CO2:": "435 g/Km",
+            "Potencia:": "401 PS / 396 HP / 295 kW",
+            "Largo:": "452.3 cm / 178.07 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 2005 a 2008",
+            "Cilindrada:": "4244 cm3 / 259 cu-in",
+            "Peso:": "de 1755 kg / 3869 lbs a 1805 kg / 3979 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6205/GranSport"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/6205/w170_Maserati-GranSport-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6205/GranSport"
+    },
+    {
+      "modelName": "MC20",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MC20 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2992 cm3 (182.6 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "MC20 (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "270 cm / 106.3 pulgadas",
+            "Consumos Medio:": "11.6 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "122.4 cm / 48.19 pulgadas",
+            "Emisiones de CO2:": "262 g/Km",
+            "Potencia:": "630 PS / 621 HP / 463 kW",
+            "Largo:": "466.9 cm / 183.82 pulgadas",
+            "Ancho:": "217.8 cm / 85.75 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "2992 cm3 / 182.6 cu-in",
+            "Peso:": "1500 kg / 3307 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M10977/MC20"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MC20 Cielo 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2992 cm3 (182.6 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "MC20 (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "121.8 cm / 47.95 pulgadas",
+            "Emisiones de CO2:": "265 g/Km",
+            "Potencia:": "630 PS / 621 HP / 463 kW",
+            "Largo:": "466.9 cm / 183.82 pulgadas",
+            "Ancho:": "196.5 cm / 77.36 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "2992 cm3 / 182.6 cu-in",
+            "Peso:": "1540 kg / 3395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M13036/MC20-Cielo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/10977/w170_Maserati-MC20-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-MC20"
+    },
+    {
+      "modelName": "Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Coupe Cambiocorsa Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Coupe GranSport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Coupe GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Maserati Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.0 cm / 104.72 pulgadas",
+            "Alto:": "130.5 cm / 51.38 pulgadas",
+            "Emisiones de CO2:": "de 430 a 438 g/Km",
+            "Potencia:": "de 390 PS / 385 HP / 287 kW a 401 PS / 396 HP / 295 kW",
+            "Largo:": "452.3 cm / 178.07 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "2002",
+            "Cilindrada:": "4244 cm3 / 259 cu-in",
+            "Peso:": "de 1570 kg / 3461 lbs a 1580 kg / 3483 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M418/Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/maserati/418/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M418/Coupe"
+    },
+    {
+      "modelName": "Spyder",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Spyder 90th Anniversary Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Spyder Cambiocorsa Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Spyder GranSport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "401 hp / 295 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Spyder GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Maserati Spyder Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "18.6 L/100 km / 15 MPG UK / 13 MPG US",
+            "Alto:": "130.0 cm / 51.18 pulgadas",
+            "Potencia:": "de 390 PS / 385 HP / 287 kW a 401 PS / 396 HP / 295 kW",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2001 a 2006",
+            "Cilindrada:": "4244 cm3 / 259 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M419/Spyder"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/maserati/419/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M419/Spyder"
+    },
+    {
+      "modelName": "MC12",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MC12 6.0 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5998 cm3 (366 cu-in)",
+              "Potencia": "630 hp / 463 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Maserati MC12 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280 cm / 110.24 pulgadas",
+            "Alto:": "120.5 cm / 47.44 pulgadas",
+            "Potencia:": "630 PS / 621 HP / 463 kW",
+            "Largo:": "514.3 cm / 202.48 pulgadas",
+            "Ancho:": "209.6 cm / 82.52 pulgadas",
+            "Período de producción:": "de 2004 a 2005",
+            "Cilindrada:": "5998 cm3 / 366 cu-in",
+            "Peso:": "1497 kg / 3300 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M4011/MC12"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/4011/w170_Maserati-MC12-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M4011/MC12"
+    },
+    {
+      "modelName": "4200 GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "4200 GT 4.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "4200 GT GranSport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4244 cm3 (259 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Maserati 4200 GT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265.9 cm / 104.69 pulgadas",
+            "Alto:": "130.6 cm / 51.42 pulgadas",
+            "Emisiones de CO2:": "de 430 a 435 g/Km",
+            "Potencia:": "de 390 PS / 385 HP / 287 kW a 400 PS / 395 HP / 294 kW",
+            "Largo:": "452.3 cm / 178.07 pulgadas",
+            "Ancho:": "182.1 cm / 71.69 pulgadas",
+            "Período de producción:": "de 2002 a 2007",
+            "Cilindrada:": "4244 cm3 / 259 cu-in",
+            "Peso:": "de 1670 kg / 3682 lbs a 1680 kg / 3704 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M7385/4200-GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/7385/w170_Maserati-4200-GT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M7385/4200-GT"
+    },
+    {
+      "modelName": "3200 GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3200 GT 3.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3217 cm3 (196.3 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "3200 GT Assetto Corsa Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3217 cm3 (196.3 cu-in)",
+              "Potencia": "370 hp / 272 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Maserati 3200 GT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "266.0 cm / 104.72 pulgadas",
+            "Alto:": "130.0 cm / 51.18 pulgadas",
+            "Emisiones de CO2:": "396 g/Km",
+            "Potencia:": "370 PS / 365 HP / 272 kW",
+            "Largo:": "451.0 cm / 177.56 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1998 a 2002",
+            "Cilindrada:": "3217 cm3 / 196.3 cu-in",
+            "Peso:": "1590 kg / 3505 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M595/3200-GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/595/w170_Maserati-3200-GT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M595/3200-GT"
+    },
+    {
+      "modelName": "Barchetta",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Barchetta Stradale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Maserati Barchetta Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260 cm / 102.36 pulgadas",
+            "Alto:": "93 cm / 36.61 pulgadas",
+            "Potencia:": "310 PS / 306 HP / 228 kW",
+            "Largo:": "405 cm / 159.45 pulgadas",
+            "Ancho:": "196.5 cm / 77.36 pulgadas",
+            "Período de producción:": "de 1991 a 1992",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "860 kg / 1896 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M8093/Barchetta"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/8093/w170_Maserati-Barchetta-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M8093/Barchetta"
+    },
+    {
+      "modelName": "Racing",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Racing Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Maserati Racing Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "254 cm / 100 pulgadas",
+            "Alto:": "130.5 cm / 51.38 pulgadas",
+            "Potencia:": "289 PS / 285 HP / 213 kW",
+            "Largo:": "419 cm / 164.96 pulgadas",
+            "Ancho:": "171.2 cm / 67.4 pulgadas",
+            "Período de producción:": "de 1991 a 1992",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "1240 kg / 2734 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M1788/Racing"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/1788/w170_Maserati-Racing-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M1788/Racing"
+    },
+    {
+      "modelName": "Shamal",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Shamal Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3217 cm3 (196.3 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Maserati Shamal Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "240 cm / 94.49 pulgadas",
+            "Alto:": "130 cm / 51.18 pulgadas",
+            "Potencia:": "326 PS / 322 HP / 240 kW",
+            "Largo:": "410.2 cm / 161.5 pulgadas",
+            "Ancho:": "185 cm / 72.83 pulgadas",
+            "Período de producción:": "de 1989 a 1996",
+            "Cilindrada:": "3217 cm3 / 196.3 cu-in",
+            "Peso:": "1417 kg / 3124 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6733/Shamal"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/6733/w170_Maserati-Shamal-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M6733/Shamal"
+    },
+    {
+      "modelName": "2.24v",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "2.24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Maserati 2.24v Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.4 cm / 98.98 pulgadas",
+            "Alto:": "130.5 cm / 51.38 pulgadas",
+            "Potencia:": "245 PS / 242 HP / 180 kW",
+            "Largo:": "419 cm / 164.96 pulgadas",
+            "Ancho:": "171.4 cm / 67.48 pulgadas",
+            "Período de producción:": "de 1988 a 1992",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "1240 kg / 2734 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M3163/224v"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/42/3163/w170_Maserati-2.24v-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M3163/224v"
+    },
+    {
+      "modelName": "400",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "4.24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "400 Series (1983 - 1994)",
+          "specifications": {
+            "Batalla:": "260 cm / 102.36 pulgadas",
+            "Alto:": "137 cm / 53.94 pulgadas",
+            "Potencia:": "245 PS / 242 HP / 180 kW",
+            "Largo:": "440 cm / 173.23 pulgadas",
+            "Ancho:": "173 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1983 a 1994",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "1370 kg / 3020 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M3159/424v"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "422 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "400 Series (1983 - 1994)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "131.0 cm / 51.57 pulgadas",
+            "Potencia:": "220 PS / 217 HP / 162 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1983 a 1994",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "1257 kg / 2771 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M13356/422"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "425 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2491 cm3 (152 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "400 Series (1983 - 1994)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "200 PS / 197 HP / 147 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1983 a 1994",
+            "Cilindrada:": "2491 cm3 / 152 cu-in",
+            "Peso:": "1275 kg / 2811 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M169/425"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/maserati/169/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati-models/Maserati-400"
+    },
+    {
+      "modelName": "Biturbo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Biturbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Biturbo 2500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2491 cm3 (152 cu-in)",
+              "Potencia": "196 hp / 144 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Biturbo S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Maserati Biturbo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.4 cm / 98.98 pulgadas",
+            "Alto:": "130.5 cm / 51.38 pulgadas",
+            "Potencia:": "de 180 PS / 178 HP / 132 kW a 205 PS / 202 HP / 151 kW",
+            "Largo:": "415.3 cm / 163.5 pulgadas",
+            "Ancho:": "171.4 cm / 67.48 pulgadas",
+            "Período de producción:": "de 1982 a 1988",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2491 cm3 / 152 cu-in",
+            "Peso:": "de 1086 kg / 2394 lbs a 1161 kg / 2560 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M168/Biturbo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/maserati/168/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Maserati/M168/Biturbo"
+    }
+  ],
+  "brandName": "Maserati"
+}

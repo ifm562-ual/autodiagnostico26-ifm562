@@ -1,0 +1,70 @@
+{
+  "models": [
+    {
+      "modelName": "U5",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "U5 Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "63 kWh"
+            },
+            {
+              "Eléctrico": "U5 Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "63 kWh"
+            }
+          ],
+          "actualFinalModelName": "Aiways U5 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "204 PS / 201 HP / 150 kW",
+            "Largo:": "468.0 cm / 184.25 pulgadas",
+            "Ancho:": "186.5 cm / 73.43 pulgadas",
+            "Período de producción:": "2020",
+            "Peso:": "de 1795 kg / 3957 lbs a 1845 kg / 4068 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aiways/M11205/U5"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/944/11205/w170_Aiways-U5-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aiways/M11205/U5"
+    },
+    {
+      "modelName": "U6",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "U6 63 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "63.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Aiways U6 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "164.1 cm / 64.61 pulgadas",
+            "Potencia:": "218 PS / 215 HP / 160 kW",
+            "Largo:": "480.5 cm / 189.17 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "1790 kg / 3946 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aiways/M13033/U6"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/944/13033/w170_Aiways-U6-36.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aiways/M13033/U6"
+    }
+  ],
+  "brandName": "Aiways"
+}

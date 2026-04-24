@@ -1,0 +1,702 @@
+{
+  "models": [
+    {
+      "modelName": "Ateca",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ateca 1.5 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Ateca 2.0 TSI 4Drive DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Ateca VZ 2.0 TSI 4Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Ateca - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "268.1 cm / 105.55 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "160.1 cm / 63.03 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1600 kg / 3527 lbs a 2100 kg / 4630 lbs",
+            "Largo:": "439.4 cm / 172.99 pulgadas",
+            "Ancho:": "184.1 cm / 72.48 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1418 kg / 3126 lbs a 1626 kg / 3585 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13231/Ateca-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ateca 2.0 TSI 4Drive DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Ateca (2018 - 2020)",
+          "specifications": {
+            "Batalla:": "263.1 cm / 103.58 pulgadas",
+            "Consumos Medio:": "8.7 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "161.1 cm / 63.43 pulgadas",
+            "Emisiones de CO2:": "de 175 a 197 g/Km",
+            "Potencia:": "300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "2100 kg / 4630 lbs",
+            "Largo:": "437.6 cm / 172.28 pulgadas",
+            "Ancho:": "184.1 cm / 72.48 pulgadas",
+            "Período de producción:": "de 2018 a 2020",
+            "Cilindrada:": "1984 cm3 / 121.1 cu-in",
+            "Peso:": "1626 kg / 3585 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13833/Ateca"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/13231/w170_Cupra-Ateca-e2e3a1e0fe79079f9f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra-models/Cupra-Ateca"
+    },
+    {
+      "modelName": "Born",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Born 58kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "58 kWh"
+            },
+            {
+              "Eléctrico": "Born 58kWh 231HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "62.0 kWh"
+            },
+            {
+              "Eléctrico": "Born 60kWh 204HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "63.0 kWh"
+            },
+            {
+              "Eléctrico": "Born 60kWh 231HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "63.0 kWh"
+            },
+            {
+              "Eléctrico": "Born 77 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Born 79kWh 231HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "84.0 kWh"
+            },
+            {
+              "Eléctrico": "Born e-Boost 58 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "62.0 kWh"
+            },
+            {
+              "Eléctrico": "Born e-Boost 77 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Born e-Boost 77 kWh 4-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Born VZ 79 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "84.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Cupra Born Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "276.6 cm / 108.9 pulgadas",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 326 PS / 322 HP / 240 kW",
+            "Largo:": "432.2 cm / 170.16 pulgadas",
+            "Ancho:": "177.8 cm / 70 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Peso:": "de 1811 kg / 3993 lbs a 1999 kg / 4407 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M11971/Born"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/11971/w170_Cupra-Born-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M11971/Born"
+    },
+    {
+      "modelName": "Leon",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Leon 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Leon VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Leon VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Leon 1.5 eTSI Mid Hybrid DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Leon 1.5 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Leon VZ 2.0 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon 2.0 TDI DSG 150HP Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Leon - 2024 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "268.6 cm / 105.75 pulgadas",
+            "Consumos Medio:": "de 0.4 L/100 km / 706 MPG UK / 588 MPG US a 7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "144.4 cm / 56.85 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 300 PS / 296 HP / 221 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1600 kg / 3527 lbs",
+            "Largo:": "439.8 cm / 173.15 pulgadas",
+            "Ancho:": "179.9 cm / 70.83 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1401 kg / 3089 lbs a 1708 kg / 3765 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13817/Leon-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Leon Sportstourer 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Leon Sportstourer VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Leon Sportstourer VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 1.5 eTSI Mid Hybrid DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 1.5 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 1.5 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer VZ 2.0 TSI 4Drive DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon Sportstourer 2.0 TDI DSG 150HP Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Leon - 2024 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "268.6 cm / 105.75 pulgadas",
+            "Consumos Medio:": "de 0.4 L/100 km / 706 MPG UK / 588 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "143.8 cm / 56.61 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 333 PS / 328 HP / 245 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1700 kg / 3748 lbs",
+            "Largo:": "465.7 cm / 183.35 pulgadas",
+            "Ancho:": "179.9 cm / 70.83 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1419 kg / 3128 lbs a 1756 kg / 3871 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13818/Leon-Sportstourer-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1395 cm3 (85.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Plugin Híbrido": "Leon 1.4 e-Hybrid Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Leon 1.5 eTSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon 1.5 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon 2.0 TSI DSG 190HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon 2.0 TSI EVO DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Leon VZ 2.0 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon 2.0 TDI Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2023"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon 2.0 TDI DSG Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Leon - 2020 New Model (2020 - 2024)",
+          "specifications": {
+            "Batalla:": "268.3 cm / 105.63 pulgadas",
+            "Consumos Medio:": "de 1.4 L/100 km / 202 MPG UK / 168 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "144.2 cm / 56.77 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 300 PS / 296 HP / 221 kW",
+            "Largo:": "439.8 cm / 173.15 pulgadas",
+            "Ancho:": "179.9 cm / 70.83 pulgadas",
+            "Período de producción:": "de 2020 a 2024",
+            "Cilindrada:": "de 1395 cm3 / 85.1 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1364 kg / 3007 lbs a 1672 kg / 3686 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M11199/Leon"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1395 cm3 (85.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Plugin Híbrido": "Leon Sportstourer 1.4 e-Hybrid Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 1.5 eTSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 1.5 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 2.0 TSI 4Drive DSG 310HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 2.0 TSI DSG 190HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer 2.0 TSI DSG 300HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Leon Sportstourer VZ 2.0 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon Sportstourer 2.0 TDI Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2023"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Leon Sportstourer 2.0 TDI DSG Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Leon - 2020 New Model (2020 - 2024)",
+          "specifications": {
+            "Batalla:": "268.1 cm / 105.55 pulgadas",
+            "Consumos Medio:": "de 1.4 L/100 km / 202 MPG UK / 168 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "146.3 cm / 57.6 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 310 PS / 306 HP / 228 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1600 kg / 3527 lbs",
+            "Largo:": "465.7 cm / 183.35 pulgadas",
+            "Ancho:": "179.9 cm / 70.83 pulgadas",
+            "Período de producción:": "de 2020 a 2024",
+            "Cilindrada:": "de 1395 cm3 / 85.1 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1410 kg / 3109 lbs a 1718 kg / 3788 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M11217/Leon-Sportstourer"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/13817/w170_Cupra-Leon-2024-c3c748c73a0f6f4f64.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra-models/Cupra-Leon"
+    },
+    {
+      "modelName": "Formentor",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Formentor 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Formentor VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Formentor VZ 1.5 e-HYBRID DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Formentor VZ 2.0 TSI 4Drive DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Formentor VZ 2.0 TSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Formentor 1.5 eTSI Mild Hybrid DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Formentor 2.0 TDI DSG Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Formentor - 2024 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "267.9 cm / 105.47 pulgadas",
+            "Consumos Medio:": "de 0.4 L/100 km / 706 MPG UK / 588 MPG US a 8.7 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 333 PS / 328 HP / 245 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1700 kg / 3748 lbs",
+            "Largo:": "445.1 cm / 175.24 pulgadas",
+            "Ancho:": "183.9 cm / 72.4 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1540 kg / 3395 lbs a 1742 kg / 3840 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13813/Formentor-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1395 cm3 (85.1 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Formentor 1.4 e-HYBRID Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1395 cm3 (85.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Plugin Híbrido": "Formentor VZ 1.4 e-HYBRID Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Formentor VZ 2.0 TSI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Formentor VZ 2.0 TSI 4Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "310 hp / 228 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Formentor VZ5 2.5 TSI 4Drive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2480 cm3 (151.3 cu-in)",
+              "Potencia": "390 hp / 287 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Formentor - 2020 New Model (2020 - 2024)",
+          "specifications": {
+            "Batalla:": "268.0 cm / 105.51 pulgadas",
+            "Consumos Medio:": "de 1.2 L/100 km / 235 MPG UK / 196 MPG US a 10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "151.0 cm / 59.45 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 390 PS / 385 HP / 287 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "445.0 cm / 175.2 pulgadas",
+            "Ancho:": "183.9 cm / 72.4 pulgadas",
+            "Período de producción:": "de 2020 a 2024",
+            "Cilindrada:": "de 1395 cm3 / 85.1 cu-in a 2480 cm3 / 151.3 cu-in",
+            "Peso:": "de 1556 kg / 3430 lbs a 1705 kg / 3759 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M11200/Formentor"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/13813/w170_Cupra-Formentor-2024-aee4aa9a95c9cd27ed.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra-models/Cupra-Formentor"
+    },
+    {
+      "modelName": "Tavascan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Tavascan 82 kWh 286HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Tavascan 82 kWh 340HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Cupra Tavascan Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "276.6 cm / 108.9 pulgadas",
+            "Alto:": "159.7 cm / 62.87 pulgadas",
+            "Potencia:": "de 286 PS / 282 HP / 210 kW a 340 PS / 335 HP / 250 kW",
+            "Peso de remolque:": "de 1000 kg / 2205 lbs a 1200 kg / 2646 lbs",
+            "Largo:": "464.4 cm / 182.83 pulgadas",
+            "Ancho:": "186.1 cm / 73.27 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "de 2103 kg / 4636 lbs a 2198 kg / 4846 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13443/Tavascan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/13443/w170_Cupra-Tavascan-83983c6aba855183a5.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13443/Tavascan"
+    },
+    {
+      "modelName": "Terramar",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Terramar 1.5 e-HYBRID 204HP DSG Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Plugin Híbrido": "Terramar 1.5 e-HYBRID 204HP DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Terramar 1.5 e-HYBRID 272HP VZ DSG Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "Terramar 1.5 e-HYBRID 272HP VZ DSG Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Terramar 1.5 eTSI DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Terramar 2.0 TSI VZ 4Drive DSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1984 cm3 (121.1 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Cupra Terramar Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "268.1 cm / 105.55 pulgadas",
+            "Consumos Medio:": "de 0.4 L/100 km / 706 MPG UK / 588 MPG US a 8.4 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "158.6 cm / 62.44 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 272 PS / 268 HP / 200 kW",
+            "Peso de remolque:": "de 1800 kg / 3968 lbs a 2200 kg / 4850 lbs",
+            "Largo:": "451.9 cm / 177.91 pulgadas",
+            "Ancho:": "186.9 cm / 73.58 pulgadas",
+            "Período de producción:": "de 2024 a 2025",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 1984 cm3 / 121.1 cu-in",
+            "Peso:": "de 1638 kg / 3611 lbs a 1904 kg / 4198 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13982/Terramar"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/943/13982/w170_Cupra-Terramar-7891b371396832eb7d.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Cupra/M13982/Terramar"
+    }
+  ],
+  "brandName": "Cupra"
+}

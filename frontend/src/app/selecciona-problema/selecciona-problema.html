@@ -1,0 +1,46 @@
+<section class="selecciona-problema">
+
+  <!-- Separador con texto -->
+  <div class="separador">
+    <hr class="separador-linea" />
+    <span class="separador-texto">Selecciona el problema</span>
+    <hr class="separador-linea" />
+  </div>
+
+  <!-- Dropdown — ¿Qué problema tiene tu vehículo? -->
+  <div class="dropdown-wrapper">
+    <button
+      id="btn-problema"
+      type="button"
+      class="dropdown-btn"
+      [class.abierto]="dropdownAbierto"
+      (click)="toggleDropdown()"
+      [attr.aria-expanded]="dropdownAbierto"
+      aria-haspopup="listbox"
+    >
+      <span class="dropdown-texto">
+        {{ problemaSeleccionado ?? '¿Qué problema tiene tu vehículo?' }}
+      </span>
+      <span class="dropdown-chevron" [class.rotado]="dropdownAbierto" aria-hidden="true">▾</span>
+    </button>
+
+    <ul
+      class="dropdown-lista"
+      role="listbox"
+      [class.visible]="dropdownAbierto"
+      aria-label="Lista de problemas del vehículo"
+    >
+      @for (problema of problemas; track problema) {
+        <li
+          class="dropdown-item"
+          role="option"
+          [class.seleccionado]="problema === problemaSeleccionado"
+          (click)="seleccionarProblema(problema)"
+        >
+          {{ problema }}
+        </li>
+      }
+    </ul>
+  </div>
+
+</section>

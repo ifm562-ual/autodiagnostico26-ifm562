@@ -1,0 +1,3723 @@
+{
+  "models": [
+    {
+      "modelName": "3 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series B3 Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "462 hp / 340 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series D3 S Allrad Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G20 (2019 - 2022)",
+          "specifications": {
+            "Batalla:": "285.1 cm / 112.24 pulgadas",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Emisiones de CO2:": "de 176 a 228 g/Km",
+            "Potencia:": "de 355 PS / 350 HP / 261 kW a 462 PS / 456 HP / 340 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "471.9 cm / 185.79 pulgadas",
+            "Ancho:": "182.7 cm / 71.93 pulgadas",
+            "Período de producción:": "de 2019 a 2022",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1785 kg / 3935 lbs a 1875 kg / 4134 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11349/G20-3-Series-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "462 hp / 340 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 S Allrad Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G20 (2019 - 2022)",
+          "specifications": {
+            "Batalla:": "285.1 cm / 112.24 pulgadas",
+            "Alto:": "143.8 cm / 56.61 pulgadas",
+            "Emisiones de CO2:": "de 176 a 228 g/Km",
+            "Potencia:": "de 355 PS / 350 HP / 261 kW a 462 PS / 456 HP / 340 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "471.3 cm / 185.55 pulgadas",
+            "Ancho:": "182.7 cm / 71.93 pulgadas",
+            "Período de producción:": "de 2019 a 2022",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1865 kg / 4112 lbs a 1935 kg / 4266 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11350/G21-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Sedan B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "3 Series Sedan B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "3 Series Sedan B3 S Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "3 Series Sedan B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Sedan D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "F30 LCI - 2015 Facelift (2015 - 2018)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "142.8 cm / 56.22 pulgadas",
+            "Emisiones de CO2:": "de 139 a 190 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 440 PS / 434 HP / 324 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "463.2 cm / 182.36 pulgadas",
+            "Ancho:": "181.1 cm / 71.3 pulgadas",
+            "Período de producción:": "de 2015 a 2018",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1705 kg / 3759 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11346/F30-3-Series-Sedan-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 S Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "F30 LCI - 2015 Facelift (2015 - 2018)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "143.1 cm / 56.34 pulgadas",
+            "Emisiones de CO2:": "de 142 a 192 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 440 PS / 434 HP / 324 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "463.2 cm / 182.36 pulgadas",
+            "Ancho:": "181.1 cm / 71.3 pulgadas",
+            "Período de producción:": "de 2015 a 2018",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1655 kg / 3649 lbs a 1770 kg / 3902 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11348/F31-3-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "3 Series B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F30 (2013 - 2015)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "142.8 cm / 56.22 pulgadas",
+            "Emisiones de CO2:": "de 139 a 183 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 409 PS / 403 HP / 301 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "462.8 cm / 182.2 pulgadas",
+            "Ancho:": "181.1 cm / 71.3 pulgadas",
+            "Período de producción:": "de 2013 a 2015",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1680 kg / 3704 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11345/F30-3-Series-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F30 (2013 - 2015)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "143.1 cm / 56.34 pulgadas",
+            "Emisiones de CO2:": "de 142 a 186 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 409 PS / 403 HP / 301 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "462.8 cm / 182.2 pulgadas",
+            "Ancho:": "181.1 cm / 71.3 pulgadas",
+            "Período de producción:": "de 2013 a 2015",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1655 kg / 3649 lbs a 1745 kg / 3847 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11347/F31-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "3 Series B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "3 Series B3 S Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "3 Series B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series D3 Biturbo Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "E90 LCI - 2009 Facelift (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "de 9.8 L/100 km / 29 MPG UK / 24 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "142.2 cm / 55.98 pulgadas",
+            "Potencia:": "de 214 PS / 211 HP / 157 kW a 400 PS / 395 HP / 294 kW",
+            "Peso de remolque:": "de 1600 kg / 3527 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "454.5 cm / 178.94 pulgadas",
+            "Ancho:": "181.7 cm / 71.54 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2979 cm3 / 181.8 cu-in",
+            "Peso:": "de 1480 kg / 3263 lbs a 1680 kg / 3704 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11338/E90-3-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 S Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "E90 LCI - 2009 Facelift (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "de 9.9 L/100 km / 29 MPG UK / 24 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Emisiones de CO2:": "de 145 a 244 g/Km",
+            "Potencia:": "de 214 PS / 211 HP / 157 kW a 400 PS / 395 HP / 294 kW",
+            "Peso de remolque:": "de 1600 kg / 3527 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "454.1 cm / 178.78 pulgadas",
+            "Ancho:": "181.7 cm / 71.54 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2979 cm3 / 181.8 cu-in",
+            "Peso:": "de 1550 kg / 3417 lbs a 1750 kg / 3858 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11340/E91-3-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Coupé B3 GT3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "3 Series Coupé B3 S Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "3 Series Coupé B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Coupé D3 Biturbo Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Coupé D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "E90 LCI - 2009 Facelift (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Emisiones de CO2:": "de 144 a 232 g/Km",
+            "Potencia:": "de 214 PS / 211 HP / 157 kW a 408 PS / 402 HP / 300 kW",
+            "Peso de remolque:": "de 1600 kg / 3527 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "178.2 cm / 70.16 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2979 cm3 / 181.8 cu-in",
+            "Peso:": "de 1480 kg / 3263 lbs a 1670 kg / 3682 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11342/E92-3-Series-CoupÃ©-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Cabrio B3 S Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "400 hp / 294 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "E90 LCI - 2009 Facelift (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Alto:": "138.5 cm / 54.53 pulgadas",
+            "Emisiones de CO2:": "225 g/Km",
+            "Potencia:": "400 PS / 395 HP / 294 kW",
+            "Peso de remolque:": "1700 kg / 3748 lbs",
+            "Largo:": "462.3 cm / 182.01 pulgadas",
+            "Ancho:": "178.2 cm / 70.16 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "2979 cm3 / 181.8 cu-in",
+            "Peso:": "1770 kg / 3902 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11344/E93-3-Series-Cabrio-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series B3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series D3 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "E90 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 9.8 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "141.3 cm / 55.63 pulgadas",
+            "Potencia:": "de 200 PS / 197 HP / 147 kW a 360 PS / 355 HP / 265 kW",
+            "Largo:": "452.0 cm / 177.95 pulgadas",
+            "Ancho:": "181.7 cm / 71.54 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2979 cm3 / 181.8 cu-in",
+            "Peso:": "de 1460 kg / 3219 lbs a 1570 kg / 3461 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11337/E90-3-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Touring D3 Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "E90 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "6 L/100 km / 47 MPG UK / 39 MPG US",
+            "Alto:": "141.8 cm / 55.83 pulgadas",
+            "Potencia:": "200 PS / 197 HP / 147 kW",
+            "Largo:": "452.0 cm / 177.95 pulgadas",
+            "Ancho:": "181.7 cm / 71.54 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "1535 kg / 3384 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11339/E91-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Coupé B3 Biturbo Allrad Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "3 Series Coupé B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Coupé D3 Biturbo Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "3 Series Coupé D3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "214 hp / 157 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "E90 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "de 9.7 L/100 km / 29 MPG UK / 24 MPG US a 10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Emisiones de CO2:": "de 144 a 241 g/Km",
+            "Potencia:": "de 214 PS / 211 HP / 157 kW a 360 PS / 355 HP / 265 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "178.2 cm / 70.16 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2979 cm3 / 181.8 cu-in",
+            "Peso:": "de 1480 kg / 3263 lbs a 1670 kg / 3682 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11341/E92-3-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Cabrio B3 Biturbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E90 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "138.4 cm / 54.49 pulgadas",
+            "Emisiones de CO2:": "237 g/Km",
+            "Potencia:": "360 PS / 355 HP / 265 kW",
+            "Largo:": "458.0 cm / 180.31 pulgadas",
+            "Ancho:": "178.2 cm / 70.16 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "2979 cm3 / 181.8 cu-in",
+            "Peso:": "1770 kg / 3902 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11343/E93-3-Series-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 AWD Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series B3 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "E46 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Consumos Medio:": "de 10.8 L/100 km / 26 MPG UK / 22 MPG US a 11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "139.5 cm / 54.92 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "447.1 cm / 176.02 pulgadas",
+            "Ancho:": "173.9 cm / 68.46 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 3300 cm3 / 201.4 cu-in a 3346 cm3 / 204.2 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1560 kg / 3439 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11262/E46-3-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E46 3 Series Cabriolet B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Cabriolet B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Cabriolet B3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Cabriolet B3 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "E46 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Consumos Medio:": "de 11.2 L/100 km / 25 MPG UK / 21 MPG US a 11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "137.2 cm / 54.02 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "448.8 cm / 176.69 pulgadas",
+            "Ancho:": "175.7 cm / 69.17 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 3300 cm3 / 201.4 cu-in a 3346 cm3 / 204.2 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1650 kg / 3638 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14181/E46-3-Series-Cabriolet"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E46 3 Series Coupé B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Coupé B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Coupé B3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Coupé B3 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "E46 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Consumos Medio:": "de 10.8 L/100 km / 26 MPG UK / 22 MPG US a 11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "136.7 cm / 53.82 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "448.8 cm / 176.69 pulgadas",
+            "Ancho:": "175.7 cm / 69.17 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 3300 cm3 / 201.4 cu-in a 3346 cm3 / 204.2 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1480 kg / 3263 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14182/E46-3-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 AWD Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "E46 3 Series Touring B3 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "E46 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Consumos Medio:": "de 10.9 L/100 km / 26 MPG UK / 22 MPG US a 11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "138.9 cm / 54.69 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "447.8 cm / 176.3 pulgadas",
+            "Ancho:": "173.9 cm / 68.46 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 3300 cm3 / 201.4 cu-in a 3346 cm3 / 204.2 cu-in",
+            "Peso:": "de 1525 kg / 3362 lbs a 1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14183/E46-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E36 3 Series B3 3.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B3 3.0 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B3 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B3 3.2 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B6 2.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2752 cm3 (167.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B6 2.8 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2752 cm3 (167.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B8 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series B8 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "E36 (1992 - 1999)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 9.3 L/100 km / 30 MPG UK / 25 MPG US a 12.9 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "137.8 cm / 54.25 pulgadas",
+            "Potencia:": "de 241 PS / 238 HP / 177 kW a 333 PS / 328 HP / 245 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "443.3 cm / 174.53 pulgadas",
+            "Ancho:": "170.9 cm / 67.28 pulgadas",
+            "Período de producción:": "de 1992 a 1999",
+            "Cilindrada:": "de 2752 cm3 / 167.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M10646/E36-3-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E36 3 Series Cabriolet B3 3.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Cabriolet B3 3.0 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Cabriolet B3 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Cabriolet B3 3.2 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Cabriolet B8 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "E36 (1992 - 1999)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "132.8 cm / 52.28 pulgadas",
+            "Potencia:": "de 250 PS / 247 HP / 184 kW a 333 PS / 328 HP / 245 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "443.3 cm / 174.53 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1992 a 1999",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1610 kg / 3549 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14178/E36-3-Series-Cabriolet"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B3 3.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B3 3.0 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B3 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B3 3.2 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B6 2.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2752 cm3 (167.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B6 2.8 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2752 cm3 (167.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Coupé B8 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "E36 (1992 - 1999)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 9.3 L/100 km / 30 MPG UK / 25 MPG US a 11.3 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "134.6 cm / 52.99 pulgadas",
+            "Potencia:": "de 241 PS / 238 HP / 177 kW a 333 PS / 328 HP / 245 kW",
+            "Largo:": "443.3 cm / 174.53 pulgadas",
+            "Ancho:": "170.9 cm / 67.28 pulgadas",
+            "Período de producción:": "de 1992 a 1999",
+            "Cilindrada:": "de 2752 cm3 / 167.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14179/E36-3-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E36 3 Series Touring B3 3.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Touring B3 3.0 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Touring B3 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Touring B3 3.2 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "E36 3 Series Touring B8 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "E36 (1992 - 1999)",
+          "specifications": {
+            "Batalla:": "270 cm / 106.3 pulgadas",
+            "Consumos Medio:": "de 9.4 L/100 km / 30 MPG UK / 25 MPG US a 11.4 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Potencia:": "de 250 PS / 247 HP / 184 kW a 333 PS / 328 HP / 245 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "443.3 cm / 174.53 pulgadas",
+            "Ancho:": "169.8 cm / 66.85 pulgadas",
+            "Período de producción:": "de 1992 a 1999",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1380 kg / 3042 lbs a 1540 kg / 3395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14180/E36-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E30 3 Series B3 2.7 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B3 2.7 2-door Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B3 2.7 2-door Allrad cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B3 2.7 2-door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B3 2.7 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 2.8/1 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 2.8/1 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series B6 3.5 S 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C1 2.3 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2316 cm3 (141.3 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C1 2.5 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C1 2.5 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.5 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2554 cm3 (155.9 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.5 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2552 cm3 (155.7 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 2-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 2-door Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series C2 2.7 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "E30 (1983 - 1992)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "135.5 cm / 53.35 pulgadas",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 264 PS / 260 HP / 194 kW",
+            "Largo:": "432.5 cm / 170.28 pulgadas",
+            "Ancho:": "164.5 cm / 64.76 pulgadas",
+            "Período de producción:": "de 1983 a 1992",
+            "Cilindrada:": "de 2316 cm3 / 141.3 cu-in a 3430 cm3 / 209.3 cu-in",
+            "Peso:": "de 1130 kg / 2491 lbs a 1412 kg / 3113 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M9366/E30-3-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible B3 2.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible B3 2.7 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible C1 2.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible C2 2.7 204HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible C2 2.7 210HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "E30 3 Series Convertible C2 2.7 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "E30 (1983 - 1992)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 190 PS / 187 HP / 140 kW a 210 PS / 207 HP / 154 kW",
+            "Largo:": "432.5 cm / 170.28 pulgadas",
+            "Ancho:": "164.5 cm / 64.76 pulgadas",
+            "Período de producción:": "de 1983 a 1992",
+            "Cilindrada:": "de 2494 cm3 / 152.2 cu-in a 2693 cm3 / 164.3 cu-in",
+            "Peso:": "de 1270 kg / 2800 lbs a 1340 kg / 2954 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14176/E30-3-Series-Convertible"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 Series Touring B3 2.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 2.7 Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "3 Series Touring B3 2.7 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "E30 (1983 - 1992)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "135.5 cm / 53.35 pulgadas",
+            "Potencia:": "204 PS / 201 HP / 150 kW",
+            "Largo:": "432.5 cm / 170.28 pulgadas",
+            "Ancho:": "164.5 cm / 64.76 pulgadas",
+            "Período de producción:": "de 1983 a 1992",
+            "Cilindrada:": "2693 cm3 / 164.3 cu-in",
+            "Peso:": "de 1310 kg / 2888 lbs a 1390 kg / 3064 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14177/E30-3-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E21 3 Series 320 A1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "E21 3 Series 320 A2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "E21 3 Series 320i A4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "E21 3 Series B6 2.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "E21 3 Series B6 2.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "E21 3 Series C1 2.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2316 cm3 (141.3 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "E21 (1978 - 1983)",
+          "specifications": {
+            "Batalla:": "256.3 cm / 100.91 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "de 125 PS / 123 HP / 92 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "435.5 cm / 171.46 pulgadas",
+            "Ancho:": "161.0 cm / 63.39 pulgadas",
+            "Período de producción:": "de 1978 a 1983",
+            "Cilindrada:": "de 1990 cm3 / 121.4 cu-in a 2788 cm3 / 170.1 cu-in",
+            "Peso:": "de 1060 kg / 2337 lbs a 1195 kg / 2635 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M9365/E21-3-Series"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11349/w170_Alpina-G20-3-Series-Sedan-a67a359dc01c30e1e7.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-3-Series"
+    },
+    {
+      "modelName": "5 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Sedan B5 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "634 hp / 466 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "5 Series Sedan B5 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "621 hp / 457 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Sedan D5 S Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G30 LCI (2020 - 2023)",
+          "specifications": {
+            "Batalla:": "297.5 cm / 117.13 pulgadas",
+            "Consumos Medio:": "11.6 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Emisiones de CO2:": "de 185 a 263 g/Km",
+            "Potencia:": "de 408 PS / 402 HP / 300 kW a 634 PS / 625 HP / 466 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "497.8 cm / 195.98 pulgadas",
+            "Ancho:": "186.8 cm / 73.54 pulgadas",
+            "Período de producción:": "de 2020 a 2023",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1935 kg / 4266 lbs a 2055 kg / 4530 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11369/G30-5-Series-Sedan-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "634 hp / 466 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "621 hp / 457 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D5 S Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G30 LCI (2020 - 2023)",
+          "specifications": {
+            "Batalla:": "297.5 cm / 117.13 pulgadas",
+            "Consumos Medio:": "12 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Emisiones de CO2:": "de 187 a 272 g/Km",
+            "Potencia:": "de 408 PS / 402 HP / 300 kW a 634 PS / 625 HP / 466 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "497.8 cm / 195.98 pulgadas",
+            "Ancho:": "186.8 cm / 73.54 pulgadas",
+            "Período de producción:": "de 2020 a 2023",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 2020 kg / 4453 lbs a 2155 kg / 4751 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11371/G31-5-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Sedan B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Sedan D5 S Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "G30 (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "297.5 cm / 117.13 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Emisiones de CO2:": "de 174 a 248 g/Km",
+            "Potencia:": "de 388 PS / 383 HP / 285 kW a 608 PS / 600 HP / 447 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "493.6 cm / 194.33 pulgadas",
+            "Ancho:": "186.8 cm / 73.54 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1855 kg / 4090 lbs a 1940 kg / 4277 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11368/G30-5-Series-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Allrad (aut. 8 speed)_ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D5 S Allrad (aut. 8 speed)_ Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "G30 (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "297.5 cm / 117.13 pulgadas",
+            "Alto:": "146.6 cm / 57.72 pulgadas",
+            "Emisiones de CO2:": "de 182 a 248 g/Km",
+            "Potencia:": "de 388 PS / 383 HP / 285 kW a 608 PS / 600 HP / 447 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "494.3 cm / 194.61 pulgadas",
+            "Ancho:": "186.8 cm / 73.54 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1960 kg / 4321 lbs a 2045 kg / 4508 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11370/G31-5-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series B5 Bi-Turbo Edition 50 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "5 Series B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "5 Series B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series D5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F10 LCI (2013 - 2017)",
+          "specifications": {
+            "Batalla:": "296.8 cm / 116.85 pulgadas",
+            "Alto:": "146.9 cm / 57.83 pulgadas",
+            "Emisiones de CO2:": "de 155 a 221 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 600 PS / 592 HP / 441 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "490.5 cm / 193.11 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 2013 a 2017",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1865 kg / 4112 lbs a 1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14229/F10-5-Series-Sedan-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Edition 50 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F10 LCI (2013 - 2017)",
+          "specifications": {
+            "Batalla:": "296.8 cm / 116.85 pulgadas",
+            "Alto:": "145.3 cm / 57.2 pulgadas",
+            "Emisiones de CO2:": "de 163 a 224 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 600 PS / 592 HP / 441 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "491.3 cm / 193.43 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 2013 a 2017",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1965 kg / 4332 lbs a 2065 kg / 4553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14230/F11-5-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "5 Series B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series D5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F10 (2010 - 2013)",
+          "specifications": {
+            "Batalla:": "296.8 cm / 116.85 pulgadas",
+            "Alto:": "146.9 cm / 57.83 pulgadas",
+            "Emisiones de CO2:": "de 155 a 232 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 540 PS / 533 HP / 397 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "490.5 cm / 193.11 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 2010 a 2013",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1865 kg / 4112 lbs a 1920 kg / 4233 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11366/F10-5-Series-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D5 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F10 (2010 - 2013)",
+          "specifications": {
+            "Batalla:": "296.8 cm / 116.85 pulgadas",
+            "Alto:": "145.3 cm / 57.2 pulgadas",
+            "Emisiones de CO2:": "de 163 a 234 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 540 PS / 533 HP / 397 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "491.3 cm / 193.43 pulgadas",
+            "Ancho:": "186.0 cm / 73.23 pulgadas",
+            "Período de producción:": "de 2010 a 2013",
+            "Cilindrada:": "de 2993 cm3 / 182.6 cu-in a 4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1965 kg / 4332 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11367/F11-5-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series B5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "5 Series B5 S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E60 LCI (2007 - 2010)",
+          "specifications": {
+            "Batalla:": "288.8 cm / 113.7 pulgadas",
+            "Consumos Medio:": "12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "146.8 cm / 57.8 pulgadas",
+            "Potencia:": "de 500 PS / 493 HP / 368 kW a 530 PS / 523 HP / 390 kW",
+            "Largo:": "484.1 cm / 190.59 pulgadas",
+            "Ancho:": "184.6 cm / 72.68 pulgadas",
+            "Período de producción:": "de 2007 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1720 kg / 3792 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11363/E60-5-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B5 S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E60 LCI (2007 - 2010)",
+          "specifications": {
+            "Batalla:": "288.6 cm / 113.62 pulgadas",
+            "Consumos Medio:": "12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "149.1 cm / 58.7 pulgadas",
+            "Potencia:": "de 500 PS / 493 HP / 368 kW a 530 PS / 523 HP / 390 kW",
+            "Largo:": "484.3 cm / 190.67 pulgadas",
+            "Ancho:": "184.6 cm / 72.68 pulgadas",
+            "Período de producción:": "de 2007 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1810 kg / 3990 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11365/E61-5-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E60 5 Series B5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "E60 5 Series B5 Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "E60 / E61 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "289.0 cm / 113.78 pulgadas",
+            "Consumos Medio:": "de 12.3 L/100 km / 23 MPG UK / 19 MPG US a 12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "484.3 cm / 190.67 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "de 1720 kg / 3792 lbs a 1810 kg / 3990 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11260/E60-5-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E60 5 Series LCI B5 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "E60 5 Series LCI B5 S Touring Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E60 / E61 (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "289.0 cm / 113.78 pulgadas",
+            "Consumos Medio:": "de 12.3 L/100 km / 23 MPG UK / 19 MPG US a 12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Potencia:": "530 PS / 523 HP / 390 kW",
+            "Largo:": "484.3 cm / 190.67 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "de 1720 kg / 3792 lbs a 1810 kg / 3990 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11261/E60-5-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series B5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "E60 (2005 - 2007)",
+          "specifications": {
+            "Batalla:": "288.8 cm / 113.7 pulgadas",
+            "Consumos Medio:": "12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "146.8 cm / 57.8 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "484.1 cm / 190.59 pulgadas",
+            "Ancho:": "184.6 cm / 72.68 pulgadas",
+            "Período de producción:": "de 2005 a 2007",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1720 kg / 3792 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11362/E60-5-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "E60 (2005 - 2007)",
+          "specifications": {
+            "Batalla:": "288.8 cm / 113.7 pulgadas",
+            "Consumos Medio:": "12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "149.1 cm / 58.7 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "484.3 cm / 190.67 pulgadas",
+            "Ancho:": "184.6 cm / 72.68 pulgadas",
+            "Período de producción:": "de 2005 a 2007",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1810 kg / 3990 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11364/E61-5-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan LCI B10 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan LCI B10 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan LCI B10 V8 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4837 cm3 (295.2 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan LCI B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E39 5 Series Sedan LCI D10 Biturbo Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E39 5 Series Sedan LCI D10 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "E39 LCI (2000 - 2004)",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Consumos Medio:": "de 7.5 L/100 km / 38 MPG UK / 31 MPG US a 12.7 L/100 km / 22 MPG UK / 19 MPG US",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "de 245 PS / 242 HP / 180 kW a 375 PS / 370 HP / 276 kW",
+            "Largo:": "477.5 cm / 187.99 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2000 a 2004",
+            "Cilindrada:": "de 2926 cm3 / 178.6 cu-in a 4837 cm3 / 295.2 cu-in",
+            "Peso:": "de 1540 kg / 3395 lbs a 1690 kg / 3726 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11360/E39-5-Series-Sedan-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B10 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 3.3 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 V8 S Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4837 cm3 (295.2 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D10 Biturbo Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D10 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "E39 LCI (2000 - 2004)",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Consumos Medio:": "de 7.7 L/100 km / 37 MPG UK / 31 MPG US a 13.4 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 245 PS / 242 HP / 180 kW a 375 PS / 370 HP / 276 kW",
+            "Largo:": "480.5 cm / 189.17 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2000 a 2004",
+            "Cilindrada:": "de 2926 cm3 / 178.6 cu-in a 4837 cm3 / 295.2 cu-in",
+            "Peso:": "de 1640 kg / 3616 lbs a 1800 kg / 3968 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11361/E39-5-Series-Touring-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan B10 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan B10 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "E39 5 Series Sedan B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E39 5 Series Sedan D10 Biturbo Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "E39 5 Series Sedan D10 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "E39 (1997 - 2000)",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Consumos Medio:": "de 7.4 L/100 km / 38 MPG UK / 32 MPG US a 13.4 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 347 PS / 342 HP / 255 kW",
+            "Largo:": "477.5 cm / 187.99 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1997 a 2000",
+            "Cilindrada:": "de 2926 cm3 / 178.6 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1530 kg / 3373 lbs a 1690 kg / 3726 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11358/E39-5-Series-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B10 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3152 cm3 (192.3 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3300 cm3 (201.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 V8 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D10 Biturbo Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "5 Series Touring D10 Biturbo Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2926 cm3 (178.6 cu-in)",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "E39 (1997 - 2000)",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Consumos Medio:": "de 7.7 L/100 km / 37 MPG UK / 31 MPG US a 14.7 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 238 PS / 235 HP / 175 kW a 347 PS / 342 HP / 255 kW",
+            "Largo:": "480.5 cm / 189.17 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1997 a 2000",
+            "Cilindrada:": "de 2926 cm3 / 178.6 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1800 kg / 3968 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11359/E39-5-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E34 5 Series B10 3.0 Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 3.5 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 4.0 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 4.6 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "E34 5 Series B10 Bi-turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "E34 (1989 - 1996)",
+          "specifications": {
+            "Batalla:": "276.1 cm / 108.7 pulgadas",
+            "Consumos Medio:": "de 10.1 L/100 km / 28 MPG UK / 23 MPG US a 12.5 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 231 PS / 228 HP / 170 kW a 360 PS / 355 HP / 265 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "175.1 cm / 68.94 pulgadas",
+            "Período de producción:": "de 1989 a 1996",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1540 kg / 3395 lbs a 1764 kg / 3889 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11356/E34-5-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "5 Series Touring B10 3.0 Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2997 cm3 (182.9 cu-in)",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 4.0 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 4.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "5 Series Touring B10 4.6 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4619 cm3 (281.9 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "E34 (1989 - 1996)",
+          "specifications": {
+            "Batalla:": "276.1 cm / 108.7 pulgadas",
+            "Consumos Medio:": "de 10.4 L/100 km / 27 MPG UK / 23 MPG US a 11.8 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 231 PS / 228 HP / 170 kW a 340 PS / 335 HP / 250 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "175.1 cm / 68.94 pulgadas",
+            "Período de producción:": "de 1989 a 1996",
+            "Cilindrada:": "de 2997 cm3 / 182.9 cu-in a 4619 cm3 / 281.9 cu-in",
+            "Peso:": "de 1650 kg / 3638 lbs a 1725 kg / 3803 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11357/E34-5-Series-Touring"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "B10 B10 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "B10 B10 3.5 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "B10 B7 Turbo/1 300HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "B10 B7 Turbo/1 320HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "B10 B9 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3453 cm3 (210.7 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "B10 B9 3.5 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "B10 B9 3.5/1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "B10 B9 3.5/1 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "E28 (1981 - 1987)",
+          "specifications": {
+            "Batalla:": "262.5 cm / 103.35 pulgadas",
+            "Consumos Medio:": "de 11.3 L/100 km / 25 MPG UK / 21 MPG US a 12 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 245 PS / 242 HP / 180 kW a 320 PS / 316 HP / 235 kW",
+            "Largo:": "462 cm / 181.89 pulgadas",
+            "Ancho:": "170 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1981 a 1987",
+            "Cilindrada:": "de 3430 cm3 / 209.3 cu-in a 3453 cm3 / 210.7 cu-in",
+            "Peso:": "de 1340 kg / 2954 lbs a 1410 kg / 3109 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M10810/E28-5-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "B7 520i A4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1972"
+            },
+            {
+              "Motores de Gasolina": "B7 520i A4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "B7 528 B5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1974"
+            },
+            {
+              "Motores de Gasolina": "B7 528i B6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2788 cm3 (170.1 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "B7 530 B2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "B7 530 B2s Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "B7 530i B3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "B7 532i B8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "B7 B7 S Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3453 cm3 (210.7 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "B7 B7 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "1978"
+            }
+          ],
+          "actualFinalModelName": "E12 (1978 - 1982)",
+          "specifications": {
+            "Batalla:": "263.6 cm / 103.78 pulgadas",
+            "Consumos Medio:": "de 12.2 L/100 km / 23 MPG UK / 19 MPG US a 12.6 L/100 km / 22 MPG UK / 19 MPG US",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "462.0 cm / 181.89 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1978 a 1982",
+            "Cilindrada:": "de 1990 cm3 / 121.4 cu-in a 3453 cm3 / 210.7 cu-in",
+            "Peso:": "de 1250 kg / 2756 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M10811/E12-5-Series"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11369/w170_Alpina-G30-5-Series-Sedan-LCI-83d6ced444c0d862e3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-5-Series"
+    },
+    {
+      "modelName": "8 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E31 8 Series B12 5.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4988 cm3 (304.4 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "E31 8 Series B12 5.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5646 cm3 (344.5 cu-in)",
+              "Potencia": "416 hp / 306 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "E31 (1990 - 1996)",
+          "specifications": {
+            "Batalla:": "268.4 cm / 105.67 pulgadas",
+            "Consumos Medio:": "de 12.9 L/100 km / 22 MPG UK / 18 MPG US a 13.4 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "133.0 cm / 52.36 pulgadas",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 416 PS / 410 HP / 306 kW",
+            "Largo:": "478.0 cm / 188.19 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "de 1990 a 1996",
+            "Cilindrada:": "de 4988 cm3 / 304.4 cu-in a 5646 cm3 / 344.5 cu-in",
+            "Peso:": "de 1790 kg / 3946 lbs a 1865 kg / 4112 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11398/E31-8-Series"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11398/w170_Alpina-E31-8-Series-73ebf10b441c4490e5.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-8-Series"
+    },
+    {
+      "modelName": "6 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Cabrio B6 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "F12 / F13 LCI (2016 - 2018)",
+          "specifications": {
+            "Batalla:": "285.5 cm / 112.4 pulgadas",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Emisiones de CO2:": "224 g/Km",
+            "Potencia:": "600 PS / 592 HP / 441 kW",
+            "Largo:": "489.4 cm / 192.68 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2016 a 2018",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2020 kg / 4453 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11380/F12-6-Series-Cabrio-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Coupé B6 Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "6 Series Coupé B6 Bi-Turbo Edition 50 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "F12 / F13 LCI (2016 - 2018)",
+          "specifications": {
+            "Batalla:": "285.5 cm / 112.4 pulgadas",
+            "Alto:": "137.5 cm / 54.13 pulgadas",
+            "Emisiones de CO2:": "219 g/Km",
+            "Potencia:": "600 PS / 592 HP / 441 kW",
+            "Largo:": "489.4 cm / 192.68 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2016 a 2018",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 1850 kg / 4079 lbs a 1870 kg / 4123 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11382/F13-6-Series-CoupÃ©-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Cabrio B6 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F12 / F13 (2011 - 2014)",
+          "specifications": {
+            "Batalla:": "285.5 cm / 112.4 pulgadas",
+            "Alto:": "137.7 cm / 54.21 pulgadas",
+            "Emisiones de CO2:": "224 g/Km",
+            "Potencia:": "540 PS / 533 HP / 397 kW",
+            "Largo:": "489.4 cm / 192.68 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2011 a 2014",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2020 kg / 4453 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11379/F12-6-Series-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Coupé B6 Bi-Turbo Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F12 / F13 (2011 - 2014)",
+          "specifications": {
+            "Batalla:": "285.5 cm / 112.4 pulgadas",
+            "Alto:": "137.3 cm / 54.06 pulgadas",
+            "Emisiones de CO2:": "219 g/Km",
+            "Potencia:": "540 PS / 533 HP / 397 kW",
+            "Largo:": "489.4 cm / 192.68 pulgadas",
+            "Ancho:": "189.4 cm / 74.57 pulgadas",
+            "Período de producción:": "de 2011 a 2014",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "1870 kg / 4123 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11381/F13-6-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Coupé B6 S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E63 / E64 LCI (2007 - 2010)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Potencia:": "530 PS / 523 HP / 390 kW",
+            "Largo:": "482.9 cm / 190.12 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "de 2007 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1720 kg / 3792 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11376/E63-6-Series-CoupÃ©-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Cabrio B6 S Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E63 / E64 LCI (2007 - 2010)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Potencia:": "530 PS / 523 HP / 390 kW",
+            "Largo:": "482.9 cm / 190.12 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "de 2007 a 2010",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1930 kg / 4255 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11378/E64-6-Series-Cabrio-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Coupé B6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "E63 / E64 (2006 - 2007)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "482.9 cm / 190.12 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "de 2006 a 2007",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1720 kg / 3792 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11375/E63-6-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series Cabrio B6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "E63 / E64 (2006 - 2007)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Consumos Medio:": "12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "137.1 cm / 53.98 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "482.9 cm / 190.12 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "de 2006 a 2007",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1930 kg / 4255 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11377/E64-6-Series-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series B10 3.5 Coupé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "6 Series B7 Turbo Coupé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "6 Series B7 Turbo Coupé (close-ratio gearbox) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "6 Series B7 Turbo Coupe Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "6 Series B9 3.5 Coupé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3453 cm3 (210.7 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "6 Series B9 3.5 Coupé/1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "E24/1 - 1982 Facelift (1982 - 1987)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Consumos Medio:": "de 11.3 L/100 km / 25 MPG UK / 21 MPG US a 12.5 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 245 PS / 242 HP / 180 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "475.5 cm / 187.2 pulgadas",
+            "Ancho:": "172.5 cm / 67.91 pulgadas",
+            "Período de producción:": "de 1982 a 1987",
+            "Cilindrada:": "de 3430 cm3 / 209.3 cu-in a 3453 cm3 / 210.7 cu-in",
+            "Peso:": "de 1445 kg / 3186 lbs a 1515 kg / 3340 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11373/E24-1-6-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "6 Series B7 S Turbo Coupé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3453 cm3 (210.7 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "6 Series B7 Turbo Coupé Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "1978"
+            }
+          ],
+          "actualFinalModelName": "E24 (1976 - 1982)",
+          "specifications": {
+            "Batalla:": "262.6 cm / 103.39 pulgadas",
+            "Consumos Medio:": "de 12.2 L/100 km / 23 MPG UK / 19 MPG US a 12.6 L/100 km / 22 MPG UK / 19 MPG US",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 300 PS / 296 HP / 221 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "475.5 cm / 187.2 pulgadas",
+            "Ancho:": "172.5 cm / 67.91 pulgadas",
+            "Período de producción:": "de 1976 a 1982",
+            "Cilindrada:": "de 2986 cm3 / 182.2 cu-in a 3453 cm3 / 210.7 cu-in",
+            "Peso:": "1560 kg / 3439 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11372/E24-6-Series"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11380/w170_Alpina-F12-6-Series-Cabrio-LCI-2020170c3241ba11d3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-6-Series"
+    },
+    {
+      "modelName": "4 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "4 Series Gran Coupé D4 S AWD Auto Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "G2x (2022 - 2024)",
+          "specifications": {
+            "Batalla:": "285.6 cm / 112.44 pulgadas",
+            "Consumos Medio:": "6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Emisiones de CO2:": "182 g/Km",
+            "Potencia:": "355 PS / 350 HP / 261 kW",
+            "Peso de remolque:": "1800 kg / 3968 lbs",
+            "Largo:": "479.2 cm / 188.66 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2022 a 2024",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "2020 kg / 4453 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M12997/G26-4-Series-Gran-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "410 hp / 302 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 Bi-Turbo Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "410 hp / 302 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "452 hp / 332 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Allrad Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "452 hp / 332 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Allrad Edition 99 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "452 hp / 332 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "4 Series Coupé B4 S Bi-Turbo Edition 99 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "452 hp / 332 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "4 Series Coupé D4 Bi-Turbo Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "F3x (2013 - 2019)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "138.2 cm / 54.41 pulgadas",
+            "Emisiones de CO2:": "de 139 a 209 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 452 PS / 446 HP / 332 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "464.0 cm / 182.68 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "de 2013 a 2019",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1585 kg / 3494 lbs a 1680 kg / 3704 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11351/F32-4-Series-CoupÃ©"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "4 Series Cabrio B4 Biturbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "409 hp / 301 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "4 Series Cabrio B4 S Biturbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "4 Series Cabrio B4 S Biturbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2979 cm3 (181.8 cu-in)",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "4 Series Cabrio D4 Biturbo Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "F3x (2013 - 2019)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "137.8 cm / 54.25 pulgadas",
+            "Emisiones de CO2:": "de 156 a 207 g/Km",
+            "Potencia:": "de 350 PS / 345 HP / 257 kW a 440 PS / 434 HP / 324 kW",
+            "Peso de remolque:": "de 1700 kg / 3748 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "464.0 cm / 182.68 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "de 2013 a 2019",
+            "Cilindrada:": "de 2979 cm3 / 181.8 cu-in a 2993 cm3 / 182.6 cu-in",
+            "Peso:": "de 1815 kg / 4001 lbs a 1840 kg / 4057 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11352/F33-4-Series-Cabrio"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/12997/w170_Alpina-B4-(G26)-Gran-Coupe-43.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-4-Series"
+    },
+    {
+      "modelName": "7 Series",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Long xDrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "G12 LCI (2019 - 2022)",
+          "specifications": {
+            "Batalla:": "321.0 cm / 126.38 pulgadas",
+            "Alto:": "149.1 cm / 58.7 pulgadas",
+            "Emisiones de CO2:": "253 g/Km",
+            "Potencia:": "608 PS / 600 HP / 447 kW",
+            "Largo:": "526.8 cm / 207.4 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2019 a 2022",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2105 kg / 4641 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11397/G12-7-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo Long AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "G12 (2016 - 2019)",
+          "specifications": {
+            "Batalla:": "321.0 cm / 126.38 pulgadas",
+            "Alto:": "149.1 cm / 58.7 pulgadas",
+            "Emisiones de CO2:": "242 g/Km",
+            "Potencia:": "608 PS / 600 HP / 447 kW",
+            "Largo:": "525.0 cm / 206.69 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2016 a 2019",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2035 kg / 4486 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11396/G12-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "547 hp / 402 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo xDrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo xDrive (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "547 hp / 402 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "F01 / F02 LCI (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "307.0 cm / 120.87 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Potencia:": "de 540 PS / 533 HP / 397 kW a 547 PS / 540 HP / 402 kW",
+            "Peso de remolque:": "de 2100 kg / 4630 lbs a 2300 kg / 5071 lbs",
+            "Largo:": "509.2 cm / 200.47 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 2040 kg / 4497 lbs a 2204 kg / 4859 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11393/F01-7-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L xDrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo LWB (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "547 hp / 402 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo LWB xDrive (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "547 hp / 402 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "F01 / F02 LCI (2012 - 2015)",
+          "specifications": {
+            "Batalla:": "321.0 cm / 126.38 pulgadas",
+            "Alto:": "148.4 cm / 58.43 pulgadas",
+            "Potencia:": "de 540 PS / 533 HP / 397 kW a 547 PS / 540 HP / 402 kW",
+            "Peso de remolque:": "de 2100 kg / 4630 lbs a 2300 kg / 5071 lbs",
+            "Largo:": "523.2 cm / 205.98 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2012 a 2015",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 2070 kg / 4564 lbs a 2291 kg / 5051 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11395/F02-7-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo xDrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo xDrive (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F01 / F02 (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "307.0 cm / 120.87 pulgadas",
+            "Alto:": "147.8 cm / 58.19 pulgadas",
+            "Potencia:": "507 PS / 500 HP / 373 kW",
+            "Peso de remolque:": "2100 kg / 4630 lbs",
+            "Largo:": "508.7 cm / 200.28 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 2040 kg / 4497 lbs a 2140 kg / 4718 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11392/F01-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L xDrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Bi-Turbo L xDrive (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "507 hp / 373 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "F01 / F02 (2009 - 2012)",
+          "specifications": {
+            "Batalla:": "321.0 cm / 126.38 pulgadas",
+            "Alto:": "148.4 cm / 58.43 pulgadas",
+            "Potencia:": "507 PS / 500 HP / 373 kW",
+            "Peso de remolque:": "2100 kg / 4630 lbs",
+            "Largo:": "522.7 cm / 205.79 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2009 a 2012",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "de 2070 kg / 4564 lbs a 2205 kg / 4861 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11394/F02-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "7 Series B7 Switch-Tronic (North America) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "E65 / E66 LCI (2005 - 2008)",
+          "specifications": {
+            "Batalla:": "299.0 cm / 117.72 pulgadas",
+            "Consumos Medio:": "12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "147.7 cm / 58.15 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "503.9 cm / 198.39 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2005 a 2008",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "de 1960 kg / 4321 lbs a 2030 kg / 4475 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11389/E65-7-Series-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series Long B7 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "E65 / E66 LCI (2005 - 2008)",
+          "specifications": {
+            "Batalla:": "313.0 cm / 123.23 pulgadas",
+            "Consumos Medio:": "12.9 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "147.7 cm / 58.15 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "517.9 cm / 203.9 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2005 a 2008",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "2000 kg / 4409 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11391/E66-7-Series-Long-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B7 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "E65 / E66 (2003 - 2005)",
+          "specifications": {
+            "Batalla:": "299.0 cm / 117.72 pulgadas",
+            "Consumos Medio:": "12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "147.7 cm / 58.15 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "502.9 cm / 197.99 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2003 a 2005",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11388/E65-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series Long B7 Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4398 cm3 (268.4 cu-in)",
+              "Potencia": "500 hp / 368 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "E65 / E66 (2003 - 2005)",
+          "specifications": {
+            "Batalla:": "313.0 cm / 123.23 pulgadas",
+            "Consumos Medio:": "12.9 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "147.7 cm / 58.15 pulgadas",
+            "Potencia:": "500 PS / 493 HP / 368 kW",
+            "Largo:": "516.9 cm / 203.5 pulgadas",
+            "Ancho:": "190.2 cm / 74.88 pulgadas",
+            "Período de producción:": "de 2003 a 2005",
+            "Cilindrada:": "4398 cm3 / 268.4 cu-in",
+            "Peso:": "1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11390/E66-7-Series-Long"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B12 5.7 E-kat Long Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5646 cm3 (344.5 cu-in)",
+              "Potencia": "387 hp / 285 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "7 Series B12 5.7 E-kat Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5646 cm3 (344.5 cu-in)",
+              "Potencia": "387 hp / 285 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "7 Series B12 6.0 E-kat Long Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5980 cm3 (364.9 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "7 Series B12 6.0 E-kat Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5980 cm3 (364.9 cu-in)",
+              "Potencia": "430 hp / 316 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "E38 (1995 - 2001)",
+          "specifications": {
+            "Batalla:": "307.0 cm / 120.87 pulgadas",
+            "Consumos Medio:": "de 12 L/100 km / 24 MPG UK / 20 MPG US a 15.5 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "141.5 cm / 55.71 pulgadas",
+            "Potencia:": "de 387 PS / 382 HP / 285 kW a 430 PS / 424 HP / 316 kW",
+            "Largo:": "512.4 cm / 201.73 pulgadas",
+            "Ancho:": "186.2 cm / 73.31 pulgadas",
+            "Período de producción:": "de 1995 a 2001",
+            "Cilindrada:": "de 5646 cm3 / 344.5 cu-in a 5980 cm3 / 364.9 cu-in",
+            "Peso:": "de 1960 kg / 4321 lbs a 2070 kg / 4564 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11386/E38-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series B11 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "7 Series B11 3.5 Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "7 Series B11 3.5 Cat. Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "7 Series B11 4.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "7 Series B12 5.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4988 cm3 (304.4 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "7 Series B12 5.0 L Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4988 cm3 (304.4 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "E32 (1987 - 1994)",
+          "specifications": {
+            "Batalla:": "283.2 cm / 111.5 pulgadas",
+            "Consumos Medio:": "de 11.5 L/100 km / 25 MPG UK / 20 MPG US a 13 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "139.1 cm / 54.76 pulgadas",
+            "Potencia:": "de 250 PS / 247 HP / 184 kW a 350 PS / 345 HP / 257 kW",
+            "Largo:": "491.0 cm / 193.31 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "de 1987 a 1994",
+            "Cilindrada:": "de 3430 cm3 / 209.3 cu-in a 4988 cm3 / 304.4 cu-in",
+            "Peso:": "de 1590 kg / 3505 lbs a 1890 kg / 4167 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11385/E32-7-Series"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "7 Series 733i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3210 cm3 (195.9 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "7 Series B10 3.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3430 cm3 (209.3 cu-in)",
+              "Potencia": "261 hp / 192 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "E23 (1977 - 1986)",
+          "specifications": {
+            "Batalla:": "279.5 cm / 110.04 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "de 240 PS / 237 HP / 177 kW a 261 PS / 257 HP / 192 kW",
+            "Largo:": "486.0 cm / 191.34 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 1977 a 1986",
+            "Cilindrada:": "de 3210 cm3 / 195.9 cu-in a 3430 cm3 / 209.3 cu-in",
+            "Peso:": "1550 kg / 3417 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11383/E23-7-Series"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11397/w170_Alpina-G12-7-Series-LCI-a4f6647d9fd608e7d3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-7-Series"
+    },
+    {
+      "modelName": "E9",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E9 3.0 CSL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2986 cm3 (182.2 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Alpina E9 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.5 cm / 103.35 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "250 PS / 247 HP / 184 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1971 a 1972",
+            "Cilindrada:": "2986 cm3 / 182.2 cu-in",
+            "Peso:": "1165 kg / 2568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11313/E9"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11313/w170_Alpina-E9-452fc01c157e6f6710.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11313/E9"
+    },
+    {
+      "modelName": "E10",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "E10 2002 A1 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "1973"
+            },
+            {
+              "Motores de Gasolina": "E10 2002 A2 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1990 cm3 (121.4 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1973"
+            }
+          ],
+          "actualFinalModelName": "Alpina E10 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 155 PS / 153 HP / 114 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "159.0 cm / 62.6 pulgadas",
+            "Período de producción:": "de 1973 a 1975",
+            "Cilindrada:": "1990 cm3 / 121.4 cu-in",
+            "Peso:": "de 990 kg / 2183 lbs a 1070 kg / 2359 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11312/E10"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11312/w170_Alpina-E10-da6292cce37c55b509.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11312/E10"
+    },
+    {
+      "modelName": "Z1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Z1 Roadster Limited Edition RLE Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2693 cm3 (164.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Alpina Z1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244.7 cm / 96.34 pulgadas",
+            "Consumos Medio:": "9.5 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "126.2 cm / 49.69 pulgadas",
+            "Potencia:": "200 PS / 197 HP / 147 kW",
+            "Largo:": "392.1 cm / 154.37 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1990 a 1991",
+            "Cilindrada:": "2693 cm3 / 164.3 cu-in",
+            "Peso:": "1250 kg / 2756 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11403/Z1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11403/w170_Alpina-Z1-547551aa7d501cabcb.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11403/Z1"
+    },
+    {
+      "modelName": "Z4",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Z4 Roadster S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3346 cm3 (204.2 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Alpina Z4 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "249.5 cm / 98.23 pulgadas",
+            "Consumos Medio:": "9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "129.9 cm / 51.14 pulgadas",
+            "Potencia:": "300 PS / 296 HP / 221 kW",
+            "Largo:": "409.1 cm / 161.06 pulgadas",
+            "Ancho:": "178.1 cm / 70.12 pulgadas",
+            "Período de producción:": "de 2003 a 2005",
+            "Cilindrada:": "3346 cm3 / 204.2 cu-in",
+            "Peso:": "1320 kg / 2910 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11404/Z4"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11404/w170_Alpina-Z4-ba0f1e47ea069803ee.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11404/Z4"
+    },
+    {
+      "modelName": "Z8",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Z8 Roadster V8 Limited Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4837 cm3 (295.2 cu-in)",
+              "Potencia": "381 hp / 280 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Alpina Z8 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.5 cm / 98.62 pulgadas",
+            "Consumos Medio:": "13.2 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "131.7 cm / 51.85 pulgadas",
+            "Potencia:": "381 PS / 376 HP / 280 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 2002 a 2003",
+            "Cilindrada:": "4837 cm3 / 295.2 cu-in",
+            "Peso:": "1620 kg / 3571 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11405/Z8"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11405/w170_Alpina-Z8-04d3a7ce01fecbaa63.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11405/Z8"
+    },
+    {
+      "modelName": "X7",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XB7 Manufaktur Switch-Tronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "621 hp / 457 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "G07 LCI (2022 - Presente)",
+          "specifications": {
+            "Batalla:": "310.5 cm / 122.24 pulgadas",
+            "Consumos Medio:": "12.8 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "179.7 cm / 70.75 pulgadas",
+            "Potencia:": "621 PS / 613 HP / 457 kW",
+            "Peso de remolque:": "3500 kg / 7716 lbs",
+            "Largo:": "517.8 cm / 203.86 pulgadas",
+            "Ancho:": "200.0 cm / 78.74 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2730 kg / 6019 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14254/G07-XB7-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XB7 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4395 cm3 (268.2 cu-in)",
+              "Potencia": "622 hp / 457 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "G07 (2020 - 2022)",
+          "specifications": {
+            "Batalla:": "310.5 cm / 122.24 pulgadas",
+            "Alto:": "179.7 cm / 70.75 pulgadas",
+            "Emisiones de CO2:": "274 g/Km",
+            "Potencia:": "622 PS / 614 HP / 457 kW",
+            "Peso de remolque:": "3500 kg / 7716 lbs",
+            "Largo:": "515.1 cm / 202.8 pulgadas",
+            "Ancho:": "200.0 cm / 78.74 pulgadas",
+            "Período de producción:": "de 2020 a 2022",
+            "Cilindrada:": "4395 cm3 / 268.2 cu-in",
+            "Peso:": "2580 kg / 5688 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11402/G07-XB7"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/14254/w170_Alpina-G07-XB7-LCI-c8feb0f71d039b2cf3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-X7"
+    },
+    {
+      "modelName": "X3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XD3 AWD Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "G01 (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "286.4 cm / 112.76 pulgadas",
+            "Alto:": "165.5 cm / 65.16 pulgadas",
+            "Emisiones de CO2:": "183 g/Km",
+            "Potencia:": "388 PS / 383 HP / 285 kW",
+            "Peso de remolque:": "2400 kg / 5291 lbs",
+            "Largo:": "471.8 cm / 185.75 pulgadas",
+            "Ancho:": "189.7 cm / 74.69 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11400/G01-XD3"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XD3 Bi-Turbo Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "F25 LCI (2014 - 2017)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Emisiones de CO2:": "174 g/Km",
+            "Potencia:": "350 PS / 345 HP / 257 kW",
+            "Peso de remolque:": "2400 kg / 5291 lbs",
+            "Largo:": "464.7 cm / 182.95 pulgadas",
+            "Ancho:": "190.1 cm / 74.84 pulgadas",
+            "Período de producción:": "de 2014 a 2017",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "1910 kg / 4211 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M14265/F25-XD3-LCI"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XD3 Bi-Turbo AWD Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "350 hp / 257 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "F25 (2013 - 2014)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Emisiones de CO2:": "174 g/Km",
+            "Potencia:": "350 PS / 345 HP / 257 kW",
+            "Peso de remolque:": "2400 kg / 5291 lbs",
+            "Largo:": "464.7 cm / 182.95 pulgadas",
+            "Ancho:": "190.1 cm / 74.84 pulgadas",
+            "Período de producción:": "de 2013 a 2014",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "1910 kg / 4211 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11399/F25-XD3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11400/w170_Alpina-G01-XD3-9a1cf288fa43f6feec.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-X3"
+    },
+    {
+      "modelName": "X4",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XD4 AWD Switch-Tronic Ficha Tecnica",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "G02 (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "286.4 cm / 112.76 pulgadas",
+            "Alto:": "161.5 cm / 63.58 pulgadas",
+            "Emisiones de CO2:": "183 g/Km",
+            "Potencia:": "388 PS / 383 HP / 285 kW",
+            "Peso de remolque:": "2400 kg / 5291 lbs",
+            "Largo:": "475.1 cm / 187.05 pulgadas",
+            "Ancho:": "192.7 cm / 75.87 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "2993 cm3 / 182.6 cu-in",
+            "Peso:": "1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Alpina/M11401/G02-XD4"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/927/11401/w170_Alpina-G02-XD4-c0d56b3bb653cad0ef.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Alpina-models/Alpina-X4"
+    }
+  ],
+  "brandName": "Alpina"
+}

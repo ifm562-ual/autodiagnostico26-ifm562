@@ -1,0 +1,1929 @@
+{
+  "models": [
+    {
+      "modelName": "500",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "500e 42 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "42.2 kWh"
+            }
+          ],
+          "actualFinalModelName": "500e (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "232.2 cm / 91.42 pulgadas",
+            "Alto:": "151.8 cm / 59.76 pulgadas",
+            "Potencia:": "155 PS / 153 HP / 114 kW",
+            "Largo:": "367.3 cm / 144.61 pulgadas",
+            "Ancho:": "168.2 cm / 66.22 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Peso:": "1410 kg / 3109 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M13452/500e"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "500e Cabriolet 42 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "42.2 kWh"
+            },
+            {
+              "Eléctrico": "500e Cabriolet 42 kWh Scorpionissima Launch Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "42.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "500e (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "232.2 cm / 91.42 pulgadas",
+            "Alto:": "151.8 cm / 59.76 pulgadas",
+            "Potencia:": "155 PS / 153 HP / 114 kW",
+            "Largo:": "367.3 cm / 144.61 pulgadas",
+            "Ancho:": "168.2 cm / 66.22 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Peso:": "1435 kg / 3164 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M13276/500e-Cabriolet"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "500C 1.4 16v T-Jet 135HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "500C 1.4 16v T-JET 135HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "500C 1.4 16v T-Jet 140HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "500C 1.4 16v T-JET 140HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "500C 1.4 16v T-JET 140HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "500C (2010 - 2014)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Emisiones de CO2:": "de 134 a 155 g/Km",
+            "Potencia:": "de 135 PS / 133 HP / 99 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "365.7 cm / 143.98 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2010 a 2014",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1443/500C"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "500 1.4 16v T-JET 135HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "500 1.4 16v T-JET 135HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "500 1.4 16v T-JET 140HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "500 1.4 16v T-JET 140HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "500 695 Tributo Ferrari Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "500 Opening Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "500 (2008 - 2015)",
+          "specifications": {
+            "Batalla:": "230 cm / 90.55 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Potencia:": "de 135 PS / 133 HP / 99 kW a 180 PS / 178 HP / 132 kW",
+            "Largo:": "365.7 cm / 143.98 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2008 a 2015",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "de 1035 kg / 2282 lbs a 1145 kg / 2524 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5776/500"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/13276/w170_Abarth-500e-Cabriolet-ee9ee4c0aea4e939a6.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth-models/Abarth-500"
+    },
+    {
+      "modelName": "595",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "595 1.4 16v T-Jet 145 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595 1.4 T-Jet 145 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595 1.4 T-Jet 165 Linea Competizione Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-Jet 180 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 T-Jet 180 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595 Esseesse 1.4 T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 16v T-Jet 165 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 16v T-Jet 165 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 T-Jet 165 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 T-Jet 165 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "595 - 2016 Facelift (2016 - Presente)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "de 145 PS / 143 HP / 107 kW a 180 PS / 178 HP / 132 kW",
+            "Peso de remolque:": "800 kg / 1764 lbs",
+            "Largo:": "366.0 cm / 144.09 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "de 1065 kg / 2348 lbs a 1148 kg / 2531 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M8852/595-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "595C 1.4 16v T-Jet 145 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C 1.4 16v T-Jet 145 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C 1.4 T-Jet 145 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595C 1.4 T-Jet 165 Linea Competizione Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-Jet 180 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-JET 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-JET 180HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 T-Jet 180 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595C Esseesse 1.4 T-Jet 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595C Pista 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "595C Pista 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 16v T-Jet 165 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 16v T-Jet 165 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 T-Jet 165 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "595C Turismo 1.4 T-Jet 165 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "595C - 2016 Facelift (2016 - Presente)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "de 145 PS / 143 HP / 107 kW a 180 PS / 178 HP / 132 kW",
+            "Peso de remolque:": "800 kg / 1764 lbs",
+            "Largo:": "366.0 cm / 144.09 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2012 a a presente",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "de 1085 kg / 2392 lbs a 1170 kg / 2579 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M11983/595C-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595C Competizione 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "595C (2012 - 2016)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Emisiones de CO2:": "de 151 a 155 g/Km",
+            "Potencia:": "160 PS / 158 HP / 118 kW",
+            "Largo:": "365.7 cm / 143.98 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2012 a 2016",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "1085 kg / 2392 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M14145/595C"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "595 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-JET 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "595 Competizione 1.4 16v T-JET 180HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 16v T-JET 160HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "595 Turismo 1.4 16v T-JET 160HP Sequential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "595 (2012 - 2016)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Emisiones de CO2:": "de 134 a 155 g/Km",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 179 PS / 177 HP / 132 kW",
+            "Largo:": "365.7 cm / 143.98 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2012 a 2016",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "de 1035 kg / 2282 lbs a 1120 kg / 2469 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M14144/595-2012"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/11983/w170_Abarth-595C-2017-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth-models/Abarth-595"
+    },
+    {
+      "modelName": "600e",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "600e Scorpionissima Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "54.0 kWh"
+            },
+            {
+              "Eléctrico": "600e Turismo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "54.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Abarth 600e Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.9 cm / 100.75 pulgadas",
+            "Alto:": "150.5 cm / 59.25 pulgadas",
+            "Potencia:": "de 240 PS / 237 HP / 177 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "418.9 cm / 164.92 pulgadas",
+            "Ancho:": "177.9 cm / 70.04 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "1700 kg / 3748 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M14429/600e"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/14429/w170_Abarth-600e-693c360038b4a0f333.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M14429/600e"
+    },
+    {
+      "modelName": "695",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "695C Competizione 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "695C (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.8 cm / 58.58 pulgadas",
+            "Emisiones de CO2:": "de 160 a 171 g/Km",
+            "Potencia:": "180 PS / 178 HP / 132 kW",
+            "Largo:": "366.0 cm / 144.09 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "1090 kg / 2403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M13117/695C"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "695 Competizione 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "695 (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "230.0 cm / 90.55 pulgadas",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Emisiones de CO2:": "de 160 a 171 g/Km",
+            "Potencia:": "180 PS / 178 HP / 132 kW",
+            "Largo:": "366.0 cm / 144.09 pulgadas",
+            "Ancho:": "162.7 cm / 64.06 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "1065 kg / 2348 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M13116/695"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/13117/w170_Abarth-695C-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth-models/Abarth-695"
+    },
+    {
+      "modelName": "124 Spider",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "124 Spider 1.4 TB 170HP MultiAir Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Abarth 124 Spider Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "231.0 cm / 90.94 pulgadas",
+            "Alto:": "123.3 cm / 48.54 pulgadas",
+            "Emisiones de CO2:": "148 g/Km",
+            "Potencia:": "170 PS / 168 HP / 125 kW",
+            "Largo:": "405.4 cm / 159.61 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M8728/124-Spider"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/8728/w170_Abarth-124-Spider-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M8728/124-Spider"
+    },
+    {
+      "modelName": "Grande Punto",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grande Punto 1.4 16v T-Jet 155HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Abarth Grande Punto Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.0 cm / 98.82 pulgadas",
+            "Alto:": "149.0 cm / 58.66 pulgadas",
+            "Emisiones de CO2:": "159 g/Km",
+            "Potencia:": "155 PS / 153 HP / 114 kW",
+            "Largo:": "404.1 cm / 159.09 pulgadas",
+            "Ancho:": "172.1 cm / 67.76 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in",
+            "Peso:": "1260 kg / 2778 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1456/Grande-Punto"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/1456/w170_Abarth-Grande-Punto-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1456/Grande-Punto"
+    },
+    {
+      "modelName": "Punto Evo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Punto Evo 1.4 16v MultiAir 165HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Punto Evo 1.4 16v MultiAir 165HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Punto Evo 1.4 16v MultiAir 165HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Punto Evo Scorpione 1.4 16v MultiAir 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Punto Evo SuperSport 1.4 16v MultiAir 180HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1368 cm3 (83.5 cu-in)",
+              "Potencia": "179 hp / 132 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Abarth Punto Evo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.0 cm / 98.82 pulgadas",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Emisiones de CO2:": "142 g/Km",
+            "Potencia:": "de 163 PS / 161 HP / 120 kW a 179 PS / 177 HP / 132 kW",
+            "Largo:": "406.5 cm / 160.04 pulgadas",
+            "Ancho:": "172.6 cm / 67.95 pulgadas",
+            "Período de producción:": "de 2009 a 2013",
+            "Cilindrada:": "1368 cm3 / 83.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1442/Punto-Evo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/1442/w170_Abarth-Punto-Evo-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1442/Punto-Evo"
+    },
+    {
+      "modelName": "Monotipo 98",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Monotipo 98 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "335 hp / 246 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Abarth Monotipo 98 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "229 cm / 90.16 pulgadas",
+            "Alto:": "120 cm / 47.24 pulgadas",
+            "Potencia:": "335 PS / 330 HP / 246 kW",
+            "Largo:": "445 cm / 175.2 pulgadas",
+            "Ancho:": "188 cm / 74.02 pulgadas",
+            "Período de producción:": "1998",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "880 kg / 1940 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6269/Monotipo-98"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6269/w170_Abarth-Monotipo-98-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6269/Monotipo-98"
+    },
+    {
+      "modelName": "1000 TC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "1000 TC Corsa Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "1970"
+            }
+          ],
+          "actualFinalModelName": "Abarth 1000 TC Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "140 cm / 55.12 pulgadas",
+            "Potencia:": "114 PS / 112 HP / 84 kW",
+            "Largo:": "353 cm / 138.98 pulgadas",
+            "Ancho:": "139 cm / 54.72 pulgadas",
+            "Período de producción:": "1970",
+            "Cilindrada:": "982 cm3 / 59.9 cu-in",
+            "Peso:": "583 kg / 1285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5872/1000-TC"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/5872/w170_Abarth-1000-TC-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5872/1000-TC"
+    },
+    {
+      "modelName": "2000",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "2000 Coupe Speciale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1946 cm3 (118.8 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "1969"
+            }
+          ],
+          "actualFinalModelName": "Abarth 2000 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "208.5 cm / 82.09 pulgadas",
+            "Alto:": "97 cm / 38.19 pulgadas",
+            "Potencia:": "223 PS / 220 HP / 164 kW",
+            "Largo:": "378 cm / 148.82 pulgadas",
+            "Ancho:": "178 cm / 70.08 pulgadas",
+            "Período de producción:": "1969",
+            "Cilindrada:": "1946 cm3 / 118.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6263/2000"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6263/w170_Abarth-2000-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6263/2000"
+    },
+    {
+      "modelName": "1600",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "1600 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "1600 Coupe Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "1600 Coupe Ellena Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "1600 GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1592 cm3 (97.1 cu-in)",
+              "Potencia": "157 hp / 115 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "1600 GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1592 cm3 (97.1 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "1600 Spider Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1959"
+            }
+          ],
+          "actualFinalModelName": "Abarth 1600 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234 cm / 92.13 pulgadas",
+            "Alto:": "137 cm / 53.94 pulgadas",
+            "Potencia:": "de 96 PS / 95 HP / 71 kW a 157 PS / 155 HP / 115 kW",
+            "Largo:": "416.8 cm / 164.09 pulgadas",
+            "Ancho:": "158 cm / 62.2 pulgadas",
+            "Período de producción:": "1959",
+            "Cilindrada:": "de 1588 cm3 / 96.9 cu-in a 1592 cm3 / 97.1 cu-in",
+            "Peso:": "de 674 kg / 1486 lbs a 975 kg / 2150 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6249/1600"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6249/w170_Abarth-1600-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6249/1600"
+    },
+    {
+      "modelName": "1300",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "1300 Scorpione Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1280 cm3 (78.1 cu-in)",
+              "Potencia": "74 hp / 54 kW",
+              "Año": "1968"
+            }
+          ],
+          "actualFinalModelName": "Abarth 1300 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "204.5 cm / 80.51 pulgadas",
+            "Alto:": "105 cm / 41.34 pulgadas",
+            "Potencia:": "74 PS / 73 HP / 54 kW",
+            "Largo:": "371 cm / 146.06 pulgadas",
+            "Ancho:": "149.5 cm / 58.86 pulgadas",
+            "Período de producción:": "1968",
+            "Cilindrada:": "1280 cm3 / 78.1 cu-in",
+            "Peso:": "670 kg / 1477 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5871/1300"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/5871/w170_Abarth-1300-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5871/1300"
+    },
+    {
+      "modelName": "OT 2000",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "OT 2000 Coupe America Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1946 cm3 (118.8 cu-in)",
+              "Potencia": "188 hp / 138 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "OT 2000 Coupe S1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1946 cm3 (118.8 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1966"
+            }
+          ],
+          "actualFinalModelName": "Abarth OT 2000 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "201.5 cm / 79.33 pulgadas",
+            "Alto:": "125 cm / 49.21 pulgadas",
+            "Potencia:": "de 188 PS / 185 HP / 138 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "366 cm / 144.09 pulgadas",
+            "Ancho:": "160 cm / 62.99 pulgadas",
+            "Período de producción:": "1966",
+            "Cilindrada:": "1946 cm3 / 118.8 cu-in",
+            "Peso:": "de 655 kg / 1444 lbs a 710 kg / 1565 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6262/OT-2000"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6262/w170_Abarth-OT-2000-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6262/OT-2000"
+    },
+    {
+      "modelName": "OTR 1000",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "OTR 1000 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "74 hp / 54 kW",
+              "Año": "1965"
+            }
+          ],
+          "actualFinalModelName": "Abarth OTR 1000 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "202.7 cm / 79.8 pulgadas",
+            "Alto:": "130 cm / 51.18 pulgadas",
+            "Potencia:": "74 PS / 73 HP / 54 kW",
+            "Largo:": "360.8 cm / 142.05 pulgadas",
+            "Ancho:": "150 cm / 59.06 pulgadas",
+            "Período de producción:": "1965",
+            "Cilindrada:": "982 cm3 / 59.9 cu-in",
+            "Peso:": "760 kg / 1676 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6261/OTR-1000"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6261/w170_Abarth-OTR-1000-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6261/OTR-1000"
+    },
+    {
+      "modelName": "OT 1300",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "OT 1300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1290 cm3 (78.7 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "1965"
+            }
+          ],
+          "actualFinalModelName": "Abarth OT 1300 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "201.5 cm / 79.33 pulgadas",
+            "Alto:": "104 cm / 40.94 pulgadas",
+            "Potencia:": "147 PS / 145 HP / 108 kW",
+            "Largo:": "383 cm / 150.79 pulgadas",
+            "Ancho:": "162 cm / 63.78 pulgadas",
+            "Período de producción:": "1965",
+            "Cilindrada:": "1290 cm3 / 78.7 cu-in",
+            "Peso:": "655 kg / 1444 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1599/OT-1300"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/1599/w170_Abarth-OT-1300-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1599/OT-1300"
+    },
+    {
+      "modelName": "OT 1000",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "OT 1000 Coupe Pininfarina Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "66 hp / 49 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "OT 1000 Spider Bertone Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "1965"
+            }
+          ],
+          "actualFinalModelName": "Abarth OT 1000 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "202.7 cm / 79.8 pulgadas",
+            "Alto:": "122 cm / 48.03 pulgadas",
+            "Potencia:": "de 62 PS / 61 HP / 46 kW a 66 PS / 65 HP / 49 kW",
+            "Largo:": "378 cm / 148.82 pulgadas",
+            "Ancho:": "150 cm / 59.06 pulgadas",
+            "Período de producción:": "1965",
+            "Cilindrada:": "982 cm3 / 59.9 cu-in",
+            "Peso:": "de 680 kg / 1499 lbs a 725 kg / 1598 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6259/OT-1000"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6259/w170_Abarth-OT-1000-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6259/OT-1000"
+    },
+    {
+      "modelName": "OT 1600",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "OT 1600 Berlina Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1592 cm3 (97.1 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "1964"
+            }
+          ],
+          "actualFinalModelName": "Abarth OT 1600 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "202.7 cm / 79.8 pulgadas",
+            "Alto:": "138.5 cm / 54.53 pulgadas",
+            "Potencia:": "156 PS / 154 HP / 115 kW",
+            "Largo:": "357.5 cm / 140.75 pulgadas",
+            "Ancho:": "142.5 cm / 56.1 pulgadas",
+            "Período de producción:": "1964",
+            "Cilindrada:": "1592 cm3 / 97.1 cu-in",
+            "Peso:": "790 kg / 1742 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6260/OT-1600"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6260/w170_Abarth-OT-1600-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6260/OT-1600"
+    },
+    {
+      "modelName": "Simca",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Simca 1300 Bialbero S1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1288 cm3 (78.6 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "Simca 1300 Bialbero S2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1288 cm3 (78.6 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "Simca 1300 GT Corsa Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1288 cm3 (78.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1964"
+            },
+            {
+              "Motores de Gasolina": "Simca 1300 GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1288 cm3 (78.6 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "Simca 2000 GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1946 cm3 (118.8 cu-in)",
+              "Potencia": "188 hp / 138 kW",
+              "Año": "1964"
+            },
+            {
+              "Motores de Gasolina": "Simca GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1221 cm3 (74.5 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1954"
+            }
+          ],
+          "actualFinalModelName": "Abarth Simca Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "209 cm / 82.28 pulgadas",
+            "Alto:": "114 cm / 44.88 pulgadas",
+            "Potencia:": "de 46 PS / 45 HP / 34 kW a 188 PS / 185 HP / 138 kW",
+            "Largo:": "355.5 cm / 139.96 pulgadas",
+            "Ancho:": "148 cm / 58.27 pulgadas",
+            "Período de producción:": "1954",
+            "Cilindrada:": "de 1221 cm3 / 74.5 cu-in a 1946 cm3 / 118.8 cu-in",
+            "Peso:": "de 630 kg / 1389 lbs a 800 kg / 1764 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2888/Simca"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/2888/w170_Abarth-Simca-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2888/Simca"
+    },
+    {
+      "modelName": "2400",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "2400 Allemano Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2323 cm3 (141.8 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "2400 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2323 cm3 (141.8 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1961"
+            }
+          ],
+          "actualFinalModelName": "Abarth 2400 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245 cm / 96.46 pulgadas",
+            "Alto:": "128 cm / 50.39 pulgadas",
+            "Potencia:": "144 PS / 142 HP / 106 kW",
+            "Largo:": "461 cm / 181.5 pulgadas",
+            "Ancho:": "162 cm / 63.78 pulgadas",
+            "Período de producción:": "1961",
+            "Cilindrada:": "2323 cm3 / 141.8 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1075 kg / 2370 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6253/2400"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6253/w170_Abarth-2400-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6253/2400"
+    },
+    {
+      "modelName": "Monomille",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Monomille Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1961"
+            }
+          ],
+          "actualFinalModelName": "Abarth Monomille Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "116.5 cm / 45.87 pulgadas",
+            "Potencia:": "60 PS / 59 HP / 44 kW",
+            "Largo:": "348 cm / 137.01 pulgadas",
+            "Ancho:": "141 cm / 55.51 pulgadas",
+            "Período de producción:": "1961",
+            "Cilindrada:": "982 cm3 / 59.9 cu-in",
+            "Peso:": "560 kg / 1235 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2691/Monomille"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/2691/w170_Abarth-Monomille-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2691/Monomille"
+    },
+    {
+      "modelName": "850",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "850 Coupe Stradale Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "850 Record Monza Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "850 Riviera Spider Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "850 S Riviera Spider Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "847 cm3 (51.7 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "850 Scorpione Coupe Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "833 cm3 (50.8 cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1959"
+            }
+          ],
+          "actualFinalModelName": "Abarth 850 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "114 cm / 44.88 pulgadas",
+            "Potencia:": "de 53 PS / 52 HP / 39 kW a 71 PS / 70 HP / 52 kW",
+            "Largo:": "357.5 cm / 140.75 pulgadas",
+            "Ancho:": "135 cm / 53.15 pulgadas",
+            "Período de producción:": "1959",
+            "Cilindrada:": "de 833 cm3 / 50.8 cu-in a 847 cm3 / 51.7 cu-in",
+            "Peso:": "de 570 kg / 1257 lbs a 610 kg / 1345 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5971/850"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/5971/w170_Abarth-850-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M5971/850"
+    },
+    {
+      "modelName": "700",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "700 Bialbero Corsa Beccaris Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "696 cm3 (42.5 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "700 Bialbero Record Monza Coupe Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "696 cm3 (42.5 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1960"
+            }
+          ],
+          "actualFinalModelName": "Abarth 700 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "110 cm / 43.31 pulgadas",
+            "Potencia:": "65 PS / 64 HP / 48 kW",
+            "Largo:": "347 cm / 136.61 pulgadas",
+            "Ancho:": "135 cm / 53.15 pulgadas",
+            "Período de producción:": "1960",
+            "Cilindrada:": "696 cm3 / 42.5 cu-in",
+            "Peso:": "570 kg / 1257 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6252/700"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6252/w170_Abarth-700-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6252/700"
+    },
+    {
+      "modelName": "1000",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "1000 Bialbero Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "1000 Bialbero Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "1966"
+            },
+            {
+              "Motores de Gasolina": "1000 Bialbero Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "66 hp / 49 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "1000 Bialbero Coupe 5 Speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "1000 Bialbero GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "1000 GT Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "89 hp / 65 kW",
+              "Año": "1958"
+            },
+            {
+              "Motores de Gasolina": "1000 GT Spider Pininfarina Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "982 cm3 (59.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1964"
+            }
+          ],
+          "actualFinalModelName": "Abarth 1000 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "117 cm / 46.06 pulgadas",
+            "Potencia:": "de 66 PS / 65 HP / 49 kW a 103 PS / 102 HP / 76 kW",
+            "Largo:": "359 cm / 141.34 pulgadas",
+            "Ancho:": "139 cm / 54.72 pulgadas",
+            "Período de producción:": "1958",
+            "Cilindrada:": "de 982 cm3 / 59.9 cu-in a 998 cm3 / 60.9 cu-in",
+            "Peso:": "de 550 kg / 1213 lbs a 640 kg / 1411 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2710/1000"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/2710/w170_Abarth-1000-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M2710/1000"
+    },
+    {
+      "modelName": "800",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "800 Record Monza Coupe Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "785 cm3 (47.9 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "800 Scorpione Coupe Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "785 cm3 (47.9 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1960"
+            }
+          ],
+          "actualFinalModelName": "Abarth 800 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200 cm / 78.74 pulgadas",
+            "Alto:": "114 cm / 44.88 pulgadas",
+            "Potencia:": "48 PS / 47 HP / 35 kW",
+            "Largo:": "347 cm / 136.61 pulgadas",
+            "Ancho:": "135 cm / 53.15 pulgadas",
+            "Período de producción:": "1960",
+            "Cilindrada:": "785 cm3 / 47.9 cu-in",
+            "Peso:": "de 560 kg / 1235 lbs a 570 kg / 1257 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6251/800"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6251/w170_Abarth-800-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6251/800"
+    },
+    {
+      "modelName": "2200",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "2200 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2162 cm3 (131.9 cu-in)",
+              "Potencia": "137 hp / 101 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "2200 Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2162 cm3 (131.9 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1959"
+            }
+          ],
+          "actualFinalModelName": "Abarth 2200 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245 cm / 96.46 pulgadas",
+            "Alto:": "128 cm / 50.39 pulgadas",
+            "Potencia:": "de 122 PS / 120 HP / 90 kW a 137 PS / 135 HP / 101 kW",
+            "Largo:": "445 cm / 175.2 pulgadas",
+            "Ancho:": "160 cm / 62.99 pulgadas",
+            "Período de producción:": "1959",
+            "Cilindrada:": "2162 cm3 / 131.9 cu-in",
+            "Peso:": "de 1060 kg / 2337 lbs a 1090 kg / 2403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6250/2200"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6250/w170_Abarth-2200-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6250/2200"
+    },
+    {
+      "modelName": "500 GT Coupe Zagato",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "500 GT Coupe Zagato S1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "479 cm3 (29.2 cu-in)",
+              "Potencia": "23 hp / 17 kW",
+              "Año": "1958"
+            },
+            {
+              "Motores de Gasolina": "500 GT Coupe Zagato S2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "500 cm3 (30.5 cu-in)",
+              "Potencia": "33 hp / 24 kW",
+              "Año": "1958"
+            }
+          ],
+          "actualFinalModelName": "Abarth 500 GT Coupe Zagato Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "184 cm / 72.44 pulgadas",
+            "Alto:": "112 cm / 44.09 pulgadas",
+            "Potencia:": "de 23 PS / 23 HP / 17 kW a 33 PS / 33 HP / 24 kW",
+            "Largo:": "322 cm / 126.77 pulgadas",
+            "Ancho:": "124 cm / 48.82 pulgadas",
+            "Período de producción:": "1958",
+            "Cilindrada:": "de 479 cm3 / 29.2 cu-in a 500 cm3 / 30.5 cu-in",
+            "Peso:": "460 kg / 1014 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6265/500-GT-Coupe-Zagato"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6265/w170_Abarth-500-GT-Coupe-Zagato-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6265/500-GT-Coupe-Zagato"
+    },
+    {
+      "modelName": "500 Coupe Pininfarina",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "500 Coupe Pininfarina Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "479 cm3 (29.2 cu-in)",
+              "Potencia": "23 hp / 17 kW",
+              "Año": "1957"
+            }
+          ],
+          "actualFinalModelName": "Abarth 500 Coupe Pininfarina Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "184 cm / 72.44 pulgadas",
+            "Alto:": "121 cm / 47.64 pulgadas",
+            "Potencia:": "23 PS / 23 HP / 17 kW",
+            "Largo:": "334 cm / 131.5 pulgadas",
+            "Ancho:": "125 cm / 49.21 pulgadas",
+            "Período de producción:": "1957",
+            "Cilindrada:": "479 cm3 / 29.2 cu-in",
+            "Peso:": "468 kg / 1032 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6266/500-Coupe-Pininfarina"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6266/w170_Abarth-500-Coupe-Pininfarina-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6266/500-Coupe-Pininfarina"
+    },
+    {
+      "modelName": "750",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "750 215 A Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "750 Bialbero Record Monza Coupe Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "1958"
+            },
+            {
+              "Motores de Gasolina": "750 Coupe Sestriere Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "750 Coupe Vignale Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1957"
+            },
+            {
+              "Motores de Gasolina": "750 Coupe Viotti Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "750 Coupe Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "750 Saloon Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "43 hp / 32 kW",
+              "Año": "1960"
+            },
+            {
+              "Motores de Gasolina": "750 Spider Allemano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "750 Spider Boano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "48 hp / 35 kW",
+              "Año": "1956"
+            },
+            {
+              "Motores de Gasolina": "750 Spider Tubolare Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "747 cm3 (45.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1960"
+            }
+          ],
+          "actualFinalModelName": "Abarth 750 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "198 cm / 77.95 pulgadas",
+            "Alto:": "118 cm / 46.46 pulgadas",
+            "Potencia:": "de 42 PS / 41 HP / 31 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "356 cm / 140.16 pulgadas",
+            "Ancho:": "139 cm / 54.72 pulgadas",
+            "Período de producción:": "1956",
+            "Cilindrada:": "747 cm3 / 45.6 cu-in",
+            "Peso:": "de 410 kg / 904 lbs a 584 kg / 1287 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1963/750"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/1963/w170_Abarth-750-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M1963/750"
+    },
+    {
+      "modelName": "208 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "208 A Spider Boano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1089 cm3 (66.5 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1955"
+            }
+          ],
+          "actualFinalModelName": "Abarth 208 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "205 cm / 80.71 pulgadas",
+            "Alto:": "94 cm / 37.01 pulgadas",
+            "Potencia:": "67 PS / 66 HP / 49 kW",
+            "Largo:": "362 cm / 142.52 pulgadas",
+            "Ancho:": "156 cm / 61.42 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "1089 cm3 / 66.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6254/208-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6254/w170_Abarth-208-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6254/208-A"
+    },
+    {
+      "modelName": "210 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "210 A Spider Boano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "633 cm3 (38.6 cu-in)",
+              "Potencia": "32 hp / 24 kW",
+              "Año": "1955"
+            }
+          ],
+          "actualFinalModelName": "Abarth 210 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "195 cm / 76.77 pulgadas",
+            "Alto:": "93.4 cm / 36.77 pulgadas",
+            "Potencia:": "32 PS / 32 HP / 24 kW",
+            "Largo:": "367 cm / 144.49 pulgadas",
+            "Ancho:": "137 cm / 53.94 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "633 cm3 / 38.6 cu-in",
+            "Peso:": "410 kg / 904 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6256/210-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6256/w170_Abarth-210-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6256/210-A"
+    },
+    {
+      "modelName": "207 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "207 A Spider Corsa Boano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1270 cm3 (77.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1955"
+            }
+          ],
+          "actualFinalModelName": "Abarth 207 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "205 cm / 80.71 pulgadas",
+            "Alto:": "94 cm / 37.01 pulgadas",
+            "Potencia:": "79 PS / 78 HP / 58 kW",
+            "Largo:": "362 cm / 142.52 pulgadas",
+            "Ancho:": "156 cm / 61.42 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "1270 cm3 / 77.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6257/207-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6257/w170_Abarth-207-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6257/207-A"
+    },
+    {
+      "modelName": "209 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "209 A Coupe Boano Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1089 cm3 (66.5 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1955"
+            }
+          ],
+          "actualFinalModelName": "Abarth 209 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "203.4 cm / 80.08 pulgadas",
+            "Alto:": "94 cm / 37.01 pulgadas",
+            "Potencia:": "67 PS / 66 HP / 49 kW",
+            "Largo:": "362 cm / 142.52 pulgadas",
+            "Ancho:": "155 cm / 61.02 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "1089 cm3 / 66.5 cu-in",
+            "Peso:": "610 kg / 1345 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6255/209-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6255/w170_Abarth-209-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6255/209-A"
+    },
+    {
+      "modelName": "Coupe Sport 2000 Ghia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Coupe Sport 2000 Ghia Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1975 cm3 (120.5 cu-in)",
+              "Potencia": "137 hp / 101 kW",
+              "Año": "1954"
+            }
+          ],
+          "actualFinalModelName": "Abarth Coupe Sport 2000 Ghia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "263 cm / 103.54 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "137 PS / 135 HP / 101 kW",
+            "Largo:": "- cm / - pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "1954",
+            "Cilindrada:": "1975 cm3 / 120.5 cu-in",
+            "Peso:": "890 kg / 1962 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6267/Coupe-Sport-2000-Ghia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6267/w170_Abarth-Coupe-Sport-2000-Ghia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6267/Coupe-Sport-2000-Ghia"
+    },
+    {
+      "modelName": "Renault",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Renault Fregate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "1954"
+            }
+          ],
+          "actualFinalModelName": "Abarth Renault Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280 cm / 110.24 pulgadas",
+            "Alto:": "154 cm / 60.63 pulgadas",
+            "Potencia:": "114 PS / 112 HP / 84 kW",
+            "Largo:": "470 cm / 185.04 pulgadas",
+            "Ancho:": "172 cm / 67.72 pulgadas",
+            "Período de producción:": "1954",
+            "Cilindrada:": "1996 cm3 / 121.8 cu-in",
+            "Peso:": "900 kg / 1984 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6258/Renault"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6258/w170_Abarth-Renault-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6258/Renault"
+    },
+    {
+      "modelName": "103 GT Coupe Ghia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "103 GT Coupe Ghia Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1089 cm3 (66.5 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1953"
+            }
+          ],
+          "actualFinalModelName": "Abarth 103 GT Coupe Ghia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "242 cm / 95.28 pulgadas",
+            "Alto:": "125.8 cm / 49.53 pulgadas",
+            "Potencia:": "65 PS / 64 HP / 48 kW",
+            "Largo:": "388 cm / 152.76 pulgadas",
+            "Ancho:": "144 cm / 56.69 pulgadas",
+            "Período de producción:": "1953",
+            "Cilindrada:": "1089 cm3 / 66.5 cu-in",
+            "Peso:": "828 kg / 1825 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6268/103-GT-Coupe-Ghia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6268/w170_Abarth-103-GT-Coupe-Ghia-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6268/103-GT-Coupe-Ghia"
+    },
+    {
+      "modelName": "1500 Biposto",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "1500 Biposto Coupe BAT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1480 cm3 (90.3 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "1952"
+            }
+          ],
+          "actualFinalModelName": "Abarth 1500 Biposto Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265 cm / 104.33 pulgadas",
+            "Alto:": "138 cm / 54.33 pulgadas",
+            "Potencia:": "76 PS / 75 HP / 56 kW",
+            "Largo:": "452 cm / 177.95 pulgadas",
+            "Ancho:": "165 cm / 64.96 pulgadas",
+            "Período de producción:": "1952",
+            "Cilindrada:": "1480 cm3 / 90.3 cu-in",
+            "Peso:": "870 kg / 1918 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6248/1500-Biposto"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6248/w170_Abarth-1500-Biposto-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6248/1500-Biposto"
+    },
+    {
+      "modelName": "205 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "205 A Berlinetta GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1188 cm3 (72.5 cu-in)",
+              "Potencia": "66 hp / 49 kW",
+              "Año": "1951"
+            }
+          ],
+          "actualFinalModelName": "Abarth 205 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "221 cm / 87.01 pulgadas",
+            "Alto:": "124.5 cm / 49.02 pulgadas",
+            "Potencia:": "66 PS / 65 HP / 49 kW",
+            "Largo:": "349.5 cm / 137.6 pulgadas",
+            "Ancho:": "142 cm / 55.91 pulgadas",
+            "Período de producción:": "1951",
+            "Cilindrada:": "1188 cm3 / 72.5 cu-in",
+            "Peso:": "818 kg / 1803 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6247/205-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6247/w170_Abarth-205-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6247/205-A"
+    },
+    {
+      "modelName": "204 A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "204 A Berlinetta Corsa Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1089 cm3 (66.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1950"
+            }
+          ],
+          "actualFinalModelName": "Abarth 204 A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "210 cm / 82.68 pulgadas",
+            "Alto:": "123 cm / 48.43 pulgadas",
+            "Potencia:": "84 PS / 83 HP / 62 kW",
+            "Largo:": "387 cm / 152.36 pulgadas",
+            "Ancho:": "139 cm / 54.72 pulgadas",
+            "Período de producción:": "1950",
+            "Cilindrada:": "1089 cm3 / 66.5 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6246/204-A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/92/6246/w170_Abarth-204-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Abarth/M6246/204-A"
+    }
+  ],
+  "brandName": "Abarth"
+}

@@ -1,0 +1,4369 @@
+{
+  "models": [
+    {
+      "modelName": "i-MiEV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "i-MiEV Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "2014",
+              "Capacidad de la batería": "16 kWh"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi i-MiEV Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Alto:": "161.0 cm / 63.39 pulgadas",
+            "Potencia:": "67 PS / 66 HP / 49 kW",
+            "Largo:": "347.5 cm / 136.81 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "2014",
+            "Peso:": "1160 kg / 2557 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M7691/i-MiEV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/7691/w170_Mitsubishi-i-MiEV-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M7691/i-MiEV"
+    },
+    {
+      "modelName": "Mirage / Space Star",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Star 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.0 MIVEC AS&G Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 MIVEC AS&G Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 MIVEC AS&G CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Space Star 120 MPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Gen. 6 (A00/A10/LA) (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Consumos Medio:": "de 4 L/100 km / 71 MPG UK / 59 MPG US a 5.6 L/100 km / 50 MPG UK / 42 MPG US",
+            "Alto:": "150.5 cm / 59.25 pulgadas",
+            "Emisiones de CO2:": "de 92 a 126 g/Km",
+            "Potencia:": "de 71 PS / 70 HP / 52 kW a 80 PS / 79 HP / 59 kW",
+            "Largo:": "379.5 cm / 149.41 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 2013 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1193 cm3 / 72.8 cu-in",
+            "Peso:": "de 920 kg / 2028 lbs a 978 kg / 2156 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M6721/Space-Star-2013"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Star 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.0 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.2 CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1193 cm3 (72.8 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Gen. 6 (A00/A10/LA) (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Consumos Medio:": "de 4.5 L/100 km / 63 MPG UK / 52 MPG US a 5.6 L/100 km / 50 MPG UK / 42 MPG US",
+            "Alto:": "150.5 cm / 59.25 pulgadas",
+            "Potencia:": "de 71 PS / 70 HP / 52 kW a 80 PS / 79 HP / 59 kW",
+            "Largo:": "379.5 cm / 149.41 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1193 cm3 / 72.8 cu-in",
+            "Peso:": "de 943 kg / 2079 lbs a 999 kg / 2202 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M10265/Space-Star-2019"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/6721/w170_Mitsubishi-Space-Star-2013-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Mirage---Space-Star"
+    },
+    {
+      "modelName": "Colt",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Colt 1.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Colt 1.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Colt 1.6 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Colt 1.6 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Colt 7 (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "258.3 cm / 101.69 pulgadas",
+            "Consumos Medio:": "de 4.1 L/100 km / 69 MPG UK / 57 MPG US a 5.2 L/100 km / 54 MPG UK / 45 MPG US",
+            "Alto:": "143.9 cm / 56.65 pulgadas",
+            "Potencia:": "de 67 PS / 66 HP / 49 kW a 143 PS / 141 HP / 105 kW",
+            "Peso de remolque:": "900 kg / 1984 lbs",
+            "Largo:": "405.3 cm / 159.57 pulgadas",
+            "Ancho:": "179.8 cm / 70.79 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1124 kg / 2478 lbs a 1346 kg / 2967 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M13654/Colt-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt 2004 1.1 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Colt 2004 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Colt 2004 1.5 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Colt 2004 1.5 DI-D Ficha Tecnica",
+              "Cilindrada": "1493 cm3 (91.1 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Colt Z30 (2004 - 2012)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "4.6 L/100 km / 61 MPG UK / 51 MPG US",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "387.0 cm / 152.36 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2004 a 2012",
+            "Cilindrada:": "de 1124 cm3 / 68.6 cu-in a 1499 cm3 / 91.5 cu-in",
+            "Peso:": "de 940 kg / 2072 lbs a 1060 kg / 2337 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M437/Colt-2004"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt 2008 3p 1.1 ClearTec Inform Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 3p 1.1 ClearTec Invite Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 3p 1.3 ClearTec Intense Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 3p 1.5 MIVEC Turbo Ralliart Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 5p 1.1 ClearTec Inform Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 5p 1.1 ClearTec Invite Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 5p 1.3 ClearTec Intense Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Colt 2008 Ralliart Version R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Colt Z30 (2004 - 2012)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "7 L/100 km / 40 MPG UK / 34 MPG US",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 163 PS / 161 HP / 120 kW",
+            "Largo:": "388.0 cm / 152.76 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2004 a 2012",
+            "Cilindrada:": "de 1124 cm3 / 68.6 cu-in a 1468 cm3 / 89.6 cu-in",
+            "Peso:": "de 1015 kg / 2238 lbs a 1160 kg / 2557 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1463/Colt-2008"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt CZ3 1.1 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Colt CZ3 1.3 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Colt CZ3 1.5 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Colt CZ3 CZT 1.5 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Colt CZ3 1.5 DI-D Ficha Tecnica",
+              "Cilindrada": "1493 cm3 (91.1 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Colt Z30 (2004 - 2012)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Emisiones de CO2:": "de 129 a 161 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "381.0 cm / 150 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2004 a 2012",
+            "Cilindrada:": "de 1124 cm3 / 68.6 cu-in a 1499 cm3 / 91.5 cu-in",
+            "Peso:": "de 905 kg / 1995 lbs a 1045 kg / 2304 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M438/Colt-CZ3"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt CZC 1.5 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Colt CZC 1.5 16v Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Colt Z30 (2004 - 2012)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "145.3 cm / 57.2 pulgadas",
+            "Emisiones de CO2:": "de 157 a 168 g/Km",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "387.5 cm / 152.56 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2004 a 2012",
+            "Cilindrada:": "de 1468 cm3 / 89.6 cu-in a 1499 cm3 / 91.5 cu-in",
+            "Peso:": "de 1110 kg / 2447 lbs a 1200 kg / 2646 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M439/Colt-CZC"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt CJ0 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Colt CJ0 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Colt CJ0 (1996 - 2003)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Emisiones de CO2:": "de 157 a 167 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "388.0 cm / 152.76 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1996 a 2003",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1597 cm3 / 97.5 cu-in",
+            "Peso:": "de 920 kg / 2028 lbs a 950 kg / 2094 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1139/Colt-CJ0"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt CA0 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Colt CA0 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Colt CA0 1.8 GTI 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Colt CA0 (1992 - 1996)",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "de 6.9 L/100 km / 41 MPG UK / 34 MPG US a 7.9 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "395.5 cm / 155.71 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1992 a 1996",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1834 cm3 / 111.9 cu-in",
+            "Peso:": "de 900 kg / 1984 lbs a 1070 kg / 2359 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1140/Colt-CA0"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt C50 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Colt C50 1.3 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Colt C50 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Colt C50 1.5 12v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Colt C50 1.6 GTi-16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1596 cm3 (97.4 cu-in)",
+              "Potencia": "124 hp / 91 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Colt C50 1.8 GTi-16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1836 cm3 (112 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Colt C50 (1988 - 1992)",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Consumos Medio:": "de 7.2 L/100 km / 39 MPG UK / 33 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "395.0 cm / 155.51 pulgadas",
+            "Ancho:": "166.0 cm / 65.35 pulgadas",
+            "Período de producción:": "de 1988 a 1992",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1836 cm3 / 112 cu-in",
+            "Peso:": "de 930 kg / 2050 lbs a 1095 kg / 2414 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1138/Colt-C50"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Colt C10 1200 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Colt C10 1500 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Colt C10 GTI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Colt C10 1.8 Diesel Ficha Tecnica",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Colt C10 (1984 - 1988)",
+          "specifications": {
+            "Batalla:": "238 cm / 93.7 pulgadas",
+            "Alto:": "136 cm / 53.54 pulgadas",
+            "Potencia:": "de 55 PS / 54 HP / 40 kW a 125 PS / 123 HP / 92 kW",
+            "Largo:": "387 cm / 152.36 pulgadas",
+            "Ancho:": "163.5 cm / 64.37 pulgadas",
+            "Período de producción:": "de 1984 a 1988",
+            "Cilindrada:": "de 1198 cm3 / 73.1 cu-in a 1795 cm3 / 109.5 cu-in",
+            "Peso:": "de 820 kg / 1808 lbs a 930 kg / 2050 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M178/Colt-C10"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/13654/w170_Mitsubishi-Colt-2023-d1c80ba5f9eb8d34f7.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Colt"
+    },
+    {
+      "modelName": "Lancer",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer IX Evolution MR TC-SST Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "295 hp / 217 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Lancer IX Sportback 1.5 MIVEC Invite Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Lancer IX Sportback 1.5 MIVEC Invite Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Lancer IX Sportback 1.8 MIVEC Motion Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer IX Instyle 2.0 DI-D 140HP Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer IX Intense Tech 2.0 DI-D 140HP Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer IX Sportback 2.0 DI-D Instyle Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer IX Sportback 2.0 DI-D Invite Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer IX Sportback 2.0 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Lancer IX (2007 - 2017)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Consumos Medio:": "7.9 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "149.0 cm / 58.66 pulgadas",
+            "Emisiones de CO2:": "de 157 a 250 g/Km",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 295 PS / 291 HP / 217 kW",
+            "Largo:": "457.0 cm / 179.92 pulgadas",
+            "Ancho:": "176.0 cm / 69.29 pulgadas",
+            "Período de producción:": "de 2007 a 2017",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1430 kg / 3153 lbs a 1675 kg / 3693 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1388/Lancer-IX"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer VIII 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1584 cm3 (96.7 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Lancer VIII Evolution IX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Lancer VIII Evolution VII Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Lancer VIII Evolution VIII Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Lancer VIII Wagon 2.0 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Lancer VIII (2002 - 2009)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Emisiones de CO2:": "de 163 a 258 g/Km",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "448.0 cm / 176.38 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 2002 a 2009",
+            "Cilindrada:": "de 1584 cm3 / 96.7 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1250 kg / 2756 lbs a 1445 kg / 3186 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M642/Lancer-VIII"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer VII 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Lancer VII Evolution VI GSR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Lancer VII Evolution VI GSR Tommi Makinen Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Lancer VII Evolution VI RS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Lancer VII (1996 - 2003)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1996 a 2003",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 970 kg / 2138 lbs a 1360 kg / 2998 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M436/Lancer-VII"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer VI 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Lancer VI 1.6 GLi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Lancer VI 1.8 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer VI 2.0 D Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Lancer VI (1992 - 1996)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 6.1 L/100 km / 46 MPG UK / 39 MPG US a 7.9 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "428.0 cm / 168.5 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1992 a 1996",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 945 kg / 2083 lbs a 1045 kg / 2304 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1151/Lancer-VI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer V 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Lancer V 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Lancer V 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Lancer V 1.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Lancer V 1.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1990"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer V 1.8 D Ficha Tecnica",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Lancer V (1987 - 1991)",
+          "specifications": {
+            "Batalla:": "246.0 cm / 96.85 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 60 PS / 59 HP / 44 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "424.0 cm / 166.93 pulgadas",
+            "Ancho:": "167.0 cm / 65.75 pulgadas",
+            "Período de producción:": "de 1987 a 1991",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1795 cm3 / 109.5 cu-in",
+            "Peso:": "de 945 kg / 2083 lbs a 990 kg / 2183 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1150/Lancer-V"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1.2 5sp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1.2 5sp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1198 cm3 (73.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Lancer III (Fiore) 1400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1410 cm3 (86 cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "1983"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lancer III (Fiore) 1.8 D Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Lancer III (1983 - 1988)",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Consumos Medio:": "de 6 L/100 km / 47 MPG UK / 39 MPG US a 7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "de 55 PS / 54 HP / 40 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "421.0 cm / 165.75 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1983 a 1988",
+            "Cilindrada:": "de 1198 cm3 / 73.1 cu-in a 1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 825 kg / 1819 lbs a 950 kg / 2094 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1152/Lancer-III-(Fiore)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lancer II 1400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1410 cm3 (86 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Lancer II 1400 5sp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1410 cm3 (86 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Lancer II 1600 GSR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Lancer II EX Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1979"
+            }
+          ],
+          "actualFinalModelName": "Lancer II (EX/A170) (1979 - 1983)",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "de 8.9 L/100 km / 32 MPG UK / 26 MPG US a 9.2 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 1979 a 1983",
+            "Cilindrada:": "de 1410 cm3 / 86 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 940 kg / 2072 lbs a 1025 kg / 2260 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M641/Lancer-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1388/w170_Mitsubishi-Lancer-IX-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Lancer"
+    },
+    {
+      "modelName": "ASX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ASX 1.3 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "ASX 1.6 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "ASX 2nd Gen. - 2025 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "263.9 cm / 103.9 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 6 L/100 km / 47 MPG UK / 39 MPG US",
+            "Alto:": "157.5 cm / 62.01 pulgadas",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 158 PS / 156 HP / 116 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1200 kg / 2646 lbs",
+            "Largo:": "423.9 cm / 166.89 pulgadas",
+            "Ancho:": "179.7 cm / 70.75 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "de 1332 cm3 / 81.3 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1381 kg / 3045 lbs a 1459 kg / 3217 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M15795/ASX-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "159 hp / 117 kW",
+              "Plugin Híbrido": "ASX 160 PHEV Ficha Tecnica",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "ASX 100T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "ASX 130T 140HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1333 cm3 (81.3 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "ASX 130T 140HP EDC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1333 cm3 (81.3 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "ASX 130T 160HP EDC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "ASX 160 HEV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "ASX 2nd Gen. - 2023 New Mode (2022 - 2024)",
+          "specifications": {
+            "Batalla:": "263.9 cm / 103.9 pulgadas",
+            "Consumos Medio:": "de 1.3 L/100 km / 217 MPG UK / 181 MPG US a 6.5 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "157.3 cm / 61.93 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 159 PS / 157 HP / 117 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "422.8 cm / 166.46 pulgadas",
+            "Ancho:": "179.7 cm / 70.75 pulgadas",
+            "Período de producción:": "de 2022 a 2024",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1400 kg / 3086 lbs a 1671 kg / 3684 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M13049/ASX-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ASX 160 MPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "ASX 160 MPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 160 DI-D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 160 DI-D 4WD Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 180 DI-D Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 180 DI-D Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 180 DI-D 4WD Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 200 DI-D Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 200 DI-D Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 200 DI-D 4WD Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 200 DI-D 4WD Ficha Tecnica",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 220 DI-D 150HP Auto 4WD Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 220 DI-D 150HP Auto 4WD Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "ASX 1 (2010 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "161.5 cm / 63.58 pulgadas",
+            "Emisiones de CO2:": "de 119 a 153 g/Km",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "429.5 cm / 169.09 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 2010 a a presente",
+            "Cilindrada:": "de 1560 cm3 / 95.2 cu-in a 2268 cm3 / 138.4 cu-in",
+            "Peso:": "de 1350 kg / 2976 lbs a 1595 kg / 3516 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1413/ASX"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ASX 160 MPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 160 DI-D Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 160 DI-D 4WD Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ASX 220 DI-D Auto 4WD Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "ASX 1 (2010 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "164.0 cm / 64.57 pulgadas",
+            "Emisiones de CO2:": "de 119 a 152 g/Km",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "435.5 cm / 171.46 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 2017 a a presente",
+            "Cilindrada:": "de 1560 cm3 / 95.2 cu-in a 2268 cm3 / 138.4 cu-in",
+            "Peso:": "de 1335 kg / 2943 lbs a 1615 kg / 3560 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M9286/ASX-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ASX 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "ASX 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "ASX 1 (2010 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 6.2 L/100 km / 46 MPG UK / 38 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "164.0 cm / 64.57 pulgadas",
+            "Emisiones de CO2:": "de 131 a 167 g/Km",
+            "Potencia:": "de 117 PS / 115 HP / 86 kW a 150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "de 1200 kg / 2646 lbs a 1300 kg / 2866 lbs",
+            "Largo:": "436.5 cm / 171.85 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1351 kg / 2978 lbs a 1476 kg / 3254 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M10503/ASX-2020"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/15795/w170_Mitsubishi-ASX-2025-1264436d036d4acb91.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-ASX"
+    },
+    {
+      "modelName": "Eclipse Cross",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "188 hp / 138 kW",
+              "Plugin Híbrido": "Eclipse Cross PHEV Ficha Tecnica",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Eclipse Cross (GK/GL/YA) - 2022 Update (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 1.7 L/100 km / 166 MPG UK / 138 MPG US a 2 L/100 km / 141 MPG UK / 118 MPG US",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Emisiones de CO2:": "de 39 a 45 g/Km",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 188 PS / 185 HP / 138 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "454.5 cm / 178.94 pulgadas",
+            "Ancho:": "180.5 cm / 71.06 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Peso:": "2013 kg / 4438 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M12349/Eclipse-Cross-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "188 hp / 138 kW",
+              "Plugin Híbrido": "Eclipse Cross 2018 PHEV Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Eclipse Cross 2018 1.5 DI-T 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Eclipse Cross 2018 1.5 DI-T 2WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Eclipse Cross 2018 1.5 DI-T 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Eclipse Cross (GK/GL/YA) - 2018 New Model (2017 - 2021)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "2 L/100 km / 141 MPG UK / 118 MPG US",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 188 PS / 185 HP / 138 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "440.5 cm / 173.43 pulgadas",
+            "Ancho:": "180.5 cm / 71.06 pulgadas",
+            "Período de producción:": "de 2017 a 2021",
+            "Cilindrada:": "de 1499 cm3 / 91.5 cu-in a 2360 cm3 / 144 cu-in",
+            "Peso:": "de 1516 kg / 3342 lbs a 1978 kg / 4361 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M9829/Eclipse-Cross-2018"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/12349/w170_Mitsubishi-Eclipse-Cross-2022-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Eclipse-Cross"
+    },
+    {
+      "modelName": "Outlander",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outlander 3 PHEV Motion Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Challenge 2WD Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Kaiteki Auto Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Kaiteki Auto Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Motion 2WD Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Motion Auto Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 3 220 DI-D Motion Auto Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Outlander 3 (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "1.9 L/100 km / 149 MPG UK / 124 MPG US",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Emisiones de CO2:": "de 44 a 159 g/Km",
+            "Potencia:": "de 121 PS / 119 HP / 89 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "465.5 cm / 183.27 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2012 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2268 cm3 / 138.4 cu-in",
+            "Peso:": "de 1605 kg / 3538 lbs a 1885 kg / 4156 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M441/Outlander-3"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Plugin Híbrido": "Outlander PHEV Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Outlander 200 MPI HPT 2WD 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 220 DI-D 2WD 7 seats Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 220 DI-D 4WD 6AT 7 seats Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 220 DI-D 4WD 7 seats Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Outlander 3 (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "1.7 L/100 km / 166 MPG UK / 138 MPG US",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Potencia:": "de 121 PS / 119 HP / 89 kW a 203 PS / 200 HP / 149 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "469.5 cm / 184.84 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2015 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2268 cm3 / 138.4 cu-in",
+            "Peso:": "de 1430 kg / 3153 lbs a 1939 kg / 4275 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M8445/Outlander-3-(2015-Facelift)"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Outlander PHEV Pure+ Ficha Tecnica",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2360 cm3 (144 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Plugin Híbrido": "Outlander PHEV S-Edition Ficha Tecnica",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Outlander 2.0 ClearTec Instyle 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Outlander 2.0 ClearTec Intense+ 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Outlander 3 (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 1.8 L/100 km / 157 MPG UK / 131 MPG US a 8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "170.3 cm / 67.05 pulgadas",
+            "Potencia:": "de 135 PS / 133 HP / 99 kW a 240 PS / 237 HP / 177 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1600 kg / 3527 lbs",
+            "Largo:": "469.5 cm / 184.84 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2018 a a presente",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2360 cm3 / 144 cu-in",
+            "Peso:": "de 1566 kg / 3452 lbs a 1959 kg / 4319 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M10326/Outlander-3-(2018-Facelift)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outlander 2 2.0 MIVEC 2WD Challenge Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 2 2.0 DI-D Challenge Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 2 2.2 DI-D Challenge Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 2 2.2 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 2 2.2 DI-D TC-SST Kaiteki Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander 2 2.2 DI-D TC-SST Motion Ficha Tecnica",
+              "Cilindrada": "2179 cm3 (133 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Outlander 2 (2006 - 2012)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "172.0 cm / 67.72 pulgadas",
+            "Emisiones de CO2:": "de 180 a 192 g/Km",
+            "Potencia:": "de 140 PS / 138 HP / 103 kW a 156 PS / 154 HP / 115 kW",
+            "Largo:": "466.5 cm / 183.66 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2006 a 2012",
+            "Cilindrada:": "de 1968 cm3 / 120.1 cu-in a 2179 cm3 / 133 cu-in",
+            "Peso:": "de 1545 kg / 3406 lbs a 1830 kg / 4034 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M7513/Outlander-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outlander I 2.0 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Outlander I 2.0 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Outlander I 2.0 4WD Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Outlander I 2.4 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2378 cm3 (145.1 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Outlander 1 (2001 - 2006)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Consumos Medio:": "10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "162.0 cm / 63.78 pulgadas",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 201 PS / 198 HP / 148 kW",
+            "Largo:": "454.0 cm / 178.74 pulgadas",
+            "Ancho:": "175.0 cm / 68.9 pulgadas",
+            "Período de producción:": "de 2001 a 2006",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2378 cm3 / 145.1 cu-in",
+            "Peso:": "de 1410 kg / 3109 lbs a 1570 kg / 3461 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1153/Outlander-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/441/w170_Mitsubishi-Outlander-3-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Outlander"
+    },
+    {
+      "modelName": "Xpander",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Xpander Cross Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Xpander GLS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Xpander GT - Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Xpander Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "277.5 cm / 109.25 pulgadas",
+            "Alto:": "175.0 cm / 68.9 pulgadas",
+            "Potencia:": "105 PS / 104 HP / 77 kW",
+            "Largo:": "450.0 cm / 177.17 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "2017",
+            "Cilindrada:": "1499 cm3 / 91.5 cu-in",
+            "Peso:": "de 1235 kg / 2723 lbs a 1280 kg / 2822 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M11413/Xpander"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/11413/w170_Mitsubishi-Xpander-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M11413/Xpander"
+    },
+    {
+      "modelName": "Pajero",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero IV 3.8 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3828 cm3 (233.6 cu-in)",
+              "Potencia": "250 hp / 184 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 3d 3.2 DI-D Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 3p 3.2 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 3p 3.2 DI-D Motion 5A/T \"Sports Mode\" Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 3p 3.2 DI-D Spirit Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5d 3.2 DI-D Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Motion Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Motion 5A/T \"Sports Mode\" Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Motion 5A/T \"Sports Mode\" Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Spirit Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero IV 5p 3.2 DI-D Spirit Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Pajero 4 (2006 - Presente)",
+          "specifications": {
+            "Batalla:": "254.5 cm / 100.2 pulgadas",
+            "Alto:": "185.0 cm / 72.83 pulgadas",
+            "Emisiones de CO2:": "de 211 a 324 g/Km",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 250 PS / 247 HP / 184 kW",
+            "Largo:": "438.5 cm / 172.64 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "de 2006 a a presente",
+            "Cilindrada:": "de 3200 cm3 / 195.3 cu-in a 3828 cm3 / 233.6 cu-in",
+            "Peso:": "de 2085 kg / 4597 lbs a 2385 kg / 5258 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M443/Pajero-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero III 3.5 V6 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Pajero III 3.5 V6 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Pajero III 3.5 V6 GDI Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III 3.2 DID Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III 3.2 DID Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Pajero 3 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "254.0 cm / 100 pulgadas",
+            "Alto:": "184.0 cm / 72.44 pulgadas",
+            "Emisiones de CO2:": "de 240 a 339 g/Km",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 202 PS / 199 HP / 149 kW",
+            "Largo:": "426.0 cm / 167.72 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 2477 cm3 / 151.2 cu-in a 3497 cm3 / 213.4 cu-in",
+            "Peso:": "de 1790 kg / 3946 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1157/Pajero-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero III Long 3.5 V6 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Pajero III Long 3.5 V6 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Pajero III Long 3.5 V6 GDI Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "202 hp / 149 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III Long 3.2 DID Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero III Long 3.2 DID Ficha Tecnica",
+              "Cilindrada": "3200 cm3 (195.3 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Pajero 3 (1999 - 2006)",
+          "specifications": {
+            "Batalla:": "278.0 cm / 109.45 pulgadas",
+            "Alto:": "186.0 cm / 73.23 pulgadas",
+            "Emisiones de CO2:": "de 240 a 339 g/Km",
+            "Potencia:": "de 160 PS / 158 HP / 118 kW a 202 PS / 199 HP / 149 kW",
+            "Largo:": "478.0 cm / 188.19 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 1999 a 2006",
+            "Cilindrada:": "de 3200 cm3 / 195.3 cu-in a 3497 cm3 / 213.4 cu-in",
+            "Peso:": "de 1985 kg / 4376 lbs a 2140 kg / 4718 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1158/Pajero-III-Long"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero Pinin 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Pajero Pinin 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Pajero Pinin 2.0 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Pajero Pinin Long 2.0 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Pajero Pinin (1998 - 2007)",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "9.3 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 129 PS / 127 HP / 95 kW",
+            "Largo:": "404.0 cm / 159.06 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1998 a 2007",
+            "Cilindrada:": "de 1834 cm3 / 111.9 cu-in a 1999 cm3 / 122 cu-in",
+            "Peso:": "de 1260 kg / 2778 lbs a 1365 kg / 3009 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1159/Pajero-Pinin"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero Sport 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero Sport 2.5 Tdi Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Pajero Sport (1996 - 2008)",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Alto:": "173.5 cm / 68.31 pulgadas",
+            "Emisiones de CO2:": "de 278 a 310 g/Km",
+            "Potencia:": "de 116 PS / 114 HP / 85 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "461.0 cm / 181.5 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 1996 a 2008",
+            "Cilindrada:": "de 2477 cm3 / 151.2 cu-in a 2972 cm3 / 181.4 cu-in",
+            "Peso:": "de 1815 kg / 4001 lbs a 1840 kg / 4057 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M442/Pajero-Sport"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Pajero 3.0 V6 24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "181 hp / 133 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Pajero 3.0 V6 24v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Pajero 3.0 V6 Soft Top Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Pajero Evolution (V55W) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Pajero Evolution Auto (V55W) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero 2.8 TD Ficha Tecnica",
+              "Cilindrada": "2835 cm3 (173 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Pajero 2 (1991 - 1999)",
+          "specifications": {
+            "Batalla:": "242.0 cm / 95.28 pulgadas",
+            "Consumos Medio:": "de 10.9 L/100 km / 26 MPG UK / 22 MPG US a 13.7 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "184.0 cm / 72.44 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "412.0 cm / 162.2 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1991 a 1999",
+            "Cilindrada:": "de 2477 cm3 / 151.2 cu-in a 3497 cm3 / 213.4 cu-in",
+            "Peso:": "de 1710 kg / 3770 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1155/Pajero-II-(V20)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero II Long 3.0 v6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Pajero II Long 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "208 hp / 153 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Pajero II Long 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3497 cm3 (213.4 cu-in)",
+              "Potencia": "194 hp / 143 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero II Long 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero II Long 2.8 TD Ficha Tecnica",
+              "Cilindrada": "2835 cm3 (173 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero II Long 2.8 TD Ficha Tecnica",
+              "Cilindrada": "2835 cm3 (173 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Pajero 2 (1991 - 1999)",
+          "specifications": {
+            "Batalla:": "272.0 cm / 107.09 pulgadas",
+            "Consumos Medio:": "de 11.4 L/100 km / 25 MPG UK / 21 MPG US a 14.5 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "186.0 cm / 73.23 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 208 PS / 205 HP / 153 kW",
+            "Largo:": "470.0 cm / 185.04 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1991 a 1999",
+            "Cilindrada:": "de 2477 cm3 / 151.2 cu-in a 3497 cm3 / 213.4 cu-in",
+            "Peso:": "de 1920 kg / 4233 lbs a 2086 kg / 4599 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1156/Pajero-II-Long"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Pajero I 2600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2555 cm3 (155.9 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Pajero I Long Body 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Pajero I Metal top 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I 2300 Diesel Ficha Tecnica",
+              "Cilindrada": "2346 cm3 (143.2 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1982"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Canvas Top 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Long Body 2.5 TD 84 Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Long Body 2.5 TD 95 Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Metal Top 2.5 TD 84 Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Metal Top 2.5 TD 95 Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1986"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Pajero I Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "2346 cm3 (143.2 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Pajero 1 (1982 - 1991)",
+          "specifications": {
+            "Batalla:": "235 cm / 92.52 pulgadas",
+            "Consumos Medio:": "de 10.8 L/100 km / 26 MPG UK / 22 MPG US a 13.7 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "182.5 cm / 71.85 pulgadas",
+            "Potencia:": "de 67 PS / 66 HP / 49 kW a 141 PS / 139 HP / 104 kW",
+            "Largo:": "387 cm / 152.36 pulgadas",
+            "Ancho:": "168 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1982 a 1991",
+            "Cilindrada:": "de 2346 cm3 / 143.2 cu-in a 2972 cm3 / 181.4 cu-in",
+            "Peso:": "de 1315 kg / 2899 lbs a 1830 kg / 4034 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M181/Pajero-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/mitsubishi/443/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Pajero"
+    },
+    {
+      "modelName": "L200",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Club Cab 2.2 DI-D ClearTec Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "L200 / Triton 5th. Gen (KJ/KK/KL) Facelift (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Potencia:": "150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "3000 kg / 6614 lbs",
+            "Largo:": "521.5 cm / 205.31 pulgadas",
+            "Ancho:": "181.5 cm / 71.46 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "2268 cm3 / 138.4 cu-in",
+            "Peso:": "2033 kg / 4482 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M10849/L200-Club-Cab-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Double Cab 2.2 DI-D Auto Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Double Cab 2.2 DI-D ClearTec Ficha Tecnica",
+              "Cilindrada": "2268 cm3 (138.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "L200 / Triton 5th. Gen (KJ/KK/KL) Facelift (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Potencia:": "150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "3100 kg / 6834 lbs",
+            "Largo:": "529.5 cm / 208.46 pulgadas",
+            "Ancho:": "181.5 cm / 71.46 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "2268 cm3 / 138.4 cu-in",
+            "Peso:": "de 2128 kg / 4691 lbs a 2133 kg / 4702 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M10843/L200-Double-Cab-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 2.4 DI-D 154HP Motion Ficha Tecnica",
+              "Cilindrada": "2442 cm3 (149 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 2.4 DI-D 181HP Kaiteki Ficha Tecnica",
+              "Cilindrada": "2442 cm3 (149 cu-in)",
+              "Potencia": "181 hp / 133 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "L200 / Triton 5th. Gen (KJ/KK/KL) (2015 - 2019)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Emisiones de CO2:": "de 169 a 189 g/Km",
+            "Potencia:": "de 154 PS / 152 HP / 113 kW a 181 PS / 179 HP / 133 kW",
+            "Largo:": "520.5 cm / 204.92 pulgadas",
+            "Ancho:": "181.5 cm / 71.46 pulgadas",
+            "Período de producción:": "de 2015 a 2019",
+            "Cilindrada:": "2442 cm3 / 149 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M8052/L200-5th"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Double Cab 2.5 DI-D 178HP Motion Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Double Cab 2.5 DI-D Challenge Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "L200 Double Cab 2.5 DI-D M-PRO Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "L200 / Triton 4th Gen. (KA/KB) (2005 - 2015)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Alto:": "178.0 cm / 70.08 pulgadas",
+            "Emisiones de CO2:": "de 214 a 215 g/Km",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 178 PS / 176 HP / 131 kW",
+            "Largo:": "526.0 cm / 207.09 pulgadas",
+            "Ancho:": "184.5 cm / 72.64 pulgadas",
+            "Período de producción:": "de 2005 a 2015",
+            "Cilindrada:": "2477 cm3 / 151.2 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1409/L200-4th"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/10843/w170_Mitsubishi-L200-Double-Cab-2020-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-L200"
+    },
+    {
+      "modelName": "Space Runner",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Runner II 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Space Runner II 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2351 cm3 (143.5 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Space Runner 2 (1997 - 2002)",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Alto:": "165.0 cm / 64.96 pulgadas",
+            "Emisiones de CO2:": "de 218 a 220 g/Km",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "429.0 cm / 168.9 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1997 a 2002",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2351 cm3 / 143.5 cu-in",
+            "Peso:": "de 1360 kg / 2998 lbs a 1400 kg / 3086 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1164/Space-Runner-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Runner I 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Runner I 2.0 TD Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Space Runner 1 (1991 - 1997)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Consumos Medio:": "8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "166.0 cm / 65.35 pulgadas",
+            "Potencia:": "de 82 PS / 81 HP / 60 kW a 116 PS / 114 HP / 85 kW",
+            "Largo:": "427.0 cm / 168.11 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1991 a 1997",
+            "Cilindrada:": "de 1834 cm3 / 111.9 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1180 kg / 2601 lbs a 1210 kg / 2668 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1163/Space-Runner-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1164/w170_Mitsubishi-Space-Runner-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Space-Runner"
+    },
+    {
+      "modelName": "Eclipse",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Eclipse II 2.0 DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Eclipse II GS-T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Eclipse 2 (1995 - 1999)",
+          "specifications": {
+            "Batalla:": "251.0 cm / 98.82 pulgadas",
+            "Consumos Medio:": "9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Potencia:": "de 145 PS / 143 HP / 107 kW a 213 PS / 210 HP / 157 kW",
+            "Largo:": "438.5 cm / 172.64 pulgadas",
+            "Ancho:": "174.5 cm / 68.7 pulgadas",
+            "Período de producción:": "de 1995 a 1999",
+            "Cilindrada:": "1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1305 kg / 2877 lbs a 1320 kg / 2910 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1143/Eclipse-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Eclipse I 2.0 GSi 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Eclipse I GS 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Eclipse I GSX Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Eclipse 1 (1989 - 1994)",
+          "specifications": {
+            "Batalla:": "247.0 cm / 97.24 pulgadas",
+            "Consumos Medio:": "de 8.4 L/100 km / 34 MPG UK / 28 MPG US a 10.7 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "130.0 cm / 51.18 pulgadas",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 197 PS / 194 HP / 145 kW",
+            "Largo:": "434.0 cm / 170.87 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1989 a 1994",
+            "Cilindrada:": "de 1755 cm3 / 107.1 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1145 kg / 2524 lbs a 1403 kg / 3093 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1142/Eclipse-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1143/w170_Mitsubishi-Eclipse-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Eclipse"
+    },
+    {
+      "modelName": "Galant",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant VIII 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Galant VIII 2.4 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2350 cm3 (143.4 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Galant VIII 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "163 hp / 120 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant VIII 2.0 TD Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Galant 8 (1996 - 2006)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Consumos Medio:": "de 7 L/100 km / 40 MPG UK / 34 MPG US a 8.2 L/100 km / 34 MPG UK / 29 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 163 PS / 161 HP / 120 kW",
+            "Largo:": "463.0 cm / 182.28 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1996 a 2006",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2498 cm3 / 152.4 cu-in",
+            "Peso:": "de 1235 kg / 2723 lbs a 1295 kg / 2855 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1148/Galant-VIII"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant VII 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "126 hp / 93 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Galant VII 2.0 GTi V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Galant VII 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "137 hp / 101 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Galant VII 2.5 GTI-V6 Dynamic-4 5-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1993"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant VII 2.0 TD Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Galant 7 (1993 - 1996)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 10.5 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "462.0 cm / 181.89 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1993 a 1996",
+            "Cilindrada:": "de 1834 cm3 / 111.9 cu-in a 2497 cm3 / 152.4 cu-in",
+            "Peso:": "de 1145 kg / 2524 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1147/Galant-VII"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Type I Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Type I Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Type II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant AMG 2.0 Turbo Type II Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Galant 6 (1988 - 1993)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "143.0 cm / 56.3 pulgadas",
+            "Potencia:": "170 PS / 168 HP / 125 kW",
+            "Largo:": "457.0 cm / 179.92 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 1988 a 1993",
+            "Cilindrada:": "1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1220 kg / 2690 lbs a 1270 kg / 2800 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M12250/Galant-AMG"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.6 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 16v DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1836 cm3 (112 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 16v DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1836 cm3 (112 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 16v DOHC Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1836 cm3 (112 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 16v DOHC Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1836 cm3 (112 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i 4WD Auto 1990 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Cat. Auto (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 1.8i Cat. Auto (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Dynamic-4 Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Dynamic-4 Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 GTi-16V Dynamic-4 Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo Super VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo Super VR-4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "193 hp / 142 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 Monte Carlo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 RS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0 Turbo VR-4 RS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "220 hp / 162 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 16v DOHC Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i 4WD Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i Auto (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i Cat. (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i Cat. Auto (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Galant 2.0i Cat. Auto (Export) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8 Turbo Diesel (Export) Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8 Turbo Diesel (Export) Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8D Turbo Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8D Turbo Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1990"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8D Turbo Auto Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant 1.8D Turbo Auto Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Galant 6 (1988 - 1993)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "de 6.3 L/100 km / 45 MPG UK / 37 MPG US a 9.6 L/100 km / 29 MPG UK / 25 MPG US",
+            "Alto:": "142.5 cm / 56.1 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 240 PS / 237 HP / 177 kW",
+            "Peso de remolque:": "de 1100 kg / 2425 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "454.0 cm / 178.74 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 1988 a 1993",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 990 kg / 2183 lbs a 1430 kg / 3153 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1146/Galant-VI"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant 5-door 1800 GLSi 137HP Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 1800 GLSi Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi 4WD Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Cat. Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GLSi Cat. Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "146 hp / 107 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Dynamic-4 Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Galant 5-door 2000 GTi-16V Dynamic-4 Cat. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Galant 6 (1988 - 1993)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "de 8.1 L/100 km / 35 MPG UK / 29 MPG US a 9.8 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "de 1200 kg / 2646 lbs a 1800 kg / 3968 lbs",
+            "Largo:": "454.0 cm / 178.74 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 1988 a 1993",
+            "Cilindrada:": "de 1755 cm3 / 107.1 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1190 kg / 2624 lbs a 1420 kg / 3131 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M12243/Galant-VI-5-door"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant V 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Galant V 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Galant V 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1984"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant V 1.8 TD Ficha Tecnica",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "Galant 5 (1984 - 1988)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 9.6 L/100 km / 29 MPG UK / 25 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "456.0 cm / 179.53 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1984 a 1988",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1140 kg / 2513 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1145/Galant-V"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Galant IV 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Galant IV 1600 4sp Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Galant IV 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Galant IV 2000 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1981"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Galant IV 2300 Turbo D Ficha Tecnica",
+              "Cilindrada": "2346 cm3 (143.2 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "Galant 4 (1980 - 1984)",
+          "specifications": {
+            "Batalla:": "253.0 cm / 99.61 pulgadas",
+            "Consumos Medio:": "de 8.4 L/100 km / 34 MPG UK / 28 MPG US a 9.4 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1980 a 1984",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 2346 cm3 / 143.2 cu-in",
+            "Peso:": "de 1060 kg / 2337 lbs a 1230 kg / 2712 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1144/Galant-IV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1148/w170_Mitsubishi-Galant-VIII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi-models/Mitsubishi-Galant"
+    },
+    {
+      "modelName": "3000GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3000GT 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "3000GT 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "3000GT VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "3000GT VR-4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "324 hp / 238 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi 3000GT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "247.0 cm / 97.24 pulgadas",
+            "Consumos Medio:": "11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "128.0 cm / 50.39 pulgadas",
+            "Potencia:": "de 286 PS / 282 HP / 210 kW a 324 PS / 320 HP / 238 kW",
+            "Largo:": "456.0 cm / 179.53 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 1990 a 1999",
+            "Cilindrada:": "2972 cm3 / 181.4 cu-in",
+            "Peso:": "de 1690 kg / 3726 lbs a 1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1135/3000GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1135/w170_Mitsubishi-3000GT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1135/3000GT"
+    },
+    {
+      "modelName": "Airtrek",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Airtrek 20V Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "126 hp / 93 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Airtrek 24V-S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2350 cm3 (143.4 cu-in)",
+              "Potencia": "139 hp / 102 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Airtrek Sport Gear Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2350 cm3 (143.4 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Airtrek Turbo-R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "239 hp / 176 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Airtrek Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.5 cm / 103.35 pulgadas",
+            "Alto:": "158.5 cm / 62.4 pulgadas",
+            "Potencia:": "de 126 PS / 124 HP / 93 kW a 239 PS / 236 HP / 176 kW",
+            "Largo:": "441 cm / 173.62 pulgadas",
+            "Ancho:": "175 cm / 68.9 pulgadas",
+            "Período de producción:": "de 2002 a 2005",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2350 cm3 / 143.4 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1520 kg / 3351 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M3959/Airtrek"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/3959/w170_Mitsubishi-Airtrek-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M3959/Airtrek"
+    },
+    {
+      "modelName": "Carisma",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Carisma 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Carisma 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Carisma 1.9 DI-D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Carisma 1.9 DI-D 115 Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Carisma 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Carisma 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Carisma Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 5.4 L/100 km / 52 MPG UK / 44 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "448.0 cm / 176.38 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1995 a 2005",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1870 cm3 / 114.1 cu-in",
+            "Peso:": "de 1080 kg / 2381 lbs a 1285 kg / 2833 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1136/Carisma"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1136/w170_Mitsubishi-Carisma-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1136/Carisma"
+    },
+    {
+      "modelName": "Celeste",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Celeste 1600 ST Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "Celeste 2000 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "1975"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Celeste Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Consumos Medio:": "de 9.6 L/100 km / 29 MPG UK / 25 MPG US a 9.8 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "133.0 cm / 52.36 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 98 PS / 97 HP / 72 kW",
+            "Largo:": "416.0 cm / 163.78 pulgadas",
+            "Ancho:": "161.0 cm / 63.39 pulgadas",
+            "Período de producción:": "de 1975 a 1981",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 945 kg / 2083 lbs a 990 kg / 2183 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1137/Celeste"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1137/w170_Mitsubishi-Celeste-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1137/Celeste"
+    },
+    {
+      "modelName": "Cordia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cordia 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Cordia 1600 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Cordia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "de 7.7 L/100 km / 37 MPG UK / 31 MPG US a 7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 116 PS / 114 HP / 85 kW",
+            "Largo:": "428.0 cm / 168.5 pulgadas",
+            "Ancho:": "166.0 cm / 65.35 pulgadas",
+            "Período de producción:": "de 1982 a 1987",
+            "Cilindrada:": "1597 cm3 / 97.5 cu-in",
+            "Peso:": "de 925 kg / 2039 lbs a 970 kg / 2138 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1141/Cordia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1141/w170_Mitsubishi-Cordia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1141/Cordia"
+    },
+    {
+      "modelName": "FTO",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "FTO GPX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "FTO GPX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "FTO GR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "172 hp / 127 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "FTO GS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "127 hp / 93 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi FTO Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250 cm / 98.43 pulgadas",
+            "Alto:": "130 cm / 51.18 pulgadas",
+            "Potencia:": "de 127 PS / 125 HP / 93 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "436.5 cm / 171.85 pulgadas",
+            "Ancho:": "173.5 cm / 68.31 pulgadas",
+            "Período de producción:": "de 1994 a 2000",
+            "Cilindrada:": "de 1834 cm3 / 111.9 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1120 kg / 2469 lbs a 1240 kg / 2734 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M5812/FTO"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/5812/w170_Mitsubishi-FTO-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M5812/FTO"
+    },
+    {
+      "modelName": "Grandis",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grandis 2.4 MIVEC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2378 cm3 (145.1 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grandis 2.0 DI-D Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grandis Challenge 2.0 DI-D Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grandis Challenge 2.0 DI-D 136HP Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2009"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Grandis Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Alto:": "165.5 cm / 65.16 pulgadas",
+            "Emisiones de CO2:": "de 176 a 223 g/Km",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 165 PS / 163 HP / 121 kW",
+            "Largo:": "476.5 cm / 187.6 pulgadas",
+            "Ancho:": "179.5 cm / 70.67 pulgadas",
+            "Período de producción:": "2004",
+            "Cilindrada:": "de 1968 cm3 / 120.1 cu-in a 2378 cm3 / 145.1 cu-in",
+            "Peso:": "de 1620 kg / 3571 lbs a 1785 kg / 3935 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M440/Grandis"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/mitsubishi/440/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M440/Grandis"
+    },
+    {
+      "modelName": "i",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "i T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "659 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "i T 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "659 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "i Vivace Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "659 cm3 (40.2 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "i Vivace 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "659 cm3 (40.2 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi i Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "256 cm / 100.79 pulgadas",
+            "Consumos Medio:": "5.2 L/100 km / 54 MPG UK / 45 MPG US",
+            "Alto:": "151.4 cm / 59.61 pulgadas",
+            "Potencia:": "de 52 PS / 51 HP / 38 kW a 68 PS / 67 HP / 50 kW",
+            "Largo:": "351.6 cm / 138.43 pulgadas",
+            "Ancho:": "150.5 cm / 59.25 pulgadas",
+            "Período de producción:": "2003",
+            "Cilindrada:": "de 659 cm3 / 40.2 cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 790 kg / 1742 lbs a 970 kg / 2138 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M3973/i"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/3973/w170_Mitsubishi-i-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M3973/i"
+    },
+    {
+      "modelName": "Outlander Sport",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outlander Sport 2.0 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Outlander Sport 2.0 4WD Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "201 hp / 148 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Outlander Sport 2.4 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2378 cm3 (145.1 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outlander Sport 2.0 DI-D Ficha Tecnica",
+              "Cilindrada": "1968 cm3 (120.1 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Outlander Sport Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 201 PS / 198 HP / 148 kW",
+            "Largo:": "464.0 cm / 182.68 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2006 a 2010",
+            "Cilindrada:": "de 1968 cm3 / 120.1 cu-in a 2378 cm3 / 145.1 cu-in",
+            "Peso:": "de 1410 kg / 3109 lbs a 1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1154/Outlander-Sport"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1154/w170_Mitsubishi-Outlander-Sport-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1154/Outlander-Sport"
+    },
+    {
+      "modelName": "Sapporo Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sapporo Coupe 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "Sapporo Coupe 2000 GSR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "Sapporo Coupe 2000 GSR Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Sapporo Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "253.0 cm / 99.61 pulgadas",
+            "Consumos Medio:": "de 8.7 L/100 km / 32 MPG UK / 27 MPG US a 9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "452.0 cm / 177.95 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1979 a 1985",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1084 kg / 2390 lbs a 1210 kg / 2668 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1160/Sapporo-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1160/w170_Mitsubishi-Sapporo-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1160/Sapporo-Coupe"
+    },
+    {
+      "modelName": "Sigma",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sigma 3.0i V6 4WS DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Sigma 3.0i V6 DOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "205 hp / 151 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Sigma 3.0i v6 SOHC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2972 cm3 (181.4 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Sigma Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.0 cm / 107.09 pulgadas",
+            "Consumos Medio:": "de 10.3 L/100 km / 27 MPG UK / 23 MPG US a 10.8 L/100 km / 26 MPG UK / 22 MPG US",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 205 PS / 202 HP / 151 kW",
+            "Largo:": "475.0 cm / 187.01 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1991 a 1996",
+            "Cilindrada:": "2972 cm3 / 181.4 cu-in",
+            "Peso:": "de 1510 kg / 3329 lbs a 1580 kg / 3483 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1161/Sigma"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1161/w170_Mitsubishi-Sigma-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1161/Sigma"
+    },
+    {
+      "modelName": "Space Gear",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Gear 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Space Gear 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2350 cm3 (143.4 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Gear 2.5 TD Ficha Tecnica",
+              "Cilindrada": "2477 cm3 (151.2 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Space Gear Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Consumos Medio:": "de 10.5 L/100 km / 27 MPG UK / 22 MPG US a 12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "186.0 cm / 73.23 pulgadas",
+            "Potencia:": "de 99 PS / 98 HP / 73 kW a 132 PS / 130 HP / 97 kW",
+            "Largo:": "460.0 cm / 181.1 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1995 a 1998",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2477 cm3 / 151.2 cu-in",
+            "Peso:": "de 1560 kg / 3439 lbs a 1660 kg / 3660 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1162/Space-Gear"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1162/w170_Mitsubishi-Space-Gear-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1162/Space-Gear"
+    },
+    {
+      "modelName": "Space Star",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Star 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1584 cm3 (96.7 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Space Star 1.8 GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Star 1.9 DI-D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Star 1.9 DI-D 115 Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Space Star Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 5.5 L/100 km / 51 MPG UK / 43 MPG US a 7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Potencia:": "de 86 PS / 85 HP / 63 kW a 122 PS / 120 HP / 90 kW",
+            "Largo:": "403.0 cm / 158.66 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1998 a 2006",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1870 cm3 / 114.1 cu-in",
+            "Peso:": "de 1095 kg / 2414 lbs a 1240 kg / 2734 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1165/Space-Star"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1165/w170_Mitsubishi-Space-Star-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1165/Space-Star"
+    },
+    {
+      "modelName": "Space Wagon I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Wagon I 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1755 cm3 (107.1 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon I 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon I 2.0 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon I 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Wagon I 1.8 TD Ficha Tecnica",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Space Wagon I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "164.0 cm / 64.57 pulgadas",
+            "Período de producción:": "de 1984 a 1991",
+            "Cilindrada:": "de 1755 cm3 / 107.1 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1070 kg / 2359 lbs a 1280 kg / 2822 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1166/Space-Wagon-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1166/w170_Mitsubishi-Space-Wagon-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1166/Space-Wagon-I"
+    },
+    {
+      "modelName": "Space Wagon II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Space Wagon II 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1834 cm3 (111.9 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon II 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon II 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Space Wagon II 2.4i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2351 cm3 (143.5 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Wagon II 1.8 TD Ficha Tecnica",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Space Wagon II 2.0 TD Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Space Wagon II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.0 cm / 107.09 pulgadas",
+            "Consumos Medio:": "de 7.9 L/100 km / 36 MPG UK / 30 MPG US a 8.5 L/100 km / 33 MPG UK / 28 MPG US",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "452.0 cm / 177.95 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1991 a 2004",
+            "Cilindrada:": "de 1795 cm3 / 109.5 cu-in a 2351 cm3 / 143.5 cu-in",
+            "Peso:": "de 1280 kg / 2822 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1167/Space-Wagon-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1167/w170_Mitsubishi-Space-Wagon-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1167/Space-Wagon-II"
+    },
+    {
+      "modelName": "Starion",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Starion 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Starion 2.0 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Starion 2.0 Turbo JP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Starion 2.6 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2555 cm3 (155.9 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Starion Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "de 9.6 L/100 km / 29 MPG UK / 25 MPG US a 10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "de 155 PS / 153 HP / 114 kW a 180 PS / 178 HP / 132 kW",
+            "Largo:": "442.0 cm / 174.02 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1982 a 1991",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2555 cm3 / 155.9 cu-in",
+            "Peso:": "de 1190 kg / 2624 lbs a 1325 kg / 2921 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M180/Starion"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/180/w170_Mitsubishi-Starion-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M180/Starion"
+    },
+    {
+      "modelName": "Tredia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Tredia 1400 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1410 cm3 (86 cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Tredia 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Tredia 1600 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Mitsubishi Tredia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Consumos Medio:": "de 7.7 L/100 km / 37 MPG UK / 31 MPG US a 8 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "de 70 PS / 69 HP / 51 kW a 116 PS / 114 HP / 85 kW",
+            "Largo:": "428.0 cm / 168.5 pulgadas",
+            "Ancho:": "165.0 cm / 64.96 pulgadas",
+            "Período de producción:": "de 1982 a 1987",
+            "Cilindrada:": "de 1410 cm3 / 86 cu-in a 1597 cm3 / 97.5 cu-in",
+            "Peso:": "de 890 kg / 1962 lbs a 975 kg / 2150 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1168/Tredia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/45/1168/w170_Mitsubishi-Tredia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Mitsubishi/M1168/Tredia"
+    }
+  ],
+  "brandName": "Mitsubishi"
+}

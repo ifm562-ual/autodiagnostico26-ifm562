@@ -1,0 +1,658 @@
+{
+  "models": [
+    {
+      "modelName": "Artura",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2993 cm3 (182.6 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Plugin Híbrido": "Artura 3.0 V6 Ficha Tecnica",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "McLaren Artura Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "264 cm / 103.94 pulgadas",
+            "Alto:": "119.3 cm / 46.97 pulgadas",
+            "Potencia:": "de 585 PS / 577 HP / 430 kW a 680 PS / 671 HP / 500 kW",
+            "Largo:": "453.9 cm / 178.7 pulgadas",
+            "Ancho:": "197.6 cm / 77.8 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "1498 kg / 3303 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11899/Artura"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11899/w170_McLaren-Artura-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11899/Artura"
+    },
+    {
+      "modelName": "540C",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "540C Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "540 hp / 397 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "McLaren 540C Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "120.2 cm / 47.32 pulgadas",
+            "Emisiones de CO2:": "258 g/Km",
+            "Potencia:": "540 PS / 533 HP / 397 kW",
+            "Largo:": "453.0 cm / 178.35 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2015",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8035/540C"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/8035/w170_McLaren-540C-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8035/540C"
+    },
+    {
+      "modelName": "570S",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "570S Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "McLaren 570S Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "120.2 cm / 47.32 pulgadas",
+            "Emisiones de CO2:": "258 g/Km",
+            "Potencia:": "570 PS / 562 HP / 419 kW",
+            "Largo:": "453.0 cm / 178.35 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2015",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8006/570S"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/8006/w170_McLaren-570S-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8006/570S"
+    },
+    {
+      "modelName": "570GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "570GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "570 hp / 419 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "McLaren 570GT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "120.1 cm / 47.28 pulgadas",
+            "Emisiones de CO2:": "249 g/Km",
+            "Potencia:": "570 PS / 562 HP / 419 kW",
+            "Largo:": "453.0 cm / 178.35 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8676/570GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/8676/w170_McLaren-570GT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8676/570GT"
+    },
+    {
+      "modelName": "600LT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "600LT Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "McLaren 600LT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "119.1 cm / 46.89 pulgadas",
+            "Emisiones de CO2:": "de 266 a 277 g/Km",
+            "Potencia:": "600 PS / 592 HP / 441 kW",
+            "Largo:": "460.4 cm / 181.26 pulgadas",
+            "Ancho:": "190.8 cm / 75.12 pulgadas",
+            "Período de producción:": "2019",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1419 kg / 3128 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11309/600LT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11309/w170_McLaren-600LT-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11309/600LT"
+    },
+    {
+      "modelName": "620R",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "620R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "620 hp / 456 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "McLaren 620R Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "13.1 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "119.4 cm / 47.01 pulgadas",
+            "Emisiones de CO2:": "278 g/Km",
+            "Potencia:": "620 PS / 612 HP / 456 kW",
+            "Largo:": "455.7 cm / 179.41 pulgadas",
+            "Ancho:": "194.5 cm / 76.57 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1386 kg / 3056 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11415/620R"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11415/w170_McLaren-620R-43.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11415/620R"
+    },
+    {
+      "modelName": "650S",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "650S Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "650 hp / 478 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "McLaren 650S Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "120.3 cm / 47.36 pulgadas",
+            "Emisiones de CO2:": "275 g/Km",
+            "Potencia:": "650 PS / 641 HP / 478 kW",
+            "Largo:": "451.2 cm / 177.64 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "de 2014 a 2017",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7255/650S"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/7255/w170_McLaren-650S-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7255/650S"
+    },
+    {
+      "modelName": "675LT Spider",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "675LT Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "675 hp / 496 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "McLaren 675LT Spider Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "119.2 cm / 46.93 pulgadas",
+            "Emisiones de CO2:": "275 g/Km",
+            "Potencia:": "675 PS / 666 HP / 496 kW",
+            "Largo:": "454.6 cm / 178.98 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "de 2016 a 2017",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1443 kg / 3181 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8556/675LT-Spider"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/8556/w170_McLaren-675LT-Spider-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M8556/675LT-Spider"
+    },
+    {
+      "modelName": "675LT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "675LT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "675 hp / 496 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "McLaren 675LT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "11.7 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "118.8 cm / 46.77 pulgadas",
+            "Emisiones de CO2:": "275 g/Km",
+            "Potencia:": "675 PS / 666 HP / 496 kW",
+            "Largo:": "454.6 cm / 178.98 pulgadas",
+            "Ancho:": "209.5 cm / 82.48 pulgadas",
+            "Período de producción:": "de 2015 a 2017",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1230 kg / 2712 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7960/675LT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/7960/w170_McLaren-675LT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7960/675LT"
+    },
+    {
+      "modelName": "720S Spider",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "720S Spider Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "720 hp / 530 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "McLaren 720S Spider Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "12.2 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "119.4 cm / 47.01 pulgadas",
+            "Emisiones de CO2:": "de 249 a 276 g/Km",
+            "Potencia:": "720 PS / 710 HP / 530 kW",
+            "Largo:": "454.3 cm / 178.86 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "2018",
+            "Cilindrada:": "3994 cm3 / 243.7 cu-in",
+            "Peso:": "1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11310/720S-Spider"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11310/w170_McLaren-720S-Spider-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11310/720S-Spider"
+    },
+    {
+      "modelName": "765LT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "765LT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "765 hp / 563 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "McLaren 765LT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "13 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "115.9 cm / 45.63 pulgadas",
+            "Potencia:": "765 PS / 755 HP / 563 kW",
+            "Largo:": "460.0 cm / 181.1 pulgadas",
+            "Ancho:": "204.5 cm / 80.51 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "3994 cm3 / 243.7 cu-in",
+            "Peso:": "1351 kg / 2978 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11311/765LT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11311/w170_McLaren-765LT-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11311/765LT"
+    },
+    {
+      "modelName": "GT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "620 hp / 456 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "McLaren GT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.5 cm / 105.31 pulgadas",
+            "Consumos Medio:": "11.9 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "121.3 cm / 47.76 pulgadas",
+            "Emisiones de CO2:": "de 245 a 270 g/Km",
+            "Potencia:": "620 PS / 612 HP / 456 kW",
+            "Largo:": "468.3 cm / 184.37 pulgadas",
+            "Ancho:": "204.5 cm / 80.51 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1588 kg / 3501 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11282/GT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11282/w170_McLaren-GT-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11282/GT"
+    },
+    {
+      "modelName": "F1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6064 cm3 (370 cu-in)",
+              "Potencia": "627 hp / 461 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "F1 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6064 cm3 (370 cu-in)",
+              "Potencia": "627 hp / 461 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "F1 LM Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6064 cm3 (370 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "McLaren F1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.8 cm / 107.01 pulgadas",
+            "Alto:": "114 cm / 44.88 pulgadas",
+            "Potencia:": "de 627 PS / 618 HP / 461 kW a 680 PS / 671 HP / 500 kW",
+            "Largo:": "428.8 cm / 168.82 pulgadas",
+            "Ancho:": "182 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1992 a 1997",
+            "Cilindrada:": "6064 cm3 / 370 cu-in",
+            "Peso:": "de 1062 kg / 2341 lbs a 1220 kg / 2690 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M1677/F1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/1677/w170_McLaren-F1-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M1677/F1"
+    },
+    {
+      "modelName": "P1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "P1 3.8 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "903 hp / 664 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "McLaren P1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "118.8 cm / 46.77 pulgadas",
+            "Potencia:": "de 727 PS / 717 HP / 535 kW a 903 PS / 891 HP / 664 kW",
+            "Largo:": "458.8 cm / 180.63 pulgadas",
+            "Ancho:": "194.6 cm / 76.61 pulgadas",
+            "Período de producción:": "de 2013 a 2015",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1490 kg / 3285 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M14134/P1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/14134/w170_McLaren-P1-c546526abadc480598.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M14134/P1"
+    },
+    {
+      "modelName": "W1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3988 cm3 (243.4 cu-in)",
+              "Potencia": "1275 hp / 938 kW",
+              "Plugin Híbrido": "W1 4.0 V8 1275hp Ficha Tecnica",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "McLaren W1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "268.0 cm / 105.51 pulgadas",
+            "Alto:": "118.2 cm / 46.54 pulgadas",
+            "Potencia:": "de 928 PS / 915 HP / 683 kW a 1275 PS / 1258 HP / 938 kW",
+            "Largo:": "463.5 cm / 182.48 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2025"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M14133/W1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/14133/w170_McLaren-W1-1e7e9b7679362fff9c.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M14133/W1"
+    },
+    {
+      "modelName": "Senna",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Senna 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "800 hp / 588 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "McLaren Senna Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "12.4 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "119.5 cm / 47.05 pulgadas",
+            "Emisiones de CO2:": "280 g/Km",
+            "Potencia:": "800 PS / 789 HP / 588 kW",
+            "Largo:": "474.4 cm / 186.77 pulgadas",
+            "Ancho:": "215.3 cm / 84.76 pulgadas",
+            "Período de producción:": "2019",
+            "Cilindrada:": "3994 cm3 / 243.7 cu-in",
+            "Peso:": "1309 kg / 2886 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M10151/Senna"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/10151/w170_McLaren-Senna-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M10151/Senna"
+    },
+    {
+      "modelName": "Speedtail",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "1070 hp / 787 kW",
+              "Plugin Híbrido": "Speedtail Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "McLaren Speedtail Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "15.6 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "120.0 cm / 47.24 pulgadas",
+            "Potencia:": "1070 PS / 1055 HP / 787 kW",
+            "Largo:": "514.0 cm / 202.36 pulgadas",
+            "Ancho:": "200.0 cm / 78.74 pulgadas",
+            "Período de producción:": "2020",
+            "Peso:": "1597 kg / 3521 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11414/Speedtail"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/11414/w170_McLaren-Speedtail-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M11414/Speedtail"
+    },
+    {
+      "modelName": "MP4-12C",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MP4-12C V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3799 cm3 (231.8 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "McLaren MP4-12C Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267 cm / 105.12 pulgadas",
+            "Alto:": "119.9 cm / 47.2 pulgadas",
+            "Emisiones de CO2:": "279 g/Km",
+            "Potencia:": "600 PS / 592 HP / 441 kW",
+            "Largo:": "450.7 cm / 177.44 pulgadas",
+            "Ancho:": "190.8 cm / 75.12 pulgadas",
+            "Período de producción:": "de 2010 a 2014",
+            "Cilindrada:": "3799 cm3 / 231.8 cu-in",
+            "Peso:": "1434 kg / 3161 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7277/MP4-12C"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/7277/w170_McLaren-MP4-12C-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M7277/MP4-12C"
+    },
+    {
+      "modelName": "M6",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "M6 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5733 cm3 (349.8 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1969"
+            }
+          ],
+          "actualFinalModelName": "McLaren M6 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Alto:": "104.1 cm / 40.98 pulgadas",
+            "Potencia:": "375 PS / 370 HP / 276 kW",
+            "Largo:": "393.7 cm / 155 pulgadas",
+            "Ancho:": "172.7 cm / 67.99 pulgadas",
+            "Período de producción:": "1969",
+            "Cilindrada:": "5733 cm3 / 349.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M1675/M6"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/1675/w170_McLaren-M6-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M1675/M6"
+    },
+    {
+      "modelName": "750S",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "750S 4.0 V8 SSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "750 hp / 552 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "750S (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "12.2 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "119.6 cm / 47.09 pulgadas",
+            "Potencia:": "750 PS / 740 HP / 552 kW",
+            "Largo:": "456.9 cm / 179.88 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "3994 cm3 / 243.7 cu-in",
+            "Peso:": "1389 kg / 3062 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M13487/750S"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "750S Spider 4.0 V8 SSG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3994 cm3 (243.7 cu-in)",
+              "Potencia": "750 hp / 552 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "750S (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "12.2 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "119.4 cm / 47.01 pulgadas",
+            "Potencia:": "750 PS / 740 HP / 552 kW",
+            "Largo:": "456.9 cm / 179.88 pulgadas",
+            "Ancho:": "216.1 cm / 85.08 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "3994 cm3 / 243.7 cu-in",
+            "Peso:": "1438 kg / 3170 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/McLaren/M13488/750S-Spider"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/176/13487/w170_McLaren-750S-f0ed194586c9eacf12.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/McLaren-models/McLaren-750S"
+    }
+  ],
+  "brandName": "McLaren"
+}

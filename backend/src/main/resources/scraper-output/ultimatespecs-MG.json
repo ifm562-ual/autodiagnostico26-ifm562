@@ -1,0 +1,1308 @@
+{
+  "models": [
+    {
+      "modelName": "Cyberster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Cyberster GT AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "77.0 kWh"
+            },
+            {
+              "Eléctrico": "Cyberster Trophy RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "77.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "MG Cyberster Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Alto:": "132.9 cm / 52.32 pulgadas",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 510 PS / 503 HP / 375 kW",
+            "Largo:": "453.5 cm / 178.54 pulgadas",
+            "Ancho:": "191.3 cm / 75.31 pulgadas",
+            "Período de producción:": "2024"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M14038/Cyberster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/14038/w170_MG-Cyberster-2e1bfa631acd8aac87.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M14038/Cyberster"
+    },
+    {
+      "modelName": "3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "3 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "3 Hybrid+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "194 hp / 143 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "3 Hybrid+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "194 hp / 143 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "MG 3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Consumos Medio:": "de 4.4 L/100 km / 64 MPG UK / 53 MPG US a 6.1 L/100 km / 46 MPG UK / 39 MPG US",
+            "Alto:": "150.2 cm / 59.13 pulgadas",
+            "Emisiones de CO2:": "de 100 a 137 g/Km",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 194 PS / 191 HP / 143 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "411.3 cm / 161.93 pulgadas",
+            "Ancho:": "179.7 cm / 70.75 pulgadas",
+            "Período de producción:": "de 2024 a 2025",
+            "Cilindrada:": "de 1490 cm3 / 90.9 cu-in a 1495 cm3 / 91.2 cu-in",
+            "Peso:": "de 1237 kg / 2727 lbs a 1285 kg / 2833 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13782/3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/13782/w170_MG-3-9693486d1bb7941713.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13782/3"
+    },
+    {
+      "modelName": "HS/EHS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "339 hp / 249 kW",
+              "Plugin Híbrido": "HS 1.5T GDI PHEV Auto Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Plugin Híbrido": "HS 1.5T GDI PHEV Auto Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI DCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI Hybrid+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1496 cm3 (91.3 cu-in)",
+              "Potencia": "224 hp / 165 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "HS/EHS - 2024 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "276.5 cm / 108.86 pulgadas",
+            "Consumos Medio:": "de 0.5 L/100 km / 565 MPG UK / 470 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "166.3 cm / 65.47 pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 339 PS / 334 HP / 249 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "467.0 cm / 183.86 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "1496 cm3 / 91.3 cu-in",
+            "Peso:": "de 1625 kg / 3583 lbs a 1905 kg / 4200 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13960/HS-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Plugin Híbrido": "HS EHS 1.5T GDI Plug-in Hybrid Ficha Tecnica",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI DCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "HS/EHS 2023 Facelift (2023 - 2024)",
+          "specifications": {
+            "Batalla:": "272.2 cm / 107.17 pulgadas",
+            "Consumos Medio:": "de 1.8 L/100 km / 157 MPG UK / 131 MPG US a 7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Emisiones de CO2:": "de 43 a 174 g/Km",
+            "Potencia:": "de 162 PS / 160 HP / 119 kW a 284 PS / 280 HP / 209 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 1750 kg / 3858 lbs",
+            "Largo:": "461.0 cm / 181.5 pulgadas",
+            "Ancho:": "187.6 cm / 73.86 pulgadas",
+            "Período de producción:": "de 2023 a 2024",
+            "Cilindrada:": "1490 cm3 / 90.9 cu-in",
+            "Peso:": "de 1469 kg / 3239 lbs a 1737 kg / 3829 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13781/HS-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Plugin Híbrido": "HS EHS 1.5T GDI Plug-in-Hybrid Auto Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "HS 1.5T GDI DCT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "HS/EHS (2021 - 2023)",
+          "specifications": {
+            "Batalla:": "272.2 cm / 107.17 pulgadas",
+            "Consumos Medio:": "de 1.8 L/100 km / 157 MPG UK / 131 MPG US a 7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Potencia:": "de 162 PS / 160 HP / 119 kW a 284 PS / 280 HP / 209 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "457.4 cm / 180.08 pulgadas",
+            "Ancho:": "187.6 cm / 73.86 pulgadas",
+            "Período de producción:": "de 2021 a 2023",
+            "Cilindrada:": "1490 cm3 / 90.9 cu-in",
+            "Peso:": "de 1469 kg / 3239 lbs a 1737 kg / 3829 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13234/HS"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/13960/w170_MG-HS-2024-439c909e054a93b5a1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG-models/MG-HS-EHS"
+    },
+    {
+      "modelName": "4 EV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "4 EV Extended Range Trophy Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "77.0 kWh"
+            },
+            {
+              "Eléctrico": "4 EV Maximum Range Comfort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "64.0 kWh"
+            },
+            {
+              "Eléctrico": "4 EV Maximum Range Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "64.0 kWh"
+            },
+            {
+              "Eléctrico": "4 EV Standard Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "51.0 kWh"
+            },
+            {
+              "Eléctrico": "4 EV XPower 64 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "64.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "MG 4 EV Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Alto:": "151.6 cm / 59.69 pulgadas",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 435 PS / 429 HP / 320 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "428.7 cm / 168.78 pulgadas",
+            "Ancho:": "183.6 cm / 72.28 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "de 1655 kg / 3649 lbs a 1803 kg / 3975 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13085/4-EV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/13085/w170_MG-4-EV-43.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13085/4-EV"
+    },
+    {
+      "modelName": "MGS5 EV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "MGS5 EV Long Range Comfort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "64.0 kWh"
+            },
+            {
+              "Eléctrico": "MGS5 EV Long Range Luxury Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "64.0 kWh"
+            },
+            {
+              "Eléctrico": "MGS5 EV Standard Range Comfort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "49.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "MG MGS5 EV Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Alto:": "162.1 cm / 63.82 pulgadas",
+            "Potencia:": "de 170 PS / 168 HP / 125 kW a 231 PS / 228 HP / 170 kW",
+            "Largo:": "447.6 cm / 176.22 pulgadas",
+            "Ancho:": "184.9 cm / 72.8 pulgadas",
+            "Período de producción:": "2025",
+            "Peso:": "de 1710 kg / 3770 lbs a 1800 kg / 3968 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M15543/MGS5-EV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/15543/w170_MG-MGS5-EV-383891bdf69b42fd0e.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M15543/MGS5-EV"
+    },
+    {
+      "modelName": "5 SW EV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "5 SW EV Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "61.1 kWh"
+            },
+            {
+              "Eléctrico": "5 SW EV Standard Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "50.3 kWh"
+            }
+          ],
+          "actualFinalModelName": "MG 5 SW EV Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265.9 cm / 104.69 pulgadas",
+            "Alto:": "154.3 cm / 60.75 pulgadas",
+            "Potencia:": "de 156 PS / 154 HP / 115 kW a 177 PS / 175 HP / 130 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "460.0 cm / 181.1 pulgadas",
+            "Ancho:": "181.8 cm / 71.57 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "1637 kg / 3609 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M12680/5-SW-EV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/12680/w170_MG-5-SW-EV-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M12680/5-SW-EV"
+    },
+    {
+      "modelName": "Marvel R",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Marvel R 180HP RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "69.9 kWh"
+            },
+            {
+              "Eléctrico": "Marvel R 290HP AWD Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "288 hp / 212 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "69.9 kWh"
+            }
+          ],
+          "actualFinalModelName": "MG Marvel R Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.4 cm / 110.39 pulgadas",
+            "Alto:": "161.8 cm / 63.7 pulgadas",
+            "Potencia:": "de 180 PS / 178 HP / 132 kW a 288 PS / 284 HP / 212 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "467.6 cm / 184.09 pulgadas",
+            "Ancho:": "191.9 cm / 75.55 pulgadas",
+            "Período de producción:": "2021",
+            "Peso:": "de 1860 kg / 4101 lbs a 1970 kg / 4343 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M12019/Marvel-R"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/12019/w170_MG-Marvel-R-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M12019/Marvel-R"
+    },
+    {
+      "modelName": "ZS (crossover)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZS 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1495 cm3 (91.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "ZS 1.5 Hybrid+ Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "ZS 1.5 Hybrid+ Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "197 hp / 145 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "ZS (ZS32) - 2025 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "260.6 cm / 102.6 pulgadas",
+            "Consumos Medio:": "de 5 L/100 km / 56 MPG UK / 47 MPG US a 6.5 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "163.5 cm / 64.37 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 197 PS / 194 HP / 145 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "443.0 cm / 174.41 pulgadas",
+            "Ancho:": "181.8 cm / 71.57 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1495 cm3 / 91.2 cu-in a 1498 cm3 / 91.4 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1410 kg / 3109 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M14138/ZS-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZS 1.0 T-GDI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "ZS 1.0 T-GDI Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "ZS 1.5 VTi-Tech Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "106 hp / 78 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "ZS (ZS11) - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "258.0 cm / 101.57 pulgadas",
+            "Consumos Medio:": "de 6.6 L/100 km / 43 MPG UK / 36 MPG US a 7.2 L/100 km / 39 MPG UK / 33 MPG US",
+            "Alto:": "165.3 cm / 65.08 pulgadas",
+            "Potencia:": "de 106 PS / 105 HP / 78 kW a 111 PS / 109 HP / 82 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "432.3 cm / 170.2 pulgadas",
+            "Ancho:": "180.9 cm / 71.22 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1498 cm3 / 91.4 cu-in",
+            "Peso:": "de 1231 kg / 2714 lbs a 1264 kg / 2787 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M13076/ZS-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "ZS EV 50kWh 115 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "50.3 kWh"
+            },
+            {
+              "Eléctrico": "ZS EV 50kWh 130 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "50.3 kWh"
+            },
+            {
+              "Eléctrico": "ZS EV 70kWh 115 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "50.3 kWh"
+            },
+            {
+              "Eléctrico": "ZS EV 70kWh 130 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "69.9 kWh"
+            }
+          ],
+          "actualFinalModelName": "ZS (ZS11) - 2022 Facelift (2021 - 2024)",
+          "specifications": {
+            "Batalla:": "258.1 cm / 101.61 pulgadas",
+            "Alto:": "164.9 cm / 64.92 pulgadas",
+            "Potencia:": "de 156 PS / 154 HP / 115 kW a 177 PS / 175 HP / 130 kW",
+            "Peso de remolque:": "500 kg / 1102 lbs",
+            "Largo:": "432.3 cm / 170.2 pulgadas",
+            "Ancho:": "180.9 cm / 71.22 pulgadas",
+            "Período de producción:": "de 2021 a 2024",
+            "Peso:": "de 1645 kg / 3627 lbs a 1695 kg / 3737 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M12330/ZS-EV-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "ZS EV 105 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "143 hp / 105 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "44.5 kWh"
+            }
+          ],
+          "actualFinalModelName": "ZS (ZS11) - 2020 Facelift (2019 - 2021)",
+          "specifications": {
+            "Batalla:": "258.5 cm / 101.77 pulgadas",
+            "Alto:": "164.4 cm / 64.72 pulgadas",
+            "Potencia:": "143 PS / 141 HP / 105 kW",
+            "Largo:": "431.4 cm / 169.84 pulgadas",
+            "Ancho:": "180.9 cm / 71.22 pulgadas",
+            "Período de producción:": "de 2019 a 2021",
+            "Peso:": "1577 kg / 3477 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M10518/ZS-EV-2020"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/14138/w170_MG-ZS-2025-eb7619a02a886c848b.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG-models/MG-ZS-(crossover)"
+    },
+    {
+      "modelName": "ZR",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZR 105 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZR 105 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZR 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZR 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZR 100 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZR 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZR 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "MG ZR Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Emisiones de CO2:": "de 150 a 179 g/Km",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 160 PS / 158 HP / 118 kW",
+            "Largo:": "401.0 cm / 157.87 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1996 cm3 / 121.8 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1130 kg / 2491 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1128/ZR"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1128/w170_MG-ZR-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1128/ZR"
+    },
+    {
+      "modelName": "ZS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZS 120 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZS 120 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZS 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZS 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS 100 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "ZS (2001 - 2005)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Emisiones de CO2:": "de 150 a 227 g/Km",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "436.0 cm / 171.65 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1796 cm3 / 109.6 cu-in a 2497 cm3 / 152.4 cu-in",
+            "Peso:": "de 1125 kg / 2480 lbs a 1235 kg / 2723 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1130/ZS"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZS Sedan 120 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZS Sedan 120 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZS Sedan 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZS Sedan 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS Sedan 100 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "2002"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS Sedan 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZS Sedan 115 IDT Ficha Tecnica",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "ZS (2001 - 2005)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Emisiones de CO2:": "de 150 a 227 g/Km",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "453.0 cm / 178.35 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1796 cm3 / 109.6 cu-in a 2497 cm3 / 152.4 cu-in",
+            "Peso:": "de 1125 kg / 2480 lbs a 1235 kg / 2723 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1129/ZS-Sedan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1129/w170_MG-ZS-Sedan-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG-models/MG-ZS"
+    },
+    {
+      "modelName": "ZT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZT 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZT 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZT 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT 190 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZT 190 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT 260 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZT 135 CDTI Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZT 135 CDTI Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "MG ZT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Emisiones de CO2:": "de 163 a 314 g/Km",
+            "Potencia:": "de 131 PS / 129 HP / 96 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "474.0 cm / 186.61 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1796 cm3 / 109.6 cu-in a 4601 cm3 / 280.8 cu-in",
+            "Peso:": "de 1435 kg / 3164 lbs a 1640 kg / 3616 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1131/ZT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1131/w170_MG-ZT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1131/ZT"
+    },
+    {
+      "modelName": "ZT T",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "ZT T 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZT T 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT T 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "ZT T 180 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT T 190 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "ZT T 190 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "ZT T 260 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZT T 135 CDTI Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "ZT T 135 CDTI Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "MG ZT T Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Emisiones de CO2:": "de 163 a 314 g/Km",
+            "Potencia:": "de 131 PS / 129 HP / 96 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "479.0 cm / 188.58 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "de 1796 cm3 / 109.6 cu-in a 4601 cm3 / 280.8 cu-in",
+            "Peso:": "de 1500 kg / 3307 lbs a 1640 kg / 3616 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1132/ZT-T"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1132/w170_MG-ZT-T-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1132/ZT-T"
+    },
+    {
+      "modelName": "F",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F 1.8i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "F 1.8i 75th Anniversary Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "F 1.8i VVC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "F 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "MG F Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Alto:": "126.4 cm / 49.76 pulgadas",
+            "Emisiones de CO2:": "de 170 a 189 g/Km",
+            "Potencia:": "de 120 PS / 118 HP / 88 kW a 160 PS / 158 HP / 118 kW",
+            "Largo:": "391.3 cm / 154.06 pulgadas",
+            "Ancho:": "162.8 cm / 64.09 pulgadas",
+            "Período de producción:": "de 1996 a 2002",
+            "Cilindrada:": "1796 cm3 / 109.6 cu-in",
+            "Peso:": "de 1035 kg / 2282 lbs a 1060 kg / 2337 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1125/F"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1125/w170_MG-F-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1125/F"
+    },
+    {
+      "modelName": "TF",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "TF 115 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "TF 120 Stepspeed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "TF 135 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "TF 160 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "MG TF Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Alto:": "126.1 cm / 49.65 pulgadas",
+            "Emisiones de CO2:": "de 169 a 199 g/Km",
+            "Potencia:": "de 115 PS / 113 HP / 85 kW a 160 PS / 158 HP / 118 kW",
+            "Largo:": "394.3 cm / 155.24 pulgadas",
+            "Ancho:": "162.8 cm / 64.09 pulgadas",
+            "Período de producción:": "de 2002 a 2005",
+            "Cilindrada:": "de 1588 cm3 / 96.9 cu-in a 1795 cm3 / 109.5 cu-in",
+            "Peso:": "de 1095 kg / 2414 lbs a 1150 kg / 2535 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1127/TF"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1127/w170_MG-TF-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1127/TF"
+    },
+    {
+      "modelName": "XPower",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XPower SV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "324 hp / 238 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "MG XPower Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "265.8 cm / 104.65 pulgadas",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "324 PS / 320 HP / 238 kW",
+            "Largo:": "448.0 cm / 176.38 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 2003 a 2005",
+            "Cilindrada:": "4601 cm3 / 280.8 cu-in",
+            "Peso:": "1540 kg / 3395 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M6168/XPower"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/6168/w170_MG-XPower-0c24a3e17f609e298c.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M6168/XPower"
+    },
+    {
+      "modelName": "RV8",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "RV8 3.9 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3946 cm3 (240.8 cu-in)",
+              "Potencia": "190 hp / 140 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "MG RV8 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "233.0 cm / 91.73 pulgadas",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "190 PS / 187 HP / 140 kW",
+            "Largo:": "401.0 cm / 157.87 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1994 a 1996",
+            "Cilindrada:": "3946 cm3 / 240.8 cu-in",
+            "Peso:": "1101 kg / 2427 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1126/RV8"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/1126/w170_MG-RV8-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M1126/RV8"
+    },
+    {
+      "modelName": "Montego",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Montego 2000 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "MG Montego Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "256.5 cm / 100.98 pulgadas",
+            "Alto:": "141.8 cm / 55.83 pulgadas",
+            "Potencia:": "117 PS / 115 HP / 86 kW",
+            "Largo:": "446.7 cm / 175.87 pulgadas",
+            "Ancho:": "171 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1985 a 1991",
+            "Cilindrada:": "1994 cm3 / 121.7 cu-in",
+            "Peso:": "1030 kg / 2271 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M105/Montego"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/MG/105/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M105/Montego"
+    },
+    {
+      "modelName": "Maestro",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Maestro 1600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "MG Maestro Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.7 cm / 98.7 pulgadas",
+            "Alto:": "142.9 cm / 56.26 pulgadas",
+            "Potencia:": "102 PS / 101 HP / 75 kW",
+            "Largo:": "404.9 cm / 159.41 pulgadas",
+            "Ancho:": "168.7 cm / 66.42 pulgadas",
+            "Período de producción:": "de 1983 a 1991",
+            "Cilindrada:": "1598 cm3 / 97.5 cu-in",
+            "Peso:": "965 kg / 2127 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M104/Maestro"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/MG/104/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M104/Maestro"
+    },
+    {
+      "modelName": "Metro",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Metro Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Metro 6R4 Clubman Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2991 cm3 (182.5 cu-in)",
+              "Potencia": "253 hp / 186 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "Metro Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "MG Metro Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "225 cm / 88.58 pulgadas",
+            "Alto:": "135.9 cm / 53.5 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 253 PS / 250 HP / 186 kW",
+            "Largo:": "340.3 cm / 133.98 pulgadas",
+            "Ancho:": "154.6 cm / 60.87 pulgadas",
+            "Período de producción:": "de 1982 a 1989",
+            "Cilindrada:": "de 1275 cm3 / 77.8 cu-in a 2991 cm3 / 182.5 cu-in",
+            "Peso:": "de 776 kg / 1711 lbs a 1000 kg / 2205 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M103/Metro"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/MG/103/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M103/Metro"
+    },
+    {
+      "modelName": "B",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1799 cm3 (109.8 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "1974"
+            },
+            {
+              "Motores de Gasolina": "B GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1799 cm3 (109.8 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "B GT V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3532 cm3 (215.5 cu-in)",
+              "Potencia": "139 hp / 102 kW",
+              "Año": "1973"
+            }
+          ],
+          "actualFinalModelName": "MG B Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "231.1 cm / 90.98 pulgadas",
+            "Alto:": "125.5 cm / 49.41 pulgadas",
+            "Potencia:": "de 85 PS / 84 HP / 63 kW a 139 PS / 137 HP / 102 kW",
+            "Largo:": "389.3 cm / 153.27 pulgadas",
+            "Ancho:": "151.6 cm / 59.69 pulgadas",
+            "Período de producción:": "1962",
+            "Cilindrada:": "de 1798 cm3 / 109.7 cu-in a 3532 cm3 / 215.5 cu-in",
+            "Peso:": "de 920 kg / 2028 lbs a 1108 kg / 2443 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M3724/B"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/3724/w170_MG-B-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M3724/B"
+    },
+    {
+      "modelName": "A",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "A Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1489 cm3 (90.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1955"
+            },
+            {
+              "Motores de Gasolina": "A 1600 Mk I Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "79 hp / 58 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "A 1600 Mk II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1622 cm3 (99 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "A Twin Cam Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "1958"
+            }
+          ],
+          "actualFinalModelName": "MG A Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "238.8 cm / 94.02 pulgadas",
+            "Alto:": "127 cm / 50 pulgadas",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 110 PS / 109 HP / 81 kW",
+            "Largo:": "396.2 cm / 155.98 pulgadas",
+            "Ancho:": "147.3 cm / 57.99 pulgadas",
+            "Período de producción:": "1955",
+            "Cilindrada:": "de 1489 cm3 / 90.9 cu-in a 1622 cm3 / 99 cu-in",
+            "Peso:": "de 890 kg / 1962 lbs a 952 kg / 2099 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/MG/M2445/A"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/22/2445/w170_MG-A-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/MG/M2445/A"
+    }
+  ],
+  "brandName": "MG"
+}

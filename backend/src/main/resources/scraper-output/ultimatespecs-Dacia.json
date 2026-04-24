@@ -1,0 +1,2734 @@
+{
+  "models": [
+    {
+      "modelName": "Spring",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Spring electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "27.4 kWh"
+            },
+            {
+              "Eléctrico": "Spring electric 65 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "27.4 kWh"
+            }
+          ],
+          "actualFinalModelName": "Dacia Spring Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "242.3 cm / 95.39 pulgadas",
+            "Alto:": "151.6 cm / 59.69 pulgadas",
+            "Potencia:": "de 45 PS / 44 HP / 33 kW a 65 PS / 64 HP / 48 kW",
+            "Largo:": "373.4 cm / 147.01 pulgadas",
+            "Ancho:": "157.9 cm / 62.17 pulgadas",
+            "Período de producción:": "2021",
+            "Peso:": "de 970 kg / 2138 lbs a 1050 kg / 2315 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M11740/Spring"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/11740/w170_Dacia-Spring-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M11740/Spring"
+    },
+    {
+      "modelName": "Sandero",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Otros": "Sandero TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Otros": "Sandero TCe 100 ECO-G (on LPG) Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Otros": "Sandero TCe 100 ECO-G (on Petrol) Ficha Tecnica",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Sandero III (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "260.4 cm / 102.52 pulgadas",
+            "Consumos Medio:": "de 5.4 L/100 km / 52 MPG UK / 44 MPG US a 6.5 L/100 km / 43 MPG UK / 36 MPG US",
+            "Alto:": "149.9 cm / 59.02 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 101 PS / 100 HP / 74 kW",
+            "Peso de remolque:": "1100 kg / 2425 lbs",
+            "Largo:": "408.8 cm / 160.94 pulgadas",
+            "Ancho:": "184.8 cm / 72.76 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "999 cm3 / 61 cu-in",
+            "Peso:": "de 1134 kg / 2500 lbs a 1190 kg / 2624 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M11276/Sandero-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 110 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Otros": "Sandero Stepway TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Sandero III (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "260.4 cm / 102.52 pulgadas",
+            "Consumos Medio:": "5.5 L/100 km / 51 MPG UK / 43 MPG US",
+            "Alto:": "153.5 cm / 60.43 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 110 PS / 109 HP / 81 kW",
+            "Peso de remolque:": "1100 kg / 2425 lbs",
+            "Largo:": "409.9 cm / 161.38 pulgadas",
+            "Ancho:": "184.8 cm / 72.76 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "999 cm3 / 61 cu-in",
+            "Peso:": "de 1148 kg / 2531 lbs a 1205 kg / 2657 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M11308/Sandero-Stepway-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero SCe 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Sandero Sce 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCe 100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCE 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCE 90 EASY-R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 90 EASY-R Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Sandero TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Otros": "Sandero TCE 90 LPG Ficha Tecnica",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Sandero II (2017 Facelift) (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "258.9 cm / 101.93 pulgadas",
+            "Alto:": "151.9 cm / 59.8 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 100 PS / 99 HP / 74 kW",
+            "Peso de remolque:": "de 1045 kg / 2304 lbs a 1090 kg / 2403 lbs",
+            "Largo:": "406.9 cm / 160.2 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1044 kg / 2302 lbs a 1165 kg / 2568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9091/Sandero-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway TCE 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Sandero Stepway TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Sandero II (2017 Facelift) (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "258.9 cm / 101.93 pulgadas",
+            "Alto:": "161.5 cm / 63.58 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 100 PS / 99 HP / 74 kW",
+            "Peso de remolque:": "1090 kg / 2403 lbs",
+            "Largo:": "408.9 cm / 160.98 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1115 kg / 2458 lbs a 1165 kg / 2568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9145/Sandero-Stepway-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero 1.2 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Sandero 1.2 75HP Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Sandero 1.2 75HP Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Sandero 1.2 75HP Laureate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Sandero TCE 90 Easy-R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 75 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 75 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero dCi 90 Easy-R Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "72 hp / 53 kW",
+              "Otros": "Sandero 1.2 75HP LPG Ambiance Ficha Tecnica",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "72 hp / 53 kW",
+              "Otros": "Sandero 1.2 75HP LPG Laureate Ficha Tecnica",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Otros": "Sandero TCe 90 LPG Ficha Tecnica",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Sandero II (2013 - 2017)",
+          "specifications": {
+            "Batalla:": "258.9 cm / 101.93 pulgadas",
+            "Alto:": "151.8 cm / 59.76 pulgadas",
+            "Emisiones de CO2:": "de 90 a 135 g/Km",
+            "Potencia:": "de 72 PS / 71 HP / 53 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "405.8 cm / 159.76 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2013 a 2017",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1016 kg / 2240 lbs a 1108 kg / 2443 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M6606/Sandero-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Sandero II (2013 - 2017)",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Alto:": "161.8 cm / 63.7 pulgadas",
+            "Emisiones de CO2:": "de 98 a 125 g/Km",
+            "Potencia:": "90 PS / 89 HP / 66 kW",
+            "Largo:": "408.1 cm / 160.67 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2013 a 2017",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1098 kg / 2421 lbs a 1158 kg / 2553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M8762/Sandero-2-Stepway"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Sandero Ambiance 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Sandero Ambiance 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sandero Ambiance 1.6 85HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Sandero Ambiance 1.6 90HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sandero Ambiance Music 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Sandero Base 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Sandero Base 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sandero Laureate 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Sandero Laureate 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sandero Laureate 1.6 85HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Sandero Laureate 1.6 90HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Sandero Laureate Music 1.2 16v 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway 1.6 85HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway 1.6 90HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Sandero Stepway Music 1.6 85HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Ambiance 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Ambiance 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Ambiance Music 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate 1.5 dCi 85HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate 1.5 dCi 90HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate Music 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Laureate Music 1.5 dCi 90HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway 1.5 dCi 90HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Sandero Stepway Music 1.5 dCi 90HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Sandero I (2008 - 2012)",
+          "specifications": {
+            "Batalla:": "258.9 cm / 101.93 pulgadas",
+            "Consumos Medio:": "5.3 L/100 km / 53 MPG UK / 44 MPG US",
+            "Alto:": "152.8 cm / 60.16 pulgadas",
+            "Emisiones de CO2:": "de 104 a 180 g/Km",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 88 PS / 87 HP / 65 kW",
+            "Largo:": "402.0 cm / 158.27 pulgadas",
+            "Ancho:": "175.0 cm / 68.9 pulgadas",
+            "Período de producción:": "de 2008 a 2012",
+            "Cilindrada:": "de 1149 cm3 / 70.1 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1216 kg / 2681 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M1360/Sandero"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/11276/w170_Dacia-Sandero-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Sandero"
+    },
+    {
+      "modelName": "Logan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan 1.2 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Logan 1.2 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Logan TCE 90 LPG Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 90 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 90 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 90 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 90 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "72 hp / 53 kW",
+              "Otros": "Logan 1.2 75HP GLP Ficha Tecnica",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Logan II (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "263.4 cm / 103.7 pulgadas",
+            "Alto:": "151.7 cm / 59.72 pulgadas",
+            "Emisiones de CO2:": "de 90 a 135 g/Km",
+            "Potencia:": "de 72 PS / 71 HP / 53 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "434.7 cm / 171.14 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2013 a a presente",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 974 kg / 2147 lbs a 1140 kg / 2513 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M6627/Logan-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan SCe 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Otros": "Logan TCE 90 LPG Ficha Tecnica",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Logan II (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Alto:": "151.7 cm / 59.72 pulgadas",
+            "Emisiones de CO2:": "de 90 a 117 g/Km",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "435.8 cm / 171.57 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1048 kg / 2310 lbs a 1162 kg / 2562 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9089/Logan-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1390 cm3 (84.8 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Logan 1.6 16v 105HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Logan 1.6 90HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan 1.5 dCi Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Logan I (2004 - 2013)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Alto:": "152.5 cm / 60.04 pulgadas",
+            "Emisiones de CO2:": "de 125 a 175 g/Km",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 105 PS / 104 HP / 77 kW",
+            "Largo:": "425.0 cm / 167.32 pulgadas",
+            "Ancho:": "174.2 cm / 68.58 pulgadas",
+            "Período de producción:": "de 2004 a 2013",
+            "Cilindrada:": "de 1390 cm3 / 84.8 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1115 kg / 2458 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M883/Logan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan 1.2 16V 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Logan 1.2 16V 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Logan 1.2 16V 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan 1.5 dCi 70HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Otros": "Logan 1.2 16V 75HP LPG Ficha Tecnica",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Logan I (2004 - 2013)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Alto:": "152.5 cm / 60.04 pulgadas",
+            "Emisiones de CO2:": "de 104 a 139 g/Km",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "429.0 cm / 168.9 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 2004 a 2013",
+            "Cilindrada:": "de 1149 cm3 / 70.1 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1140 kg / 2513 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M13743/Logan-2008"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/6627/w170_Dacia-Logan-2-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Logan"
+    },
+    {
+      "modelName": "Logan MCV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan MCV SCe 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCe 100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCE 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 90 EASY-R Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Logan MCV TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Otros": "Logan MCV TCE 90 LPG Ficha Tecnica",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Logan II MCV (2017 Facelift) (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Alto:": "155.2 cm / 61.1 pulgadas",
+            "Potencia:": "de 73 PS / 72 HP / 54 kW a 100 PS / 99 HP / 74 kW",
+            "Peso de remolque:": "de 1100 kg / 2425 lbs a 1110 kg / 2447 lbs",
+            "Largo:": "450.1 cm / 177.2 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1055 kg / 2326 lbs a 1189 kg / 2621 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9090/Logan-MCV-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan MCV Stepway TCe 100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Stepway TCe 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Stepway TCe 90 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Stepway dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Logan MCV Stepway TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Logan II MCV (2017 Facelift) (2017 - Presente)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 100 PS / 99 HP / 74 kW",
+            "Peso de remolque:": "1110 kg / 2447 lbs",
+            "Largo:": "450.1 cm / 177.2 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2017 a a presente",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1090 kg / 2403 lbs a 1237 kg / 2727 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9292/Logan-MCV-Stepway"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan MCV 1.2 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV 1.2 75HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCE 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV TCE 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV dCi 90 Easy-R Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1149 cm3 (70.1 cu-in)",
+              "Potencia": "72 hp / 53 kW",
+              "Otros": "Logan MCV 1.2 75HP GLP Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Otros": "Logan MCV TCE 90 GLP Ficha Tecnica",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Logan II MCV (2012 - 2017)",
+          "specifications": {
+            "Batalla:": "263.4 cm / 103.7 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 90 a 135 g/Km",
+            "Potencia:": "de 72 PS / 71 HP / 53 kW a 90 PS / 89 HP / 66 kW",
+            "Largo:": "449.2 cm / 176.85 pulgadas",
+            "Ancho:": "173.3 cm / 68.23 pulgadas",
+            "Período de producción:": "de 2012 a 2017",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 1091 kg / 2405 lbs a 1165 kg / 2568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M7390/Logan-2-MCV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Logan MCV 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1390 cm3 (84.8 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Ambiance 1.6 90HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Ambiance 1.6 90HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Ambiance Music 1.6 85HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Base 1.4 75HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1390 cm3 (84.8 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Laureate 1.6 105HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Logan MCV Break Laureate 1.6 105HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV 1.5 dCi Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Ambiance 1.5 dCi 70HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Ambiance 1.5 dCi 70HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Ambiance Music 1.5 dCi 75HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Ambiance Music 1.5 dCi 90HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate 1.5 dCi 70HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate 1.5 dCi 70HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate 1.5 dCi 85HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate 1.5 dCi 85HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate Music 1.5 dCi 75HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate Music 1.5 dCi 90HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Logan MCV Break Laureate Music 1.5 dCi 90HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Otros": "Logan MCV Break Laureate Music 1.6 105HP Bioetanol 7 seats Ficha Tecnica",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Logan I MCV (2007 - 2013)",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "164.0 cm / 64.57 pulgadas",
+            "Emisiones de CO2:": "de 119 a 185 g/Km",
+            "Potencia:": "de 68 PS / 67 HP / 50 kW a 105 PS / 104 HP / 77 kW",
+            "Largo:": "445.0 cm / 175.2 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 2007 a 2013",
+            "Cilindrada:": "de 1390 cm3 / 84.8 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1330 kg / 2932 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M884/Logan-MCV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/9090/w170_Dacia-Logan-MCV-2017-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Logan-MCV"
+    },
+    {
+      "modelName": "Jogger",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Jogger Hybrid 140 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Jogger Hybrid 140 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Jogger Hybrid 140 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "141 hp / 104 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Jogger Hybrid 140 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Jogger - 2023 Update (2022 - Presente)",
+          "specifications": {
+            "Batalla:": "289.7 cm / 114.06 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 4.9 L/100 km / 58 MPG UK / 48 MPG US",
+            "Alto:": "167.4 cm / 65.91 pulgadas",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 141 PS / 139 HP / 104 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "454.7 cm / 179.02 pulgadas",
+            "Ancho:": "178.4 cm / 70.24 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1432 kg / 3157 lbs a 1460 kg / 3219 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M13252/Jogger-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Jogger TCe 110 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Jogger TCe 110 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2022"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Jogger TCe 100 Bi-Fuel 5-seats Ficha Tecnica",
+              "Año": "2022"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Jogger TCe 100 Bi-Fuel 7-seats Ficha Tecnica",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Jogger (2021 - 2022)",
+          "specifications": {
+            "Batalla:": "289.7 cm / 114.06 pulgadas",
+            "Consumos Medio:": "de 5.6 L/100 km / 50 MPG UK / 42 MPG US a 7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "163.2 cm / 64.25 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 110 PS / 109 HP / 81 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "454.7 cm / 179.02 pulgadas",
+            "Ancho:": "178.4 cm / 70.24 pulgadas",
+            "Período de producción:": "de 2021 a 2022",
+            "Cilindrada:": "999 cm3 / 61 cu-in",
+            "Peso:": "de 1265 kg / 2789 lbs a 1299 kg / 2864 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M12608/Jogger"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/13252/w170_Dacia-Jogger-2023-1049a4db7cf3282830.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Jogger"
+    },
+    {
+      "modelName": "Lodgy",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lodgy 1.6 100HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Lodgy 1.6 100HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Lodgy 1.6 85HP 5 seats Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy 1.6 85HP 5 seats Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy 1.6 85HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 5 seats Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 5 seats Laureate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCE 115HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 7 seats Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 115HP 7 seats Laureate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 130 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 130 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 130 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Lodgy TCe 130 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 5 seats Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 5 seats Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 7 seats Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 110HP 7 seats Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 5 seats Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 5 seats Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 7 seats Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy dCi 90HP 7 seats Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Otros": "Lodgy 1.6 100HP GLP 5 seats Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Otros": "Lodgy 1.6 100HP GLP 7 seats Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Lodgy 1.6 85HP GLP 5 seats Ambiance Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Lodgy 1.6 85HP GLP 5 seats Laureate Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Lodgy 1.6 85HP GLP 7 seats Ambiance Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Lodgy 1.6 85HP GLP 7 seats Laureate Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Lodgy SCe 115 Bi-Fuel 5-seats Ficha Tecnica",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Lodgy SCe 115 Bi-Fuel 7-seats Ficha Tecnica",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Lodgy I (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "168.3 cm / 66.26 pulgadas",
+            "Potencia:": "de 80 PS / 79 HP / 59 kW a 130 PS / 128 HP / 96 kW",
+            "Peso de remolque:": "1400 kg / 3086 lbs",
+            "Largo:": "449.8 cm / 177.09 pulgadas",
+            "Ancho:": "175.1 cm / 68.94 pulgadas",
+            "Período de producción:": "de 2012 a a presente",
+            "Cilindrada:": "de 1197 cm3 / 73 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1337 kg / 2948 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M6322/Lodgy"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lodgy Stepway 1.6 MPI 85HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy Stepway 1.6 MPI 85HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy Stepway TCe 115HP 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy Stepway TCe 115HP 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Lodgy Stepway TCe 130 5-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Lodgy Stepway TCe 130 7-seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy Stepway 1.5 dCi 110HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy Stepway 1.5 dCi 110HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy Stepway 1.5 dCi 90HP 5 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Lodgy Stepway 1.5 dCi 90HP 7 seats Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Lodgy Stepway SCe 115 Bi-Fuel 5-seats Ficha Tecnica",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Lodgy Stepway SCe 115 Bi-Fuel 7-seats Ficha Tecnica",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Lodgy I (2012 - Presente)",
+          "specifications": {
+            "Batalla:": "300.0 cm / 118.11 pulgadas",
+            "Consumos Medio:": "6.3 L/100 km / 45 MPG UK / 37 MPG US",
+            "Alto:": "168.3 cm / 66.26 pulgadas",
+            "Emisiones de CO2:": "de 109 a 161 g/Km",
+            "Potencia:": "de 82 PS / 81 HP / 60 kW a 130 PS / 128 HP / 96 kW",
+            "Peso de remolque:": "1400 kg / 3086 lbs",
+            "Largo:": "452.1 cm / 177.99 pulgadas",
+            "Ancho:": "176.7 cm / 69.57 pulgadas",
+            "Período de producción:": "de 2014 a a presente",
+            "Cilindrada:": "de 1199 cm3 / 73.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1249 kg / 2754 lbs a 1341 kg / 2956 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M7646/Lodgy-Stepway"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/6322/w170_Dacia-Lodgy-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Lodgy"
+    },
+    {
+      "modelName": "Duster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Duster 1.0 Eco-G 100 (on Petrol) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Duster Hybrid 140 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 Mild Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 Mild Hybrid 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Otros": "Duster 1.0 Eco-G 100 (on LPG) Ficha Tecnica",
+              "Año": "2024"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "123 hp / 90 kW",
+              "Otros": "Duster 1.0 Eco-G 120 EDC (on LPG) Ficha Tecnica",
+              "Año": "2026"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Otros": "Duster 1.0 Eco-G 120 EDC (on Petrol) Ficha Tecnica",
+              "Año": "2026"
+            }
+          ],
+          "actualFinalModelName": "Duster III (P1310) (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "265.7 cm / 104.61 pulgadas",
+            "Consumos Medio:": "de 5 L/100 km / 56 MPG UK / 47 MPG US a 8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "165.6 cm / 65.2 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 140 PS / 138 HP / 103 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "434.3 cm / 170.98 pulgadas",
+            "Ancho:": "181.3 cm / 71.38 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1379 kg / 3040 lbs a 1465 kg / 3230 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M13809/Duster-3"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Duster TCe 130 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 150 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 150 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2021"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Duster TCe 100 Bi-Fuel Ficha Tecnica",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Duster II Phase 2 - 2022 Update (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "267.4 cm / 105.28 pulgadas",
+            "Consumos Medio:": "de 6.2 L/100 km / 46 MPG UK / 38 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "169.3 cm / 66.65 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "434.1 cm / 170.91 pulgadas",
+            "Ancho:": "180.4 cm / 71.02 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1330 cm3 / 81.2 cu-in",
+            "Peso:": "de 1324 kg / 2919 lbs a 1406 kg / 3100 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M12001/Duster-2-Phase-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Duster TCe 100 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 4x2 Essential Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 130 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 150 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 150 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 90 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "2020"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Otros": "Duster SCe 115 Bi-Fuel Ficha Tecnica",
+              "Año": "2018"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Otros": "Duster TCe 100 Bi-Fuel 4x2 Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Duster II Phase 1 (2018 - 2021)",
+          "specifications": {
+            "Batalla:": "267.4 cm / 105.28 pulgadas",
+            "Consumos Medio:": "6.2 L/100 km / 46 MPG UK / 38 MPG US",
+            "Alto:": "169.3 cm / 66.65 pulgadas",
+            "Potencia:": "de 92 PS / 91 HP / 68 kW a 150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "de 1300 kg / 2866 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "434.1 cm / 170.91 pulgadas",
+            "Ancho:": "180.4 cm / 71.02 pulgadas",
+            "Período de producción:": "de 2018 a 2021",
+            "Cilindrada:": "de 999 cm3 / 61 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1175 kg / 2590 lbs a 1438 kg / 3170 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M9678/Duster-2-Phase-1"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 105HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 105HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Ambiance 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 105HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 105HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Base 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 105HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 105HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 110HP 4x2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Duster Laureate 1.6 110HP 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 110HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 110HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 110HP 4x4 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 110HP 4x4 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 85HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 85HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Ambiance dCi 90HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 110HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 110HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 110HP 4x4 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 110HP 4x4 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 85HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 85HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 86HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster Laureate dCi 90HP 4x2 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Duster I (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "267.3 cm / 105.24 pulgadas",
+            "Alto:": "169.5 cm / 66.73 pulgadas",
+            "Emisiones de CO2:": "de 130 a 185 g/Km",
+            "Potencia:": "de 86 PS / 85 HP / 63 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "431.5 cm / 169.88 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1461 cm3 / 89.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1235 kg / 2723 lbs a 1369 kg / 3018 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M1448/Duster-1-Phase-1"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Duster 1.6 105 4x4 Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 105 4x4 Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 105 4x4 Laureate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 105 Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 105 Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 115 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Duster 1.6 115 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 Ambiance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Duster TCe 125 Laureate Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 4x2 EDC Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 4x4 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 4x4 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 4x4 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 110 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 90 Ambiance Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Duster dCi 90 Laureate Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Otros": "Duster 1.6 105 GLP Ambiance Ficha Tecnica",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Otros": "Duster 1.6 110 GLP Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Otros": "Duster 1.6 115 LPG Ficha Tecnica",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Duster I (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "267.3 cm / 105.24 pulgadas",
+            "Alto:": "169.5 cm / 66.73 pulgadas",
+            "Emisiones de CO2:": "de 115 a 185 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 125 PS / 123 HP / 92 kW",
+            "Largo:": "431.5 cm / 169.88 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1197 cm3 / 73 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1424 kg / 3139 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M7083/Duster-1-Phase-2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/13809/w170_Dacia-Duster-3-d61f0ec8e9b5f116ba.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Duster"
+    },
+    {
+      "modelName": "Bigster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Bigster Hybrid 155 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1799 cm3 (109.8 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Bigster TCe 130 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Bigster TCe 140 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Otros": "Bigster ECO-G 140 (on LPG) Ficha Tecnica",
+              "Año": "2025"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Otros": "Bigster ECO-G 140 (on Petrol) Ficha Tecnica",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Dacia Bigster Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.2 cm / 106.38 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 6.1 L/100 km / 46 MPG UK / 39 MPG US",
+            "Alto:": "170.5 cm / 67.13 pulgadas",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 155 PS / 153 HP / 114 kW",
+            "Peso de remolque:": "de 1000 kg / 2205 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "457.0 cm / 179.92 pulgadas",
+            "Ancho:": "181.3 cm / 71.38 pulgadas",
+            "Período de producción:": "2025",
+            "Cilindrada:": "de 1199 cm3 / 73.2 cu-in a 1799 cm3 / 109.8 cu-in",
+            "Peso:": "de 1425 kg / 3142 lbs a 1503 kg / 3314 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M15262/Bigster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/15262/w170_Dacia-Bigster-e7d6c2208ad8edd798.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M15262/Bigster"
+    },
+    {
+      "modelName": "Dokker",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Dokker 1.6 100 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Dokker 1.6 85 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Dokker 1.6 85 Base Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Dokker TCe 130 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1330 cm3 (81.2 cu-in)",
+              "Potencia": "130 hp / 96 kW",
+              "Año": "2019"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Otros": "Dokker 1.6 100 GLP Ficha Tecnica",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Otros": "Dokker 1.6 85 GLP Ficha Tecnica",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Dokker SCe 115 Bi-Fuel Ficha Tecnica",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Dokker (2013 - Presente)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "181.4 cm / 71.42 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 130 PS / 128 HP / 96 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "436.3 cm / 171.77 pulgadas",
+            "Ancho:": "175.1 cm / 68.94 pulgadas",
+            "Período de producción:": "de 2013 a a presente",
+            "Cilindrada:": "de 1330 cm3 / 81.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1315 kg / 2899 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M6669/Dokker"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Dokker Stepway TCe 115HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1199 cm3 (73.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Stepway 1.5 dCi 75HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Stepway 1.5 dCi 90HP Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Stepway dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Stepway dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Otros": "Dokker Stepway SCe 115 Bi-Fuel Ficha Tecnica",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Dokker (2013 - Presente)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "181.4 cm / 71.42 pulgadas",
+            "Emisiones de CO2:": "de 108 a 154 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 116 PS / 114 HP / 85 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "438.8 cm / 172.76 pulgadas",
+            "Ancho:": "176.7 cm / 69.57 pulgadas",
+            "Período de producción:": "de 2014 a a presente",
+            "Cilindrada:": "de 1199 cm3 / 73.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1302 kg / 2870 lbs a 1335 kg / 2943 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M7645/Dokker-Stepway"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Dokker Van 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Van dCi 75 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Dokker Van dCi 90 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Dokker (2013 - Presente)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Alto:": "181.4 cm / 71.42 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 102 PS / 101 HP / 75 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "436.3 cm / 171.77 pulgadas",
+            "Ancho:": "175.1 cm / 68.94 pulgadas",
+            "Período de producción:": "de 2015 a a presente",
+            "Cilindrada:": "de 1461 cm3 / 89.2 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1205 kg / 2657 lbs a 1288 kg / 2840 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Dacia/M10689/Dokker-Van"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/74/6669/w170_Dacia-Dokker-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Dacia-models/Dacia-Dokker"
+    }
+  ],
+  "brandName": "Dacia"
+}

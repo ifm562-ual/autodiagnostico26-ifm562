@@ -1,0 +1,2324 @@
+{
+  "models": [
+    {
+      "modelName": "DBS",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBS Superleggera 5.2 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "725 hp / 533 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "DBS Superleggera (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "13.5 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "128.5 cm / 50.59 pulgadas",
+            "Emisiones de CO2:": "de 285 a 306 g/Km",
+            "Potencia:": "725 PS / 715 HP / 533 kW",
+            "Largo:": "471.2 cm / 185.51 pulgadas",
+            "Ancho:": "196.8 cm / 77.48 pulgadas",
+            "Período de producción:": "de 2019 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1768 kg / 3898 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M10787/DBS-Superleggera"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBS Superleggera 770 Ultimate 5.2 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "770 hp / 566 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "DBS Superleggera (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "13.5 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "128.5 cm / 50.59 pulgadas",
+            "Potencia:": "770 PS / 760 HP / 566 kW",
+            "Largo:": "471.5 cm / 185.63 pulgadas",
+            "Ancho:": "197.0 cm / 77.56 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1845 kg / 4068 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13424/DBS-Superleggera-770-Ultimate"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBS Superleggera 770 Ultimate Volante 5.2 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "770 hp / 566 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "DBS Superleggera (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "13.5 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Emisiones de CO2:": "314 g/Km",
+            "Potencia:": "770 PS / 760 HP / 566 kW",
+            "Largo:": "471.5 cm / 185.63 pulgadas",
+            "Ancho:": "197.0 cm / 77.56 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1945 kg / 4288 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13425/DBS-Superleggera-770-Ultimate-Volante"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBS Superleggera Volante 5.2 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "725 hp / 533 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "DBS Superleggera (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "14 L/100 km / 20 MPG UK / 17 MPG US",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Potencia:": "725 PS / 715 HP / 533 kW",
+            "Largo:": "471.5 cm / 185.63 pulgadas",
+            "Ancho:": "194.2 cm / 76.46 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1938 kg / 4273 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M10790/DBS-Superleggera-Volante"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "DBS Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "DBS Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "DBS Volante Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "DBS (2007 - 2012)",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Consumos Medio:": "de 15.5 L/100 km / 18 MPG UK / 15 MPG US a 16.4 L/100 km / 17 MPG UK / 14 MPG US",
+            "Alto:": "128.0 cm / 50.39 pulgadas",
+            "Emisiones de CO2:": "de 367 a 388 g/Km",
+            "Potencia:": "517 PS / 510 HP / 380 kW",
+            "Largo:": "472.1 cm / 185.87 pulgadas",
+            "Ancho:": "190.5 cm / 75 pulgadas",
+            "Período de producción:": "de 2007 a 2012",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1770 kg / 3902 lbs a 1925 kg / 4244 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1354/DBS"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/10787/w170_Aston-Martin-DBS-Superleggera-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-DBS"
+    },
+    {
+      "modelName": "Vantage",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vantage Roadster V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "665 hp / 489 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Vantage - 2024 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Consumos Medio:": "12.3 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "127.5 cm / 50.2 pulgadas",
+            "Potencia:": "665 PS / 656 HP / 489 kW",
+            "Largo:": "449.5 cm / 176.97 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "1805 kg / 3979 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M15225/Vantage-Roadster-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vantage AMR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Vantage - 2019 New Model (2018 - 2024)",
+          "specifications": {
+            "Batalla:": "270.4 cm / 106.46 pulgadas",
+            "Consumos Medio:": "12.1 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "127.3 cm / 50.12 pulgadas",
+            "Emisiones de CO2:": "de 236 a 276 g/Km",
+            "Potencia:": "de 503 PS / 496 HP / 370 kW a 510 PS / 503 HP / 375 kW",
+            "Largo:": "446.5 cm / 175.79 pulgadas",
+            "Ancho:": "194.2 cm / 76.46 pulgadas",
+            "Período de producción:": "de 2018 a 2024",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "de 1530 kg / 3373 lbs a 1652 kg / 3642 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M9929/Vantage-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vantage Roadster 2020 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "700 hp / 515 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Vantage Roadster 2020 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4000 cm3 (244.1 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Vantage - 2019 New Model (2018 - 2024)",
+          "specifications": {
+            "Batalla:": "270.5 cm / 106.5 pulgadas",
+            "Consumos Medio:": "de 11.6 L/100 km / 24 MPG UK / 20 MPG US a 13.5 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "127.5 cm / 50.2 pulgadas",
+            "Emisiones de CO2:": "de 244 a 315 g/Km",
+            "Potencia:": "de 510 PS / 503 HP / 375 kW a 700 PS / 690 HP / 515 kW",
+            "Largo:": "446.5 cm / 175.79 pulgadas",
+            "Ancho:": "195.0 cm / 76.77 pulgadas",
+            "Período de producción:": "de 2018 a 2024",
+            "Cilindrada:": "de 4000 cm3 / 244.1 cu-in a 5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1750 kg / 3858 lbs a 1855 kg / 4090 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M11946/Vantage-Roadster-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Vantage Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4280 cm3 (261.2 cu-in)",
+              "Potencia": "380 hp / 279 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage GT8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "446 hp / 328 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage GT8 Sportshift II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "446 hp / 328 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Vantage - 2005 New Model (2005 - 2018)",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "125.5 cm / 49.41 pulgadas",
+            "Potencia:": "de 380 PS / 375 HP / 279 kW a 446 PS / 440 HP / 328 kW",
+            "Largo:": "438.3 cm / 172.56 pulgadas",
+            "Ancho:": "186.6 cm / 73.46 pulgadas",
+            "Período de producción:": "de 2005 a 2018",
+            "Cilindrada:": "de 4280 cm3 / 261.2 cu-in a 4735 cm3 / 288.9 cu-in",
+            "Peso:": "1570 kg / 3461 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M339/V8-Vantage"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/15225/w170_Aston-Martin-Vantage-Roadster-2025-c5222945d3b428e1b0.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-Vantage"
+    },
+    {
+      "modelName": "Vanquish",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vanquish Coupe 5.2 V12 Touchtronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "835 hp / 614 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "3rd Gen. - 2025 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "288.5 cm / 113.58 pulgadas",
+            "Consumos Medio:": "13.7 L/100 km / 21 MPG UK / 17 MPG US",
+            "Alto:": "129.0 cm / 50.79 pulgadas",
+            "Potencia:": "835 PS / 824 HP / 614 kW",
+            "Largo:": "485.0 cm / 190.94 pulgadas",
+            "Ancho:": "204.4 cm / 80.47 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "5204 cm3 / 317.6 cu-in",
+            "Peso:": "1910 kg / 4211 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13983/Vanquish-Coupe-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vanquish Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "572 hp / 421 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Vanquish Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "576 hp / 424 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Vanquish S Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Vanquish S Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Vanquish Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "572 hp / 421 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vanquish Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "576 hp / 424 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "2nd Gen. (AM310) - 2012 New Model (2012 - 2018)",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "129.4 cm / 50.94 pulgadas",
+            "Emisiones de CO2:": "de 298 a 335 g/Km",
+            "Potencia:": "de 572 PS / 564 HP / 421 kW a 600 PS / 592 HP / 441 kW",
+            "Largo:": "469.2 cm / 184.72 pulgadas",
+            "Ancho:": "191.2 cm / 75.28 pulgadas",
+            "Período de producción:": "de 2012 a 2018",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M6896/Vanquish-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vanquish S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "520 hp / 382 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Vanquish V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "457 hp / 336 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "1st Gen - 2001 New Model (2001 - 2005)",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Consumos Medio:": "16.5 L/100 km / 17 MPG UK / 14 MPG US",
+            "Alto:": "131.8 cm / 51.89 pulgadas",
+            "Potencia:": "de 457 PS / 451 HP / 336 kW a 520 PS / 513 HP / 382 kW",
+            "Largo:": "466.5 cm / 183.66 pulgadas",
+            "Ancho:": "192.3 cm / 75.71 pulgadas",
+            "Período de producción:": "de 2001 a 2005",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1780 kg / 3924 lbs a 1950 kg / 4299 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M215/Vanquish"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/13983/w170_Aston-Martin-Vanquish-Coupe-2025-2c301d3cefe68b22dd.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-Vanquish"
+    },
+    {
+      "modelName": "DB12",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB12 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB12 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Potencia:": "680 PS / 671 HP / 500 kW",
+            "Largo:": "472.5 cm / 186.02 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "2023",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "1788 kg / 3942 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13500/DB12"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/13500/w170_Aston-Martin-DB12-cfb7f05cc1229374c2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13500/DB12"
+    },
+    {
+      "modelName": "DB12 Volante",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB12 Volante 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "680 hp / 500 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB12 Volante Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "12.2 L/100 km / 23 MPG UK / 19 MPG US",
+            "Alto:": "129.5 cm / 50.98 pulgadas",
+            "Potencia:": "680 PS / 671 HP / 500 kW",
+            "Largo:": "472.5 cm / 186.02 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "2024",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "1898 kg / 4184 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M15226/DB12-Volante"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/15226/w170_Aston-Martin-DB12-Volante-728b573c3b2870f47e.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M15226/DB12-Volante"
+    },
+    {
+      "modelName": "DBX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DBX 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "550 hp / 405 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DBX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "306 cm / 120.47 pulgadas",
+            "Consumos Medio:": "14.3 L/100 km / 20 MPG UK / 16 MPG US",
+            "Alto:": "168 cm / 66.14 pulgadas",
+            "Emisiones de CO2:": "de 269 a 323 g/Km",
+            "Potencia:": "550 PS / 543 HP / 405 kW",
+            "Peso de remolque:": "2700 kg / 5952 lbs",
+            "Largo:": "503.9 cm / 198.39 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "2245 kg / 4949 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M10416/DBX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/10416/w170_Aston-Martin-DBX-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M10416/DBX"
+    },
+    {
+      "modelName": "Valkyrie",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Valkyrie V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6500 cm3 (396.7 cu-in)",
+              "Potencia": "1176 hp / 865 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Valkyrie Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 1014 PS / 1000 HP / 746 kW a 1176 PS / 1160 HP / 865 kW",
+            "Largo:": "- cm / - pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2021",
+            "Cilindrada:": "6500 cm3 / 396.7 cu-in",
+            "Peso:": "1100 kg / 2425 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M11258/Valkyrie"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/11258/w170_Aston-Martin-Valkyrie-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M11258/Valkyrie"
+    },
+    {
+      "modelName": "DB11 Volante",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB11 Volante 4.0 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB11 Volante Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Alto:": "127.9 cm / 50.35 pulgadas",
+            "Emisiones de CO2:": "230 g/Km",
+            "Potencia:": "510 PS / 503 HP / 375 kW",
+            "Largo:": "473.9 cm / 186.57 pulgadas",
+            "Ancho:": "194.0 cm / 76.38 pulgadas",
+            "Período de producción:": "2018",
+            "Cilindrada:": "3982 cm3 / 243 cu-in",
+            "Peso:": "1995 kg / 4398 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M9990/DB11-Volante"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/9990/w170_Aston-Martin-DB11-Volante-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M9990/DB11-Volante"
+    },
+    {
+      "modelName": "DB11",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB11 5.2 V12 AMR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5204 cm3 (317.6 cu-in)",
+              "Potencia": "639 hp / 470 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "DB11 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5200 cm3 (317.3 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "DB11 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3982 cm3 (243 cu-in)",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB11 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.5 cm / 110.43 pulgadas",
+            "Consumos Medio:": "de 8.3 L/100 km / 34 MPG UK / 28 MPG US a 13.4 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "127.9 cm / 50.35 pulgadas",
+            "Potencia:": "de 510 PS / 503 HP / 375 kW a 639 PS / 630 HP / 470 kW",
+            "Largo:": "473.9 cm / 186.57 pulgadas",
+            "Ancho:": "194.0 cm / 76.38 pulgadas",
+            "Período de producción:": "2017",
+            "Cilindrada:": "de 3982 cm3 / 243 cu-in a 5204 cm3 / 317.6 cu-in",
+            "Peso:": "de 1770 kg / 3902 lbs a 1895 kg / 4178 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M9264/DB11"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/9264/w170_Aston-Martin-DB11-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M9264/DB11"
+    },
+    {
+      "modelName": "V12 Zagato",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V12 Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin V12 Zagato Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "125.0 cm / 49.21 pulgadas",
+            "Emisiones de CO2:": "381 g/Km",
+            "Potencia:": "517 PS / 510 HP / 380 kW",
+            "Largo:": "438.5 cm / 172.64 pulgadas",
+            "Ancho:": "186.5 cm / 73.43 pulgadas",
+            "Período de producción:": "2012",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M6313/V12-Zagato"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/6313/w170_Aston-Martin-V12-Zagato-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M6313/V12-Zagato"
+    },
+    {
+      "modelName": "Cygnet",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cygnet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1329 cm3 (81.1 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Cygnet CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1329 cm3 (81.1 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Cygnet Start&Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1329 cm3 (81.1 cu-in)",
+              "Potencia": "98 hp / 72 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Cygnet Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "200.0 cm / 78.74 pulgadas",
+            "Consumos Medio:": "5 L/100 km / 56 MPG UK / 47 MPG US",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "de 116 a 120 g/Km",
+            "Potencia:": "98 PS / 97 HP / 72 kW",
+            "Largo:": "300.0 cm / 118.11 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 2011 a 2013",
+            "Cilindrada:": "1329 cm3 / 81.1 cu-in",
+            "Peso:": "1063 kg / 2344 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M3548/Cygnet"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/3548/w170_Aston-Martin-Cygnet-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M3548/Cygnet"
+    },
+    {
+      "modelName": "One 77",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "One 77 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7312 cm3 (446.2 cu-in)",
+              "Potencia": "760 hp / 559 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin One 77 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "279.1 cm / 109.88 pulgadas",
+            "Alto:": "122.2 cm / 48.11 pulgadas",
+            "Emisiones de CO2:": "572 g/Km",
+            "Potencia:": "760 PS / 750 HP / 559 kW",
+            "Largo:": "460.1 cm / 181.14 pulgadas",
+            "Ancho:": "200 cm / 78.74 pulgadas",
+            "Período de producción:": "2011",
+            "Cilindrada:": "7312 cm3 / 446.2 cu-in",
+            "Peso:": "1630 kg / 3594 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M5829/One-77"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/5829/w170_Aston-Martin-One-77-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M5829/One-77"
+    },
+    {
+      "modelName": "Virage II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Virage II Coupe Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "496 hp / 365 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Virage II Volante Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "496 hp / 365 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Virage II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.0 cm / 107.87 pulgadas",
+            "Alto:": "128.2 cm / 50.47 pulgadas",
+            "Emisiones de CO2:": "349 g/Km",
+            "Potencia:": "496 PS / 489 HP / 365 kW",
+            "Largo:": "470.3 cm / 185.16 pulgadas",
+            "Ancho:": "190.4 cm / 74.96 pulgadas",
+            "Período de producción:": "de 2011 a 2013",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1860 kg / 4101 lbs a 1965 kg / 4332 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M3576/Virage-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/3576/w170_Aston-Martin-Virage-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M3576/Virage-II"
+    },
+    {
+      "modelName": "Rapide",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Rapide Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Rapide S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "557 hp / 410 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Rapide S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "559 hp / 411 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Rapide Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "298.9 cm / 117.68 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Emisiones de CO2:": "de 300 a 355 g/Km",
+            "Potencia:": "de 476 PS / 470 HP / 350 kW a 559 PS / 551 HP / 411 kW",
+            "Largo:": "501.9 cm / 197.6 pulgadas",
+            "Ancho:": "192.9 cm / 75.94 pulgadas",
+            "Período de producción:": "de 2010 a 2014",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in",
+            "Peso:": "2065 kg / 4553 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1368/Rapide"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1368/w170_Aston-Martin-Rapide-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1368/Rapide"
+    },
+    {
+      "modelName": "Vantage",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vantage V8 S Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 S Roadster Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 S Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Vantage S V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "573 hp / 421 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V12 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V12 S Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "573 hp / 421 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4280 cm3 (261.2 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4280 cm3 (261.2 cu-in)",
+              "Potencia": "385 hp / 283 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Roadster Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 S Roadster Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 S Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "436 hp / 321 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Vantage V8 Sportshift Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4735 cm3 (288.9 cu-in)",
+              "Potencia": "426 hp / 313 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Vantage Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260.1 cm / 102.4 pulgadas",
+            "Alto:": "126.0 cm / 49.61 pulgadas",
+            "Emisiones de CO2:": "de 295 a 388 g/Km",
+            "Potencia:": "de 385 PS / 380 HP / 283 kW a 573 PS / 565 HP / 421 kW",
+            "Largo:": "438.2 cm / 172.52 pulgadas",
+            "Ancho:": "186.6 cm / 73.46 pulgadas",
+            "Período de producción:": "de 2005 a 2013",
+            "Cilindrada:": "de 4280 cm3 / 261.2 cu-in a 5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1685 kg / 3715 lbs a 1835 kg / 4045 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1356/Vantage"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1356/w170_Aston-Martin-Vantage-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1356/Vantage"
+    },
+    {
+      "modelName": "DB9",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB9 Volante Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "DB9 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "455 hp / 335 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "DB9 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "DB9 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "DB9 Coupe Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "455 hp / 335 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "DB9 Coupe Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "DB9 Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "455 hp / 335 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "DB9 Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "DB9 Volante Touchtronic II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "455 hp / 335 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB9 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Consumos Medio:": "16.6 L/100 km / 17 MPG UK / 14 MPG US",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 455 PS / 449 HP / 335 kW a 517 PS / 510 HP / 380 kW",
+            "Largo:": "471.0 cm / 185.43 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "de 2004 a 2012",
+            "Cilindrada:": "5935 cm3 / 362.2 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M214/DB9"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/Aston-Martin/214/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M214/DB9"
+    },
+    {
+      "modelName": "DB7 Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB7 Coupe 3.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3228 cm3 (197 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "DB7 Coupe V12 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "DB7 Coupe V12 GTA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "435 hp / 320 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "DB7 Coupe V12 Vantage Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "DB7 Coupe V12 Vantage Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB7 Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Consumos Medio:": "15.5 L/100 km / 18 MPG UK / 15 MPG US",
+            "Alto:": "127.0 cm / 50 pulgadas",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 435 PS / 429 HP / 320 kW",
+            "Largo:": "463.0 cm / 182.28 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1994 a 2004",
+            "Cilindrada:": "de 3228 cm3 / 197 cu-in a 5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1650 kg / 3638 lbs a 1825 kg / 4023 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M582/DB7-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/582/w170_Aston-Martin-DB7-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M582/DB7-Coupe"
+    },
+    {
+      "modelName": "DB7 Volante",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB7 Volante 3.2 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3228 cm3 (197 cu-in)",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "DB7 Volante 6.0 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "DB7 Volante 6.0 V12 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5935 cm3 (362.2 cu-in)",
+              "Potencia": "420 hp / 309 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB7 Volante Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "259.0 cm / 101.97 pulgadas",
+            "Consumos Medio:": "14.7 L/100 km / 19 MPG UK / 16 MPG US",
+            "Alto:": "127.0 cm / 50 pulgadas",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 420 PS / 414 HP / 309 kW",
+            "Largo:": "463.0 cm / 182.28 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1996 a 2004",
+            "Cilindrada:": "de 3228 cm3 / 197 cu-in a 5935 cm3 / 362.2 cu-in",
+            "Peso:": "de 1850 kg / 4079 lbs a 1910 kg / 4211 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M581/DB7-Volante"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/581/w170_Aston-Martin-DB7-Volante-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M581/DB7-Volante"
+    },
+    {
+      "modelName": "Lagonda",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lagonda Series 2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "Lagonda Series 3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Lagonda Series 4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin Lagonda Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "291.5 cm / 114.76 pulgadas",
+            "Alto:": "130.2 cm / 51.26 pulgadas",
+            "Potencia:": "de 280 PS / 276 HP / 206 kW a 300 PS / 296 HP / 221 kW",
+            "Largo:": "528.3 cm / 207.99 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "de 1976 a 1989",
+            "Cilindrada:": "5340 cm3 / 325.9 cu-in",
+            "Peso:": "de 2064 kg / 4550 lbs a 2096 kg / 4621 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M97/Lagonda"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/Aston-Martin/97/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M97/Lagonda"
+    },
+    {
+      "modelName": "DB6",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "DB6 Mk II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "DB6 Vantage Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "DB6 Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1967"
+            },
+            {
+              "Motores de Gasolina": "DB6 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "DB6 Vantage Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1965"
+            },
+            {
+              "Motores de Gasolina": "DB6 Vantage Mk II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1969"
+            },
+            {
+              "Motores de Gasolina": "DB6 Volante Mk II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1969"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB6 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "258.4 cm / 101.73 pulgadas",
+            "Alto:": "135.9 cm / 53.5 pulgadas",
+            "Potencia:": "de 286 PS / 282 HP / 210 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "462.3 cm / 182.01 pulgadas",
+            "Ancho:": "167.6 cm / 65.98 pulgadas",
+            "Período de producción:": "de 1965 a 1970",
+            "Cilindrada:": "3996 cm3 / 243.9 cu-in",
+            "Peso:": "de 1466 kg / 3232 lbs a 1550 kg / 3417 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1605/DB6"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1605/w170_Aston-Martin-DB6-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1605/DB6"
+    },
+    {
+      "modelName": "DB5",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "286 hp / 210 kW",
+              "Año": "1963"
+            },
+            {
+              "Motores de Gasolina": "DB5 Vantage Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3996 cm3 (243.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1964"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB5 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248.9 cm / 97.99 pulgadas",
+            "Alto:": "134.6 cm / 52.99 pulgadas",
+            "Potencia:": "de 286 PS / 282 HP / 210 kW a 330 PS / 326 HP / 243 kW",
+            "Largo:": "457.2 cm / 180 pulgadas",
+            "Ancho:": "167.6 cm / 65.98 pulgadas",
+            "Período de producción:": "1963",
+            "Cilindrada:": "3996 cm3 / 243.9 cu-in",
+            "Peso:": "1465 kg / 3230 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1813/DB5"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1813/w170_Aston-Martin-DB5-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1813/DB5"
+    },
+    {
+      "modelName": "DB4",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1958"
+            },
+            {
+              "Motores de Gasolina": "DB4 GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "DB4 GT Zagato Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "318 hp / 234 kW",
+              "Año": "1959"
+            },
+            {
+              "Motores de Gasolina": "DB4 Vantage Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "270 hp / 199 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "DB4 GT Bertone Jet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "1961"
+            },
+            {
+              "Motores de Gasolina": "DB4 Series 5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1962"
+            },
+            {
+              "Motores de Gasolina": "DB4 Vantage GT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3670 cm3 (224 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "1961"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB4 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248.9 cm / 97.99 pulgadas",
+            "Alto:": "132.1 cm / 52.01 pulgadas",
+            "Potencia:": "de 243 PS / 240 HP / 179 kW a 318 PS / 314 HP / 234 kW",
+            "Largo:": "448 cm / 176.38 pulgadas",
+            "Ancho:": "167.6 cm / 65.98 pulgadas",
+            "Período de producción:": "1958",
+            "Cilindrada:": "3670 cm3 / 224 cu-in",
+            "Peso:": "de 1251 kg / 2758 lbs a 1353 kg / 2983 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1873/DB4"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1873/w170_Aston-Martin-DB4-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1873/DB4"
+    },
+    {
+      "modelName": "DB3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "DB3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2922 cm3 (178.3 cu-in)",
+              "Potencia": "183 hp / 135 kW",
+              "Año": "1954"
+            },
+            {
+              "Motores de Gasolina": "DB3 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2922 cm3 (178.3 cu-in)",
+              "Potencia": "213 hp / 157 kW",
+              "Año": "1956"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin DB3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "221 cm / 87.01 pulgadas",
+            "Alto:": "104 cm / 40.94 pulgadas",
+            "Potencia:": "de 183 PS / 181 HP / 135 kW a 213 PS / 210 HP / 157 kW",
+            "Largo:": "391.2 cm / 154.02 pulgadas",
+            "Ancho:": "150 cm / 59.06 pulgadas",
+            "Período de producción:": "1954",
+            "Cilindrada:": "2922 cm3 / 178.3 cu-in",
+            "Peso:": "914 kg / 2015 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1789/DB3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/1789/w170_Aston-Martin-DB3-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M1789/DB3"
+    },
+    {
+      "modelName": "15 hp",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "15 hp Drop-head Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1950 cm3 (119 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "1937"
+            },
+            {
+              "Motores de Gasolina": "15 hp Speed Model Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1950 cm3 (119 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "1937"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin 15 hp Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.5 cm / 99.02 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "- PS / - HP / - kW",
+            "Largo:": "407.7 cm / 160.51 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "1937",
+            "Cilindrada:": "1950 cm3 / 119 cu-in",
+            "Peso:": "1164 kg / 2566 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M4672/15-hp"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/4672/w170_Aston-Martin-15-hp-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M4672/15-hp"
+    },
+    {
+      "modelName": "15 hp",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "15 hp Drop-head Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1950 cm3 (119 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "1937"
+            },
+            {
+              "Motores de Gasolina": "15 hp Speed Model Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1950 cm3 (119 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "1937"
+            }
+          ],
+          "actualFinalModelName": "Aston Martin 15 hp Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "251.5 cm / 99.02 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "- PS / - HP / - kW",
+            "Largo:": "407.7 cm / 160.51 pulgadas",
+            "Ancho:": "181.6 cm / 71.5 pulgadas",
+            "Período de producción:": "1937",
+            "Cilindrada:": "1950 cm3 / 119 cu-in",
+            "Peso:": "1164 kg / 2566 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M4672/15-hp"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/4672/w170_Aston-Martin-15-hp-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M4672/15-hp"
+    },
+    {
+      "modelName": "Virage",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "349 hp / 257 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "V8 Coupe Vantage V550 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "558 hp / 410 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "V8 Coupe Vantage V600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "608 hp / 447 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Virage V8 Coupe / Volante / Vantage - 1996 Update (1996 - 2000)",
+          "specifications": {
+            "Batalla:": "261.1 cm / 102.8 pulgadas",
+            "Consumos Medio:": "de 20.2 L/100 km / 14 MPG UK / 12 MPG US a 21.5 L/100 km / 13 MPG UK / 11 MPG US",
+            "Alto:": "132.0 cm / 51.97 pulgadas",
+            "Potencia:": "de 349 PS / 344 HP / 257 kW a 608 PS / 600 HP / 447 kW",
+            "Largo:": "474.5 cm / 186.81 pulgadas",
+            "Ancho:": "191.8 cm / 75.51 pulgadas",
+            "Período de producción:": "de 1996 a 2000",
+            "Cilindrada:": "de 5340 cm3 / 325.9 cu-in a 5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1950 kg / 4299 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M583/V8-Coupe"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Volante Volante Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "349 hp / 257 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Virage V8 Coupe / Volante / Vantage - 1996 Update (1996 - 2000)",
+          "specifications": {
+            "Batalla:": "281.0 cm / 110.63 pulgadas",
+            "Consumos Medio:": "20.2 L/100 km / 14 MPG UK / 12 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Emisiones de CO2:": "482 g/Km",
+            "Potencia:": "349 PS / 344 HP / 257 kW",
+            "Largo:": "494.0 cm / 194.49 pulgadas",
+            "Ancho:": "192.0 cm / 75.59 pulgadas",
+            "Período de producción:": "de 1996 a 2000",
+            "Cilindrada:": "5340 cm3 / 325.9 cu-in",
+            "Peso:": "2000 kg / 4409 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12285/V8-Volante"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Virage 5.3 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Virage 5.3 V8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Virage Shooting Brake Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Virage Vantage V550 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "558 hp / 410 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Virage Coupe / Volante / Vantage - 1989 New Model (1989 - 1995)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "133 cm / 52.36 pulgadas",
+            "Potencia:": "de 330 PS / 326 HP / 243 kW a 558 PS / 550 HP / 410 kW",
+            "Largo:": "474.5 cm / 186.81 pulgadas",
+            "Ancho:": "191.8 cm / 75.51 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "5340 cm3 / 325.9 cu-in",
+            "Peso:": "de 1925 kg / 4244 lbs a 1990 kg / 4387 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M584/Virage"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Virage Volante 5.3 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Virage Volante 5.3 V8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "330 hp / 243 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Virage Coupe / Volante / Vantage - 1989 New Model (1989 - 1995)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "330 PS / 326 HP / 243 kW",
+            "Largo:": "474.5 cm / 186.81 pulgadas",
+            "Ancho:": "185.8 cm / 73.15 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "2000 kg / 4409 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M585/Virage-Volante"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/583/w170_Aston-Martin-V8-Coupe-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-Virage"
+    },
+    {
+      "modelName": "V8",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Saloon 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Saloon 5-speed US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Saloon Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Saloon Auto US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Saloon Catalyst Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "V8 Saloon Catalyst 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 5 (\"Oscar India Fuel Injected\") - 1986 Update (1986 - 1989)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "de 243 PS / 240 HP / 179 kW a 309 PS / 305 HP / 227 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1986 a 1989",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1820 kg / 4012 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12862/V8-(Series-5)-Saloon"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Volante 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante 5-speed US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "309 hp / 227 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante Auto US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante Catalyst 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1987"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante Catalyst Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "268 hp / 197 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 5 (\"Oscar India Fuel Injected\") - 1986 Update (1986 - 1989)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 243 PS / 240 HP / 179 kW a 309 PS / 305 HP / 227 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1986 a 1989",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1850 kg / 4079 lbs a 1890 kg / 4167 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12859/V8-(Series-5)-Volante"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 260HP US-Market Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 4 (\"Oscar India\") - 1978 Update (1978 - 1985)",
+          "specifications": {
+            "Batalla:": "261 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "de 203 PS / 200 HP / 149 kW a 315 PS / 311 HP / 232 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1978 a 1985",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1750 kg / 3858 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M96/V8-Saloon-(Series-4)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "294 hp / 216 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "279 hp / 205 kW",
+              "Año": "1979"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "V8 US-Market Auto Volante (Series 4) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1984"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 4 (\"Oscar India\") - 1978 Update (1978 - 1985)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 203 PS / 200 HP / 149 kW a 315 PS / 311 HP / 232 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1978 a 1985",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1780 kg / 3924 lbs a 1890 kg / 4167 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12791/V8-Volante-(Series-4)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "1973"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "355 hp / 261 kW",
+              "Año": "1973"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "315 hp / 232 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 Auto US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1975"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 3) 5.3 V8 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1975"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 3 (\"Weber Carburettor\") - 1974 Update (1973 - 1978)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "1.327 cm / 0.52 pulgadas",
+            "Potencia:": "de 290 PS / 286 HP / 213 kW a 355 PS / 350 HP / 261 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "1.829 cm / 0.72 pulgadas",
+            "Período de producción:": "de 1973 a 1978",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1740 kg / 3836 lbs a 1757 kg / 3874 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12786/V8-(Series-3)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 (Series 2) 5.3 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "325 hp / 239 kW",
+              "Año": "1972"
+            },
+            {
+              "Motores de Gasolina": "V8 (Series 2) 5.3 V8 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "325 hp / 239 kW",
+              "Año": "1972"
+            }
+          ],
+          "actualFinalModelName": "V8 Series 2 (\"Bosch Fuel Injection\") - 1972 New Model (1972 - 1973)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "325 PS / 321 HP / 239 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1972 a 1973",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "1730 kg / 3814 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13177/V8-(Series-2)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/12859/w170_Aston-Martin-V8-(Series-5)-Volante-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-V8"
+    },
+    {
+      "modelName": "V8 Vantage",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Vantage 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage 5-speed US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage X-Pack 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage X-Pack Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage X-Pack Works 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "438 hp / 322 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "V8 Vantage Series 3 (\"X-pack\") - 1986 Update (1986 - 1989)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "de 243 PS / 240 HP / 179 kW a 438 PS / 432 HP / 322 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 1986 a 1989",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1820 kg / 4012 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12861/V8-Vantage-(Series-3)-Saloon"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Vantage Volante 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Volante 5-speed US-market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "243 hp / 179 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Volante Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Volante X-Pack 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Volante X-Pack Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage Volante X-Pack Works 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "438 hp / 322 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "V8 Vantage Series 3 (\"X-pack\") - 1986 Update (1986 - 1989)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "137.5 cm / 54.13 pulgadas",
+            "Potencia:": "de 243 PS / 240 HP / 179 kW a 438 PS / 432 HP / 322 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "de 1986 a 1989",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "1850 kg / 4079 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12860/V8-Vantage-Volante-(Series-3)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V540-OI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "396 hp / 291 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V540-OI US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "290 hp / 213 kW",
+              "Año": "1978"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "396 hp / 291 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580 US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580-BBS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580-BBS Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "V8 Vantage (Series 2) V580-BBS US-Market Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5341 cm3 (325.9 cu-in)",
+              "Potencia": "203 hp / 149 kW",
+              "Año": "1983"
+            }
+          ],
+          "actualFinalModelName": "V8 Vantage Series 2 (\"Oscar India\") - 1978 Update (1978 - 1986)",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "de 203 PS / 200 HP / 149 kW a 396 PS / 391 HP / 291 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1978 a 1986",
+            "Cilindrada:": "5341 cm3 / 325.9 cu-in",
+            "Peso:": "de 1740 kg / 3836 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M12789/V8-Vantage-(Series-2)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "V8 Vantage (Series I) V540 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5340 cm3 (325.9 cu-in)",
+              "Potencia": "375 hp / 276 kW",
+              "Año": "1977"
+            }
+          ],
+          "actualFinalModelName": "V8 Vantage Series 1 (V-540 \"Bolt-on & flip-tails\") - 1977 New Model (1977 - 1978)",
+          "specifications": {
+            "Batalla:": "261 cm / 102.76 pulgadas",
+            "Alto:": "132.7 cm / 52.24 pulgadas",
+            "Potencia:": "375 PS / 370 HP / 276 kW",
+            "Largo:": "466.7 cm / 183.74 pulgadas",
+            "Ancho:": "182.9 cm / 72.01 pulgadas",
+            "Período de producción:": "de 1977 a 1978",
+            "Cilindrada:": "5340 cm3 / 325.9 cu-in",
+            "Peso:": "1727 kg / 3807 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin/M13178/V8-Vantage-(Series-I)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/20/12860/w170_Aston-Martin-V8-Vantage-Volante-(Series-3)-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Aston-Martin-models/Aston-Martin-V8-Vantage"
+    }
+  ],
+  "brandName": "Aston Martin"
+}

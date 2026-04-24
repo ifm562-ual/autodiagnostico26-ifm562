@@ -1,0 +1,534 @@
+{
+  "models": [
+    {
+      "modelName": "Dolphin Surf (EQE)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Dolphin Surf Active 30kWh 88HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "30.0 kWh"
+            },
+            {
+              "Eléctrico": "Dolphin Surf Boost 43.2kWh 88HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "43.2 kWh"
+            },
+            {
+              "Eléctrico": "Dolphin Surf Comfort 43.2kWh 156HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "43.2 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Dolphin Surf (EQE) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "159.0 cm / 62.6 pulgadas",
+            "Potencia:": "de 88 PS / 87 HP / 65 kW a 156 PS / 154 HP / 115 kW",
+            "Largo:": "399.0 cm / 157.09 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "2025",
+            "Peso:": "de 1294 kg / 2853 lbs a 1390 kg / 3064 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15541/Dolphin-Surf-(EQE)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/15541/w170_BYD-Dolphin-Surf-(EQE)-8323689687102d7f7f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15541/Dolphin-Surf-(EQE)"
+    },
+    {
+      "modelName": "Dolphin",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Dolphin 44.9 kWh 177HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "44.9 kWh"
+            },
+            {
+              "Eléctrico": "Dolphin 44.9 kWh 95HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "44.9 kWh"
+            },
+            {
+              "Eléctrico": "Dolphin 60 kWh 204HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "60.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Dolphin Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "157.0 cm / 61.81 pulgadas",
+            "Potencia:": "de 95 PS / 94 HP / 70 kW a 204 PS / 201 HP / 150 kW",
+            "Largo:": "415.0 cm / 163.39 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "2021",
+            "Peso:": "de 1506 kg / 3320 lbs a 1568 kg / 3457 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13422/Dolphin"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13422/w170_BYD-Dolphin-30ecece1d32792e6b5.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13422/Dolphin"
+    },
+    {
+      "modelName": "Atto 2",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Atto 2 EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "45.1 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Atto 2 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "167.5 cm / 65.94 pulgadas",
+            "Potencia:": "177 PS / 175 HP / 130 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "431.0 cm / 169.69 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "2025",
+            "Peso:": "1570 kg / 3461 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15173/Atto-2"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/15173/w170_BYD-Atto-2-8298a4b1b3233a4ec6.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15173/Atto-2"
+    },
+    {
+      "modelName": "Atto 3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Atto 3 EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "60.5 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Atto 3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.0 cm / 107.09 pulgadas",
+            "Alto:": "161.5 cm / 63.58 pulgadas",
+            "Potencia:": "204 PS / 201 HP / 150 kW",
+            "Largo:": "445.5 cm / 175.39 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "1750 kg / 3858 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13093/Atto-3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13093/w170_BYD-Atto-3-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13093/Atto-3"
+    },
+    {
+      "modelName": "Seal",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Seal 61.4kWh 231HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "61.4 kWh"
+            },
+            {
+              "Eléctrico": "Seal 83kWh 313HP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "83 kWh"
+            },
+            {
+              "Eléctrico": "Seal 83kWh 530HP AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "83 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Seal Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "292.0 cm / 114.96 pulgadas",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 231 PS / 228 HP / 170 kW a 530 PS / 523 HP / 390 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "480.0 cm / 188.98 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "de 1907 kg / 4204 lbs a 2185 kg / 4817 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13423/Seal"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13423/w170_BYD-Seal-37b6105f5c945c88ec.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13423/Seal"
+    },
+    {
+      "modelName": "Han",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Han EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "85.4 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Han Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "292.0 cm / 114.96 pulgadas",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Potencia:": "517 PS / 510 HP / 380 kW",
+            "Largo:": "499.5 cm / 196.65 pulgadas",
+            "Ancho:": "191.0 cm / 75.2 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "2250 kg / 4960 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13094/Han"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13094/w170_BYD-Han-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13094/Han"
+    },
+    {
+      "modelName": "Seal U",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Seal U 71.8 kWh Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "71.8 kWh"
+            },
+            {
+              "Eléctrico": "Seal U 87 kWh Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "87.0 kWh"
+            },
+            {
+              "Eléctrico": "Seal U DM-i 1.5 Plug-in Hybrid e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "18.3 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Seal U Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "276.5 cm / 108.86 pulgadas",
+            "Consumos Medio:": "0.9 L/100 km / 314 MPG UK / 261 MPG US",
+            "Alto:": "166.8 cm / 65.67 pulgadas",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 218 PS / 215 HP / 160 kW",
+            "Peso de remolque:": "1300 kg / 2866 lbs",
+            "Largo:": "478.5 cm / 188.39 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "de 1940 kg / 4277 lbs a 2147 kg / 4733 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13614/Seal-U"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13614/w170_BYD-Seal-U-344c11a68823ba106d.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13614/Seal-U"
+    },
+    {
+      "modelName": "Sealion 7",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Sealion 7 82.5kWh 313HP Confort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "313 hp / 230 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "82.5 kWh"
+            },
+            {
+              "Eléctrico": "Sealion 7 82.5kWh 530HP Design AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "82.5 kWh"
+            },
+            {
+              "Eléctrico": "Sealion 7 91.3kWh 530HP Excellence AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "530 hp / 390 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "91.3 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD Sealion 7 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "293.0 cm / 115.35 pulgadas",
+            "Alto:": "162.0 cm / 63.78 pulgadas",
+            "Potencia:": "de 313 PS / 309 HP / 230 kW a 530 PS / 523 HP / 390 kW",
+            "Peso de remolque:": "de 750 kg / 1653 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "483.0 cm / 190.16 pulgadas",
+            "Ancho:": "192.5 cm / 75.79 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "de 2225 kg / 4905 lbs a 2435 kg / 5368 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15572/Sealion-7"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/15572/w170_BYD-Sealion-7-967d73d67e2f37a114.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M15572/Sealion-7"
+    },
+    {
+      "modelName": "Tang (EU-Market)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Tang EV AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "108.8 kWh"
+            }
+          ],
+          "actualFinalModelName": "Tang - 2024 Update (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "282.0 cm / 111.02 pulgadas",
+            "Alto:": "174.5 cm / 68.7 pulgadas",
+            "Potencia:": "517 PS / 510 HP / 380 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "497.0 cm / 195.67 pulgadas",
+            "Ancho:": "195.5 cm / 76.97 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Peso:": "2630 kg / 5798 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M14013/Tang-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Tang EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "86.4 kWh"
+            }
+          ],
+          "actualFinalModelName": "Tang - 2022 New Model (2022 - 2024)",
+          "specifications": {
+            "Batalla:": "282.0 cm / 111.02 pulgadas",
+            "Alto:": "172.5 cm / 67.91 pulgadas",
+            "Potencia:": "517 PS / 510 HP / 380 kW",
+            "Largo:": "487.0 cm / 191.73 pulgadas",
+            "Ancho:": "195.0 cm / 76.77 pulgadas",
+            "Período de producción:": "de 2022 a 2024",
+            "Peso:": "2489 kg / 5487 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13090/Tang-2022"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/14013/w170_BYD-Tang-2024-f735311bb7bd7ef684.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD-models/BYD-Tang-(EU-Market)"
+    },
+    {
+      "modelName": "F0",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "BYD F0 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "146.5 cm / 57.68 pulgadas",
+            "Emisiones de CO2:": "106 g/Km",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "343.5 cm / 135.24 pulgadas",
+            "Ancho:": "163.0 cm / 64.17 pulgadas",
+            "Período de producción:": "de 2008 a 2015",
+            "Cilindrada:": "998 cm3 / 60.9 cu-in",
+            "Peso:": "875 kg / 1929 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M7154/F0"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/7154/w170_BYD-F0-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M7154/F0"
+    },
+    {
+      "modelName": "F1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "BYD F1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234 cm / 92.13 pulgadas",
+            "Alto:": "146.5 cm / 57.68 pulgadas",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "346 cm / 136.22 pulgadas",
+            "Ancho:": "161.8 cm / 63.7 pulgadas",
+            "Período de producción:": "2008",
+            "Cilindrada:": "998 cm3 / 60.9 cu-in",
+            "Peso:": "870 kg / 1918 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4686/F1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/4686/w170_BYD-F1-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4686/F1"
+    },
+    {
+      "modelName": "F3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1584 cm3 (96.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "BYD F3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "260 cm / 102.36 pulgadas",
+            "Alto:": "149 cm / 58.66 pulgadas",
+            "Potencia:": "100 PS / 99 HP / 74 kW",
+            "Largo:": "453.3 cm / 178.46 pulgadas",
+            "Ancho:": "170.5 cm / 67.13 pulgadas",
+            "Período de producción:": "de 2005 a 2014",
+            "Cilindrada:": "1584 cm3 / 96.7 cu-in",
+            "Peso:": "1200 kg / 2646 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4692/F3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/4692/w170_BYD-F3-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4692/F3"
+    },
+    {
+      "modelName": "E6",
+      "versions": [
+        {
+          "actualFinalModelName": "BYD E6 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "283.0 cm / 111.42 pulgadas",
+            "Alto:": "163.0 cm / 64.17 pulgadas",
+            "Potencia:": "122 PS / 120 HP / 90 kW",
+            "Largo:": "456.0 cm / 179.53 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "2011",
+            "Peso:": "2370 kg / 5225 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M7174/E6"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/7174/w170_BYD-E6-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M7174/E6"
+    },
+    {
+      "modelName": "F8 - S8",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "F8 - S8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "0 hp / - kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "BYD F8 - S8 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "252 cm / 99.21 pulgadas",
+            "Alto:": "140.5 cm / 55.31 pulgadas",
+            "Potencia:": "- PS / - HP / - kW",
+            "Largo:": "449 cm / 176.77 pulgadas",
+            "Ancho:": "178 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2008 a 2010",
+            "Cilindrada:": "1991 cm3 / 121.5 cu-in",
+            "Peso:": "1525 kg / 3362 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4691/F8---S8"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/4691/w170_BYD-F8-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M4691/F8---S8"
+    },
+    {
+      "modelName": "ETP3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "ETP3 Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "44.9 kWh"
+            }
+          ],
+          "actualFinalModelName": "BYD ETP3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.5 cm / 107.28 pulgadas",
+            "Alto:": "187.5 cm / 73.82 pulgadas",
+            "Potencia:": "136 PS / 134 HP / 100 kW",
+            "Largo:": "446.0 cm / 175.59 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "1640 kg / 3616 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13736/ETP3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/589/13736/w170_BYD-ETP3-4551f1a8261d4df16f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/BYD/M13736/ETP3"
+    }
+  ],
+  "brandName": "BYD"
+}

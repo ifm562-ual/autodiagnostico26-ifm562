@@ -1,0 +1,467 @@
+{
+  "models": [
+    {
+      "modelName": "MKT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MKT 3.5 V6 EcoBoost AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "360 hp / 265 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "MKT 3.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3726 cm3 (227.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "MKT 3.7 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3726 cm3 (227.4 cu-in)",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Lincoln MKT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "299.5 cm / 117.91 pulgadas",
+            "Alto:": "171.2 cm / 67.4 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 360 PS / 355 HP / 265 kW",
+            "Largo:": "527.3 cm / 207.6 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "de 3496 cm3 / 213.3 cu-in a 3726 cm3 / 227.4 cu-in",
+            "Peso:": "de 2123 kg / 4680 lbs a 2233 kg / 4923 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M5535/MKT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/5535/w170_Lincoln-MKT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M5535/MKT"
+    },
+    {
+      "modelName": "MKR",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MKR Concept Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "421 hp / 310 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Lincoln MKR Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "286.8 cm / 112.91 pulgadas",
+            "Alto:": "133.9 cm / 52.72 pulgadas",
+            "Potencia:": "421 PS / 415 HP / 310 kW",
+            "Largo:": "497.1 cm / 195.71 pulgadas",
+            "Ancho:": "191.5 cm / 75.39 pulgadas",
+            "Período de producción:": "2007",
+            "Cilindrada:": "3496 cm3 / 213.3 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M4471/MKR"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/4471/w170_Lincoln-MKR-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M4471/MKR"
+    },
+    {
+      "modelName": "MKZ",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MKZ 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "267 hp / 196 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "MKZ 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "267 hp / 196 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "MKZ 3.5 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "267 hp / 196 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "MKZ 3.5 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "267 hp / 196 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Lincoln MKZ Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.8 cm / 107.4 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "267 PS / 263 HP / 196 kW",
+            "Largo:": "483.9 cm / 190.51 pulgadas",
+            "Ancho:": "183.4 cm / 72.2 pulgadas",
+            "Período de producción:": "de 2007 a 2009",
+            "Cilindrada:": "3496 cm3 / 213.3 cu-in",
+            "Peso:": "de 1547 kg / 3411 lbs a 1722 kg / 3796 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M4470/MKZ"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/4470/w170_Lincoln-MKZ-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M4470/MKZ"
+    },
+    {
+      "modelName": "Town Car III",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Town Car III 4.6 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Lincoln Town Car III Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "299.0 cm / 117.72 pulgadas",
+            "Consumos Medio:": "11.1 L/100 km / 25 MPG UK / 21 MPG US",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Potencia:": "204 PS / 201 HP / 150 kW",
+            "Largo:": "547.0 cm / 215.35 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "4601 cm3 / 280.8 cu-in",
+            "Peso:": "1795 kg / 3957 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M916/Town-Car-III"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/916/w170_Lincoln-Town-Car-III-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M916/Town-Car-III"
+    },
+    {
+      "modelName": "Continental VIII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental VIII 4.6 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4603 cm3 (280.9 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Lincoln Continental VIII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "277.0 cm / 109.06 pulgadas",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "264 PS / 260 HP / 194 kW",
+            "Largo:": "524.0 cm / 206.3 pulgadas",
+            "Ancho:": "187.0 cm / 73.62 pulgadas",
+            "Período de producción:": "de 1995 a 1998",
+            "Cilindrada:": "4603 cm3 / 280.9 cu-in",
+            "Peso:": "1760 kg / 3880 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M911/Continental-VIII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/911/w170_Lincoln-Continental-VIII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M911/Continental-VIII"
+    },
+    {
+      "modelName": "Town Car II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Town Car II 4.6 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "212 hp / 156 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Lincoln Town Car II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "298.0 cm / 117.32 pulgadas",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Potencia:": "212 PS / 209 HP / 156 kW",
+            "Largo:": "556.0 cm / 218.9 pulgadas",
+            "Ancho:": "195.0 cm / 76.77 pulgadas",
+            "Período de producción:": "de 1994 a 1996",
+            "Cilindrada:": "4601 cm3 / 280.8 cu-in",
+            "Peso:": "1825 kg / 4023 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M915/Town-Car-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/915/w170_Lincoln-Town-Car-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M915/Town-Car-II"
+    },
+    {
+      "modelName": "Lincoln Mark VIII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Lincoln Mark VIII 4.6 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "284 hp / 209 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Lincoln Lincoln Mark VIII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "287.0 cm / 112.99 pulgadas",
+            "Alto:": "136.0 cm / 53.54 pulgadas",
+            "Potencia:": "284 PS / 280 HP / 209 kW",
+            "Largo:": "526.0 cm / 207.09 pulgadas",
+            "Ancho:": "190.0 cm / 74.8 pulgadas",
+            "Período de producción:": "de 1993 a 1996",
+            "Cilindrada:": "4601 cm3 / 280.8 cu-in",
+            "Peso:": "1695 kg / 3737 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M913/Lincoln-Mark-VIII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/913/w170_Lincoln-Lincoln-Mark-VIII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M913/Lincoln-Mark-VIII"
+    },
+    {
+      "modelName": "Continental VII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Continental VII 3.8 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3797 cm3 (231.7 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Lincoln Continental VII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "277.0 cm / 109.06 pulgadas",
+            "Alto:": "141.0 cm / 55.51 pulgadas",
+            "Potencia:": "162 PS / 160 HP / 119 kW",
+            "Largo:": "521.0 cm / 205.12 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 1988 a 1995",
+            "Cilindrada:": "3797 cm3 / 231.7 cu-in",
+            "Peso:": "1645 kg / 3627 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M912/Continental-VII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/912/w170_Lincoln-Continental-VII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M912/Continental-VII"
+    },
+    {
+      "modelName": "Aviator",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Aviator 3.0T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2956 cm3 (180.4 cu-in)",
+              "Potencia": "406 hp / 299 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Aviator 3.0T RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2956 cm3 (180.4 cu-in)",
+              "Potencia": "406 hp / 299 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Aviator (U611) 2nd Gen. - 2025 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "302.5 cm / 119.09 pulgadas",
+            "Alto:": "175.8 cm / 69.21 pulgadas",
+            "Potencia:": "406 PS / 400 HP / 299 kW",
+            "Peso de remolque:": "2268 kg / 5000 lbs",
+            "Largo:": "507.2 cm / 199.69 pulgadas",
+            "Ancho:": "202.2 cm / 79.61 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "2956 cm3 / 180.4 cu-in",
+            "Peso:": "de 2201 kg / 4852 lbs a 2254 kg / 4969 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M14353/Aviator-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Aviator 3.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "cm3 (- cu-in)",
+              "Potencia": "406 hp / 299 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Aviator 3.0 V6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "cm3 (- cu-in)",
+              "Potencia": "406 hp / 299 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Aviator (U611) 2nd Gen. - 2020 New Model (2019 - 2024)",
+          "specifications": {
+            "Batalla:": "302.5 cm / 119.09 pulgadas",
+            "Consumos Medio:": "de 11.2 L/100 km / 25 MPG UK / 21 MPG US a 11.8 L/100 km / 24 MPG UK / 20 MPG US",
+            "Alto:": "177.3 cm / 69.8 pulgadas",
+            "Potencia:": "406 PS / 400 HP / 299 kW",
+            "Peso de remolque:": "3039 kg / 6700 lbs",
+            "Largo:": "506.2 cm / 199.29 pulgadas",
+            "Ancho:": "202.2 cm / 79.61 pulgadas",
+            "Período de producción:": "de 2019 a 2024",
+            "Cilindrada:": "- cm3 / - cu-in",
+            "Peso:": "de 2161 kg / 4764 lbs a 2221 kg / 4896 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M10154/Aviator-2020"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/14353/w170_Lincoln-Aviator-2025-c8234d9918113cffc3.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln-models/Lincoln-Aviator"
+    },
+    {
+      "modelName": "MKC",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "MKC 2.3T AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2264 cm3 (138.2 cu-in)",
+              "Potencia": "289 hp / 213 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Lincoln MKC Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Alto:": "165.6 cm / 65.2 pulgadas",
+            "Potencia:": "289 PS / 285 HP / 213 kW",
+            "Peso de remolque:": "907 kg / 2000 lbs",
+            "Largo:": "455.2 cm / 179.21 pulgadas",
+            "Ancho:": "186.4 cm / 73.39 pulgadas",
+            "Período de producción:": "de 2017 a 2018",
+            "Cilindrada:": "2264 cm3 / 138.2 cu-in",
+            "Peso:": "1811 kg / 3993 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M14477/MKC"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/14477/w170_Lincoln-MKC-2cf26faf5c1ee5e96f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M14477/MKC"
+    },
+    {
+      "modelName": "Navigator",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Navigator 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "446 hp / 328 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Navigator 5th Gen. - 2025 New Model (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "311.2 cm / 122.52 pulgadas",
+            "Alto:": "198.1 cm / 77.99 pulgadas",
+            "Potencia:": "446 PS / 440 HP / 328 kW",
+            "Peso de remolque:": "3946 kg / 8699 lbs",
+            "Largo:": "533.4 cm / 210 pulgadas",
+            "Ancho:": "203.2 cm / 80 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "3496 cm3 / 213.3 cu-in",
+            "Peso:": "2689 kg / 5928 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M14355/Navigator-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Navigator L 3.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3496 cm3 (213.3 cu-in)",
+              "Potencia": "446 hp / 328 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Navigator 5th Gen. - 2025 New Model (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "334.0 cm / 131.5 pulgadas",
+            "Alto:": "198.1 cm / 77.99 pulgadas",
+            "Potencia:": "446 PS / 440 HP / 328 kW",
+            "Peso de remolque:": "3946 kg / 8699 lbs",
+            "Largo:": "563.6 cm / 221.89 pulgadas",
+            "Ancho:": "203.2 cm / 80 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "3496 cm3 / 213.3 cu-in",
+            "Peso:": "2742 kg / 6045 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M14356/Navigator-L-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Navigator 5.4 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5404 cm3 (329.8 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Navigator 5.4 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5404 cm3 (329.8 cu-in)",
+              "Potencia": "305 hp / 224 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Navigator 1st Gen. - 1998 New Model (1997 - 2002)",
+          "specifications": {
+            "Batalla:": "302.0 cm / 118.9 pulgadas",
+            "Alto:": "195.1 cm / 76.81 pulgadas",
+            "Emisiones de CO2:": "330 g/Km",
+            "Potencia:": "de 230 PS / 227 HP / 169 kW a 305 PS / 301 HP / 224 kW",
+            "Largo:": "519.9 cm / 204.69 pulgadas",
+            "Ancho:": "202.9 cm / 79.88 pulgadas",
+            "Período de producción:": "de 1997 a 2002",
+            "Cilindrada:": "5404 cm3 / 329.8 cu-in",
+            "Peso:": "de 2560 kg / 5644 lbs a 2595 kg / 5721 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln/M914/Navigator-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/83/14355/w170_Lincoln-Navigator-2025-8ca4c23172fc1d7d89.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Lincoln-models/Lincoln-Navigator"
+    }
+  ],
+  "brandName": "Lincoln"
+}

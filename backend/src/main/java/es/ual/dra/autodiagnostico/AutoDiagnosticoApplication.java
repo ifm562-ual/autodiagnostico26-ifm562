@@ -9,4 +9,5 @@ public class AutoDiagnosticoApplication {
     public static void main(String[] args) {
         SpringApplication.run(AutoDiagnosticoApplication.class, args);
     }
+
 }

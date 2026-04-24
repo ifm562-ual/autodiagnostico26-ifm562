@@ -10,6 +10,8 @@ import { HistorialComponent } from './components/historial/historial';
 import { ContactoComponent } from './components/contacto/contacto';
 import { PerfilComponent } from './components/perfil/perfil';
 import { MisVehiculosComponent } from './components/mis-vehiculos/mis-vehiculos';
+import { LoginComponent } from './components/login/login';
+import { seguimientoGuard } from './auth/seguimiento.guard';
 
 export const routes: Routes = [
 	{ path: '', pathMatch: 'full', redirectTo: 'home' },
@@ -20,6 +22,7 @@ export const routes: Routes = [
 	{
 		path: 'seguimiento',
 		component: SeguimientoComponent,
+		canActivate: [seguimientoGuard],
 		children: [
 			{ path: '', pathMatch: 'full', redirectTo: 'chat' },
 			{ path: 'chat', component: SeguimientoChatComponent }
@@ -30,5 +33,7 @@ export const routes: Routes = [
 	{ path: 'contacto', component: ContactoComponent },
 	{ path: 'perfil', component: PerfilComponent },
 	{ path: 'mis-vehiculos', component: MisVehiculosComponent },
+	{ path: 'login', component: LoginComponent },
+	{ path: 'registro', component: LoginComponent },
 	{ path: '**', redirectTo: 'home' }
 ];

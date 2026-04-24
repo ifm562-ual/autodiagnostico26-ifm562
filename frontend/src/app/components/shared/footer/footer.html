@@ -40,7 +40,9 @@
           <li><a routerLink="/taller"      class="footer-link">Buscar taller</a></li>
           <li><a routerLink="/repuestos"   class="footer-link">Catálogo de repuestos</a></li>
           <li><a routerLink="/presupuesto" class="footer-link">Solicitar presupuesto</a></li>
-          <li><a routerLink="/seguimiento" class="footer-link">Seguimiento en tiempo real</a></li>
+          @if (authStateService.canAccessSeguimiento()) {
+            <li><a routerLink="/seguimiento" class="footer-link">Seguimiento en tiempo real</a></li>
+          }
         </ul>
       </div>
 
@@ -48,11 +50,15 @@
       <div class="footer-col">
         <h3 class="footer-col-title">Mi cuenta</h3>
         <ul class="footer-links">
-          <li><a routerLink="/login"          class="footer-link">Iniciar sesión</a></li>
-          <li><a routerLink="/registro"       class="footer-link">Crear cuenta</a></li>
-          <li><a routerLink="/mis-vehiculos"  class="footer-link">Mis vehículos</a></li>
-          <li><a routerLink="/historial"      class="footer-link">Historial de reparaciones</a></li>
-          <li><a routerLink="/perfil"         class="footer-link">Mi perfil</a></li>
+          @if (!authStateService.isLoggedIn()) {
+            <li><a routerLink="/login" class="footer-link">Iniciar sesión</a></li>
+            <li><a routerLink="/registro" class="footer-link">Crear cuenta</a></li>
+          }
+          @if (authStateService.isLoggedIn()) {
+            <li><a routerLink="/mis-vehiculos" class="footer-link">Mis vehículos</a></li>
+            <li><a routerLink="/historial" class="footer-link">Historial de reparaciones</a></li>
+            <li><a routerLink="/perfil" class="footer-link">Mi perfil</a></li>
+          }
         </ul>
       </div>
 

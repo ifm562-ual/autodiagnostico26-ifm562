@@ -1,5 +1,27 @@
 export type ChatRoomType = 'SEGUIMIENTO';
 export type ChatSenderRole = 'MECANICO' | 'USUARIO';
+export type AuthUserRole = 'USER' | 'TALLER' | 'ADMIN';
+
+export interface AuthLoginRequest {
+  email: string;
+  password: string;
+}
+
+export interface AuthRegisterRequest {
+  fullName: string;
+  email: string;
+  password: string;
+  role: AuthUserRole;
+}
+
+export interface AuthUserResponse {
+  id: number;
+  fullName: string;
+  email: string;
+  role: AuthUserRole;
+  avatarUrl: string;
+  createdAt: string;
+}
 
 export interface ChatJoinResponse {
   roomType: ChatRoomType;

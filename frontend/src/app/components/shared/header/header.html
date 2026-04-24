@@ -33,7 +33,7 @@
       <div class="header-actions">
 
         <!-- No autenticado -->
-        @if (!isLoggedIn) {
+        @if (!authStateService.isLoggedIn()) {
           <button class="user-btn" (click)="onLogin()" aria-label="Iniciar sesión">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
                  stroke="currentColor" stroke-width="1.8" aria-hidden="true">
@@ -48,13 +48,13 @@
         }
 
         <!-- Autenticado -->
-        @if (isLoggedIn) {
+        @if (authStateService.isLoggedIn()) {
           <button class="user-btn" (click)="toggleMenu()"
                   [attr.aria-expanded]="menuOpen" aria-label="Menú de usuario">
-            <img [src]="userAvatar" [alt]="userName" class="avatar-img" width="36" height="36"/>
+            <img [src]="authStateService.userAvatar()" [alt]="authStateService.userName()" class="avatar-img" width="36" height="36"/>
             <div class="user-btn-text">
               <span class="user-btn-title">Mi cuenta</span>
-              <span class="user-btn-sub">{{ userName }}</span>
+              <span class="user-btn-sub">{{ authStateService.userName() }}</span>
             </div>
             <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
                  stroke="currentColor" stroke-width="2.5" aria-hidden="true"
@@ -67,7 +67,9 @@
             <div class="dropdown" role="menu">
               <a routerLink="/perfil"         class="dropdown-item" role="menuitem">Mi perfil</a>
               <a routerLink="/mis-vehiculos"   class="dropdown-item" role="menuitem">Mis vehículos</a>
-              <a routerLink="/seguimiento"     class="dropdown-item" role="menuitem">Seguimiento</a>
+              @if (authStateService.canAccessSeguimiento()) {
+                <a routerLink="/seguimiento" class="dropdown-item" role="menuitem">Seguimiento</a>
+              }
               <hr class="dropdown-divider"/>
               <button class="dropdown-item dropdown-item--danger"
                       (click)="onLogout()" role="menuitem">Cerrar sesión</button>
@@ -98,10 +100,12 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
         Repuestos
       </a>
-      <a routerLink="/seguimiento"   routerLinkActive="nav-item--active" class="nav-item">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
-        Seguimiento
-      </a>
+      @if (authStateService.canAccessSeguimiento()) {
+        <a routerLink="/seguimiento" routerLinkActive="nav-item--active" class="nav-item">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          Seguimiento
+        </a>
+      }
       <a routerLink="/presupuesto"   routerLinkActive="nav-item--active" class="nav-item">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
         Presupuesto
@@ -129,7 +133,9 @@
       <a routerLink="/diagnostico" class="mobile-nav-link" (click)="toggleMobileMenu()">Diagnóstico</a>
       <a routerLink="/taller"      class="mobile-nav-link" (click)="toggleMobileMenu()">Taller</a>
       <a routerLink="/repuestos"   class="mobile-nav-link" (click)="toggleMobileMenu()">Repuestos</a>
-      <a routerLink="/seguimiento" class="mobile-nav-link" (click)="toggleMobileMenu()">Seguimiento</a>
+      @if (authStateService.canAccessSeguimiento()) {
+        <a routerLink="/seguimiento" class="mobile-nav-link" (click)="toggleMobileMenu()">Seguimiento</a>
+      }
       <a routerLink="/presupuesto" class="mobile-nav-link" (click)="toggleMobileMenu()">Presupuesto</a>
       <a routerLink="/historial"   class="mobile-nav-link" (click)="toggleMobileMenu()">Historial</a>
       <a routerLink="/contacto"    class="mobile-nav-link" (click)="toggleMobileMenu()">Contacto</a>

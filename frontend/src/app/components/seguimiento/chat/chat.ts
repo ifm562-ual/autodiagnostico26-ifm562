@@ -1,8 +1,9 @@
 import { isPlatformBrowser } from '@angular/common';
-import { Component, Inject, OnDestroy, OnInit, PLATFORM_ID } from '@angular/core';
+import { ChangeDetectorRef, Component, Inject, NgZone, OnDestroy, OnInit, PLATFORM_ID } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { ChatApiService } from '../../../services/chat-api.service';
 import { ChatMessageRequest, ChatMessageResponse, ChatRoomType } from '../../../services/api.models';
+import { AuthStateService } from '../../../services/auth-state.service';
 
 type ChatAuthor = 'mecanico' | 'usuario';
 
@@ -35,11 +36,14 @@ export class SeguimientoChatComponent implements OnInit, OnDestroy {
 
   constructor(
     private readonly chatApiService: ChatApiService,
+    private readonly authStateService: AuthStateService,
+    private readonly cdr: ChangeDetectorRef,
+    private readonly ngZone: NgZone,
     @Inject(PLATFORM_ID) private readonly platformId: object
   ) {}
 
   ngOnInit(): void {
-    if (!isPlatformBrowser(this.platformId)) {
+    if (!isPlatformBrowser(this.platformId) || !this.authStateService.canAccessSeguimiento()) {
       return;
     }
 
@@ -58,7 +62,7 @@ export class SeguimientoChatComponent implements OnInit, OnDestroy {
   }
 
   ngOnDestroy(): void {
-    if (!isPlatformBrowser(this.platformId)) {
+    if (!isPlatformBrowser(this.platformId) || !this.authStateService.canAccessSeguimiento()) {
       return;
     }
 
@@ -129,10 +133,15 @@ export class SeguimientoChatComponent implements OnInit, OnDestroy {
 
   private startMessageRefresh(): void {
     this.stopMessageRefresh();
-    this.messageRefreshTimerId = window.setInterval(() => {
-      this.fetchNewMessages();
-      this.refreshPresence();
-    }, 2500);
+    this.ngZone.runOutsideAngular(() => {
+      this.messageRefreshTimerId = window.setInterval(() => {
+        this.ngZone.run(() => {
+          this.fetchNewMessages();
+          this.refreshPresence();
+          this.cdr.detectChanges();
+        });
+      }, 2500);
+    });
   }
 
   private stopMessageRefresh(): void {

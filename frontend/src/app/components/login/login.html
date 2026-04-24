@@ -1,0 +1,106 @@
+<section class="login-shell">
+  <div class="login-card">
+    <div class="login-copy">
+      <p class="eyebrow">Acceso seguro</p>
+      <h1>
+        @if (mode === 'login') {
+          Inicia sesión para continuar con Seguimiento
+        } @else {
+          Crea tu cuenta para entrar al sistema
+        }
+      </h1>
+      <p class="intro">
+        @if (mode === 'login') {
+          Solo los usuarios autenticados pueden ver el seguimiento y el chat.
+        } @else {
+          Registra tu perfil como usuario, taller o administrador y empieza a usar el sistema.
+        }
+      </p>
+
+      <div class="role-strip">
+        @for (card of roleCards; track card.role) {
+          <button type="button" class="role-chip" [class.role-chip--active]="selectedRole === card.role" (click)="selectedRole = card.role">
+            <span>{{ card.title }}</span>
+            <small>{{ card.description }}</small>
+          </button>
+        }
+      </div>
+    </div>
+
+    <form class="login-form" (ngSubmit)="submit()">
+      <div class="mode-switch">
+        <button type="button" class="mode-switch-btn" [class.mode-switch-btn--active]="mode === 'login'" (click)="switchMode('login')">Iniciar sesión</button>
+        <button type="button" class="mode-switch-btn" [class.mode-switch-btn--active]="mode === 'register'" (click)="switchMode('register')">Crear cuenta</button>
+      </div>
+
+      @if (mode === 'register') {
+        <label class="field">
+          <span>Nombre completo</span>
+          <input type="text" [(ngModel)]="fullName" name="fullName" autocomplete="name" placeholder="Pablo Martín" />
+        </label>
+      }
+
+      <label class="field">
+        <span>Correo electrónico</span>
+        <input type="email" [(ngModel)]="email" name="email" autocomplete="email" placeholder="correo@ejemplo.com" />
+      </label>
+
+      <label class="field">
+        <span>Contraseña</span>
+        <input type="password" [(ngModel)]="password" name="password" autocomplete="current-password" placeholder="••••••••" />
+      </label>
+
+      @if (mode === 'register') {
+        <label class="field">
+          <span>Confirmar contraseña</span>
+          <input type="password" [(ngModel)]="confirmPassword" name="confirmPassword" autocomplete="new-password" placeholder="••••••••" />
+        </label>
+      }
+
+      @if (mode === 'register') {
+        <div class="field role-select">
+          <span>Rol</span>
+          <div class="radio-group">
+            @for (card of roleCards; track card.role) {
+              <label class="radio-pill">
+                <input type="radio" name="role" [value]="card.role" [(ngModel)]="selectedRole" />
+                <span>{{ card.title }}</span>
+              </label>
+            }
+          </div>
+        </div>
+      }
+
+      @if (errorMessage) {
+        <p class="error-message">{{ errorMessage }}</p>
+      }
+
+      <label class="remember-row">
+        <input type="checkbox" [(ngModel)]="keepSession" name="keepSession" />
+        <span>Recordarme en este dispositivo</span>
+      </label>
+
+      <button type="submit" class="primary-btn" [disabled]="isSubmitting">
+        @if (isSubmitting) {
+          Procesando...
+        } @else if (mode === 'login') {
+          Entrar
+        } @else {
+          Crear cuenta
+        }
+      </button>
+
+      @if (mode === 'login') {
+        <p class="helper-text">
+          ¿No tienes cuenta?
+          <button type="button" class="inline-link" (click)="switchMode('register')">Crear cuenta</button>
+        </p>
+      } @else {
+        <p class="helper-text">
+          ¿Ya tienes cuenta?
+          <button type="button" class="inline-link" (click)="switchMode('login')">Iniciar sesión</button>
+        </p>
+      }
+    </form>
+  </div>
+</section>

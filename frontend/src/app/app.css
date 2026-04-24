@@ -4,6 +4,6 @@
   min-height: 100dvh;
 }
 
-main {
-  flex: 1;  /* ocupa todo el espacio disponible entre header y footer */
+.app-shell {
+  flex: 1;
 }

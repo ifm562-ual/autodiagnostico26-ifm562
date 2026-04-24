@@ -1,16 +1,7 @@
-<main style="
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 16px;
-  background: #F3F3F3;
-  padding: 2rem;
-  box-sizing: border-box;
-">
-  <app-buscar-matricula />
-  <app-selecciona-problema />
+<app-header />
+
+<main class="app-shell">
+<router-outlet />
 </main>
 
-<router-outlet />
+<app-footer />

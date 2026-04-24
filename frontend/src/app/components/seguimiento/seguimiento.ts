@@ -3,6 +3,7 @@ import { Component, Inject, OnInit, PLATFORM_ID } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { ChatApiService } from '../../services/chat-api.service';
 import { ChatRoomType } from '../../services/api.models';
+import { AuthStateService } from '../../services/auth-state.service';
 
 @Component({
   selector: 'app-seguimiento-page',
@@ -20,11 +21,12 @@ export class SeguimientoComponent implements OnInit {
 
   constructor(
     private readonly chatApiService: ChatApiService,
+    private readonly authStateService: AuthStateService,
     @Inject(PLATFORM_ID) private readonly platformId: object
   ) {}
 
   ngOnInit(): void {
-    if (!isPlatformBrowser(this.platformId)) {
+    if (!isPlatformBrowser(this.platformId) || !this.authStateService.canAccessSeguimiento()) {
       return;
     }
 

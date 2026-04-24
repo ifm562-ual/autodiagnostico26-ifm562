@@ -1,0 +1,15 @@
+:host {
+  display: block;
+}
+
+.home-page {
+  min-height: calc(100dvh - 240px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  background: #f3f3f3;
+  padding: 2rem;
+  box-sizing: border-box;
+}

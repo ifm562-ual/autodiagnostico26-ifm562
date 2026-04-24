@@ -1,6 +1,7 @@
-import { Component, HostListener } from '@angular/core';
-import { RouterLink, RouterLinkActive } from '@angular/router';
+import { Component, HostListener, inject } from '@angular/core';
+import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { AuthStateService } from '../../../services/auth-state.service';
 
 @Component({
   selector: 'app-header',
@@ -10,10 +11,9 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './header.css'
 })
 export class HeaderComponent {
+  readonly authStateService = inject(AuthStateService);
+  private readonly router = inject(Router);
 
-  isLoggedIn   = false;
-  userName     = 'Pablo M.';
-  userAvatar   = 'https://api.dicebear.com/9.x/initials/svg?seed=PM&backgroundColor=1a6bbd';
   menuOpen     = false;
   mobileMenuOpen = false;
   searchQuery  = '';
@@ -22,12 +22,11 @@ export class HeaderComponent {
   toggleMobileMenu(): void { this.mobileMenuOpen = !this.mobileMenuOpen; }
 
   onLogin(): void {
-    // TODO: router.navigate(['/login'])
-    console.log('Navegar a login');
+    void this.router.navigate(['/login']);
   }
 
   onLogout(): void {
-    this.isLoggedIn = false;
+    this.authStateService.clearSession();
     this.menuOpen = false;
   }
 

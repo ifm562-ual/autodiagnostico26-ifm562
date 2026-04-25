@@ -1,0 +1,173 @@
+{
+  "models": [
+    {
+      "modelName": "VF 6",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "VF 6 Eco FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "174 hp / 128 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 6 Plus FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "VinFast VF 6 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "273.0 cm / 107.48 pulgadas",
+            "Alto:": "159.4 cm / 62.76 pulgadas",
+            "Potencia:": "de 174 PS / 172 HP / 128 kW a 204 PS / 201 HP / 150 kW",
+            "Largo:": "423.8 cm / 166.85 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "2023"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13277/VF-6"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/1983/13277/w170_VinFast-VF-6-fc8a7a844f37541f9f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13277/VF-6"
+    },
+    {
+      "modelName": "VF 7",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "VF 7 Eco FWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 7 Plus AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "354 hp / 260 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "VinFast VF 7 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "284.0 cm / 111.81 pulgadas",
+            "Alto:": "163.6 cm / 64.41 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 354 PS / 349 HP / 260 kW",
+            "Largo:": "454.5 cm / 178.94 pulgadas",
+            "Ancho:": "189.0 cm / 74.41 pulgadas",
+            "Período de producción:": "2023"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13278/VF-7"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/1983/13278/w170_VinFast-VF-7-6f0dd8bfb6bcc50b1f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13278/VF-7"
+    },
+    {
+      "modelName": "VF 8",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "VF 8 Eco 82 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "353 hp / 260 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 8 Eco 87.7 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "353 hp / 260 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 8 Plus 82 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 8 Plus 87.7 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "VinFast VF 8 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "295.0 cm / 116.14 pulgadas",
+            "Alto:": "166.7 cm / 65.63 pulgadas",
+            "Potencia:": "de 353 PS / 348 HP / 260 kW a 408 PS / 402 HP / 300 kW",
+            "Largo:": "475.0 cm / 187.01 pulgadas",
+            "Ancho:": "193.4 cm / 76.14 pulgadas",
+            "Período de producción:": "2022"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13000/VF-8"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/1983/13000/w170_VinFast-VF-8-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13000/VF-8"
+    },
+    {
+      "modelName": "VF 9",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "VF 9 Eco 123 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 9 Eco 92 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 9 Plus 123 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "VF 9 Plus 92 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "VinFast VF 9 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "315.0 cm / 124.02 pulgadas",
+            "Alto:": "169.6 cm / 66.77 pulgadas",
+            "Potencia:": "408 PS / 402 HP / 300 kW",
+            "Largo:": "511.8 cm / 201.5 pulgadas",
+            "Ancho:": "225.4 cm / 88.74 pulgadas",
+            "Período de producción:": "2022"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13001/VF-9"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/1983/13001/w170_VinFast-VF-9-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/VinFast/M13001/VF-9"
+    }
+  ],
+  "brandName": "VinFast"
+}

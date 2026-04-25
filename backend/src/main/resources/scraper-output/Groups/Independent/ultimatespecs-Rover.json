@@ -1,0 +1,1323 @@
+{
+  "models": [
+    {
+      "modelName": "75",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "75 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "75 1.8 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "75 2.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "75 2.5 V6 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "75 4.6 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "4601 cm3 (280.8 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "75 2.0 CDT Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "75 2.0 CDTI Ficha Tecnica",
+              "Cilindrada": "1951 cm3 (119.1 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Rover 75 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Consumos Medio:": "13.4 L/100 km / 21 MPG UK / 18 MPG US",
+            "Alto:": "142.7 cm / 56.18 pulgadas",
+            "Potencia:": "de 116 PS / 114 HP / 85 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "474.5 cm / 186.81 pulgadas",
+            "Ancho:": "177.8 cm / 70 pulgadas",
+            "Período de producción:": "de 1999 a 2005",
+            "Cilindrada:": "de 1795 cm3 / 109.5 cu-in a 4601 cm3 / 280.8 cu-in",
+            "Peso:": "de 1375 kg / 3031 lbs a 1655 kg / 3649 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1014/75"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1014/w170_Rover-75-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1014/75"
+    },
+    {
+      "modelName": "CityRover",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CityRover 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1405 cm3 (85.7 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Rover CityRover Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Consumos Medio:": "7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "85 PS / 84 HP / 63 kW",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "2005",
+            "Cilindrada:": "1405 cm3 / 85.7 cu-in",
+            "Peso:": "1030 kg / 2271 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1019/CityRover"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1019/w170_Rover-CityRover-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1019/CityRover"
+    },
+    {
+      "modelName": "45",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "45 2.0 IDT 113 Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Rover 45 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Emisiones de CO2:": "154 g/Km",
+            "Potencia:": "113 PS / 111 HP / 83 kW",
+            "Largo:": "436.0 cm / 171.65 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 2004 a 2005",
+            "Cilindrada:": "1994 cm3 / 121.7 cu-in",
+            "Peso:": "1305 kg / 2877 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1012/45"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1012/w170_Rover-45-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1012/45"
+    },
+    {
+      "modelName": "25",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "25 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "25 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "108 hp / 79 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "25 1.8 auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "25 Vi auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "2000"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "25 2.0 IDT Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "113 hp / 83 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "25 2.0 IDT 100 Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Rover 25 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 5.2 L/100 km / 54 MPG UK / 45 MPG US a 7.5 L/100 km / 38 MPG UK / 31 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 100 PS / 99 HP / 74 kW a 145 PS / 143 HP / 107 kW",
+            "Largo:": "399.0 cm / 157.09 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1999 a 2005",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1130 kg / 2491 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1009/25"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1009/w170_Rover-25-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1009/25"
+    },
+    {
+      "modelName": "Streetwise",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Streetwise 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Streetwise 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "108 hp / 79 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Streetwise 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Streetwise 2.0 IDT Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Rover Streetwise Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.2 L/100 km / 34 MPG UK / 29 MPG US",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Potencia:": "de 101 PS / 100 HP / 74 kW a 115 PS / 113 HP / 85 kW",
+            "Largo:": "398.0 cm / 156.69 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2003 a 2005",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1015 kg / 2238 lbs a 1120 kg / 2469 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1022/Streetwise"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1022/w170_Rover-Streetwise-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1022/Streetwise"
+    },
+    {
+      "modelName": "400 II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "400 II 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "400 II 1.4 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "400 II 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "108 hp / 79 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "400 II 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "117 hp / 86 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "400 II 2.0 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "400 II 414i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "400 II 416 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "400 II 420 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "400 II 420 D Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "400 II 420 Di Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Rover 400 II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 86 PS / 85 HP / 63 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "449.0 cm / 176.77 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1995 a 2005",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1075 kg / 2370 lbs a 1340 kg / 2954 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1011/400-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1011/w170_Rover-400-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1011/400-II"
+    },
+    {
+      "modelName": "200 III",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 III 200 BRM Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "145 hp / 107 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "200 III 200Vi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1796 cm3 (109.6 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "200 III 214 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "200 III 214i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "200 III 216 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1589 cm3 (97 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "200 III 220 D Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1996"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "200 III 220 TD Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 III Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 5.6 L/100 km / 50 MPG UK / 42 MPG US a 5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 145 PS / 143 HP / 107 kW",
+            "Largo:": "397.0 cm / 156.3 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1996 a 1999",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 963 kg / 2123 lbs a 1083 kg / 2388 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1008/200-III"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1008/w170_Rover-200-III-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1008/200-III"
+    },
+    {
+      "modelName": "600",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "600 618i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1850 cm3 (112.9 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "600 620i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "600 620Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "600 623 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2259 cm3 (137.9 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "1994"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "600 620Di Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Rover 600 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "272.0 cm / 107.09 pulgadas",
+            "Consumos Medio:": "de 5.7 L/100 km / 50 MPG UK / 41 MPG US a 9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 105 PS / 104 HP / 77 kW a 158 PS / 156 HP / 116 kW",
+            "Largo:": "464.0 cm / 182.68 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1993 a 1999",
+            "Cilindrada:": "de 1850 cm3 / 112.9 cu-in a 2259 cm3 / 137.9 cu-in",
+            "Peso:": "de 1213 kg / 2674 lbs a 1300 kg / 2866 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1013/600"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1013/w170_Rover-600-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1013/600"
+    },
+    {
+      "modelName": "100 Cabriolet",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "100 Cabriolet 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1120 cm3 (68.3 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Rover 100 Cabriolet Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "227.0 cm / 89.37 pulgadas",
+            "Consumos Medio:": "6.2 L/100 km / 46 MPG UK / 38 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "60 PS / 59 HP / 44 kW",
+            "Largo:": "356.0 cm / 140.16 pulgadas",
+            "Ancho:": "156.0 cm / 61.42 pulgadas",
+            "Período de producción:": "de 1995 a 1996",
+            "Cilindrada:": "1120 cm3 / 68.3 cu-in",
+            "Peso:": "865 kg / 1907 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1001/100-Cabriolet"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1001/w170_Rover-100-Cabriolet-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1001/100-Cabriolet"
+    },
+    {
+      "modelName": "100",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "100 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1120 cm3 (68.3 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "100 1.1 ate97 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1120 cm3 (68.3 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "100 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "100 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "100 1.4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "100 1.4 GTi 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "100 1.4 GTi 16v MPI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "100 1.4D Ficha Tecnica",
+              "Cilindrada": "1390 cm3 (84.8 cu-in)",
+              "Potencia": "38 hp / 28 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Rover 100 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "227.0 cm / 89.37 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 38 PS / 37 HP / 28 kW a 103 PS / 102 HP / 76 kW",
+            "Largo:": "352.0 cm / 138.58 pulgadas",
+            "Ancho:": "156.0 cm / 61.42 pulgadas",
+            "Período de producción:": "de 1990 a 1997",
+            "Cilindrada:": "de 1120 cm3 / 68.3 cu-in a 1396 cm3 / 85.2 cu-in",
+            "Peso:": "de 806 kg / 1777 lbs a 875 kg / 1929 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1000/100"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1000/w170_Rover-100-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1000/100"
+    },
+    {
+      "modelName": "Tourer",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Tourer 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Tourer 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1588 cm3 (96.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Tourer Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "1769 cm3 (108 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1995"
+            }
+          ],
+          "actualFinalModelName": "Rover Tourer Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 5.7 L/100 km / 50 MPG UK / 41 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 88 PS / 87 HP / 65 kW a 112 PS / 110 HP / 82 kW",
+            "Largo:": "437.0 cm / 172.05 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1995 a 1999",
+            "Cilindrada:": "de 1588 cm3 / 96.9 cu-in a 1769 cm3 / 108 cu-in",
+            "Peso:": "de 1075 kg / 2370 lbs a 1090 kg / 2403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1023/Tourer"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1023/w170_Rover-Tourer-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1023/Tourer"
+    },
+    {
+      "modelName": "200 II 3 door",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 II 3 door 214 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "200 II 3 door 214 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "200 II 3 door 214i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "200 II 3 door 216 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "200 II 3 door 220 GSi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "200 II 3 door 220 GTI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 II 3 door Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 6.6 L/100 km / 43 MPG UK / 36 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 981 kg / 2163 lbs a 1147 kg / 2529 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1004/200-II-3-door"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1004/w170_Rover-200-II-3-door-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1004/200-II-3-door"
+    },
+    {
+      "modelName": "200 Cabriolet",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 Cabriolet 214 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "200 Cabriolet 216 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 Cabriolet Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 8.5 L/100 km / 33 MPG UK / 28 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 103 PS / 102 HP / 76 kW a 122 PS / 120 HP / 90 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1992 a 1996",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1590 cm3 / 97 cu-in",
+            "Peso:": "de 1071 kg / 2361 lbs a 1112 kg / 2452 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1006/200-Cabriolet"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1006/w170_Rover-200-Cabriolet-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1006/200-Cabriolet"
+    },
+    {
+      "modelName": "200 II Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 II Coupe 216 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "200 II Coupe 220 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "200 II Coupe 220 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 II Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 8.3 L/100 km / 34 MPG UK / 28 MPG US a 8.4 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 122 PS / 120 HP / 90 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "427.0 cm / 168.11 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1993 a 1996",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1085 kg / 2392 lbs a 1185 kg / 2612 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1005/200-II-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1005/w170_Rover-200-II-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1005/200-II-Coupe"
+    },
+    {
+      "modelName": "Estate",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Estate 2.0 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Estate 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1991"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Estate 2.0 DT Ficha Tecnica",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Rover Estate Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Consumos Medio:": "de 5.2 L/100 km / 54 MPG UK / 45 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Potencia:": "de 82 PS / 81 HP / 60 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "171.0 cm / 67.32 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1120 kg / 2469 lbs a 1197 kg / 2639 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1020/Estate"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1020/w170_Rover-Estate-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1020/Estate"
+    },
+    {
+      "modelName": "800 Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "800 Coupe 827 i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "800 Coupe 827 i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Rover 800 Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "277.0 cm / 109.06 pulgadas",
+            "Consumos Medio:": "9.6 L/100 km / 29 MPG UK / 25 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "170 PS / 168 HP / 125 kW",
+            "Largo:": "488.0 cm / 192.13 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1992 a 1995",
+            "Cilindrada:": "2675 cm3 / 163.2 cu-in",
+            "Peso:": "1480 kg / 3263 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1018/800-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1018/w170_Rover-800-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1018/800-Coupe"
+    },
+    {
+      "modelName": "800 (R17) Sedan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "800 (R17) Sedan 820 Ti Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "180 hp / 132 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "800 (R17) Sedan 820i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "800 (R17) Sedan 825 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2497 cm3 (152.4 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "800 (R17) Sedan 827 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "169 hp / 124 kW",
+              "Año": "1992"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "800 (R17) Sedan 825 SD Turbo Ficha Tecnica",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Rover 800 (R17) Sedan Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "276.6 cm / 108.9 pulgadas",
+            "Consumos Medio:": "de 6.4 L/100 km / 44 MPG UK / 37 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 118 PS / 116 HP / 87 kW a 180 PS / 178 HP / 132 kW",
+            "Largo:": "488.0 cm / 192.13 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 1992 a 1998",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2675 cm3 / 163.2 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1407 kg / 3102 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1017/800-(R17)-Sedan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1017/w170_Rover-800-(R17)-Sedan-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1017/800-(R17)-Sedan"
+    },
+    {
+      "modelName": "200 II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 II 214 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "200 II 214 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "200 II 214i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "200 II 216 GSi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1990"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "200 II 218 GSD Turbo Ficha Tecnica",
+              "Cilindrada": "1769 cm3 (108 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 112 PS / 110 HP / 82 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1990 a 1996",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1769 cm3 / 108 cu-in",
+            "Peso:": "de 1001 kg / 2207 lbs a 1187 kg / 2617 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1003/200-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1003/w170_Rover-200-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1003/200-II"
+    },
+    {
+      "modelName": "400 I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "400 I 414 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "400 I 414 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1396 cm3 (85.2 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "400 I 416GSi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "400 I 416SLi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "400 I 420 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1992"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "400 I 418 GSD Turbo Ficha Tecnica",
+              "Cilindrada": "1769 cm3 (108 cu-in)",
+              "Potencia": "88 hp / 65 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Rover 400 I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 88 PS / 87 HP / 65 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "437.0 cm / 172.05 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "de 1396 cm3 / 85.2 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1019 kg / 2247 lbs a 1150 kg / 2535 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1010/400-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1010/w170_Rover-400-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1010/400-I"
+    },
+    {
+      "modelName": "Mini",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Mini 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Mini Cooper Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1275 cm3 (77.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Rover Mini Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "204.0 cm / 80.31 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 7.3 L/100 km / 39 MPG UK / 32 MPG US",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Potencia:": "de 53 PS / 52 HP / 39 kW a 63 PS / 62 HP / 46 kW",
+            "Largo:": "305.0 cm / 120.08 pulgadas",
+            "Ancho:": "144.0 cm / 56.69 pulgadas",
+            "Período de producción:": "de 1991 a 1996",
+            "Cilindrada:": "1275 cm3 / 77.8 cu-in",
+            "Peso:": "de 620 kg / 1367 lbs a 635 kg / 1400 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1021/Mini"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1021/w170_Rover-Mini-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1021/Mini"
+    },
+    {
+      "modelName": "800 Fastback",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "800 Fastback 820 Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1996 cm3 (121.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "800 Fastback 820e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "800 Fastback 820i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "800 Fastback 827 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "169 hp / 124 kW",
+              "Año": "1988"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "800 Fastback 825 Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "2500 cm3 (152.6 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "Rover 800 Fastback Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "276.0 cm / 108.66 pulgadas",
+            "Consumos Medio:": "de 6.5 L/100 km / 43 MPG UK / 36 MPG US a 10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 118 PS / 116 HP / 87 kW a 169 PS / 167 HP / 124 kW",
+            "Largo:": "469.0 cm / 184.65 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1988 a 1992",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2675 cm3 / 163.2 cu-in",
+            "Peso:": "de 1300 kg / 2866 lbs a 1425 kg / 3142 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1016/800-Fastback"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1016/w170_Rover-800-Fastback-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1016/800-Fastback"
+    },
+    {
+      "modelName": "800 Sedan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "800 Sedan 820e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "800 Sedan 820i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "800 Sedan 820Si Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "133 hp / 98 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "800 Sedan 825 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2494 cm3 (152.2 cu-in)",
+              "Potencia": "173 hp / 127 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "800 Sedan 827 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2675 cm3 (163.2 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "Rover 800 Sedan Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "275.0 cm / 108.27 pulgadas",
+            "Consumos Medio:": "de 8.1 L/100 km / 35 MPG UK / 29 MPG US a 10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 120 PS / 118 HP / 88 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "469.0 cm / 184.65 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1986 a 1992",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2675 cm3 / 163.2 cu-in",
+            "Peso:": "de 1269 kg / 2798 lbs a 1466 kg / 3232 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1015/800-Sedan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1015/w170_Rover-800-Sedan-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1015/800-Sedan"
+    },
+    {
+      "modelName": "200 I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "200 I 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1342 cm3 (81.9 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "200 I 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1985"
+            },
+            {
+              "Motores de Gasolina": "200 I 1.6 EFi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "1985"
+            }
+          ],
+          "actualFinalModelName": "Rover 200 I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Consumos Medio:": "de 6.7 L/100 km / 42 MPG UK / 35 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 71 PS / 70 HP / 52 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "415.5 cm / 163.58 pulgadas",
+            "Ancho:": "162.5 cm / 63.98 pulgadas",
+            "Período de producción:": "de 1985 a 1990",
+            "Cilindrada:": "de 1342 cm3 / 81.9 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 870 kg / 1918 lbs a 945 kg / 2083 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1002/200-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/1002/w170_Rover-200-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M1002/200-I"
+    },
+    {
+      "modelName": "SD1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SD1 2000 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "SD1 2300 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2350 cm3 (143.4 cu-in)",
+              "Potencia": "118 hp / 87 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "SD1 2600 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2597 cm3 (158.5 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1977"
+            },
+            {
+              "Motores de Gasolina": "SD1 3500 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3528 cm3 (215.3 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "1976"
+            },
+            {
+              "Motores de Gasolina": "SD1 Vitesse Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3528 cm3 (215.3 cu-in)",
+              "Potencia": "193 hp / 142 kW",
+              "Año": "1982"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SD1 2400 Turbo Diesel Ficha Tecnica",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Rover SD1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "281.5 cm / 110.83 pulgadas",
+            "Consumos Medio:": "de 11.4 L/100 km / 25 MPG UK / 21 MPG US a 13 L/100 km / 22 MPG UK / 18 MPG US",
+            "Alto:": "138.5 cm / 54.53 pulgadas",
+            "Potencia:": "de 91 PS / 90 HP / 67 kW a 193 PS / 190 HP / 142 kW",
+            "Largo:": "469.8 cm / 184.96 pulgadas",
+            "Ancho:": "176.8 cm / 69.61 pulgadas",
+            "Período de producción:": "de 1976 a 1987",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 3528 cm3 / 215.3 cu-in",
+            "Peso:": "de 1270 kg / 2800 lbs a 1475 kg / 3252 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M107/SD1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/24/107/w170_Rover-SD1-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rover/M107/SD1"
+    }
+  ],
+  "brandName": "Rover"
+}

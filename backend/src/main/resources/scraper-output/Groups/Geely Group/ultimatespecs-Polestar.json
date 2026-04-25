@@ -1,0 +1,227 @@
+{
+  "models": [
+    {
+      "modelName": "1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "1969 cm3 (120.2 cu-in)",
+              "Potencia": "609 hp / 448 kW",
+              "Plugin Híbrido": "1 T8R Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Polestar 1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "274.2 cm / 107.95 pulgadas",
+            "Consumos Medio:": "de 0.7 L/100 km / 404 MPG UK / 336 MPG US a 1.3 L/100 km / 217 MPG UK / 181 MPG US",
+            "Alto:": "135.2 cm / 53.23 pulgadas",
+            "Emisiones de CO2:": "de 15 a 30 g/Km",
+            "Potencia:": "de 309 PS / 305 HP / 227 kW a 609 PS / 601 HP / 448 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "458.6 cm / 180.55 pulgadas",
+            "Ancho:": "195.8 cm / 77.09 pulgadas",
+            "Período de producción:": "2020",
+            "Peso:": "2364 kg / 5212 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M10770/1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/930/10770/w170_Polestar-14_05_2020__1-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M10770/1"
+    },
+    {
+      "modelName": "2",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "2 63kWh Single Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "63 kWh"
+            },
+            {
+              "Eléctrico": "2 78kWh Dual Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "408 hp / 300 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "78 kWh"
+            },
+            {
+              "Eléctrico": "2 78kWh Dual Motor Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "78.0 kWh"
+            },
+            {
+              "Eléctrico": "2 78kWh Single Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "231 hp / 170 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "78 kWh"
+            }
+          ],
+          "actualFinalModelName": "Polestar 2 (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "273.5 cm / 107.68 pulgadas",
+            "Alto:": "147.7 cm / 58.15 pulgadas",
+            "Potencia:": "de 224 PS / 221 HP / 165 kW a 476 PS / 470 HP / 350 kW",
+            "Peso de remolque:": "de 1000 kg / 2205 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "460.6 cm / 181.34 pulgadas",
+            "Ancho:": "189.1 cm / 74.45 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Peso:": "de 2015 kg / 4442 lbs a 2188 kg / 4824 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M10527/2"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "2 BST edition 230 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "2 Long Range Dual Motor 82 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "421 hp / 310 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "2 Long Range Dual Motor Performance 82 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "476 hp / 350 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "2 Long Range Single Motor 82 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "2 Standard Range Single Motor 69 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "69.0 kWh"
+            },
+            {
+              "Eléctrico": "2 Standard Range Single Motor 70 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "70.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Polestar 2 (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "273.5 cm / 107.68 pulgadas",
+            "Alto:": "145.4 cm / 57.24 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 476 PS / 470 HP / 350 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "460.6 cm / 181.34 pulgadas",
+            "Ancho:": "1.859 cm / 0.73 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Peso:": "de 2015 kg / 4442 lbs a 2188 kg / 4824 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M13249/2-(Facelift-2023)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/930/10527/w170_Polestar-2-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Polestar-models/Polestar-2"
+    },
+    {
+      "modelName": "3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "3 Long Range Dual Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "489 hp / 360 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "111.0 kWh"
+            },
+            {
+              "Eléctrico": "3 Long Range Dual Motor Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "517 hp / 380 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "111.0 kWh"
+            },
+            {
+              "Eléctrico": "3 Long Range Single Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "111.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Polestar 3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "298.5 cm / 117.52 pulgadas",
+            "Alto:": "161.4 cm / 63.54 pulgadas",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 517 PS / 510 HP / 380 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 2200 kg / 4850 lbs",
+            "Largo:": "490.0 cm / 192.91 pulgadas",
+            "Ancho:": "196.8 cm / 77.48 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "2584 kg / 5697 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M13016/3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/930/13016/w170_Polestar-3-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M13016/3"
+    },
+    {
+      "modelName": "4",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "4 Long Range Dual Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "544 hp / 400 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "102.0 kWh"
+            },
+            {
+              "Eléctrico": "4 Long Range Single Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "102.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Polestar 4 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "299.9 cm / 118.07 pulgadas",
+            "Alto:": "153.4 cm / 60.39 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 544 PS / 537 HP / 400 kW",
+            "Peso de remolque:": "de 1500 kg / 3307 lbs a 2000 kg / 4409 lbs",
+            "Largo:": "483.9 cm / 190.51 pulgadas",
+            "Ancho:": "200.8 cm / 79.06 pulgadas",
+            "Período de producción:": "2024",
+            "Peso:": "de 2230 kg / 4916 lbs a 2355 kg / 5192 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M13808/4"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/930/13808/w170_Polestar-4-304304b3774c02c560.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Polestar/M13808/4"
+    }
+  ],
+  "brandName": "Polestar"
+}

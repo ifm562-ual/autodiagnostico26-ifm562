@@ -1,0 +1,3136 @@
+{
+  "models": [
+    {
+      "modelName": "BRZ",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "BRZ 2.4 D-4S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "234 hp / 172 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "BRZ 2.4 D-4S Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "234 hp / 172 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "BRZ 2 - New Model (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "257.5 cm / 101.38 pulgadas",
+            "Consumos Medio:": "8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "131.0 cm / 51.57 pulgadas",
+            "Potencia:": "de 234 PS / 231 HP / 172 kW a 235 PS / 232 HP / 173 kW",
+            "Largo:": "426.5 cm / 167.91 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "2387 cm3 / 145.7 cu-in",
+            "Peso:": "de 1275 kg / 2811 lbs a 1300 kg / 2866 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M13292/BRZ-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "BRZ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "BRZ Aut Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "BRZ Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "BRZ Premium Aut Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "BRZ - New Model (2012 - 2017)",
+          "specifications": {
+            "Batalla:": "257.0 cm / 101.18 pulgadas",
+            "Alto:": "128.5 cm / 50.59 pulgadas",
+            "Emisiones de CO2:": "de 159 a 181 g/Km",
+            "Potencia:": "200 PS / 197 HP / 147 kW",
+            "Largo:": "424.0 cm / 166.93 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2012 a 2017",
+            "Cilindrada:": "1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1314 kg / 2897 lbs a 1337 kg / 2948 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M6329/BRZ"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/13292/w170_Subaru-BRZ-2-649ee791a142221b41.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-BRZ"
+    },
+    {
+      "modelName": "Crosstrek / XV",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Crosstrek 2.0ie Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Crosstrek / XV 3rd Generation (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "7.7 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "160.0 cm / 62.99 pulgadas",
+            "Potencia:": "136 PS / 134 HP / 100 kW",
+            "Peso de remolque:": "1270 kg / 2800 lbs",
+            "Largo:": "449.5 cm / 176.97 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "1595 kg / 3516 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M13953/Crosstrek-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XV 1.6i AWD Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0 e-Boxer AWD Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Crosstrek / XV 2nd Generation - 2021 Facelift (2021 - 2023)",
+          "specifications": {
+            "Batalla:": "266.5 cm / 104.92 pulgadas",
+            "Consumos Medio:": "8 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "161.5 cm / 63.58 pulgadas",
+            "Emisiones de CO2:": "de 149 a 180 g/Km",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 150 PS / 148 HP / 110 kW",
+            "Peso de remolque:": "1400 kg / 3086 lbs",
+            "Largo:": "448.5 cm / 176.57 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2021 a 2023",
+            "Cilindrada:": "de 1600 cm3 / 97.6 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1427 kg / 3146 lbs a 1575 kg / 3472 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M13293/XV-2-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XV 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0 156HP Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0i e-BOXER Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Crosstrek / XV 2nd Generation (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "266.5 cm / 104.92 pulgadas",
+            "Consumos Medio:": "de 6.9 L/100 km / 41 MPG UK / 34 MPG US a 8 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "159.5 cm / 62.8 pulgadas",
+            "Emisiones de CO2:": "de 145 a 180 g/Km",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 156 PS / 154 HP / 115 kW",
+            "Peso de remolque:": "de 1270 kg / 2800 lbs a 1400 kg / 3086 lbs",
+            "Largo:": "446.5 cm / 175.79 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 1600 cm3 / 97.6 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1516 kg / 3342 lbs a 1634 kg / 3602 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M9332/XV-2018"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XV 1.6 Advance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XV 1.6 Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "XV 1.6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XV 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0 CVT Lineartronic Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0 CVT Lineartronic Executive Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "XV 2.0i Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XV 2.0D Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XV 2.0D Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XV 2.0D Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "XV 2.0D Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Crosstrek / XV 1st Generation (2012 - 2017)",
+          "specifications": {
+            "Batalla:": "263.5 cm / 103.74 pulgadas",
+            "Alto:": "157.0 cm / 61.81 pulgadas",
+            "Emisiones de CO2:": "de 141 a 153 g/Km",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "445.0 cm / 175.2 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2012 a 2017",
+            "Cilindrada:": "de 1600 cm3 / 97.6 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1445 kg / 3186 lbs a 1520 kg / 3351 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M5882/XV"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/13953/w170_Subaru-Crosstrek-2024-7a06e876a967803c50.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Crosstrek---XV"
+    },
+    {
+      "modelName": "Forester",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0i e-Boxer Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SL - 2025 New Model (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "173.0 cm / 68.11 pulgadas",
+            "Potencia:": "136 PS / 134 HP / 100 kW",
+            "Peso de remolque:": "1870 kg / 4123 lbs",
+            "Largo:": "467.0 cm / 183.86 pulgadas",
+            "Ancho:": "183.0 cm / 72.05 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "1995 cm3 / 121.7 cu-in",
+            "Peso:": "1693 kg / 3732 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M15206/Forester-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0i CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "254 hp / 187 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0i e-BOXER Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.5i CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2491 cm3 (152 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SK (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Consumos Medio:": "de 8.1 L/100 km / 35 MPG UK / 29 MPG US a 9.4 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "173.5 cm / 68.31 pulgadas",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 254 PS / 251 HP / 187 kW",
+            "Peso de remolque:": "de 680 kg / 1499 lbs a 1870 kg / 4123 lbs",
+            "Largo:": "459.5 cm / 180.91 pulgadas",
+            "Ancho:": "179.5 cm / 70.67 pulgadas",
+            "Período de producción:": "de 2018 a a presente",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2491 cm3 / 152 cu-in",
+            "Peso:": "de 1602 kg / 3532 lbs a 1737 kg / 3829 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M10642/Forester-5"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 1.8 DIT AWD Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 e-Boxer AWD Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.5 AWD Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "182 hp / 134 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SK (2018 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "8.1 L/100 km / 35 MPG UK / 29 MPG US",
+            "Alto:": "173.0 cm / 68.11 pulgadas",
+            "Emisiones de CO2:": "de 154 a 185 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 182 PS / 180 HP / 134 kW",
+            "Peso de remolque:": "1870 kg / 4123 lbs",
+            "Largo:": "464.0 cm / 182.68 pulgadas",
+            "Ancho:": "181.5 cm / 71.46 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "de 1795 cm3 / 109.5 cu-in a 2498 cm3 / 152.4 cu-in",
+            "Peso:": "de 1590 kg / 3505 lbs a 1662 kg / 3664 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M13294/Forester-5-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0i Lineartronic Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0i Lineartronic Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0i Lineartronic Sport Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0XT Lineartronic Executive Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Lineartronic Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Lineartronic Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Lineartronic Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Lineartronic Sport Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0D Sport Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SJ (2012 - 2018)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Alto:": "173.5 cm / 68.31 pulgadas",
+            "Emisiones de CO2:": "de 148 a 197 g/Km",
+            "Potencia:": "de 147 PS / 145 HP / 108 kW a 241 PS / 238 HP / 177 kW",
+            "Largo:": "459.5 cm / 180.91 pulgadas",
+            "Ancho:": "179.5 cm / 70.67 pulgadas",
+            "Período de producción:": "de 2012 a 2018",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1580 kg / 3483 lbs a 1711 kg / 3772 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M8669/Forester-2016"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0 CVT Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 CVT Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 CVT Sport Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 XT CVT Executive Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "241 hp / 177 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Lineartronic Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Lineartronic Executive Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Lineartronic Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Lineartronic Sport Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Sport Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester 2.0 TD Sport Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SJ (2012 - 2018)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Alto:": "173.5 cm / 68.31 pulgadas",
+            "Emisiones de CO2:": "de 148 a 197 g/Km",
+            "Potencia:": "de 147 PS / 145 HP / 108 kW a 241 PS / 238 HP / 177 kW",
+            "Largo:": "459.5 cm / 180.91 pulgadas",
+            "Ancho:": "179.5 cm / 70.67 pulgadas",
+            "Período de producción:": "de 2012 a 2018",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1577 kg / 3477 lbs a 1711 kg / 3772 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M6703/Forester-4"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0 Classic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester Boxer Diesel Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forester Boxer Diesel Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "147 hp / 108 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SH (2008 - 2013)",
+          "specifications": {
+            "Batalla:": "261.5 cm / 102.95 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Emisiones de CO2:": "de 167 a 198 g/Km",
+            "Potencia:": "de 147 PS / 145 HP / 108 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "456.0 cm / 179.53 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2008 a 2013",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1550 kg / 3417 lbs a 1615 kg / 3560 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M1446/Forester-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0 X Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0X AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "158 hp / 116 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0XT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.5XT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "210 hp / 154 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.5XT AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SG (2002 - 2008)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Alto:": "159.0 cm / 62.6 pulgadas",
+            "Emisiones de CO2:": "de 204 a 261 g/Km",
+            "Potencia:": "de 125 PS / 123 HP / 92 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "445.0 cm / 175.2 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 2002 a 2008",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1335 kg / 2943 lbs a 1460 kg / 3219 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M399/Forester-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forester 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 S-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Forester 2.0 S-Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Forester Typ SF (1997 - 2002)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Alto:": "160.0 cm / 62.99 pulgadas",
+            "Emisiones de CO2:": "de 215 a 236 g/Km",
+            "Potencia:": "de 125 PS / 123 HP / 92 kW a 170 PS / 168 HP / 125 kW",
+            "Largo:": "445.0 cm / 175.2 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1997 a 2002",
+            "Cilindrada:": "1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1245 kg / 2745 lbs a 1380 kg / 3042 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M959/Forester-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/15206/w170_Subaru-Forester-2025-771a2565522a110b31.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Forester"
+    },
+    {
+      "modelName": "Impreza",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza 2.0 ST 2WD (US-Market) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 ST AWD (US-Market) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "154 hp / 113 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i (US-Market) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "152 hp / 112 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i e-Boxer Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.5i RS (US-Market) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "182 hp / 134 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Impresa (GU) - 2024 New Model (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 7.1 L/100 km / 40 MPG UK / 33 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "de 136 PS / 134 HP / 100 kW a 182 PS / 180 HP / 134 kW",
+            "Largo:": "447.5 cm / 176.18 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2498 cm3 / 152.4 cu-in",
+            "Peso:": "de 1390 kg / 3064 lbs a 1574 kg / 3470 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M13952/Impreza-2024"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "114 hp / 84 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i 5-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i CVT 4-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0i CVT 5-door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1999 cm3 (122 cu-in)",
+              "Potencia": "155 hp / 114 kW",
+              "Año": "2017"
+            }
+          ],
+          "actualFinalModelName": "Impreza 5 (GK/GT) (2016 - 2023)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 7.6 L/100 km / 37 MPG UK / 31 MPG US a 9 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "de 114 PS / 112 HP / 84 kW a 155 PS / 153 HP / 114 kW",
+            "Largo:": "446.0 cm / 175.59 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2016 a 2023",
+            "Cilindrada:": "de 1600 cm3 / 97.6 cu-in a 1999 cm3 / 122 cu-in",
+            "Peso:": "de 1349 kg / 2974 lbs a 1465 kg / 3230 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M9792/Impreza-5"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza 1.5R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.5R Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Classic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Rally Edition Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Rally Edition Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.5 WRX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.5 WRX STI Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "300 hp / 221 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Impreza WRX STI Hatchback Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "301 hp / 221 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza WRX STI Hatchback Sport Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "301 hp / 221 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Impreza WRX STI Sedan Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "301 hp / 221 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Impreza 2.0 Boxer Diesel Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Impreza 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Impreza 2.0 Boxer Diesel Rally Edition Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Impreza (GR) (2007 - 2011)",
+          "specifications": {
+            "Batalla:": "262.0 cm / 103.15 pulgadas",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Emisiones de CO2:": "de 152 a 246 g/Km",
+            "Potencia:": "de 107 PS / 106 HP / 79 kW a 301 PS / 297 HP / 221 kW",
+            "Largo:": "441.5 cm / 173.82 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 2007 a 2011",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1385 kg / 3053 lbs a 1580 kg / 3483 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M1414/Impreza-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza 1.5R AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 WRX AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 WRX AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "225 hp / 165 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 WRX STi AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 WRX STi AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 WRX STi AWD Prodrive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0R AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.5T AWD WRX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.5T AWD WRX STI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "280 hp / 206 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Impreza (GD/GG) (2000 - 2007)",
+          "specifications": {
+            "Batalla:": "252.5 cm / 99.41 pulgadas",
+            "Alto:": "144.0 cm / 56.69 pulgadas",
+            "Emisiones de CO2:": "de 184 a 290 g/Km",
+            "Potencia:": "de 95 PS / 94 HP / 70 kW a 280 PS / 276 HP / 206 kW",
+            "Largo:": "446.5 cm / 175.79 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 2000 a 2007",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1225 kg / 2701 lbs a 1470 kg / 3241 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M396/Impreza-(GD)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza SW 1.5R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1498 cm3 (91.4 cu-in)",
+              "Potencia": "105 hp / 77 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0 GX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0 GX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0 GX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0 WRX Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0 WRX Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "224 hp / 165 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "160 hp / 118 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW 2.5T WRX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Impreza (GD/GG) (2000 - 2007)",
+          "specifications": {
+            "Batalla:": "252.5 cm / 99.41 pulgadas",
+            "Consumos Medio:": "de 8.3 L/100 km / 34 MPG UK / 28 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "148.5 cm / 58.46 pulgadas",
+            "Potencia:": "de 105 PS / 104 HP / 77 kW a 230 PS / 227 HP / 169 kW",
+            "Largo:": "446.5 cm / 175.79 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2000 a 2007",
+            "Cilindrada:": "de 1498 cm3 / 91.4 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1310 kg / 2888 lbs a 1485 kg / 3274 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M9969/Impreza-II-SW"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.6 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Impreza 1.8 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1820 cm3 (111.1 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 GT Turbo AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 GT Turbo AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "211 hp / 155 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Impreza 2.0 GT Turbo AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Impreza (GC/GF) (1992 - 2000)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Consumos Medio:": "de 8 L/100 km / 35 MPG UK / 29 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "435.0 cm / 171.26 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1992 a 2000",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1005 kg / 2216 lbs a 1235 kg / 2723 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M960/Impreza-I"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Impreza SW 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1597 cm3 (97.5 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Impreza SW GT 2.0 Turbo AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "218 hp / 160 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Impreza (GC/GF) (1992 - 2000)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Consumos Medio:": "10.1 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 218 PS / 215 HP / 160 kW",
+            "Largo:": "435.0 cm / 171.26 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1992 a 2000",
+            "Cilindrada:": "de 1597 cm3 / 97.5 cu-in a 1994 cm3 / 121.7 cu-in",
+            "Peso:": "de 1120 kg / 2469 lbs a 1285 kg / 2833 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M9970/Impreza-I-SW"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/13952/w170_Subaru-Impreza-2024-41833f6f3318d0ceb5.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Impreza"
+    },
+    {
+      "modelName": "Justy",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Justy 1.0 12V Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "Justy (Typ M300F) (2007 - 2011)",
+          "specifications": {
+            "Batalla:": "243.0 cm / 95.67 pulgadas",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "118 g/Km",
+            "Potencia:": "69 PS / 68 HP / 51 kW",
+            "Largo:": "361.0 cm / 142.13 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 2007 a 2011",
+            "Cilindrada:": "998 cm3 / 60.9 cu-in",
+            "Peso:": "965 kg / 2127 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M1464/Justy-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Justy G3X 1.3 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "93 hp / 68 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Justy G3X 1.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1491 cm3 (91 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Justy G3X 1.3 Turbo D Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "G3X Justy (Typ MHY) (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Consumos Medio:": "5 L/100 km / 56 MPG UK / 47 MPG US",
+            "Alto:": "156.5 cm / 61.61 pulgadas",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 99 PS / 98 HP / 73 kW",
+            "Largo:": "377.0 cm / 148.43 pulgadas",
+            "Ancho:": "160.5 cm / 63.19 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "de 1248 cm3 / 76.2 cu-in a 1491 cm3 / 91 cu-in",
+            "Peso:": "de 980 kg / 2161 lbs a 1020 kg / 2249 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M395/Justy-G3X"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Justy 1.3 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Justy (Typ JMA/MS) (1995 - 2003)",
+          "specifications": {
+            "Batalla:": "226.0 cm / 88.98 pulgadas",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Emisiones de CO2:": "165 g/Km",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "374.0 cm / 147.24 pulgadas",
+            "Ancho:": "159.0 cm / 62.6 pulgadas",
+            "Período de producción:": "de 1995 a 2003",
+            "Cilindrada:": "1298 cm3 / 79.2 cu-in",
+            "Peso:": "845 kg / 1863 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M963/Justy-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Justy 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.0 ECVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2 ECVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1993"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2i ECVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "73 hp / 54 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Justy (Typ KAD Restyling) (1989 - 1995)",
+          "specifications": {
+            "Batalla:": "228.0 cm / 89.76 pulgadas",
+            "Consumos Medio:": "de 6.4 L/100 km / 44 MPG UK / 37 MPG US a 7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 50 PS / 49 HP / 37 kW a 73 PS / 72 HP / 54 kW",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "154.0 cm / 60.63 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "de 997 cm3 / 60.8 cu-in a 1189 cm3 / 72.6 cu-in",
+            "Peso:": "de 750 kg / 1653 lbs a 830 kg / 1830 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M962/Justy-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Justy 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.0 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.0 ECVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Justy 1.2 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1189 cm3 (72.6 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "Justy (Typ KAD) (1984 - 1989)",
+          "specifications": {
+            "Batalla:": "228.0 cm / 89.76 pulgadas",
+            "Consumos Medio:": "de 6 L/100 km / 47 MPG UK / 39 MPG US a 7.1 L/100 km / 40 MPG UK / 33 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 68 PS / 67 HP / 50 kW",
+            "Largo:": "354.0 cm / 139.37 pulgadas",
+            "Ancho:": "154.0 cm / 60.63 pulgadas",
+            "Período de producción:": "de 1984 a 1989",
+            "Cilindrada:": "de 997 cm3 / 60.8 cu-in a 1189 cm3 / 72.6 cu-in",
+            "Peso:": "de 690 kg / 1521 lbs a 760 kg / 1676 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M961/Justy-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/1464/w170_Subaru-Justy-IV-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Justy"
+    },
+    {
+      "modelName": "Legacy",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 2.4i Turbo CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "264 hp / 194 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.5i CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2491 cm3 (152 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BW, BT) (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "275.1 cm / 108.31 pulgadas",
+            "Consumos Medio:": "de 7.8 L/100 km / 36 MPG UK / 30 MPG US a 8.7 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "150.1 cm / 59.09 pulgadas",
+            "Potencia:": "de 185 PS / 182 HP / 136 kW a 264 PS / 260 HP / 194 kW",
+            "Largo:": "484.1 cm / 190.59 pulgadas",
+            "Ancho:": "183.9 cm / 72.4 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "de 2393 cm3 / 146 cu-in a 2491 cm3 / 152 cu-in",
+            "Peso:": "de 1598 kg / 3523 lbs a 1714 kg / 3779 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M10643/Legacy-7"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 2.5i CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2491 cm3 (152 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Legacy 3.6R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3638 cm3 (222 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BN, BS) (2014 - Presente)",
+          "specifications": {
+            "Batalla:": "275.1 cm / 108.31 pulgadas",
+            "Consumos Medio:": "de 8.1 L/100 km / 35 MPG UK / 29 MPG US a 10.2 L/100 km / 28 MPG UK / 23 MPG US",
+            "Alto:": "149.9 cm / 59.02 pulgadas",
+            "Potencia:": "de 178 PS / 176 HP / 131 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "479.6 cm / 188.82 pulgadas",
+            "Ancho:": "183.9 cm / 72.4 pulgadas",
+            "Período de producción:": "de 2014 a a presente",
+            "Cilindrada:": "de 2491 cm3 / 152 cu-in a 3638 cm3 / 222 cu-in",
+            "Peso:": "de 1590 kg / 3505 lbs a 1700 kg / 3748 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M10644/Legacy-6"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Plus Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Limited Plus Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Premium Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.0R Premium Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.5GT Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.5i Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Sedan 2.5i Sport Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Plus Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Limited Plus Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Premium Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.0R Premium Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.5GT Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "265 hp / 195 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.5i Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Legacy Station Wagon 2.5i Sport Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Premium Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0 Boxer Diesel Premium Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Sedan 2.0D Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Premium Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0 Boxer Diesel Premium Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Legacy Station Wagon 2.0D Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": ""
+            }
+          ],
+          "actualFinalModelName": "Legacy (BM, BR) (2009 - 2014)",
+          "specifications": {
+            "Batalla:": "275.0 cm / 108.27 pulgadas",
+            "Consumos Medio:": "de 5.9 L/100 km / 48 MPG UK / 40 MPG US a 10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "150.5 cm / 59.25 pulgadas",
+            "Emisiones de CO2:": "de 156 a 250 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 265 PS / 261 HP / 195 kW",
+            "Largo:": "473.0 cm / 186.22 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2009 a 2014",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1495 kg / 3296 lbs a 1661 kg / 3662 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M1374/Legacy-V"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "138 hp / 101 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Legacy 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Legacy 3.0R Spec-B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Legacy 3.0R spec.B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BL, BP) (2003 - 2009)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Emisiones de CO2:": "de 182 a 286 g/Km",
+            "Potencia:": "de 138 PS / 136 HP / 101 kW a 245 PS / 242 HP / 180 kW",
+            "Largo:": "466.0 cm / 183.46 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 2003 a 2009",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 3000 cm3 / 183.1 cu-in",
+            "Peso:": "de 1305 kg / 2877 lbs a 1510 kg / 3329 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M397/Legacy-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy SW 2.0i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "137 hp / 101 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.0R Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.0R Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 2.5i Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Legacy SW 3.0R Spec-B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BL, BP) (2003 - 2009)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "de 7.7 L/100 km / 37 MPG UK / 31 MPG US a 8.3 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Potencia:": "de 137 PS / 135 HP / 101 kW a 245 PS / 242 HP / 180 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "173.0 cm / 68.11 pulgadas",
+            "Período de producción:": "de 2003 a 2009",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 3000 cm3 / 183.1 cu-in",
+            "Peso:": "de 1450 kg / 3197 lbs a 1620 kg / 3571 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M9971/Legacy-IV-SW"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BE, BH, BT) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Alto:": "142.0 cm / 55.91 pulgadas",
+            "Emisiones de CO2:": "de 215 a 222 g/Km",
+            "Potencia:": "de 125 PS / 123 HP / 92 kW a 156 PS / 154 HP / 115 kW",
+            "Largo:": "460.0 cm / 181.1 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1410 kg / 3109 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M966/Legacy-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy III Outback 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Legacy III Outback 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Legacy III Outback 3.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2999 cm3 (183 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Legacy III Outback 3.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2999 cm3 (183 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BE, BH, BT) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Consumos Medio:": "10.5 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "de 156 PS / 154 HP / 115 kW a 209 PS / 206 HP / 154 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "174.0 cm / 68.5 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de 2457 cm3 / 149.9 cu-in a 2999 cm3 / 183 cu-in",
+            "Peso:": "de 1415 kg / 3120 lbs a 1585 kg / 3494 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M967/Legacy-III-Outback"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.2 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2212 cm3 (135 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.2 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2212 cm3 (135 cu-in)",
+              "Potencia": "131 hp / 96 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BD, BG, BK) (1993 - 1999)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Consumos Medio:": "de 8.5 L/100 km / 33 MPG UK / 28 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 116 PS / 114 HP / 85 kW a 150 PS / 148 HP / 110 kW",
+            "Largo:": "460.0 cm / 181.1 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1993 a 1999",
+            "Cilindrada:": "de 1994 cm3 / 121.7 cu-in a 2457 cm3 / 149.9 cu-in",
+            "Peso:": "de 1090 kg / 2403 lbs a 1265 kg / 2789 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M965/Legacy-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy II Outback 2.5 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BD, BG, BK) (1993 - 1999)",
+          "specifications": {
+            "Batalla:": "263.0 cm / 103.54 pulgadas",
+            "Consumos Medio:": "9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "156.0 cm / 61.42 pulgadas",
+            "Potencia:": "150 PS / 148 HP / 110 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "172.0 cm / 67.72 pulgadas",
+            "Período de producción:": "de 1993 a 1999",
+            "Cilindrada:": "2457 cm3 / 149.9 cu-in",
+            "Peso:": "1360 kg / 2998 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M8403/Legacy-II-Outback"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Legacy 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1820 cm3 (111.1 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Legacy 1.8 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1820 cm3 (111.1 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.0 Turbo 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1994 cm3 (121.7 cu-in)",
+              "Potencia": "200 hp / 147 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.2 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2212 cm3 (135 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Legacy 2.2 Turbo Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2212 cm3 (135 cu-in)",
+              "Potencia": "162 hp / 119 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Legacy (BC, BJ, BF) (1989 - 1993)",
+          "specifications": {
+            "Batalla:": "258.0 cm / 101.57 pulgadas",
+            "Consumos Medio:": "de 8.8 L/100 km / 32 MPG UK / 27 MPG US a 9.7 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 103 PS / 102 HP / 76 kW a 200 PS / 197 HP / 147 kW",
+            "Largo:": "454.0 cm / 178.74 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1989 a 1993",
+            "Cilindrada:": "de 1820 cm3 / 111.1 cu-in a 2212 cm3 / 135 cu-in",
+            "Peso:": "de 1140 kg / 2513 lbs a 1425 kg / 3142 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M964/Legacy-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/10643/w170_Subaru-Legacy-7-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Legacy"
+    },
+    {
+      "modelName": "Leone",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Leone GL Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1361 cm3 (83.1 cu-in)",
+              "Potencia": "81 hp / 60 kW",
+              "Año": "1971"
+            },
+            {
+              "Motores de Gasolina": "Leone GSR Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1361 cm3 (83.1 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Subaru Leone Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "245.5 cm / 96.65 pulgadas",
+            "Alto:": "134.5 cm / 52.95 pulgadas",
+            "Potencia:": "de 81 PS / 80 HP / 60 kW a 94 PS / 93 HP / 69 kW",
+            "Largo:": "399.5 cm / 157.28 pulgadas",
+            "Ancho:": "150 cm / 59.06 pulgadas",
+            "Período de producción:": "de 1971 a 1981",
+            "Cilindrada:": "1361 cm3 / 83.1 cu-in",
+            "Peso:": "de 760 kg / 1676 lbs a 775 kg / 1709 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M2663/Leone"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/2663/w170_Subaru-Leone-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M2663/Leone"
+    },
+    {
+      "modelName": "Levorg",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Levorg 2.4 STI AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Levorg (VN) (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "9.1 L/100 km / 31 MPG UK / 26 MPG US",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Potencia:": "275 PS / 271 HP / 202 kW",
+            "Largo:": "475.5 cm / 187.2 pulgadas",
+            "Ancho:": "179.5 cm / 70.67 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "2387 cm3 / 145.7 cu-in",
+            "Peso:": "1640 kg / 3616 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M14824/Levorg-(VN)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Levorg Layback 1.8 DIT AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1795 cm3 (109.5 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Levorg (VN) (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Consumos Medio:": "7.4 L/100 km / 38 MPG UK / 32 MPG US",
+            "Alto:": "157.0 cm / 61.81 pulgadas",
+            "Potencia:": "177 PS / 175 HP / 130 kW",
+            "Largo:": "477.0 cm / 187.8 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2024 a a presente",
+            "Cilindrada:": "1795 cm3 / 109.5 cu-in",
+            "Peso:": "1600 kg / 3527 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M14829/Levorg-Layback"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Levorg 1.6 GT-S Executive Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1600 cm3 (97.6 cu-in)",
+              "Potencia": "170 hp / 125 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Levorg (VM) (2014 - 2020)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Alto:": "149.0 cm / 58.66 pulgadas",
+            "Emisiones de CO2:": "164 g/Km",
+            "Potencia:": "170 PS / 168 HP / 125 kW",
+            "Largo:": "469.0 cm / 184.65 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2014 a 2020",
+            "Cilindrada:": "1600 cm3 / 97.6 cu-in",
+            "Peso:": "1626 kg / 3585 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M8424/Levorg"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/14824/w170_Subaru-Levorg-(VN)-d7fdf8953d440300ac.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Levorg"
+    },
+    {
+      "modelName": "Outback",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outback 2.5i (EU) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "169 hp / 124 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i (EU) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "169 hp / 124 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Outback BT - 2020 New Model (2019 - Presente)",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Consumos Medio:": "8.6 L/100 km / 33 MPG UK / 27 MPG US",
+            "Alto:": "167.5 cm / 65.94 pulgadas",
+            "Emisiones de CO2:": "de 169 a 193 g/Km",
+            "Potencia:": "169 PS / 167 HP / 124 kW",
+            "Peso de remolque:": "2000 kg / 4409 lbs",
+            "Largo:": "487.0 cm / 191.73 pulgadas",
+            "Ancho:": "187.5 cm / 73.82 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Cilindrada:": "2498 cm3 / 152.4 cu-in",
+            "Peso:": "de 1643 kg / 3622 lbs a 1757 kg / 3874 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M11854/Outback-(BT)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outback 2.5i Lineartronic Executive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Lineartronic Executive Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Lineartronic Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2498 cm3 (152.4 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 D Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 D Lineartronic Executive Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 D Sport Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2015"
+            }
+          ],
+          "actualFinalModelName": "Outback BS - 2015 New Model (2014 - 2020)",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Alto:": "160.5 cm / 63.19 pulgadas",
+            "Emisiones de CO2:": "de 145 a 161 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 175 PS / 173 HP / 129 kW",
+            "Largo:": "481.5 cm / 189.57 pulgadas",
+            "Ancho:": "184.0 cm / 72.44 pulgadas",
+            "Período de producción:": "de 2014 a 2020",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 2498 cm3 / 152.4 cu-in",
+            "Peso:": "de 1657 kg / 3653 lbs a 1751 kg / 3860 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M7826/Outback-(BS)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outback 2.5i Limited Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Limited Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Limited Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Limited Plus Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Premium Lineartronic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "167 hp / 123 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Outback 3.6 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3630 cm3 (221.5 cu-in)",
+              "Potencia": "260 hp / 191 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 Boxer Diesel Limited Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 Boxer Diesel Limited Plus Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 Boxer Diesel Premium Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Outback BR - 2010 New Model (2009 - 2014)",
+          "specifications": {
+            "Batalla:": "274.5 cm / 108.07 pulgadas",
+            "Alto:": "160.5 cm / 63.19 pulgadas",
+            "Emisiones de CO2:": "de 167 a 232 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 260 PS / 256 HP / 191 kW",
+            "Largo:": "477.5 cm / 187.99 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "de 2009 a 2014",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3630 cm3 / 221.5 cu-in",
+            "Peso:": "de 1568 kg / 3457 lbs a 1662 kg / 3664 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M1375/Outback-(BR)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outback 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5i Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "165 hp / 121 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Outback 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Outback 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Outback 2.0 Boxer Diesel Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "150 hp / 110 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Outback BP - 2004 New Model (2003 - 2009)",
+          "specifications": {
+            "Batalla:": "267.0 cm / 105.12 pulgadas",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "de 153 a 233 g/Km",
+            "Potencia:": "de 150 PS / 148 HP / 110 kW a 245 PS / 242 HP / 180 kW",
+            "Largo:": "473.0 cm / 186.22 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 2003 a 2009",
+            "Cilindrada:": "de 1998 cm3 / 121.9 cu-in a 3000 cm3 / 183.1 cu-in",
+            "Peso:": "de 1405 kg / 3097 lbs a 1580 kg / 3483 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M398/Outback-(BP)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Outback 2.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Outback 2.5 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2457 cm3 (149.9 cu-in)",
+              "Potencia": "156 hp / 115 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Outback 3.0 R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Outback H6 3.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "209 hp / 154 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Outback BH - 2000 New Model (1999 - 2004)",
+          "specifications": {
+            "Batalla:": "265.0 cm / 104.33 pulgadas",
+            "Consumos Medio:": "de 9.5 L/100 km / 30 MPG UK / 25 MPG US a 10.5 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "de 156 PS / 154 HP / 115 kW a 209 PS / 206 HP / 154 kW",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "174.5 cm / 68.7 pulgadas",
+            "Período de producción:": "de 1999 a 2004",
+            "Cilindrada:": "de 2457 cm3 / 149.9 cu-in a 3000 cm3 / 183.1 cu-in",
+            "Peso:": "de 1600 kg / 3527 lbs a 1685 kg / 3715 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M11887/Outback-(BH)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/11854/w170_Subaru-Outback-(BT)-15.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru-models/Subaru-Outback"
+    },
+    {
+      "modelName": "R1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "R1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Subaru R1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "- cm / - pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Emisiones de CO2:": "118 g/Km",
+            "Potencia:": "69 PS / 68 HP / 51 kW",
+            "Largo:": "328.5 cm / 129.33 pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "998 cm3 / 60.9 cu-in",
+            "Peso:": "965 kg / 2127 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M7072/R1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/7072/w170_Subaru-R1-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M7072/R1"
+    },
+    {
+      "modelName": "Rex",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Rex 0.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "665 cm3 (40.6 cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "Rex 0.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 665 cm3 (- cu-in)",
+              "Potencia": "37 hp / 27 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Rex 0.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "758 cm3 (46.3 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Subaru Rex Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "226.0 cm / 88.98 pulgadas",
+            "Consumos Medio:": "5.7 L/100 km / 50 MPG UK / 41 MPG US",
+            "Alto:": "137.0 cm / 53.94 pulgadas",
+            "Potencia:": "de 37 PS / 36 HP / 27 kW a 42 PS / 41 HP / 31 kW",
+            "Largo:": "324.0 cm / 127.56 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1982 a 1992",
+            "Cilindrada:": "de - cm3 / - cu-in a 758 cm3 / 46.3 cu-in",
+            "Peso:": "de 572 kg / 1261 lbs a 625 kg / 1378 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M968/Rex"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/968/w170_Subaru-Rex-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M968/Rex"
+    },
+    {
+      "modelName": "SVX",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SVX 3.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3319 cm3 (202.5 cu-in)",
+              "Potencia": "230 hp / 169 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Subaru SVX Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "261.0 cm / 102.76 pulgadas",
+            "Consumos Medio:": "10.3 L/100 km / 27 MPG UK / 23 MPG US",
+            "Alto:": "130.0 cm / 51.18 pulgadas",
+            "Potencia:": "230 PS / 227 HP / 169 kW",
+            "Largo:": "462.0 cm / 181.89 pulgadas",
+            "Ancho:": "177.0 cm / 69.69 pulgadas",
+            "Período de producción:": "de 1992 a 1997",
+            "Cilindrada:": "3319 cm3 / 202.5 cu-in",
+            "Peso:": "1610 kg / 3549 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M970/SVX"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/970/w170_Subaru-SVX-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M970/SVX"
+    },
+    {
+      "modelName": "Trezia",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Trezia 1.3i Advance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1329 cm3 (81.1 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2011"
+            },
+            {
+              "Motores de Gasolina": "Trezia 1.3i Advance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1329 cm3 (81.1 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Trezia 1.4D Limited Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Trezia 1.4D Limited Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Trezia 1.4D MMT Limited Plus Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2011"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Trezia 1.4D MMT Limited Plus Ficha Tecnica",
+              "Cilindrada": "1364 cm3 (83.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2012"
+            }
+          ],
+          "actualFinalModelName": "Subaru Trezia Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Alto:": "159.5 cm / 62.8 pulgadas",
+            "Emisiones de CO2:": "de 113 a 127 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 99 PS / 98 HP / 73 kW",
+            "Largo:": "399.5 cm / 157.28 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "2011",
+            "Cilindrada:": "de 1329 cm3 / 81.1 cu-in a 1364 cm3 / 83.2 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1235 kg / 2723 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M3607/Trezia"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/3607/w170_Subaru-Trezia-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M3607/Trezia"
+    },
+    {
+      "modelName": "Tribeca",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Tribeca 3.0R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3000 cm3 (183.1 cu-in)",
+              "Potencia": "245 hp / 180 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Tribeca 3.6 Classic 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3630 cm3 (221.5 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Tribeca 3.6 Classic 7 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3630 cm3 (221.5 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Tribeca 3.6 Limited 5 seats Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3630 cm3 (221.5 cu-in)",
+              "Potencia": "258 hp / 190 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Subaru Tribeca Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "275.0 cm / 108.27 pulgadas",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Emisiones de CO2:": "de 275 a 291 g/Km",
+            "Potencia:": "de 245 PS / 242 HP / 180 kW a 258 PS / 254 HP / 190 kW",
+            "Largo:": "485.5 cm / 191.14 pulgadas",
+            "Ancho:": "188.0 cm / 74.02 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "de 3000 cm3 / 183.1 cu-in a 3630 cm3 / 221.5 cu-in",
+            "Peso:": "de 1865 kg / 4112 lbs a 1983 kg / 4372 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M400/Tribeca"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/subaru/400/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M400/Tribeca"
+    },
+    {
+      "modelName": "Vivio",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vivio 0.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Vivio 0.7 AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Vivio 0.7 ECVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "44 hp / 32 kW",
+              "Año": "1992"
+            },
+            {
+              "Motores de Gasolina": "Vivio RX-R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Subaru Vivio Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "231.0 cm / 90.94 pulgadas",
+            "Consumos Medio:": "de 6.1 L/100 km / 46 MPG UK / 39 MPG US a 6.2 L/100 km / 46 MPG UK / 38 MPG US",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "de 44 PS / 43 HP / 32 kW a 64 PS / 63 HP / 47 kW",
+            "Largo:": "330.0 cm / 129.92 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1992 a 2000",
+            "Cilindrada:": "658 cm3 / 40.2 cu-in",
+            "Peso:": "de 645 kg / 1422 lbs a 730 kg / 1609 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M969/Vivio"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/969/w170_Subaru-Vivio-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M969/Vivio"
+    },
+    {
+      "modelName": "XT",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "XT 1.8 Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1781 cm3 (108.7 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "Subaru XT Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "246.0 cm / 96.85 pulgadas",
+            "Consumos Medio:": "8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "133.0 cm / 52.36 pulgadas",
+            "Potencia:": "136 PS / 134 HP / 100 kW",
+            "Largo:": "449.0 cm / 176.77 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1986 a 1992",
+            "Cilindrada:": "1781 cm3 / 108.7 cu-in",
+            "Peso:": "1185 kg / 2612 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M971/XT"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/971/w170_Subaru-XT-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M971/XT"
+    },
+    {
+      "modelName": "WRX (VB 2022)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "WRX 2.4T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "WRX 2.4T Performance Transmission Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "WRX 2.4T tS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "WRX S4 GT-H Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2387 cm3 (145.7 cu-in)",
+              "Potencia": "275 hp / 202 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "Subaru WRX (VB 2022) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "267.5 cm / 105.31 pulgadas",
+            "Consumos Medio:": "9.3 L/100 km / 30 MPG UK / 25 MPG US",
+            "Alto:": "146.8 cm / 57.8 pulgadas",
+            "Potencia:": "275 PS / 271 HP / 202 kW",
+            "Largo:": "467.0 cm / 183.86 pulgadas",
+            "Ancho:": "182.5 cm / 71.85 pulgadas",
+            "Período de producción:": "2024",
+            "Cilindrada:": "2387 cm3 / 145.7 cu-in",
+            "Peso:": "de 1551 kg / 3419 lbs a 1600 kg / 3527 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M14726/WRX-(VB-2022)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/61/14726/w170_Subaru-WRX-(VB-2022)-d1f48ec48bb740ce90.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Subaru/M14726/WRX-(VB-2022)"
+    }
+  ],
+  "brandName": "Subaru"
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "plataforma_generacion": "2020-Presente",
+    "tipo_combustible": "Eléctrico",
+    "piezas": [
+      "Motor eléctrico",
+      "Batería de tracción (alto voltaje)",
+      "Inversor",
+      "Engranaje reductor (una sola velocidad)",
+      "Cargador a bordo",
+      "Puerto de carga",
+      "Convertidor DC-DC",
+      "BMS (Gestión de batería)",
+      "Sistema de gestión térmica",
+      "VCU (Unidad de control del vehículo)",
+      "BCM (Control de carrocería)",
+      "Caja de fusibles y relés (12V)",
+      "Contactores y relés de alto voltaje",
+      "Mazo de cables (HV y 12V)",
+      "Sensores (corriente, voltaje, temperatura)",
+      "Batería de 12V"
+    ]
+  },
+  {
+    "plataforma_generacion": "2020-Presente",
+    "tipo_combustible": "Plugin Híbrido",
+    "piezas": [
+      "Motor de gasolina",
+      "Motor eléctrico",
+      "Batería grande (alto voltaje)",
+      "Inversor",
+      "Puerto de carga",
+      "Cargador a bordo",
+      "Tanque de combustible",
+      "ECU (Control del motor)",
+      "VCU/HCU (Gestión híbrida)",
+      "BCM (Control de carrocería)",
+      "Caja de fusibles y relés",
+      "Relé de bomba de combustible",
+      "Contactores de alto voltaje",
+      "Mazo de cables",
+      "Sensores (motor, HV, position)",
+      "Frenado regenerativo",
+      "Motor de arranque",
+      "Batería de 12V",
+      "Transmisión"
+    ]
+  }
+]

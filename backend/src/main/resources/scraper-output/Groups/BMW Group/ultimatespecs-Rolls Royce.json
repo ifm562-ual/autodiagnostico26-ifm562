@@ -1,0 +1,582 @@
+{
+  "models": [
+    {
+      "modelName": "Cullinan",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cullinan 6.6 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2019"
+            },
+            {
+              "Motores de Gasolina": "Cullinan Black Badge Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Cullinan Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "329.5 cm / 129.72 pulgadas",
+            "Consumos Medio:": "16.3 L/100 km / 17 MPG UK / 14 MPG US",
+            "Alto:": "183.5 cm / 72.24 pulgadas",
+            "Potencia:": "de 571 PS / 563 HP / 420 kW a 600 PS / 592 HP / 441 kW",
+            "Largo:": "534.1 cm / 210.28 pulgadas",
+            "Ancho:": "200.0 cm / 78.74 pulgadas",
+            "Período de producción:": "2019",
+            "Cilindrada:": "de 6592 cm3 / 402.3 cu-in a 6749 cm3 / 411.8 cu-in",
+            "Peso:": "2799 kg / 6171 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M10560/Cullinan"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/10560/w170_Rolls-Royce-27_02_2020__Cullinan-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M10560/Cullinan"
+    },
+    {
+      "modelName": "Ghost 2021",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghost Ghost Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Ghost Ghost EWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Ghost 2021 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "329.5 cm / 129.72 pulgadas",
+            "Alto:": "157.1 cm / 61.85 pulgadas",
+            "Emisiones de CO2:": "de 347 a 359 g/Km",
+            "Potencia:": "571 PS / 563 HP / 420 kW",
+            "Largo:": "554.6 cm / 218.35 pulgadas",
+            "Ancho:": "198.0 cm / 77.95 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "6592 cm3 / 402.3 cu-in",
+            "Peso:": "de 2619 kg / 5774 lbs a 2659 kg / 5862 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M12006/Ghost-2021"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/12006/w170_Rolls-Royce-Ghost-2021-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M12006/Ghost-2021"
+    },
+    {
+      "modelName": "Phantom VIII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Phantom VIII V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Phantom VIII V12 EWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2019"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Phantom VIII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "355.2 cm / 139.84 pulgadas",
+            "Alto:": "164.6 cm / 64.8 pulgadas",
+            "Potencia:": "571 PS / 563 HP / 420 kW",
+            "Largo:": "576.2 cm / 226.85 pulgadas",
+            "Ancho:": "201.8 cm / 79.45 pulgadas",
+            "Período de producción:": "2018",
+            "Cilindrada:": "6749 cm3 / 411.8 cu-in",
+            "Peso:": "de 2699 kg / 5950 lbs a 2749 kg / 6061 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M10559/Phantom-VIII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/10559/w170_Rolls-Royce-Phantom-VIII-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M10559/Phantom-VIII"
+    },
+    {
+      "modelName": "Spectre",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Spectre EV Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "585 hp / 430 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Spectre Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "321.0 cm / 126.38 pulgadas",
+            "Alto:": "155.9 cm / 61.38 pulgadas",
+            "Potencia:": "585 PS / 577 HP / 430 kW",
+            "Largo:": "545.3 cm / 214.69 pulgadas",
+            "Ancho:": "208.0 cm / 81.89 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "2975 kg / 6559 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M13029/Spectre"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/13029/w170_Rolls-Royce-Spectre-22.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M13029/Spectre"
+    },
+    {
+      "modelName": "Dawn",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Dawn Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Dawn Black Badge Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "601 hp / 442 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Dawn Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "311.2 cm / 122.52 pulgadas",
+            "Alto:": "150.2 cm / 59.13 pulgadas",
+            "Potencia:": "de 571 PS / 563 HP / 420 kW a 601 PS / 593 HP / 442 kW",
+            "Largo:": "528.5 cm / 208.07 pulgadas",
+            "Ancho:": "194.7 cm / 76.65 pulgadas",
+            "Período de producción:": "2015",
+            "Cilindrada:": "6592 cm3 / 402.3 cu-in",
+            "Peso:": "de 2589 kg / 5708 lbs a 2635 kg / 5809 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M8329/Dawn"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/8329/w170_Rolls-Royce-Dawn-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M8329/Dawn"
+    },
+    {
+      "modelName": "Ghost Series II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghost Series II EWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Ghost Series II SWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Ghost Series II V-Specification Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "601 hp / 442 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Ghost Series II V-Specification Extended Wheelbase Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "601 hp / 442 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Ghost Series II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "346.5 cm / 136.42 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 327 a 329 g/Km",
+            "Potencia:": "de 571 PS / 563 HP / 420 kW a 601 PS / 593 HP / 442 kW",
+            "Largo:": "556.9 cm / 219.25 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "de 2014 a 2020",
+            "Cilindrada:": "6592 cm3 / 402.3 cu-in",
+            "Peso:": "de 2435 kg / 5368 lbs a 2495 kg / 5501 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M7335/Ghost-Series-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/7335/w170_Rolls-Royce-Ghost-Series-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M7335/Ghost-Series-II"
+    },
+    {
+      "modelName": "Wraith",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wraith Black Badge Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "632 hp / 465 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Wraith V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "632 hp / 465 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Wraith Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "311.2 cm / 122.52 pulgadas",
+            "Alto:": "150.7 cm / 59.33 pulgadas",
+            "Potencia:": "632 PS / 623 HP / 465 kW",
+            "Largo:": "528.5 cm / 208.07 pulgadas",
+            "Ancho:": "194.7 cm / 76.65 pulgadas",
+            "Período de producción:": "2013",
+            "Cilindrada:": "6592 cm3 / 402.3 cu-in",
+            "Peso:": "de 2435 kg / 5368 lbs a 2469 kg / 5443 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M6709/Wraith"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/6709/w170_Rolls-Royce-Wraith-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M6709/Wraith"
+    },
+    {
+      "modelName": "Ghost",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ghost Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Ghost Extended Wheelbase Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6592 cm3 (402.3 cu-in)",
+              "Potencia": "571 hp / 420 kW",
+              "Año": "2011"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Ghost Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "329.5 cm / 129.72 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 317 a 319 g/Km",
+            "Potencia:": "571 PS / 563 HP / 420 kW",
+            "Largo:": "539.9 cm / 212.56 pulgadas",
+            "Ancho:": "194.8 cm / 76.69 pulgadas",
+            "Período de producción:": "de 2010 a 2015",
+            "Cilindrada:": "6592 cm3 / 402.3 cu-in",
+            "Peso:": "de 2435 kg / 5368 lbs a 2495 kg / 5501 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M1362/Ghost"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/1362/w170_Rolls-Royce-Ghost-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M1362/Ghost"
+    },
+    {
+      "modelName": "Phantom VII",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Phantom VII Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Phantom VII Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "Phantom VII Drophead Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Phantom VII Extended Wheelbase Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6749 cm3 (411.8 cu-in)",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Phantom VII Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "357.0 cm / 140.55 pulgadas",
+            "Alto:": "163.2 cm / 64.25 pulgadas",
+            "Emisiones de CO2:": "385 g/Km",
+            "Potencia:": "460 PS / 454 HP / 338 kW",
+            "Largo:": "583.4 cm / 229.69 pulgadas",
+            "Ancho:": "199.0 cm / 78.35 pulgadas",
+            "Período de producción:": "2003",
+            "Cilindrada:": "6749 cm3 / 411.8 cu-in",
+            "Peso:": "de 2485 kg / 5478 lbs a 2695 kg / 5941 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M425/Phantom-VII"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/425/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M425/Phantom-VII"
+    },
+    {
+      "modelName": "Corniche V",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Corniche V 6.8 V8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "325 hp / 239 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Corniche V Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "306.0 cm / 120.47 pulgadas",
+            "Consumos Medio:": "19 L/100 km / 15 MPG UK / 12 MPG US",
+            "Alto:": "148.0 cm / 58.27 pulgadas",
+            "Potencia:": "325 PS / 321 HP / 239 kW",
+            "Largo:": "540.0 cm / 212.6 pulgadas",
+            "Ancho:": "191.0 cm / 75.2 pulgadas",
+            "Período de producción:": "de 2000 a 2003",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2735 kg / 6030 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M598/Corniche-V"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/598/w170_Rolls-Royce-Corniche-V-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M598/Corniche-V"
+    },
+    {
+      "modelName": "Silver Seraph",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Silver Seraph 5.4 V12 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5379 cm3 (328.2 cu-in)",
+              "Potencia": "326 hp / 240 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Silver Seraph Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "312.0 cm / 122.83 pulgadas",
+            "Alto:": "152.0 cm / 59.84 pulgadas",
+            "Emisiones de CO2:": "416 g/Km",
+            "Potencia:": "326 PS / 322 HP / 240 kW",
+            "Largo:": "539.0 cm / 212.2 pulgadas",
+            "Ancho:": "193.0 cm / 75.98 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "5379 cm3 / 328.2 cu-in",
+            "Peso:": "2350 kg / 5181 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M599/Silver-Seraph"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/33/599/w170_Rolls-Royce-Silver-Seraph-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M599/Silver-Seraph"
+    },
+    {
+      "modelName": "Silver Spirit",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Silver Spirit Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1980"
+            },
+            {
+              "Motores de Gasolina": "Silver Spirit mk II Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1989"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Silver Spirit Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "306 cm / 120.47 pulgadas",
+            "Alto:": "149 cm / 58.66 pulgadas",
+            "Potencia:": "de 9999 PS / 9863 HP / 7354 kW a - PS / - HP / - kW",
+            "Largo:": "527 cm / 207.48 pulgadas",
+            "Ancho:": "189 cm / 74.41 pulgadas",
+            "Período de producción:": "de 1980 a 1993",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2245 kg / 4949 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M124/Silver-Spirit"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/124/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M124/Silver-Spirit"
+    },
+    {
+      "modelName": "Silver Spur",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Silver Spur Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "240 hp / 177 kW",
+              "Año": "1980"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Silver Spur Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "316 cm / 124.41 pulgadas",
+            "Alto:": "149 cm / 58.66 pulgadas",
+            "Potencia:": "240 PS / 237 HP / 177 kW",
+            "Largo:": "537 cm / 211.42 pulgadas",
+            "Ancho:": "189 cm / 74.41 pulgadas",
+            "Período de producción:": "de 1980 a 1989",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2273 kg / 5011 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M125/Silver-Spur"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/125/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M125/Silver-Spur"
+    },
+    {
+      "modelName": "Camargue",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Camargue Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1975"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Camargue Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "305 cm / 120.08 pulgadas",
+            "Alto:": "147 cm / 57.87 pulgadas",
+            "Potencia:": "de 9999 PS / 9863 HP / 7354 kW a - PS / - HP / - kW",
+            "Largo:": "517 cm / 203.54 pulgadas",
+            "Ancho:": "192 cm / 75.59 pulgadas",
+            "Período de producción:": "de 1975 a 1987",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2330 kg / 5137 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M127/Camargue"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/127/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M127/Camargue"
+    },
+    {
+      "modelName": "Corniche",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Corniche Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1971"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Corniche Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "305 cm / 120.08 pulgadas",
+            "Alto:": "152 cm / 59.84 pulgadas",
+            "Potencia:": "de 9999 PS / 9863 HP / 7354 kW a - PS / - HP / - kW",
+            "Largo:": "520 cm / 204.72 pulgadas",
+            "Ancho:": "182 cm / 71.65 pulgadas",
+            "Período de producción:": "de 1971 a 1987",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2360 kg / 5203 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M126/Corniche"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/126/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M126/Corniche"
+    },
+    {
+      "modelName": "Phantom VI",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Phantom VI Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "6750 cm3 (411.9 cu-in)",
+              "Potencia": "hp / - kW",
+              "Año": "1968"
+            }
+          ],
+          "actualFinalModelName": "Rolls Royce Phantom VI Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "368 cm / 144.88 pulgadas",
+            "Alto:": "175 cm / 68.9 pulgadas",
+            "Potencia:": "de 9999 PS / 9863 HP / 7354 kW a - PS / - HP / - kW",
+            "Largo:": "604 cm / 237.8 pulgadas",
+            "Ancho:": "201 cm / 79.13 pulgadas",
+            "Período de producción:": "de 1968 a 1991",
+            "Cilindrada:": "6750 cm3 / 411.9 cu-in",
+            "Peso:": "2742 kg / 6045 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M128/Phantom-VI"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/rolls/128/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Rolls-Royce/M128/Phantom-VI"
+    }
+  ],
+  "brandName": "Rolls Royce"
+}

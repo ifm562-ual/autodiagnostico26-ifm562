@@ -1,0 +1,4492 @@
+{
+  "models": [
+    {
+      "modelName": "Across",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Comparar con otro coche": "",
+              "Cilindrada": "2487 cm3 (151.8 cu-in)",
+              "Potencia": "306 hp / 225 kW",
+              "Plugin Híbrido": "Across 2.5 Plug-in Hybrid Ficha Tecnica",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Across Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "269.0 cm / 105.91 pulgadas",
+            "Consumos Medio:": "1 L/100 km / 282 MPG UK / 235 MPG US",
+            "Alto:": "169.0 cm / 66.54 pulgadas",
+            "Potencia:": "de 185 PS / 182 HP / 136 kW a 306 PS / 302 HP / 225 kW",
+            "Peso de remolque:": "1500 kg / 3307 lbs",
+            "Largo:": "463.5 cm / 182.48 pulgadas",
+            "Ancho:": "185.5 cm / 73.03 pulgadas",
+            "Período de producción:": "2020",
+            "Peso:": "2026 kg / 4467 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M11013/Across"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/11013/w170_Suzuki-Across-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M11013/Across"
+    },
+    {
+      "modelName": "Alto",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Alto GLX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Alto 7th Gen (GF) (2009 - 2013)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Emisiones de CO2:": "de 103 a 122 g/Km",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "350.0 cm / 137.8 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 2009 a 2013",
+            "Cilindrada:": "997 cm3 / 60.8 cu-in",
+            "Peso:": "de 930 kg / 2050 lbs a 955 kg / 2105 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M1392/Alto-7"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1081 cm3 (66 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Alto 6th Gen (HA24) (2004 - 2009)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Emisiones de CO2:": "119 g/Km",
+            "Potencia:": "63 PS / 62 HP / 46 kW",
+            "Largo:": "350.0 cm / 137.8 pulgadas",
+            "Ancho:": "148.0 cm / 58.27 pulgadas",
+            "Período de producción:": "de 2004 a 2009",
+            "Cilindrada:": "1081 cm3 / 66 cu-in",
+            "Peso:": "775 kg / 1709 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8409/Alto-6"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i 3-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i 4-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i 4WD 3-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 JDM 0.7i 4WD 4-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Alto 6th Gen (HA24) (2004 - 2009)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Potencia:": "54 PS / 53 HP / 40 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 2004 a 2009",
+            "Cilindrada:": "658 cm3 / 40.2 cu-in",
+            "Peso:": "de 700 kg / 1543 lbs a 810 kg / 1786 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14478/Alto-6-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 6 Van JDM 0.7i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 Van JDM 0.7i 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 Van JDM 0.7i 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Alto 6 Van JDM 0.7i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Alto 6th Gen (HA24) (2004 - 2009)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Potencia:": "54 PS / 53 HP / 40 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 2004 a 2009",
+            "Cilindrada:": "658 cm3 / 40.2 cu-in",
+            "Peso:": "de 720 kg / 1587 lbs a 780 kg / 1720 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14480/Alto-6-Van-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "58 hp / 43 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Alto 1.1i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1061 cm3 (64.7 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Alto 1.1i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1061 cm3 (64.7 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Alto 5th Gen (HA12/22) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "233.5 cm / 91.93 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Emisiones de CO2:": "de 119 a 152 g/Km",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 62 PS / 61 HP / 46 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "349.5 cm / 137.6 pulgadas",
+            "Ancho:": "149.5 cm / 58.86 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de - cm3 / - cu-in a 1061 cm3 / 64.7 cu-in",
+            "Peso:": "de 705 kg / 1554 lbs a 815 kg / 1797 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8410/Alto-5"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 46HP 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 46HP 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 46HP 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 46HP 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 46HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "46 hp / 34 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 55HP 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 JDM 0.7i 55HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Alto 5th Gen (HA12/22) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "de 46 PS / 45 HP / 34 kW a 55 PS / 54 HP / 40 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de 657 cm3 / 40.1 cu-in a 658 cm3 / 40.2 cu-in",
+            "Peso:": "de 630 kg / 1389 lbs a 690 kg / 1521 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14374/Alto-5-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 5 Van JDM 0.7 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Van JDM 0.7 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Van JDM 0.7 Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Alto 5th Gen (HA12/22) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "42 PS / 41 HP / 31 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "657 cm3 / 40.1 cu-in",
+            "Peso:": "de 610 kg / 1345 lbs a 660 kg / 1455 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14376/Alto-5-Van-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM 0.7 ie Turbo 3-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM 0.7 ie Turbo 4WD 3-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM 0.7 ie Turbo 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM 0.7 ie Turbo 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM RS/Z 4-speed Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM RS/Z 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Alto 5 Works JDM RS/Z 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Alto 5th Gen (HA12/22) (1998 - 2004)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Potencia:": "de 60 PS / 59 HP / 44 kW a 64 PS / 63 HP / 47 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 1998 a 2004",
+            "Cilindrada:": "de 657 cm3 / 40.1 cu-in a 658 cm3 / 40.2 cu-in",
+            "Peso:": "de 670 kg / 1477 lbs a 730 kg / 1609 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14377/Alto-5-Works-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Alto 4th Gen (HA) (1994 - 1998)",
+          "specifications": {
+            "Batalla:": "233.5 cm / 91.93 pulgadas",
+            "Consumos Medio:": "5.4 L/100 km / 52 MPG UK / 44 MPG US",
+            "Alto:": "140.5 cm / 55.31 pulgadas",
+            "Potencia:": "54 PS / 53 HP / 40 kW",
+            "Peso de remolque:": "800 kg / 1764 lbs",
+            "Largo:": "349.5 cm / 137.6 pulgadas",
+            "Ancho:": "149.5 cm / 58.86 pulgadas",
+            "Período de producción:": "de 1994 a 1998",
+            "Cilindrada:": "993 cm3 / 60.6 cu-in",
+            "Peso:": "730 kg / 1609 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8408/Alto-4"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 40HP 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "40 hp / 29 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 40HP 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "40 hp / 29 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 40HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "40 hp / 29 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 42HP 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 42HP 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 42HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "42 hp / 31 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 52HP 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 52HP 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 52HP Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7 Se-4 4WD 5-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "52 hp / 38 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7i 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 JDM 0.7i Se-4 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Alto 4th Gen (HA) (1994 - 1998)",
+          "specifications": {
+            "Batalla:": "233.5 cm / 91.93 pulgadas",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 40 PS / 39 HP / 29 kW a 55 PS / 54 HP / 40 kW",
+            "Largo:": "329.5 cm / 129.72 pulgadas",
+            "Ancho:": "139.5 cm / 54.92 pulgadas",
+            "Período de producción:": "de 1994 a 1998",
+            "Cilindrada:": "657 cm3 / 40.1 cu-in",
+            "Peso:": "de 600 kg / 1323 lbs a 690 kg / 1521 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14371/Alto-4-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 4 Works JDM RS/Z Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 Works JDM RS/Z 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 Works JDM Turbo ie/s Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 Works JDM Turbo ie/s 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Alto 4 Works JDM Turbo ie/s Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            }
+          ],
+          "actualFinalModelName": "Alto 4th Gen (HA) (1994 - 1998)",
+          "specifications": {
+            "Batalla:": "233.5 cm / 91.93 pulgadas",
+            "Alto:": "138.0 cm / 54.33 pulgadas",
+            "Potencia:": "64 PS / 63 HP / 47 kW",
+            "Largo:": "329.5 cm / 129.72 pulgadas",
+            "Ancho:": "139.5 cm / 54.92 pulgadas",
+            "Período de producción:": "de 1994 a 1998",
+            "Cilindrada:": "de 657 cm3 / 40.1 cu-in a 658 cm3 / 40.2 cu-in",
+            "Peso:": "de 650 kg / 1433 lbs a 710 kg / 1565 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14373/Alto-4-Works-JDM"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 0.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "796 cm3 (48.6 cu-in)",
+              "Potencia": "40 hp / 29 kW",
+              "Año": "1983"
+            },
+            {
+              "Motores de Gasolina": "Alto 0.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "796 cm3 (48.6 cu-in)",
+              "Potencia": "39 hp / 29 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Alto Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "547 cm3 (33.4 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1987"
+            }
+          ],
+          "actualFinalModelName": "Alto 2nd Gen (CA / CC) (1984 - 1988)",
+          "specifications": {
+            "Batalla:": "215.0 cm / 84.65 pulgadas",
+            "Consumos Medio:": "de 6.4 L/100 km / 44 MPG UK / 37 MPG US a 6.8 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "134.0 cm / 52.76 pulgadas",
+            "Potencia:": "de 39 PS / 38 HP / 29 kW a 64 PS / 63 HP / 47 kW",
+            "Largo:": "330.0 cm / 129.92 pulgadas",
+            "Ancho:": "142.0 cm / 55.91 pulgadas",
+            "Período de producción:": "de 1984 a 1988",
+            "Cilindrada:": "de 547 cm3 / 33.4 cu-in a 796 cm3 / 48.6 cu-in",
+            "Peso:": "de 600 kg / 1323 lbs a 616 kg / 1358 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M972/Alto-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto 0.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "796 cm3 (48.6 cu-in)",
+              "Potencia": "40 hp / 29 kW",
+              "Año": "1981"
+            }
+          ],
+          "actualFinalModelName": "Alto 1st Gen (SS30V/40V) (1979 - 1984)",
+          "specifications": {
+            "Batalla:": "215.0 cm / 84.65 pulgadas",
+            "Consumos Medio:": "6.8 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "134.0 cm / 52.76 pulgadas",
+            "Potencia:": "40 PS / 39 HP / 29 kW",
+            "Largo:": "330.0 cm / 129.92 pulgadas",
+            "Ancho:": "142.0 cm / 55.91 pulgadas",
+            "Período de producción:": "de 1979 a 1984",
+            "Cilindrada:": "796 cm3 / 48.6 cu-in",
+            "Peso:": "616 kg / 1358 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8407/Alto-1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/1392/w170_Suzuki-Alto-VII-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Alto"
+    },
+    {
+      "modelName": "Alto Lapin",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Alto Lapin 0.7i 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Alto Lapin 0.7i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Alto Lapin 0.7i Turbo 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Alto Lapin 0.7i Turbo Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "1st Generation HE21S (2002 - 2008)",
+          "specifications": {
+            "Batalla:": "240.0 cm / 94.49 pulgadas",
+            "Alto:": "151.5 cm / 59.65 pulgadas",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 60 PS / 59 HP / 44 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 2002 a 2008",
+            "Cilindrada:": "658 cm3 / 40.2 cu-in",
+            "Peso:": "de 780 kg / 1720 lbs a 840 kg / 1852 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14481/Alto-Lapin"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14481/w170_Suzuki-Alto-Lapin-1980d669af5352bf11.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Alto-Lapin"
+    },
+    {
+      "modelName": "Baleno",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Baleno 1.0 BOOSTERJET Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.0 BOOSTERJET Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.2 Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.2 DUALJET Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.2 DUALJET + SHVS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Baleno 2nd Generation (2015 - Presente)",
+          "specifications": {
+            "Batalla:": "252.0 cm / 99.21 pulgadas",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Emisiones de CO2:": "de 93 a 115 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 111 PS / 109 HP / 82 kW",
+            "Largo:": "399.5 cm / 157.28 pulgadas",
+            "Ancho:": "174.5 cm / 68.7 pulgadas",
+            "Período de producción:": "de 2016 a a presente",
+            "Cilindrada:": "de 998 cm3 / 60.9 cu-in a 1242 cm3 / 75.8 cu-in",
+            "Peso:": "de 865 kg / 1907 lbs a 989 kg / 2180 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8284/Baleno-2"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Baleno 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Baleno 1.8 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Baleno 1st Generation (1995 - 2002)",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Consumos Medio:": "de 6.6 L/100 km / 43 MPG UK / 36 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "140.0 cm / 55.12 pulgadas",
+            "Potencia:": "de 85 PS / 84 HP / 63 kW a 121 PS / 119 HP / 89 kW",
+            "Largo:": "387.0 cm / 152.36 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 1995 a 2002",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1839 cm3 / 112.2 cu-in",
+            "Peso:": "de 870 kg / 1918 lbs a 945 kg / 2083 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M973/Baleno"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1995"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Sedan 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Baleno Sedan 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Baleno 1st Generation (1995 - 2002)",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Consumos Medio:": "de 6.6 L/100 km / 43 MPG UK / 36 MPG US a 7.6 L/100 km / 37 MPG UK / 31 MPG US",
+            "Alto:": "139.0 cm / 54.72 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 121 PS / 119 HP / 89 kW",
+            "Largo:": "422.0 cm / 166.14 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1995 a 2002",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 905 kg / 1995 lbs a 990 kg / 2183 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M974/Baleno-Sedan"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "96 hp / 71 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Baleno Wagon 1.8 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1839 cm3 (112.2 cu-in)",
+              "Potencia": "121 hp / 89 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Baleno Wagon 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Baleno 1st Generation (1995 - 2002)",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Consumos Medio:": "de 6.5 L/100 km / 43 MPG UK / 36 MPG US a 7.9 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 121 PS / 119 HP / 89 kW",
+            "Largo:": "438.0 cm / 172.44 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 1995 a 2002",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 965 kg / 2127 lbs a 1035 kg / 2282 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M975/Baleno-Wagon"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/8284/w170_Suzuki-Baleno-2-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Baleno"
+    },
+    {
+      "modelName": "Capuccino",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Capuccino 0.7 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Capuccino 0.7 (Japan) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Capuccino Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "206.0 cm / 81.1 pulgadas",
+            "Consumos Medio:": "6.8 L/100 km / 42 MPG UK / 35 MPG US",
+            "Alto:": "118.0 cm / 46.46 pulgadas",
+            "Potencia:": "64 PS / 63 HP / 47 kW",
+            "Largo:": "330.0 cm / 129.92 pulgadas",
+            "Ancho:": "140.0 cm / 55.12 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "657 cm3 / 40.1 cu-in",
+            "Peso:": "700 kg / 1543 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M976/Capuccino"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/976/w170_Suzuki-Capuccino-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M976/Capuccino"
+    },
+    {
+      "modelName": "Celerio",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Celerio 1.0 68HP AGS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Celerio 1.0 68HP Low Emissions Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Celerio 1.0 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Celerio 1.0 GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2014"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Celerio Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "242.5 cm / 95.47 pulgadas",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "de 85 a 99 g/Km",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "360.0 cm / 141.73 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "2014",
+            "Cilindrada:": "998 cm3 / 60.9 cu-in",
+            "Peso:": "de 880 kg / 1940 lbs a 885 kg / 1951 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M7340/Celerio"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/7340/w170_Suzuki-Celerio-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M7340/Celerio"
+    },
+    {
+      "modelName": "eVitara",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "eVitara eAxle 49kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "49.0 kWh"
+            },
+            {
+              "Eléctrico": "eVitara eAxle 61kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "174 hp / 128 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "61.0 kWh"
+            },
+            {
+              "Eléctrico": "eVitara eAxle 61kWh ALLGRIP-e Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "184 hp / 135 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "61.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Suzuki eVitara Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "163.5 cm / 64.37 pulgadas",
+            "Potencia:": "de 144 PS / 142 HP / 106 kW a 184 PS / 181 HP / 135 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "427.5 cm / 168.31 pulgadas",
+            "Ancho:": "180.0 cm / 70.87 pulgadas",
+            "Período de producción:": "2025",
+            "Peso:": "de 1700 kg / 3748 lbs a 1860 kg / 4101 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M15559/eVitara"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/15559/w170_Suzuki-eVitara-65171714105391b42b.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M15559/eVitara"
+    },
+    {
+      "modelName": "Escudo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Escudo 1.6 3-Door 2WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JM 3-Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JM 3-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JM 5-Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JM 5-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JZ 3-Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JZ 3-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JZ 5-Door Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 1600JZ 5-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 2000JM 3-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Escudo 2000JM 5-Door Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "2nd Generation FT/GT (1997 - 2005)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "168.5 cm / 66.34 pulgadas",
+            "Potencia:": "de 107 PS / 106 HP / 79 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "381.0 cm / 150 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 1997 a 2005",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1180 kg / 2601 lbs a 1330 kg / 2932 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14386/Escudo-1997"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Escudo Convertible 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Escudo Convertible 1.6i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "1st Generation ET/TA (1988 - 1997)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "166.5 cm / 65.55 pulgadas",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "356.0 cm / 140.16 pulgadas",
+            "Ancho:": "163.5 cm / 64.37 pulgadas",
+            "Período de producción:": "de 1988 a 1997",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 970 kg / 2138 lbs a 990 kg / 2183 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14384/Escudo-Convertible"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Escudo Hardtop 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Escudo Hardtop 1.6i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "1988"
+            }
+          ],
+          "actualFinalModelName": "1st Generation ET/TA (1988 - 1997)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "166.5 cm / 65.55 pulgadas",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "356.0 cm / 140.16 pulgadas",
+            "Ancho:": "163.5 cm / 64.37 pulgadas",
+            "Período de producción:": "de 1988 a 1997",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 990 kg / 2183 lbs a 1010 kg / 2227 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14382/Escudo-Hardtop"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Escudo Nomade 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Escudo Nomade 1.6i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "1st Generation ET/TA (1988 - 1997)",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "100 PS / 99 HP / 74 kW",
+            "Largo:": "397.5 cm / 156.5 pulgadas",
+            "Ancho:": "163.5 cm / 64.37 pulgadas",
+            "Período de producción:": "de 1988 a 1997",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 1160 kg / 2557 lbs a 1180 kg / 2601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14383/Escudo-Nomade"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Escudo Resintop 1.6i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1990"
+            },
+            {
+              "Motores de Gasolina": "Escudo Resintop 1.6i Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "1990"
+            }
+          ],
+          "actualFinalModelName": "1st Generation ET/TA (1988 - 1997)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "169.5 cm / 66.73 pulgadas",
+            "Potencia:": "100 PS / 99 HP / 74 kW",
+            "Largo:": "356.0 cm / 140.16 pulgadas",
+            "Ancho:": "163.5 cm / 64.37 pulgadas",
+            "Período de producción:": "de 1988 a 1997",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1070 kg / 2359 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14385/Escudo-Resintop"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14386/w170_Suzuki-Escudo-1997-849ebab1f248dc6be4.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Escudo"
+    },
+    {
+      "modelName": "Grand Escudo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Escudo 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2495 cm3 (152.3 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Grand Escudo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Potencia:": "177 PS / 175 HP / 130 kW",
+            "Largo:": "457.5 cm / 180.12 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 2000 a 2002",
+            "Cilindrada:": "2495 cm3 / 152.3 cu-in",
+            "Peso:": "1620 kg / 3571 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14389/Grand-Escudo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14389/w170_Suzuki-Grand-Escudo-279d93774e92a6017f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14389/Grand-Escudo"
+    },
+    {
+      "modelName": "Grand Vitara",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara 2.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2700 cm3 (164.8 cu-in)",
+              "Potencia": "185 hp / 136 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara 1.9 DDis Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 2nd Gen (2005 - 2018)",
+          "specifications": {
+            "Batalla:": "264.0 cm / 103.94 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "de 129 PS / 127 HP / 95 kW a 185 PS / 182 HP / 136 kW",
+            "Largo:": "447.0 cm / 175.98 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2005 a 2018",
+            "Cilindrada:": "de 1870 cm3 / 114.1 cu-in a 2700 cm3 / 164.8 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M981/Grand-Vitara-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara 3-doors 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "106 hp / 78 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara 3-doors 1.9 DDis Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 2nd Gen (2005 - 2018)",
+          "specifications": {
+            "Batalla:": "244.0 cm / 96.06 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Emisiones de CO2:": "de 195 a 210 g/Km",
+            "Potencia:": "de 106 PS / 105 HP / 78 kW a 129 PS / 127 HP / 95 kW",
+            "Largo:": "400.0 cm / 157.48 pulgadas",
+            "Ancho:": "181.0 cm / 71.26 pulgadas",
+            "Período de producción:": "de 2005 a 2018",
+            "Cilindrada:": "de 1586 cm3 / 96.8 cu-in a 1870 cm3 / 114.1 cu-in",
+            "Peso:": "de 1345 kg / 2965 lbs a 1470 kg / 3241 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M982/Grand-Vitara-II-3d"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara 2.5 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2493 cm3 (152.1 cu-in)",
+              "Potencia": "144 hp / 106 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara 2.0 TD Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara 2.0 TDi Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara 2.0 TDi 16v Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 1st Gen (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Consumos Medio:": "7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Potencia:": "de 87 PS / 86 HP / 64 kW a 144 PS / 142 HP / 106 kW",
+            "Largo:": "420.0 cm / 165.35 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1995 cm3 / 121.7 cu-in a 2493 cm3 / 152.1 cu-in",
+            "Peso:": "de 1330 kg / 2932 lbs a 1480 kg / 3263 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M977/Grand-Vitara"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara Cabrio 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara Cabrio 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1999"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 1st Gen (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "168.0 cm / 66.14 pulgadas",
+            "Emisiones de CO2:": "de 193 a 220 g/Km",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "388.0 cm / 152.76 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1190 kg / 2624 lbs a 1230 kg / 2712 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M978/Grand-Vitara-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara Metal Top 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara Metal Top 1.6 Wide Body Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara Metal Top 2.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "1999"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara Metal Top 2.0 Wide Body Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "128 hp / 94 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara Metal Top 2.0 TDi Wide Body Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 1st Gen (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Emisiones de CO2:": "de 193 a 224 g/Km",
+            "Potencia:": "de 94 PS / 93 HP / 69 kW a 128 PS / 126 HP / 94 kW",
+            "Largo:": "392.0 cm / 154.33 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1997 cm3 / 121.9 cu-in",
+            "Peso:": "de 1190 kg / 2624 lbs a 1420 kg / 3131 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M979/Grand-Vitara-Metal-Top"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Grand Vitara XL 7 2.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "173 hp / 127 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Grand Vitara XL 7 2.7 V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2736 cm3 (167 cu-in)",
+              "Potencia": "173 hp / 127 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Grand Vitara XL 7 2.0 TDI Ficha Tecnica",
+              "Cilindrada": "1997 cm3 (121.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Grand Vitara 1st Gen (1998 - 2005)",
+          "specifications": {
+            "Batalla:": "280.0 cm / 110.24 pulgadas",
+            "Alto:": "174.0 cm / 68.5 pulgadas",
+            "Emisiones de CO2:": "de 216 a 260 g/Km",
+            "Potencia:": "de 109 PS / 108 HP / 80 kW a 173 PS / 171 HP / 127 kW",
+            "Largo:": "470.0 cm / 185.04 pulgadas",
+            "Ancho:": "178.0 cm / 70.08 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1997 cm3 / 121.9 cu-in a 2736 cm3 / 167 cu-in",
+            "Peso:": "de 1580 kg / 3483 lbs a 1700 kg / 3748 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M980/Grand-Vitara-XL-7"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/981/w170_Suzuki-Grand-Vitara-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Grand-Vitara"
+    },
+    {
+      "modelName": "Hayabusa",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Hayabusa Sport Prototype Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "175 hp / 129 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Hayabusa Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "220 cm / 86.61 pulgadas",
+            "Alto:": "110 cm / 43.31 pulgadas",
+            "Potencia:": "175 PS / 173 HP / 129 kW",
+            "Largo:": "379 cm / 149.21 pulgadas",
+            "Ancho:": "176 cm / 69.29 pulgadas",
+            "Período de producción:": "2002",
+            "Cilindrada:": "1299 cm3 / 79.3 cu-in",
+            "Peso:": "550 kg / 1213 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M3985/Hayabusa"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/3985/w170_Suzuki-Hayabusa-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M3985/Hayabusa"
+    },
+    {
+      "modelName": "Ignis",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ignis 1.2 Allgrip Smart Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 Smart Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 Smart Hybrid Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Ignis 3 (MF) - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "243.5 cm / 95.87 pulgadas",
+            "Consumos Medio:": "de 5.1 L/100 km / 55 MPG UK / 46 MPG US a 5.5 L/100 km / 51 MPG UK / 43 MPG US",
+            "Alto:": "160.5 cm / 63.19 pulgadas",
+            "Emisiones de CO2:": "de 89 a 124 g/Km",
+            "Potencia:": "83 PS / 82 HP / 61 kW",
+            "Peso de remolque:": "1000 kg / 2205 lbs",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1197 cm3 / 73 cu-in",
+            "Peso:": "de 931 kg / 2053 lbs a 980 kg / 2161 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M10765/Ignis-2020"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ignis 1.2 DualJet 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 DualJet 2WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 DualJet 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 DualJet SHVS 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.2 DualJet SHVS 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Ignis 3 (MF) (2016 - 2020)",
+          "specifications": {
+            "Batalla:": "243.5 cm / 95.87 pulgadas",
+            "Alto:": "159.5 cm / 62.8 pulgadas",
+            "Emisiones de CO2:": "de 97 a 114 g/Km",
+            "Potencia:": "90 PS / 89 HP / 66 kW",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "166.0 cm / 65.35 pulgadas",
+            "Período de producción:": "de 2016 a 2020",
+            "Cilindrada:": "1242 cm3 / 75.8 cu-in",
+            "Peso:": "de 885 kg / 1951 lbs a 960 kg / 2116 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M9011/Ignis-3"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ignis 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.5 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Ignis 1.3 Diesel Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Ignis 2 (MH) (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "156.0 cm / 61.42 pulgadas",
+            "Emisiones de CO2:": "de 133 a 172 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 99 PS / 98 HP / 73 kW",
+            "Largo:": "377.0 cm / 148.43 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "de 1248 cm3 / 76.2 cu-in a 1490 cm3 / 90.9 cu-in",
+            "Peso:": "de 930 kg / 2050 lbs a 995 kg / 2194 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M984/Ignis-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Ignis 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Ignis 1.5 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Ignis 1 (FH) (2000 - 2003)",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "de 150 a 164 g/Km",
+            "Potencia:": "de 83 PS / 82 HP / 61 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "362.0 cm / 142.52 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 2000 a 2003",
+            "Cilindrada:": "de 1328 cm3 / 81 cu-in a 1490 cm3 / 90.9 cu-in",
+            "Peso:": "de 890 kg / 1962 lbs a 910 kg / 2006 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M983/Ignis-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/10765/w170_Suzuki-Ignis-2020-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Ignis"
+    },
+    {
+      "modelName": "Jimny",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Jimny 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Jimny 1.3 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Jimny 1.3 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Jimny 1.3 4WD Cabrio Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Jimny 1.3L Mode3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Jimny 1.5 DDis Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Jimny 1.5 DDis Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Jimny 1.5L DDiS JLX Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Jimny 1.5L DDiS Mode 3 Ficha Tecnica",
+              "Cilindrada": "1461 cm3 (89.2 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Jimny Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "225.0 cm / 88.58 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Emisiones de CO2:": "de 162 a 196 g/Km",
+            "Potencia:": "de 65 PS / 64 HP / 48 kW a 86 PS / 85 HP / 63 kW",
+            "Largo:": "362.0 cm / 142.52 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 1998 a 2005",
+            "Cilindrada:": "de 1298 cm3 / 79.2 cu-in a 1461 cm3 / 89.2 cu-in",
+            "Peso:": "de 960 kg / 2116 lbs a 1155 kg / 2546 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M985/Jimny"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/985/w170_Suzuki-Jimny-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M985/Jimny"
+    },
+    {
+      "modelName": "Jimny 2019",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Jimny 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1462 cm3 (89.2 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Jimny 2019 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "225.0 cm / 88.58 pulgadas",
+            "Alto:": "170.5 cm / 67.13 pulgadas",
+            "Emisiones de CO2:": "154 g/Km",
+            "Potencia:": "102 PS / 101 HP / 75 kW",
+            "Peso de remolque:": "1300 kg / 2866 lbs",
+            "Largo:": "364.5 cm / 143.5 pulgadas",
+            "Ancho:": "164.5 cm / 64.76 pulgadas",
+            "Período de producción:": "2018",
+            "Cilindrada:": "1462 cm3 / 89.2 cu-in",
+            "Peso:": "1166 kg / 2571 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M10132/Jimny-2019"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/10132/w170_Suzuki-Jimny-2019-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M10132/Jimny-2019"
+    },
+    {
+      "modelName": "Kei 5-door",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Kei 5-door A Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door A Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door B Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door B Turbo 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door B Turbo 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door B Turbo Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Sport F Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Sport R Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Works Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Works 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Works 4WD Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            },
+            {
+              "Motores de Gasolina": "Kei 5-door Works Automatic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": ""
+            }
+          ],
+          "actualFinalModelName": "Suzuki Kei 5-door Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236 cm / 92.91 pulgadas",
+            "Alto:": "154.5 cm / 60.83 pulgadas",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 64 PS / 63 HP / 47 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "2003",
+            "Cilindrada:": "de 657 cm3 / 40.1 cu-in a 658 cm3 / 40.2 cu-in",
+            "Peso:": "de 760 kg / 1676 lbs a 830 kg / 1830 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M2885/Kei-5-door"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/2885/w170_Suzuki-Kei-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M2885/Kei-5-door"
+    },
+    {
+      "modelName": "Kizashi",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Kizashi 2.4 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Kizashi 2.4 Sport 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Kizashi 2.4 Sport 4WD CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2012"
+            },
+            {
+              "Motores de Gasolina": "Kizashi 2.4 Sport 4x4 CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2393 cm3 (146 cu-in)",
+              "Potencia": "178 hp / 131 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Kizashi Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Alto:": "147.0 cm / 57.87 pulgadas",
+            "Emisiones de CO2:": "de 183 a 191 g/Km",
+            "Potencia:": "178 PS / 176 HP / 131 kW",
+            "Largo:": "465.0 cm / 183.07 pulgadas",
+            "Ancho:": "182.0 cm / 71.65 pulgadas",
+            "Período de producción:": "2010",
+            "Cilindrada:": "2393 cm3 / 146 cu-in",
+            "Peso:": "de 1495 kg / 3296 lbs a 1605 kg / 3538 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M1492/Kizashi"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/1492/w170_Suzuki-Kizashi-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M1492/Kizashi"
+    },
+    {
+      "modelName": "Liana",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Liana 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Liana 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "103 hp / 76 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Liana 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "106 hp / 78 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Liana 1.4 Diesel Ficha Tecnica",
+              "Cilindrada": "1398 cm3 (85.3 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Liana Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Emisiones de CO2:": "de 141 a 171 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 106 PS / 105 HP / 78 kW",
+            "Largo:": "423.0 cm / 166.54 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2001 a 2007",
+            "Cilindrada:": "de 1328 cm3 / 81 cu-in a 1586 cm3 / 96.8 cu-in",
+            "Peso:": "de 1115 kg / 2458 lbs a 1180 kg / 2601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M986/Liana"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/986/w170_Suzuki-Liana-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M986/Liana"
+    },
+    {
+      "modelName": "SJ / Samurai",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai LWB Cabrio 1.3i Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai LWB Cabrio 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai LWB Cabrio 1.9TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "169.0 cm / 66.54 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 69 PS / 68 HP / 51 kW",
+            "Largo:": "404.0 cm / 159.06 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 1000 kg / 2205 lbs a 1130 kg / 2491 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13138/Samurai-LWB-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai LWB Hard-Top 1.3i 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai LWB Hard-Top 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai LWB Hard-Top 1.9TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "169.0 cm / 66.54 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 69 PS / 68 HP / 51 kW",
+            "Largo:": "404.0 cm / 159.06 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1180 kg / 2601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13141/Samurai-LWB-Hard-Top"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai Pick-Up 1.3i 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai Pick-Up 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai Pick-Up 1.9TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "237.5 cm / 93.5 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "167.5 cm / 65.94 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 69 PS / 68 HP / 51 kW",
+            "Largo:": "404.0 cm / 159.06 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 990 kg / 2183 lbs a 1120 kg / 2469 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13137/Samurai-Pick-Up"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai SWB 1.3i 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Samurai SWB 1.3i 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "203.0 cm / 79.92 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "166.5 cm / 65.55 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 80 PS / 79 HP / 59 kW",
+            "Largo:": "347.0 cm / 136.61 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 975 kg / 2150 lbs a 1105 kg / 2436 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M6027/Samurai-SWB"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai SWB Cabrio 1.3i 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Samurai SWB Cabrio 1.3i 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB Cabrio 1.9 TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB Cabrio 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "203.0 cm / 79.92 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "166.5 cm / 65.55 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 80 PS / 79 HP / 59 kW",
+            "Largo:": "347.0 cm / 136.61 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 955 kg / 2105 lbs a 1085 kg / 2392 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13139/Samurai-SWB-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Samurai SWB Hard-Top 1.3i 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "Samurai SWB Hard-Top 1.3i 8v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB Hard-Top 1.9D Ficha Tecnica",
+              "Cilindrada": "1870 cm3 (114.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2001"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Samurai SWB Hard-Top 1.9TD Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Samurai Santana (1998 - 2003)",
+          "specifications": {
+            "Batalla:": "203.0 cm / 79.92 pulgadas",
+            "Consumos Medio:": "de 6.8 L/100 km / 42 MPG UK / 35 MPG US a 8.8 L/100 km / 32 MPG UK / 27 MPG US",
+            "Alto:": "166.5 cm / 65.55 pulgadas",
+            "Potencia:": "de 63 PS / 62 HP / 46 kW a 80 PS / 79 HP / 59 kW",
+            "Largo:": "347.0 cm / 136.61 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1998 a 2003",
+            "Cilindrada:": "de 1299 cm3 / 79.3 cu-in a 1905 cm3 / 116.3 cu-in",
+            "Peso:": "de 985 kg / 2172 lbs a 1115 kg / 2458 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13140/Samurai-SWB-Hard-Top"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/6027/w170_Suzuki-Samurai-SWB-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-SJ---Samurai"
+    },
+    {
+      "modelName": "SJ 410",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SJ 410 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "970 cm3 (59.2 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1981"
+            },
+            {
+              "Motores de Gasolina": "SJ 410 413 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1324 cm3 (80.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1982"
+            },
+            {
+              "Motores de Gasolina": "SJ 410 413 LWB Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1324 cm3 (80.8 cu-in)",
+              "Potencia": "63 hp / 46 kW",
+              "Año": "1982"
+            }
+          ],
+          "actualFinalModelName": "Suzuki SJ 410 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "203 cm / 79.92 pulgadas",
+            "Consumos Medio:": "8.4 L/100 km / 34 MPG UK / 28 MPG US",
+            "Alto:": "169 cm / 66.54 pulgadas",
+            "Potencia:": "de 45 PS / 44 HP / 33 kW a 63 PS / 62 HP / 46 kW",
+            "Largo:": "341 cm / 134.25 pulgadas",
+            "Ancho:": "139.5 cm / 54.92 pulgadas",
+            "Período de producción:": "de 1981 a 1989",
+            "Cilindrada:": "de 970 cm3 / 59.2 cu-in a 1324 cm3 / 80.8 cu-in",
+            "Peso:": "de 886 kg / 1953 lbs a 924 kg / 2037 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M185/SJ-410"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/suzuki/185/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M185/SJ-410"
+    },
+    {
+      "modelName": "Splash",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Splash 1.0 GLS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "997 cm3 (60.8 cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Splash 1.2 GLS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2008"
+            },
+            {
+              "Motores de Gasolina": "Splash 1.2 GLS Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Splash 1.3 Diesel GL Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Splash 1.3 Diesel GLS Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Splash Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "159.0 cm / 62.6 pulgadas",
+            "Emisiones de CO2:": "de 120 a 142 g/Km",
+            "Potencia:": "de 65 PS / 64 HP / 48 kW a 86 PS / 85 HP / 63 kW",
+            "Largo:": "371.5 cm / 146.26 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 2008 a 2014",
+            "Cilindrada:": "de 997 cm3 / 60.8 cu-in a 1248 cm3 / 76.2 cu-in",
+            "Peso:": "de 1050 kg / 2315 lbs a 1160 kg / 2557 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M3514/Splash"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/3514/w170_Suzuki-Splash-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M3514/Splash"
+    },
+    {
+      "modelName": "Swace",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swace 1.8 Hybrid e-CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Swace - 2023 Facelift (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "4.5 L/100 km / 63 MPG UK / 52 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 140 PS / 138 HP / 103 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "465.5 cm / 183.27 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "1798 cm3 / 109.7 cu-in",
+            "Peso:": "1475 kg / 3252 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M13805/Swace-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swace 1.8 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1798 cm3 (109.7 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Swace - New Model (2020 - 2023)",
+          "specifications": {
+            "Batalla:": "270.0 cm / 106.3 pulgadas",
+            "Consumos Medio:": "4.4 L/100 km / 64 MPG UK / 53 MPG US",
+            "Alto:": "146.0 cm / 57.48 pulgadas",
+            "Potencia:": "de 98 PS / 97 HP / 72 kW a 122 PS / 120 HP / 90 kW",
+            "Peso de remolque:": "750 kg / 1653 lbs",
+            "Largo:": "465.5 cm / 183.27 pulgadas",
+            "Ancho:": "179.0 cm / 70.47 pulgadas",
+            "Período de producción:": "de 2020 a 2023",
+            "Cilindrada:": "1798 cm3 / 109.7 cu-in",
+            "Peso:": "1478 kg / 3258 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M11216/Swace"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/13805/w170_Suzuki-Swace-2023-a4064e4a859421d908.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Swace"
+    },
+    {
+      "modelName": "Swift",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.2 4WD CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Mild Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Mild Hybrid 4WD CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2023"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Mild Hybrid CVT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2023"
+            }
+          ],
+          "actualFinalModelName": "Swift 7 - 2023 New Model (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "de 91 a 106 g/Km",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "386.0 cm / 151.97 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Cilindrada:": "1197 cm3 / 73 cu-in",
+            "Peso:": "de 910 kg / 2006 lbs a 1020 kg / 2249 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8114/Swift-7"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.2 Smart Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Smart Hybrid Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Smart Hybrid Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1197 cm3 (73 cu-in)",
+              "Potencia": "83 hp / 61 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Swift (RZ/AZ) - 2021 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 5.4 L/100 km / 52 MPG UK / 44 MPG US",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Potencia:": "83 PS / 82 HP / 61 kW",
+            "Peso de remolque:": "1000 kg / 2205 lbs",
+            "Largo:": "384.5 cm / 151.38 pulgadas",
+            "Ancho:": "173.5 cm / 68.31 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Cilindrada:": "1197 cm3 / 73 cu-in",
+            "Peso:": "de 964 kg / 2125 lbs a 1049 kg / 2313 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M11475/Swift-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.0 BoosterJet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.0 BoosterJet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.0 BoosterJet SHVS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Dualjet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Dualjet Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Dualjet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Dualjet SHVS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.2 Dualjet SHVS AllGrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2017"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.4 Boosterjet Smart Hybrid Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.4 Boosterjet Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            }
+          ],
+          "actualFinalModelName": "Swift (RZ/AZ) (2017 - 2020)",
+          "specifications": {
+            "Batalla:": "245.0 cm / 96.46 pulgadas",
+            "Consumos Medio:": "5.6 L/100 km / 50 MPG UK / 42 MPG US",
+            "Alto:": "149.5 cm / 58.86 pulgadas",
+            "Emisiones de CO2:": "de 90 a 127 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 140 PS / 138 HP / 103 kW",
+            "Largo:": "384.0 cm / 151.18 pulgadas",
+            "Ancho:": "173.5 cm / 68.31 pulgadas",
+            "Período de producción:": "de 2017 a 2020",
+            "Cilindrada:": "de 998 cm3 / 60.9 cu-in a 1373 cm3 / 83.8 cu-in",
+            "Peso:": "de 915 kg / 2017 lbs a 1094 kg / 2412 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M9333/Swift-6"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 3-door 1.2 VVT GA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-door 1.2 VVT GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-door 1.2 VVT GL Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-door 1.6 VVT Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GL 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GL Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GLX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GLX SR Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT GLX SR 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.2 VVT Takumi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-door 1.6 VVT Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Swift 5-door 1.3 DDiS GL Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "Swift (FZ/NZ) (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "243.0 cm / 95.67 pulgadas",
+            "Alto:": "151.0 cm / 59.45 pulgadas",
+            "Emisiones de CO2:": "de 101 a 147 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "385.0 cm / 151.57 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1242 cm3 / 75.8 cu-in a 1586 cm3 / 96.8 cu-in",
+            "Peso:": "de 1020 kg / 2249 lbs a 1140 kg / 2513 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M7927/Swift-5-Facelift-2013"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GA Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GL+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GLX Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 3-doors 1.2 VVT GLX Start Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.2 VVT GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.2 VVT GL+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.2 VVT GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.2 VVT GLX Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.2 VVT GLX Start Stop Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1242 cm3 (75.8 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Swift 5-doors 1.3 BlackWhite Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Swift 3-doors 1.3 DDiS Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Swift 5-doors 1.3 DDiS Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "Swift (FZ/NZ) (2010 - 2017)",
+          "specifications": {
+            "Batalla:": "243.0 cm / 95.67 pulgadas",
+            "Alto:": "151.0 cm / 59.45 pulgadas",
+            "Emisiones de CO2:": "de 109 a 140 g/Km",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 94 PS / 93 HP / 69 kW",
+            "Largo:": "385.0 cm / 151.57 pulgadas",
+            "Ancho:": "169.5 cm / 66.73 pulgadas",
+            "Período de producción:": "de 2010 a 2017",
+            "Cilindrada:": "de 1242 cm3 / 75.8 cu-in a 1328 cm3 / 81 cu-in",
+            "Peso:": "de 990 kg / 2183 lbs a 1140 kg / 2513 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M1490/Swift-V"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "92 hp / 68 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.6 Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "125 hp / 92 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Swift 1.3 Diesel Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2005"
+            }
+          ],
+          "actualFinalModelName": "Swift (MZ/EZ) (2005 - 2010)",
+          "specifications": {
+            "Batalla:": "238.0 cm / 93.7 pulgadas",
+            "Alto:": "150.0 cm / 59.06 pulgadas",
+            "Emisiones de CO2:": "de 122 a 175 g/Km",
+            "Potencia:": "de 69 PS / 68 HP / 51 kW a 125 PS / 123 HP / 92 kW",
+            "Largo:": "370.0 cm / 145.67 pulgadas",
+            "Ancho:": "169.0 cm / 66.54 pulgadas",
+            "Período de producción:": "de 2005 a 2010",
+            "Cilindrada:": "de 1248 cm3 / 76.2 cu-in a 1586 cm3 / 96.8 cu-in",
+            "Peso:": "de 965 kg / 2127 lbs a 1040 kg / 2293 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M991/Swift-IV"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1996"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "85 hp / 63 kW",
+              "Año": "2000"
+            }
+          ],
+          "actualFinalModelName": "Swift (MA) (1995 - 2003)",
+          "specifications": {
+            "Batalla:": "226.0 cm / 88.98 pulgadas",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Emisiones de CO2:": "de 131 a 141 g/Km",
+            "Potencia:": "de 53 PS / 52 HP / 39 kW a 85 PS / 84 HP / 63 kW",
+            "Largo:": "374.0 cm / 147.24 pulgadas",
+            "Ancho:": "158.0 cm / 62.2 pulgadas",
+            "Período de producción:": "de 1995 a 2003",
+            "Cilindrada:": "de - cm3 / - cu-in a 1298 cm3 / 79.2 cu-in",
+            "Peso:": "de 720 kg / 1587 lbs a 765 kg / 1687 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M990/Swift-III"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift Cabrio 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Swift (EA/MA) (1989 - 1995)",
+          "specifications": {
+            "Batalla:": "226.0 cm / 88.98 pulgadas",
+            "Consumos Medio:": "5.8 L/100 km / 49 MPG UK / 41 MPG US",
+            "Alto:": "134.0 cm / 52.76 pulgadas",
+            "Potencia:": "68 PS / 67 HP / 50 kW",
+            "Largo:": "374.0 cm / 147.24 pulgadas",
+            "Ancho:": "159.0 cm / 62.6 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "1298 cm3 / 79.2 cu-in",
+            "Peso:": "800 kg / 1764 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M992/Swift-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1989"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1299 cm3 (79.3 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1991"
+            }
+          ],
+          "actualFinalModelName": "Swift (EA/MA) (1989 - 1995)",
+          "specifications": {
+            "Batalla:": "226.0 cm / 88.98 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 6.9 L/100 km / 41 MPG UK / 34 MPG US",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Potencia:": "de 53 PS / 52 HP / 39 kW a 101 PS / 100 HP / 74 kW",
+            "Largo:": "371.0 cm / 146.06 pulgadas",
+            "Ancho:": "158.0 cm / 62.2 pulgadas",
+            "Período de producción:": "de 1989 a 1995",
+            "Cilindrada:": "de - cm3 / - cu-in a 1299 cm3 / 79.3 cu-in",
+            "Peso:": "de 715 kg / 1576 lbs a 785 kg / 1731 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M988/Swift-II"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Swift 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "993 cm3 (60.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1324 cm3 (80.8 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1984"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1324 cm3 (80.8 cu-in)",
+              "Potencia": "67 hp / 49 kW",
+              "Año": "1986"
+            },
+            {
+              "Motores de Gasolina": "Swift 1.3 GTi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "101 hp / 74 kW",
+              "Año": "1986"
+            }
+          ],
+          "actualFinalModelName": "Swift (AA) (1983 - 1989)",
+          "specifications": {
+            "Batalla:": "224.0 cm / 88.19 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 6.3 L/100 km / 45 MPG UK / 37 MPG US",
+            "Alto:": "135.0 cm / 53.15 pulgadas",
+            "Potencia:": "de 50 PS / 49 HP / 37 kW a 101 PS / 100 HP / 74 kW",
+            "Largo:": "358.0 cm / 140.94 pulgadas",
+            "Ancho:": "153.0 cm / 60.24 pulgadas",
+            "Período de producción:": "de 1983 a 1989",
+            "Cilindrada:": "de 993 cm3 / 60.6 cu-in a 1324 cm3 / 80.8 cu-in",
+            "Peso:": "de 670 kg / 1477 lbs a 746 kg / 1645 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M987/Swift-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/8114/w170_Suzuki-Swift-7-f35b9244df4892b226.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Swift"
+    },
+    {
+      "modelName": "SX4 S-Cross",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid ALLGRIP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2024"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid ALLGRIP Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid ALLGRIP AT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid AT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Hybrid Auto Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.5 Dualjet Hybrid AGS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1462 cm3 (89.2 cu-in)",
+              "Potencia": "116 hp / 85 kW",
+              "Año": "2024"
+            }
+          ],
+          "actualFinalModelName": "SX4 S-Cross 3rd Gen. - 2022 New Model (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "de 5.1 L/100 km / 55 MPG UK / 46 MPG US a 6.1 L/100 km / 46 MPG UK / 39 MPG US",
+            "Alto:": "158.5 cm / 62.4 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 129 PS / 127 HP / 95 kW",
+            "Peso de remolque:": "de 1200 kg / 2646 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "430.5 cm / 169.49 pulgadas",
+            "Ancho:": "178.5 cm / 70.28 pulgadas",
+            "Período de producción:": "de 2022 a a presente",
+            "Cilindrada:": "de 1373 cm3 / 83.8 cu-in a 1462 cm3 / 89.2 cu-in",
+            "Peso:": "de 1280 kg / 2822 lbs a 1392 kg / 3069 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M12372/S-Cross-2022"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "S-Cross 1.0 Boosterjet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.0 Boosterjet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.0 DITC 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "111 hp / 82 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Allgrip Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Smart Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Smart Hybrid Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Smart Hybrid Allgrip Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 Boosterjet Smart Hybrid Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 DITC 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 DITC 2WD 6AT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "S-Cross 1.4 DITC 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "S-Cross 1.6 DDiS 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "S-Cross 1.6 DDiS 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "S-Cross 1.6 DDiS 4WD 6TCSS Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "SX4 S-Cross 2nd Gen. (JY) - 2017 Update (2016 - 2021)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Consumos Medio:": "de 5.6 L/100 km / 50 MPG UK / 42 MPG US a 6.3 L/100 km / 45 MPG UK / 37 MPG US",
+            "Alto:": "158.0 cm / 62.2 pulgadas",
+            "Potencia:": "de 111 PS / 109 HP / 82 kW a 140 PS / 138 HP / 103 kW",
+            "Peso de remolque:": "de 1200 kg / 2646 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "178.5 cm / 70.28 pulgadas",
+            "Período de producción:": "de 2016 a 2021",
+            "Cilindrada:": "de 998 cm3 / 60.9 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1430 kg / 3153 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M8939/S-Cross"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT 4x2 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT 4x2 GLX Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT 4x2 Takumi Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GL 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLE 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLE 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLX-EL 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLX-EL 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLX-EL CVT 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLX-EL CVT 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Motores de Gasolina": "SX4 S-Cross 1.6 VVT GLX-EL S&S 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GL 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLE 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLE 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX-EL 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX-EL 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX-EL S&S 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 1.6 DDiS GLX-EL S&S 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 2.0 DDiS 4x2 GL Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 2.0 DDiS 4x4 GL Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 2.0 DDiS 4x4 GLX Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2013"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 S-Cross 2.0 DDiS 4x4 Takumi Ficha Tecnica",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2013"
+            }
+          ],
+          "actualFinalModelName": "SX4 S-Cross 2nd Gen. (JY) - 2013 New Model (2013 - 2016)",
+          "specifications": {
+            "Batalla:": "260.0 cm / 102.36 pulgadas",
+            "Alto:": "157.5 cm / 62.01 pulgadas",
+            "Emisiones de CO2:": "de 110 a 165 g/Km",
+            "Potencia:": "de 120 PS / 118 HP / 88 kW a 135 PS / 133 HP / 99 kW",
+            "Largo:": "430.0 cm / 169.29 pulgadas",
+            "Ancho:": "176.5 cm / 69.49 pulgadas",
+            "Período de producción:": "de 2013 a 2016",
+            "Cilindrada:": "de 1586 cm3 / 96.8 cu-in a 1956 cm3 / 119.4 cu-in",
+            "Peso:": "de 1160 kg / 2557 lbs a 1425 kg / 3142 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M6841/SX4-S-Cross"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "SX4 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1490 cm3 (90.9 cu-in)",
+              "Potencia": "99 hp / 73 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 4x4 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "107 hp / 79 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 VVT 4x2 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 VVT 4x2 GL Aut. Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 VVT 4x2 GLX CITY Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 VVT 4x4 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 1.6 VVT 4x4 GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 2.0 DDiS 4x4 GL Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2009"
+            },
+            {
+              "Motores de Gasolina": "SX4 2.0 DDiS 4x4 GLX Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1956 cm3 (119.4 cu-in)",
+              "Potencia": "135 hp / 99 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 1.6 DDiS 4x2 GL Ficha Tecnica",
+              "Cilindrada": "1560 cm3 (95.2 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2009"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 1.9 Diesel Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2006"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "SX4 1.9 Diesel 4x4 Ficha Tecnica",
+              "Cilindrada": "1910 cm3 (116.6 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "SX4 1st Gen. (GY/EY/RW) - 2006 New Model (2006 - 2014)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "160.5 cm / 63.19 pulgadas",
+            "Emisiones de CO2:": "de 129 a 174 g/Km",
+            "Potencia:": "de 90 PS / 89 HP / 66 kW a 135 PS / 133 HP / 99 kW",
+            "Largo:": "415.0 cm / 163.39 pulgadas",
+            "Ancho:": "175.5 cm / 69.09 pulgadas",
+            "Período de producción:": "de 2006 a 2014",
+            "Cilindrada:": "de 1490 cm3 / 90.9 cu-in a 1956 cm3 / 119.4 cu-in",
+            "Peso:": "de 1105 kg / 2436 lbs a 1425 kg / 3142 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M993/SX4"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/12372/w170_Suzuki-S-Cross-2022-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-SX4-S-Cross"
+    },
+    {
+      "modelName": "Wagon R+ I",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wagon R+ I 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 996 cm3 (- cu-in)",
+              "Potencia": "65 hp / 48 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Wagon R+ I 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1171 cm3 (71.5 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Wagon R+ I Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "234.0 cm / 92.13 pulgadas",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Emisiones de CO2:": "de 141 a 143 g/Km",
+            "Potencia:": "de 65 PS / 64 HP / 48 kW a 69 PS / 68 HP / 51 kW",
+            "Largo:": "340.0 cm / 133.86 pulgadas",
+            "Ancho:": "158.0 cm / 62.2 pulgadas",
+            "Período de producción:": "de 1998 a 2000",
+            "Cilindrada:": "de - cm3 / - cu-in a 1171 cm3 / 71.5 cu-in",
+            "Peso:": "de 820 kg / 1808 lbs a 830 kg / 1830 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M997/Wagon-R+-I"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/997/w170_Suzuki-Wagon-R+-I-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M997/Wagon-R+-I"
+    },
+    {
+      "modelName": "Wagon R+ II",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Wagon R+ II 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 993 cm3 (- cu-in)",
+              "Potencia": "53 hp / 39 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "Wagon R+ II 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 998 cm3 (- cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Wagon R+ II 1.2 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1229 cm3 (75 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Wagon R+ II 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1298 cm3 (79.2 cu-in)",
+              "Potencia": "76 hp / 56 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "Wagon R+ II 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1328 cm3 (81 cu-in)",
+              "Potencia": "94 hp / 69 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Wagon R+ II 1.3 Diesel Ficha Tecnica",
+              "Cilindrada": "1248 cm3 (76.2 cu-in)",
+              "Potencia": "69 hp / 51 kW",
+              "Año": "2003"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Wagon R+ II Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "166.0 cm / 65.35 pulgadas",
+            "Emisiones de CO2:": "de 139 a 150 g/Km",
+            "Potencia:": "de 53 PS / 52 HP / 39 kW a 94 PS / 93 HP / 69 kW",
+            "Largo:": "354.0 cm / 139.37 pulgadas",
+            "Ancho:": "160.0 cm / 62.99 pulgadas",
+            "Período de producción:": "de 2000 a 2008",
+            "Cilindrada:": "de - cm3 / - cu-in a 1328 cm3 / 81 cu-in",
+            "Peso:": "de 900 kg / 1984 lbs a 1055 kg / 2326 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M998/Wagon-R+-II"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/998/w170_Suzuki-Wagon-R+-II-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M998/Wagon-R+-II"
+    },
+    {
+      "modelName": "X 90",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "X 90 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "97 hp / 71 kW",
+              "Año": "1996"
+            }
+          ],
+          "actualFinalModelName": "Suzuki X 90 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Consumos Medio:": "7.8 L/100 km / 36 MPG UK / 30 MPG US",
+            "Alto:": "156.0 cm / 61.42 pulgadas",
+            "Potencia:": "97 PS / 96 HP / 71 kW",
+            "Largo:": "371.0 cm / 146.06 pulgadas",
+            "Ancho:": "170.0 cm / 66.93 pulgadas",
+            "Período de producción:": "de 1996 a 1997",
+            "Cilindrada:": "1590 cm3 / 97 cu-in",
+            "Peso:": "1050 kg / 2315 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M999/X-90"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/999/w170_Suzuki-X-90-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M999/X-90"
+    },
+    {
+      "modelName": "Kei 3-door",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Kei 3-door C-Type 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door C-Type 2WD Auto 3-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door G-Type 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door G-Type 2WD Auto 3-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door G-Type 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door G-Type 4WD Auto 3-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door S-Type 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door S-Type 2WD Auto 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door S-Type 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door S-Type 4WD Auto 4-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door X-Type 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door X-Type 2WD Auto 3-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door X-Type 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "Kei 3-door X-Type 4WD Auto 3-speed Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "1998"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Kei 3-door Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "152.5 cm / 60.04 pulgadas",
+            "Potencia:": "de 55 PS / 54 HP / 40 kW a 64 PS / 63 HP / 47 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 1998 a 1999",
+            "Cilindrada:": "de 657 cm3 / 40.1 cu-in a 658 cm3 / 40.2 cu-in",
+            "Peso:": "de 660 kg / 1455 lbs a 770 kg / 1698 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14576/Kei-3-door"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14576/w170_Suzuki-Kei-3-door-b478cbc2e074ebdc3f.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14576/Kei-3-door"
+    },
+    {
+      "modelName": "Cervo (HG21S)",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cervo G 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Cervo G Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Cervo T / TX 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "Cervo T / TX Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "658 cm3 (40.2 cu-in)",
+              "Potencia": "60 hp / 44 kW",
+              "Año": "2006"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Cervo (HG21S) Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "154.5 cm / 60.83 pulgadas",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 60 PS / 59 HP / 44 kW",
+            "Largo:": "339.5 cm / 133.66 pulgadas",
+            "Ancho:": "147.5 cm / 58.07 pulgadas",
+            "Período de producción:": "de 2006 a 2009",
+            "Cilindrada:": "658 cm3 / 40.2 cu-in",
+            "Peso:": "de 790 kg / 1742 lbs a 860 kg / 1896 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14574/Cervo-(HG21S)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14574/w170_Suzuki-Cervo-(HG21S)-ed7623378cc367ad5a.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14574/Cervo-(HG21S)"
+    },
+    {
+      "modelName": "Vitara",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Hybrid ALLGRIP AT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Hybrid AT Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "110 hp / 81 kW",
+              "Año": "2025"
+            }
+          ],
+          "actualFinalModelName": "Vitara 4th Gen. (LY) - 2025 Facelift (2024 - Presente)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 5.7 L/100 km / 50 MPG UK / 41 MPG US a 5.8 L/100 km / 49 MPG UK / 41 MPG US",
+            "Alto:": "159.5 cm / 62.8 pulgadas",
+            "Potencia:": "110 PS / 109 HP / 81 kW",
+            "Peso de remolque:": "1200 kg / 2646 lbs",
+            "Largo:": "418.5 cm / 164.76 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Cilindrada:": "1373 cm3 / 83.8 cu-in",
+            "Peso:": "de 1280 kg / 2822 lbs a 1350 kg / 2976 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M15824/Vitara-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara 1.0 Boosterjet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.0 Boosterjet Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.0 Boosterjet Allgrip Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.0 Boosterjet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "998 cm3 (60.9 cu-in)",
+              "Potencia": "112 hp / 82 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Allgrip Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "140 hp / 103 kW",
+              "Año": "2018"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Smart Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Smart Hybrid Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2020"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Smart Hybrid Allgrip Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.4 Boosterjet Smart Hybrid Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1373 cm3 (83.8 cu-in)",
+              "Potencia": "129 hp / 95 kW",
+              "Año": "2021"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.5 Hybrid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1462 cm3 (89.2 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2022"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.5 Hybrid Allgrip Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1462 cm3 (89.2 cu-in)",
+              "Potencia": "115 hp / 85 kW",
+              "Año": "2022"
+            }
+          ],
+          "actualFinalModelName": "Vitara 4th Gen. (LY) - 2019 Facelift (2018 - 2024)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Consumos Medio:": "de 5.3 L/100 km / 53 MPG UK / 44 MPG US a 6.3 L/100 km / 45 MPG UK / 37 MPG US",
+            "Alto:": "159.5 cm / 62.8 pulgadas",
+            "Potencia:": "de 102 PS / 101 HP / 75 kW a 140 PS / 138 HP / 103 kW",
+            "Peso de remolque:": "de 1200 kg / 2646 lbs a 1500 kg / 3307 lbs",
+            "Largo:": "417.0 cm / 164.17 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2018 a 2024",
+            "Cilindrada:": "de 998 cm3 / 60.9 cu-in a 1462 cm3 / 89.2 cu-in",
+            "Peso:": "de 1166 kg / 2571 lbs a 1396 kg / 3078 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M10100/Vitara-2019"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT 120HP 2WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT 120HP 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT 120HP 4WD Auto Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT GLE 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT GLX 2WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 VVT GLX 4WD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1586 cm3 (96.8 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS 120HP 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS 120HP 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2014"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS GLE 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS GLE 4x4 TCSS Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS GLX 2WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS GLX 4WD Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2015"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara 1.6 DDiS GLX 4x4 TCSS Ficha Tecnica",
+              "Cilindrada": "1598 cm3 (97.5 cu-in)",
+              "Potencia": "120 hp / 88 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Vitara 4th Gen. (LY) - 2015 New Model (2014 - 2018)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "161.0 cm / 63.39 pulgadas",
+            "Emisiones de CO2:": "de 106 a 138 g/Km",
+            "Potencia:": "120 PS / 118 HP / 88 kW",
+            "Largo:": "417.5 cm / 164.37 pulgadas",
+            "Ancho:": "177.5 cm / 69.88 pulgadas",
+            "Período de producción:": "de 2014 a 2018",
+            "Cilindrada:": "de 1586 cm3 / 96.8 cu-in a 1598 cm3 / 97.5 cu-in",
+            "Peso:": "de 1120 kg / 2469 lbs a 1400 kg / 3086 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M7989/Vitara-2015"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1997"
+            },
+            {
+              "Motores de Gasolina": "Vitara 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "97 hp / 71 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Vitara 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Vitara 1st Gen. (ET/TA) - 1989 New Model (1989 - 2006)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Consumos Medio:": "de 9.5 L/100 km / 30 MPG UK / 25 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Potencia:": "de 80 PS / 79 HP / 59 kW a 132 PS / 130 HP / 97 kW",
+            "Largo:": "362.0 cm / 142.52 pulgadas",
+            "Ancho:": "163.0 cm / 64.17 pulgadas",
+            "Período de producción:": "de 1989 a 2006",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1005 kg / 2216 lbs a 1180 kg / 2601 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M995/Vitara"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara Cabrio 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1988"
+            },
+            {
+              "Motores de Gasolina": "Vitara Cabrio 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "80 hp / 59 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Vitara Cabrio 1.6 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "97 hp / 71 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Vitara Cabrio 2.0 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1995 cm3 (121.7 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Vitara 1st Gen. (ET/TA) - 1989 New Model (1989 - 2006)",
+          "specifications": {
+            "Batalla:": "220.0 cm / 86.61 pulgadas",
+            "Consumos Medio:": "de 8.7 L/100 km / 32 MPG UK / 27 MPG US a 9.9 L/100 km / 29 MPG UK / 24 MPG US",
+            "Alto:": "167.0 cm / 65.75 pulgadas",
+            "Potencia:": "de 80 PS / 79 HP / 59 kW a 132 PS / 130 HP / 97 kW",
+            "Largo:": "362.0 cm / 142.52 pulgadas",
+            "Ancho:": "163.0 cm / 64.17 pulgadas",
+            "Período de producción:": "de 1989 a 2006",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1995 cm3 / 121.7 cu-in",
+            "Peso:": "de 1005 kg / 2216 lbs a 1170 kg / 2579 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M996/Vitara-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Vitara Wagon 1.6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "97 hp / 71 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "Vitara Wagon 16v Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1590 cm3 (97 cu-in)",
+              "Potencia": "97 hp / 71 kW",
+              "Año": "1994"
+            },
+            {
+              "Motores de Gasolina": "Vitara Wagon V6 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "136 hp / 100 kW",
+              "Año": "1995"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara Wagon 1.9 Turbo D Ficha Tecnica",
+              "Cilindrada": "1905 cm3 (116.3 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "1997"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Vitara Wagon 2.0 Turbo D Ficha Tecnica",
+              "Cilindrada": "1998 cm3 (121.9 cu-in)",
+              "Potencia": "87 hp / 64 kW",
+              "Año": "1997"
+            }
+          ],
+          "actualFinalModelName": "Vitara 1st Gen. (ET/TA) - 1989 New Model (1989 - 2006)",
+          "specifications": {
+            "Batalla:": "248.0 cm / 97.64 pulgadas",
+            "Consumos Medio:": "de 7.8 L/100 km / 36 MPG UK / 30 MPG US a 10.6 L/100 km / 27 MPG UK / 22 MPG US",
+            "Alto:": "170.0 cm / 66.93 pulgadas",
+            "Potencia:": "de 75 PS / 74 HP / 55 kW a 136 PS / 134 HP / 100 kW",
+            "Largo:": "403.0 cm / 158.66 pulgadas",
+            "Ancho:": "164.0 cm / 64.57 pulgadas",
+            "Período de producción:": "de 1989 a 2006",
+            "Cilindrada:": "de 1590 cm3 / 97 cu-in a 1998 cm3 / 121.9 cu-in",
+            "Peso:": "de 1165 kg / 2568 lbs a 1360 kg / 2998 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M994/Vitara-Wagon"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/15824/w170_Suzuki-Vitara-2025-a83978d2f3d9eae945.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki-models/Suzuki-Vitara"
+    },
+    {
+      "modelName": "Cara Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Cara Coupe Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "657 cm3 (40.1 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "1993"
+            }
+          ],
+          "actualFinalModelName": "Suzuki Cara Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "223.5 cm / 87.99 pulgadas",
+            "Alto:": "115.0 cm / 45.28 pulgadas",
+            "Potencia:": "64 PS / 63 HP / 47 kW",
+            "Largo:": "329.5 cm / 129.72 pulgadas",
+            "Ancho:": "139.5 cm / 54.92 pulgadas",
+            "Período de producción:": "de 1993 a 1995",
+            "Cilindrada:": "657 cm3 / 40.1 cu-in",
+            "Peso:": "720 kg / 1587 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14573/Cara-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/47/14573/w170_Suzuki-Cara-Coupe-0dd8970940340c515c.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Suzuki/M14573/Cara-Coupe"
+    }
+  ],
+  "brandName": "Suzuki"
+}

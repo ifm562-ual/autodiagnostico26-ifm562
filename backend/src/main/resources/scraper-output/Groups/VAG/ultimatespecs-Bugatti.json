@@ -1,0 +1,317 @@
+{
+  "models": [
+    {
+      "modelName": "Chiron",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Chiron Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7993 cm3 (487.8 cu-in)",
+              "Potencia": "1500 hp / 1103 kW",
+              "Año": "2016"
+            },
+            {
+              "Motores de Gasolina": "Chiron Super Sport 300+ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7993 cm3 (487.8 cu-in)",
+              "Potencia": "1599 hp / 1176 kW",
+              "Año": "2021"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Chiron Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.1 cm / 106.73 pulgadas",
+            "Alto:": "121.2 cm / 47.72 pulgadas",
+            "Potencia:": "de 1500 PS / 1480 HP / 1103 kW a 1599 PS / 1577 HP / 1176 kW",
+            "Largo:": "454.4 cm / 178.9 pulgadas",
+            "Ancho:": "203.8 cm / 80.24 pulgadas",
+            "Período de producción:": "2016",
+            "Cilindrada:": "7993 cm3 / 487.8 cu-in",
+            "Peso:": "2043 kg / 4504 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M8683/Chiron"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/8683/w170_Bugatti-Chiron-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M8683/Chiron"
+    },
+    {
+      "modelName": "Divo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Divo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7993 cm3 (487.8 cu-in)",
+              "Potencia": "1500 hp / 1103 kW",
+              "Año": "2020"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Divo Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.1 cm / 106.73 pulgadas",
+            "Consumos Medio:": "22.3 L/100 km / 13 MPG UK / 11 MPG US",
+            "Alto:": "121.2 cm / 47.72 pulgadas",
+            "Emisiones de CO2:": "de 506 a 516 g/Km",
+            "Potencia:": "1500 PS / 1480 HP / 1103 kW",
+            "Largo:": "464.1 cm / 182.72 pulgadas",
+            "Ancho:": "201.8 cm / 79.45 pulgadas",
+            "Período de producción:": "2020",
+            "Cilindrada:": "7993 cm3 / 487.8 cu-in",
+            "Peso:": "1960 kg / 4321 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M10685/Divo"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/10685/w170_Bugatti-Divo-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M10685/Divo"
+    },
+    {
+      "modelName": "EB 16.4",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "EB 16.4 Veyron Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7993 cm3 (487.8 cu-in)",
+              "Potencia": "1001 hp / 736 kW",
+              "Año": "2006"
+            },
+            {
+              "Motores de Gasolina": "EB 16.4 Veyron Grand Sport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "7993 cm3 (487.8 cu-in)",
+              "Potencia": "1001 hp / 736 kW",
+              "Año": "2008"
+            }
+          ],
+          "actualFinalModelName": "Bugatti EB 16.4 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "271.0 cm / 106.69 pulgadas",
+            "Consumos Medio:": "24.1 L/100 km / 12 MPG UK / 10 MPG US",
+            "Alto:": "120.4 cm / 47.4 pulgadas",
+            "Potencia:": "1001 PS / 987 HP / 736 kW",
+            "Largo:": "446.2 cm / 175.67 pulgadas",
+            "Ancho:": "199.8 cm / 78.66 pulgadas",
+            "Período de producción:": "2006",
+            "Cilindrada:": "7993 cm3 / 487.8 cu-in",
+            "Peso:": "de 1888 kg / 4162 lbs a 1968 kg / 4339 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M380/EB-164"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bugatti/380/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M380/EB-164"
+    },
+    {
+      "modelName": "EB 110",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "EB 110 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "560 hp / 412 kW",
+              "Año": "1991"
+            },
+            {
+              "Motores de Gasolina": "EB 110 SuperSport Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3498 cm3 (213.5 cu-in)",
+              "Potencia": "600 hp / 441 kW",
+              "Año": "1992"
+            }
+          ],
+          "actualFinalModelName": "Bugatti EB 110 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "255.0 cm / 100.39 pulgadas",
+            "Alto:": "111.4 cm / 43.86 pulgadas",
+            "Potencia:": "de 560 PS / 552 HP / 412 kW a 600 PS / 592 HP / 441 kW",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "194.0 cm / 76.38 pulgadas",
+            "Período de producción:": "de 1991 a 1995",
+            "Cilindrada:": "3498 cm3 / 213.5 cu-in",
+            "Peso:": "de 1418 kg / 3126 lbs a 1796 kg / 3960 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M379/EB-110"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/bugatti/379/w170_default1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M379/EB-110"
+    },
+    {
+      "modelName": "Type 57",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Type 57 Galibier Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3257 cm3 (198.8 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1934"
+            },
+            {
+              "Motores de Gasolina": "Type 57 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3257 cm3 (198.8 cu-in)",
+              "Potencia": "183 hp / 135 kW",
+              "Año": "1936"
+            },
+            {
+              "Motores de Gasolina": "Type 57 SC Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3257 cm3 (198.8 cu-in)",
+              "Potencia": "223 hp / 164 kW",
+              "Año": "1937"
+            },
+            {
+              "Motores de Gasolina": "Type 57 T Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3257 cm3 (198.8 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1935"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Type 57 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "330 cm / 129.92 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 142 PS / 140 HP / 104 kW a 223 PS / 220 HP / 164 kW",
+            "Largo:": "- cm / - pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "1934",
+            "Cilindrada:": "3257 cm3 / 198.8 cu-in",
+            "Peso:": "de 1372 kg / 3025 lbs a 1397 kg / 3080 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M1586/Type-57"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/1586/w170_Bugatti-Type-57-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M1586/Type-57"
+    },
+    {
+      "modelName": "Type 49",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Type 49 Tourer Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "3257 cm3 (198.8 cu-in)",
+              "Potencia": "86 hp / 63 kW",
+              "Año": "1932"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Type 49 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "322.6 cm / 127.01 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "86 PS / 85 HP / 63 kW",
+            "Largo:": "419.1 cm / 165 pulgadas",
+            "Ancho:": "162.6 cm / 64.02 pulgadas",
+            "Período de producción:": "1932",
+            "Cilindrada:": "3257 cm3 / 198.8 cu-in",
+            "Peso:": "1308 kg / 2884 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M1585/Type-49"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/1585/w170_Bugatti-Type-49-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M1585/Type-49"
+    },
+    {
+      "modelName": "Type 46",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Type 46 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5360 cm3 (327.1 cu-in)",
+              "Potencia": "122 hp / 90 kW",
+              "Año": "1929"
+            },
+            {
+              "Motores de Gasolina": "Type 46 S Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "5360 cm3 (327.1 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1931"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Type 46 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "350 cm / 137.8 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 122 PS / 120 HP / 90 kW a 132 PS / 130 HP / 97 kW",
+            "Largo:": "478 cm / 188.19 pulgadas",
+            "Ancho:": "192 cm / 75.59 pulgadas",
+            "Período de producción:": "1929",
+            "Cilindrada:": "5360 cm3 / 327.1 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M5927/Type-46"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/5927/w170_Bugatti-Type-46-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M5927/Type-46"
+    },
+    {
+      "modelName": "Type 35",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Type 35 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "91 hp / 67 kW",
+              "Año": "1924"
+            },
+            {
+              "Motores de Gasolina": "Type 35 A Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "81 hp / 60 kW",
+              "Año": "1926"
+            },
+            {
+              "Motores de Gasolina": "Type 35 B Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "2262 cm3 (138 cu-in)",
+              "Potencia": "142 hp / 104 kW",
+              "Año": "1927"
+            },
+            {
+              "Motores de Gasolina": "Type 35 C Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1991 cm3 (121.5 cu-in)",
+              "Potencia": "132 hp / 97 kW",
+              "Año": "1927"
+            }
+          ],
+          "actualFinalModelName": "Bugatti Type 35 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "240 cm / 94.49 pulgadas",
+            "Alto:": "- cm / - pulgadas",
+            "Potencia:": "de 81 PS / 80 HP / 60 kW a 142 PS / 140 HP / 104 kW",
+            "Largo:": "- cm / - pulgadas",
+            "Ancho:": "- cm / - pulgadas",
+            "Período de producción:": "1924",
+            "Cilindrada:": "de 1991 cm3 / 121.5 cu-in a 2262 cm3 / 138 cu-in",
+            "Peso:": "762 kg / 1680 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M5926/Type-35"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/57/5926/w170_Bugatti-Type-35-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Bugatti/M5926/Type-35"
+    }
+  ],
+  "brandName": "Bugatti"
+}

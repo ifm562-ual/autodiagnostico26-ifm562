@@ -1,0 +1,766 @@
+{
+  "models": [
+    {
+      "modelName": "Model 3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model 3 Long Range 82 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "498 hp / 366 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance 79 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "79.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance 82 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "510 hp / 375 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "82.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "460 hp / 338 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "83.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Premium AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "83.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 RWD 60 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "283 hp / 208 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "60.0 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 RWD Long Range 82kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "283 hp / 208 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "283 hp / 208 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "64.5 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model 3 - 2023 Facelift (2023 - Presente)",
+          "specifications": {
+            "Batalla:": "287.5 cm / 113.19 pulgadas",
+            "Alto:": "144.1 cm / 56.73 pulgadas",
+            "Potencia:": "de 283 PS / 279 HP / 208 kW a 510 PS / 503 HP / 375 kW",
+            "Peso de remolque:": "1000 kg / 2205 lbs",
+            "Largo:": "472.0 cm / 185.83 pulgadas",
+            "Ancho:": "185.0 cm / 72.83 pulgadas",
+            "Período de producción:": "de 2023 a a presente",
+            "Peso:": "de 1822 kg / 4017 lbs a 1919 kg / 4231 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M13637/Model-3-2023"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model 3 Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "287 hp / 211 kW",
+              "Año": "2018",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Long Range AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "351 hp / 258 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Long Range AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "441 hp / 324 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "82 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "462 hp / 340 kW",
+              "Año": "2018",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "462 hp / 340 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Performance AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "513 hp / 377 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "82 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "204 hp / 150 kW",
+              "Año": "2018",
+              "Capacidad de la batería": "- kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "325 hp / 239 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "60 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Range Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2018",
+              "Capacidad de la batería": "60 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Range Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "238 hp / 175 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model 3 Standard Range Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "325 hp / 239 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "50 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model 3 (2019 - 2023)",
+          "specifications": {
+            "Batalla:": "287.5 cm / 113.19 pulgadas",
+            "Alto:": "144.3 cm / 56.81 pulgadas",
+            "Potencia:": "de 204 PS / 201 HP / 150 kW a 513 PS / 506 HP / 377 kW",
+            "Largo:": "469.4 cm / 184.8 pulgadas",
+            "Ancho:": "184.9 cm / 72.8 pulgadas",
+            "Período de producción:": "de 2019 a 2023",
+            "Peso:": "de 1610 kg / 3549 lbs a 1922 kg / 4237 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M8753/Model-3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/13637/w170_Tesla-Model-3-2023-3d79e58bdbaedef0b8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla-models/Tesla-Model-3"
+    },
+    {
+      "modelName": "Cybertruck",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Cybertruck Cyberbeast Tri Motor AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "857 hp / 630 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "123.0 kWh"
+            },
+            {
+              "Eléctrico": "Cybertruck Dual Motor AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "607 hp / 446 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "123.0 kWh"
+            },
+            {
+              "Eléctrico": "Cybertruck Single Motor Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "607 hp / 446 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "123.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Tesla Cybertruck Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "363.0 cm / 142.91 pulgadas",
+            "Alto:": "179.0 cm / 70.47 pulgadas",
+            "Potencia:": "de 607 PS / 599 HP / 446 kW a 857 PS / 845 HP / 630 kW",
+            "Peso de remolque:": "de 3402 kg / 7500 lbs a 4990 kg / 11001 lbs",
+            "Largo:": "568.3 cm / 223.74 pulgadas",
+            "Ancho:": "220.1 cm / 86.65 pulgadas",
+            "Período de producción:": "2021",
+            "Peso:": "de 2775 kg / 6118 lbs a 3104 kg / 6843 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M11259/Cybertruck"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/11259/w170_Tesla-Cybertruck-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M11259/Cybertruck"
+    },
+    {
+      "modelName": "Roadster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Roadster Electric Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "252 hp / 185 kW",
+              "Año": "2008",
+              "Capacidad de la batería": "- kWh"
+            }
+          ],
+          "actualFinalModelName": "Tesla Roadster Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "235.2 cm / 92.6 pulgadas",
+            "Alto:": "112.7 cm / 44.37 pulgadas",
+            "Emisiones de CO2:": "46 g/Km",
+            "Potencia:": "252 PS / 249 HP / 185 kW",
+            "Largo:": "394.6 cm / 155.35 pulgadas",
+            "Ancho:": "172.2 cm / 67.8 pulgadas",
+            "Período de producción:": "de 2008 a 2012",
+            "Peso:": "1305 kg / 2877 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M4399/Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/4399/w170_Tesla-Roadster-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M4399/Roadster"
+    },
+    {
+      "modelName": "Model Y",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model Y AWD Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "514 hp / 378 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y AWD Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "440 hp / 324 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y Maximum Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2026",
+              "Capacidad de la batería": "79.0 kWh"
+            },
+            {
+              "Eléctrico": "Model Y RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y RWD Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y RWD Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "Model Y - 2025 Facelift (2025 - Presente)",
+          "specifications": {
+            "Batalla:": "289.0 cm / 113.78 pulgadas",
+            "Alto:": "162.4 cm / 63.94 pulgadas",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 514 PS / 507 HP / 378 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "479.0 cm / 188.58 pulgadas",
+            "Ancho:": "192.1 cm / 75.63 pulgadas",
+            "Período de producción:": "de 2025 a a presente",
+            "Peso:": "de 1953 kg / 4306 lbs a 2072 kg / 4568 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M14918/Model-Y-2025"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model Y Long Range AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "514 hp / 378 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model Y Long Range RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "347 hp / 255 kW",
+              "Año": "2024",
+              "Capacidad de la batería": "kWh"
+            },
+            {
+              "Eléctrico": "Model Y Performance AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "534 hp / 393 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model Y RWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "299 hp / 220 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "kWh"
+            }
+          ],
+          "actualFinalModelName": "Model Y - 2020 New Model (2020 - 2025)",
+          "specifications": {
+            "Batalla:": "289.1 cm / 113.82 pulgadas",
+            "Alto:": "162.4 cm / 63.94 pulgadas",
+            "Potencia:": "de 299 PS / 295 HP / 220 kW a 534 PS / 527 HP / 393 kW",
+            "Peso de remolque:": "de 1588 kg / 3501 lbs a 1600 kg / 3527 lbs",
+            "Largo:": "475.1 cm / 187.05 pulgadas",
+            "Ancho:": "192.1 cm / 75.63 pulgadas",
+            "Período de producción:": "de 2020 a 2025",
+            "Peso:": "de 1909 kg / 4209 lbs a 2025 kg / 4464 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M10627/Model-Y-2020"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/14918/w170_Tesla-27_02_2025__Model-Y-(ab-03-25)-e2764b585a8d035928.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla-models/Tesla-Model-Y"
+    },
+    {
+      "modelName": "Model S",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model S Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "670 hp / 493 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "100.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S Plaid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "1020 hp / 750 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "95 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model S - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 670 PS / 661 HP / 493 kW a 1020 PS / 1006 HP / 750 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "497.0 cm / 195.67 pulgadas",
+            "Ancho:": "196.4 cm / 77.32 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Peso:": "de 2144 kg / 4727 lbs a 2237 kg / 4932 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M14584/Model-S-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model S 100D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2017",
+              "Capacidad de la batería": "100.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 100D Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model S 60 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "60.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 60D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "332 hp / 244 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "60.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 70 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "70.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 70D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "525 hp / 386 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "70.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "75.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 75D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "75.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "525 hp / 386 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "90.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "449 hp / 330 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model S Maximum Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "564 hp / 415 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S P100D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "700 hp / 515 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model S P90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "469 hp / 345 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "90.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "789 hp / 580 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model S Standard Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "75 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model S - 2017 Facelift (2016 - 2021)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 306 PS / 302 HP / 225 kW a 789 PS / 778 HP / 580 kW",
+            "Largo:": "497 cm / 195.67 pulgadas",
+            "Ancho:": "196.4 cm / 77.32 pulgadas",
+            "Período de producción:": "de 2016 a 2021",
+            "Peso:": "de 2102 kg / 4634 lbs a 2342 kg / 5163 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M14589/Model-S-2017"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model S 60 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "306 hp / 225 kW",
+              "Año": "2013",
+              "Capacidad de la batería": "60.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 60 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "388 hp / 285 kW",
+              "Año": "2014",
+              "Capacidad de la batería": "60.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 70 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "320 hp / 235 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "70.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 70D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "70.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 85 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2013",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 85 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2014",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 85D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 90 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "90.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S 90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "422 hp / 310 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "90.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S P85 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "422 hp / 310 kW",
+              "Año": "2013",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S P85D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "469 hp / 345 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S P90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "700 hp / 515 kW",
+              "Año": "2015",
+              "Capacidad de la batería": "90.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "422 hp / 310 kW",
+              "Año": "2013",
+              "Capacidad de la batería": "85.0 kWh"
+            },
+            {
+              "Eléctrico": "Model S Signature Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "367 hp / 270 kW",
+              "Año": "2013",
+              "Capacidad de la batería": "85.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model S - 2014 New Model (2013 - 2016)",
+          "specifications": {
+            "Batalla:": "296.0 cm / 116.54 pulgadas",
+            "Alto:": "144.5 cm / 56.89 pulgadas",
+            "Potencia:": "de 306 PS / 302 HP / 225 kW a 700 PS / 690 HP / 515 kW",
+            "Largo:": "497.9 cm / 196.02 pulgadas",
+            "Ancho:": "196.4 cm / 77.32 pulgadas",
+            "Período de producción:": "de 2013 a 2016",
+            "Peso:": "de 2175 kg / 4795 lbs a 2300 kg / 5071 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M8552/Model-S-2014"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/14584/w170_Tesla-Model-S-2021-f69d43df75f6348969.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla-models/Tesla-Model-S"
+    },
+    {
+      "modelName": "Model X",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model X 2021 Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "680 hp / 500 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "95 kWh"
+            },
+            {
+              "Eléctrico": "Model X 2021 Plaid Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "1020 hp / 750 kW",
+              "Año": "2021",
+              "Capacidad de la batería": "95 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model X - 2021 Facelift (2021 - Presente)",
+          "specifications": {
+            "Batalla:": "296.5 cm / 116.73 pulgadas",
+            "Alto:": "168.4 cm / 66.3 pulgadas",
+            "Potencia:": "de 680 PS / 671 HP / 500 kW a 1020 PS / 1006 HP / 750 kW",
+            "Peso de remolque:": "2268 kg / 5000 lbs",
+            "Largo:": "503.6 cm / 198.27 pulgadas",
+            "Ancho:": "199.9 cm / 78.7 pulgadas",
+            "Período de producción:": "de 2021 a a presente",
+            "Peso:": "de 2427 kg / 5351 lbs a 2530 kg / 5578 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M14583/Model-X-2021"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Model X 100D Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model X 60D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "60 kWh"
+            },
+            {
+              "Eléctrico": "Model X 75D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "333 hp / 245 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "75 kWh"
+            },
+            {
+              "Eléctrico": "Model X 90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "423 hp / 311 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "90 kWh"
+            },
+            {
+              "Eléctrico": "Model X Long Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "449 hp / 330 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model X P100D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "680 hp / 500 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model X P90D Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "539 hp / 396 kW",
+              "Año": "2016",
+              "Capacidad de la batería": "90 kWh"
+            },
+            {
+              "Eléctrico": "Model X Performance Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model X Performance Ludicrous Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "612 hp / 450 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "100 kWh"
+            },
+            {
+              "Eléctrico": "Model X Standard Range Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "328 hp / 241 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "75 kWh"
+            }
+          ],
+          "actualFinalModelName": "Model X - 2016 New Model (2015 - 2021)",
+          "specifications": {
+            "Batalla:": "296.5 cm / 116.73 pulgadas",
+            "Alto:": "168.4 cm / 66.3 pulgadas",
+            "Potencia:": "de 328 PS / 324 HP / 241 kW a 680 PS / 671 HP / 500 kW",
+            "Peso de remolque:": "2268 kg / 5000 lbs",
+            "Largo:": "503.6 cm / 198.27 pulgadas",
+            "Ancho:": "207.0 cm / 81.5 pulgadas",
+            "Período de producción:": "de 2015 a 2021",
+            "Peso:": "de 2175 kg / 4795 lbs a 2515 kg / 5545 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Tesla/M8439/Model-X-2016"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/565/14583/w170_Tesla-Model-X-2021-b5857a8d6029519d65.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Tesla-models/Tesla-Model-X"
+    }
+  ],
+  "brandName": "Tesla"
+}

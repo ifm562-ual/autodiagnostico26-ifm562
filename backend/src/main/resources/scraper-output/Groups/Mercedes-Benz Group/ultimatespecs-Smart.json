@@ -1,0 +1,1053 @@
+{
+  "models": [
+    {
+      "modelName": "ForTwo",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Fortwo EQ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "17,6 kWh"
+            }
+          ],
+          "actualFinalModelName": "453 Fortwo EQ - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "187.3 cm / 73.74 pulgadas",
+            "Alto:": "155.5 cm / 61.22 pulgadas",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "269.5 cm / 106.1 pulgadas",
+            "Ancho:": "166.3 cm / 65.47 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Peso:": "1170 kg / 2579 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M10705/Fortwo-(W453)-EQ"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Fortwo Cabrio EQ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "17,6 kWh"
+            }
+          ],
+          "actualFinalModelName": "453 Fortwo EQ - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "187.3 cm / 73.74 pulgadas",
+            "Alto:": "155.5 cm / 61.22 pulgadas",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "269.5 cm / 106.1 pulgadas",
+            "Ancho:": "166.3 cm / 65.47 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Peso:": "1200 kg / 2646 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M10617/Fortwo-EQ-Cabrio-(W453)"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Fortwo Cabrio EQ Brabus style Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Eléctrico": "Fortwo Cabrio EQ comfort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Eléctrico": "Fortwo Cabrio EQ comfort Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 52 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 52 kW Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 52 mhd Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 66 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 66 kW Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio BRABUS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "453 Fortwo (2014 - 2019)",
+          "specifications": {
+            "Batalla:": "187.3 cm / 73.74 pulgadas",
+            "Consumos Medio:": "4.2 L/100 km / 67 MPG UK / 56 MPG US",
+            "Alto:": "155.5 cm / 61.22 pulgadas",
+            "Potencia:": "de 71 PS / 70 HP / 52 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "269.5 cm / 106.1 pulgadas",
+            "Ancho:": "166.3 cm / 65.47 pulgadas",
+            "Período de producción:": "de 2014 a 2019",
+            "Cilindrada:": "de - cm3 / - cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 855 kg / 1885 lbs a 1160 kg / 2557 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M8289/Fortwo-Cabrio-(W453)"
+        },
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Fortwo Coupe EQ Brabus style Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Eléctrico": "Fortwo Coupe EQ comfort Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Eléctrico": "Fortwo Coupe EQ comfort Plus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2019",
+              "Capacidad de la batería": "17.6 kWh"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 45 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 52 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 52 kW Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 66 kW Turbo Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 66 kW Turbo Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe BRABUS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "453 Fortwo (2014 - 2019)",
+          "specifications": {
+            "Batalla:": "187.3 cm / 73.74 pulgadas",
+            "Consumos Medio:": "de 4.1 L/100 km / 69 MPG UK / 57 MPG US a 4.5 L/100 km / 63 MPG UK / 52 MPG US",
+            "Alto:": "155.5 cm / 61.22 pulgadas",
+            "Potencia:": "de 61 PS / 60 HP / 45 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "269.5 cm / 106.1 pulgadas",
+            "Ancho:": "166.3 cm / 65.47 pulgadas",
+            "Período de producción:": "de 2014 a 2019",
+            "Cilindrada:": "de - cm3 / - cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 880 kg / 1940 lbs a 1160 kg / 2557 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M7568/Fortwo-Coupe-(W453)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio 52 mhd passion Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio 52 mhd pulse Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio 52 mhd pure Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio 62 passion Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio 62 pulse Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio BRABUS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2010"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio cabrio BRABUS Xclusive Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "102 hp / 75 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi passion Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi passion Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi pulse Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi pulse Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2010"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi pure Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": ""
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio cabrio 40 cdi pure Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "54 hp / 40 kW",
+              "Año": "2010"
+            }
+          ],
+          "actualFinalModelName": "451 Fortwo (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "186.7 cm / 73.5 pulgadas",
+            "Consumos Medio:": "3.4 L/100 km / 83 MPG UK / 69 MPG US",
+            "Alto:": "154.2 cm / 60.71 pulgadas",
+            "Emisiones de CO2:": "de 86 a 119 g/Km",
+            "Potencia:": "de 54 PS / 53 HP / 40 kW a 102 PS / 101 HP / 75 kW",
+            "Largo:": "269.5 cm / 106.1 pulgadas",
+            "Ancho:": "155.9 cm / 61.38 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "de 799 cm3 / 48.8 cu-in a 999 cm3 / 61 cu-in"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M1347/Fortwo-Cabrio-(W451-2011)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 52 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 62 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio CDi Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "451 Fortwo (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "187.0 cm / 73.62 pulgadas",
+            "Consumos Medio:": "3.4 L/100 km / 83 MPG UK / 69 MPG US",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "de 88 a 116 g/Km",
+            "Potencia:": "de 45 PS / 44 HP / 33 kW a 84 PS / 83 HP / 62 kW",
+            "Largo:": "270.0 cm / 106.3 pulgadas",
+            "Ancho:": "156.0 cm / 61.42 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "de 799 cm3 / 48.8 cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 790 kg / 1742 lbs a 800 kg / 1764 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M950/Fortwo-Cabrio-(W451)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fortwo Coupe 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 52 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2007"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 62 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "84 hp / 62 kW",
+              "Año": "2007"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Coupe CDI Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "2007"
+            }
+          ],
+          "actualFinalModelName": "451 Fortwo (2007 - 2015)",
+          "specifications": {
+            "Batalla:": "187.0 cm / 73.62 pulgadas",
+            "Consumos Medio:": "3.4 L/100 km / 83 MPG UK / 69 MPG US",
+            "Alto:": "154.0 cm / 60.63 pulgadas",
+            "Emisiones de CO2:": "de 88 a 116 g/Km",
+            "Potencia:": "de 45 PS / 44 HP / 33 kW a 84 PS / 83 HP / 62 kW",
+            "Largo:": "270.0 cm / 106.3 pulgadas",
+            "Ancho:": "156.0 cm / 61.42 pulgadas",
+            "Período de producción:": "de 2007 a 2015",
+            "Cilindrada:": "de 799 cm3 / 48.8 cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 750 kg / 1653 lbs a 770 kg / 1698 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M951/Fortwo-Coupe-(W451)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "CrossBlade 70 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 599 cm3 (- cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "450 Fortwo (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "181.0 cm / 71.26 pulgadas",
+            "Alto:": "151.0 cm / 59.45 pulgadas",
+            "Emisiones de CO2:": "136 g/Km",
+            "Potencia:": "70 PS / 69 HP / 51 kW",
+            "Largo:": "262.0 cm / 103.15 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "- cm3 / - cu-in",
+            "Peso:": "740 kg / 1631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M946/CrossBlade"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fortwo Cabrio 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Cabrio Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Cabrio CDI Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "450 Fortwo (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "181.2 cm / 71.34 pulgadas",
+            "Alto:": "154.9 cm / 60.98 pulgadas",
+            "Emisiones de CO2:": "de 90 a 127 g/Km",
+            "Potencia:": "de 41 PS / 40 HP / 30 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "250.0 cm / 98.43 pulgadas",
+            "Ancho:": "153.7 cm / 60.51 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "de 698 cm3 / 42.6 cu-in a 799 cm3 / 48.8 cu-in",
+            "Peso:": "815 kg / 1797 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M370/Fortwo-Cabrio-(W450)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Fortwo Coupe 37 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Fortwo Coupe Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Fortwo Coupe CDI Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "450 Fortwo (2003 - 2007)",
+          "specifications": {
+            "Batalla:": "181.2 cm / 71.34 pulgadas",
+            "Consumos Medio:": "4.7 L/100 km / 60 MPG UK / 50 MPG US",
+            "Alto:": "154.9 cm / 60.98 pulgadas",
+            "Potencia:": "de 41 PS / 40 HP / 30 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "250.0 cm / 98.43 pulgadas",
+            "Ancho:": "151.5 cm / 59.65 pulgadas",
+            "Período de producción:": "de 2003 a 2007",
+            "Cilindrada:": "de 698 cm3 / 42.6 cu-in a 799 cm3 / 48.8 cu-in",
+            "Peso:": "805 kg / 1775 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M369/Fortwo-Coupe-(W450)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "City Cabrio 55 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "2000"
+            },
+            {
+              "Motores de Gasolina": "City Cabrio 61 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "City Cabrio 62 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "City Cabrio Brabus 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 698 cm3 (- cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "City Cabrio cdi Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "450 City-Coupé / City-Cabrio (1998 - 2002)",
+          "specifications": {
+            "Batalla:": "181.0 cm / 71.26 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 5.3 L/100 km / 53 MPG UK / 44 MPG US",
+            "Alto:": "155.0 cm / 61.02 pulgadas",
+            "Potencia:": "de 41 PS / 40 HP / 30 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "250.0 cm / 98.43 pulgadas",
+            "Ancho:": "154.0 cm / 60.63 pulgadas",
+            "Período de producción:": "de 1998 a 2002",
+            "Cilindrada:": "de - cm3 / - cu-in a 799 cm3 / 48.8 cu-in",
+            "Peso:": "de 730 kg / 1609 lbs a 740 kg / 1631 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M945/City-Cabrio"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "City coupe 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "1998"
+            },
+            {
+              "Motores de Gasolina": "City coupe 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "45 hp / 33 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "City coupe 50 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "50 hp / 37 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "City coupe 55 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "City coupe 55 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "55 hp / 40 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "City coupe 61 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "City coupe 62 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "City coupe 62 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2002"
+            },
+            {
+              "Motores de Gasolina": "City coupe 70 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "599 cm3 (36.6 cu-in)",
+              "Potencia": "70 hp / 51 kW",
+              "Año": "2001"
+            },
+            {
+              "Motores de Gasolina": "City coupe Brabus 75 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "d 698 cm3 (- cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2003"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "City coupe cdi Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "1999"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "City coupe cdi Ficha Tecnica",
+              "Cilindrada": "799 cm3 (48.8 cu-in)",
+              "Potencia": "41 hp / 30 kW",
+              "Año": "2002"
+            }
+          ],
+          "actualFinalModelName": "450 City-Coupé / City-Cabrio (1998 - 2002)",
+          "specifications": {
+            "Batalla:": "181.0 cm / 71.26 pulgadas",
+            "Consumos Medio:": "de 4.7 L/100 km / 60 MPG UK / 50 MPG US a 5.3 L/100 km / 53 MPG UK / 44 MPG US",
+            "Alto:": "153.0 cm / 60.24 pulgadas",
+            "Potencia:": "de 41 PS / 40 HP / 30 kW a 75 PS / 74 HP / 55 kW",
+            "Largo:": "250.0 cm / 98.43 pulgadas",
+            "Ancho:": "152.0 cm / 59.84 pulgadas",
+            "Período de producción:": "de 1998 a 2002",
+            "Cilindrada:": "de - cm3 / - cu-in a 799 cm3 / 48.8 cu-in",
+            "Peso:": "de 720 kg / 1587 lbs a 730 kg / 1609 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M944/City-coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/10705/w170_Smart-Fortwo-(W453)-EQ-8.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart-models/Smart-ForTwo"
+    },
+    {
+      "modelName": "ForFour",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "Forfour EQ Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2020",
+              "Capacidad de la batería": "17,6 kWh"
+            }
+          ],
+          "actualFinalModelName": "Forfour EQ (W 453) - 2020 Facelift (2020 - Presente)",
+          "specifications": {
+            "Batalla:": "249.4 cm / 98.19 pulgadas",
+            "Alto:": "155.4 cm / 61.18 pulgadas",
+            "Potencia:": "82 PS / 81 HP / 60 kW",
+            "Largo:": "349.5 cm / 137.6 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 2020 a a presente",
+            "Peso:": "1275 kg / 2811 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M10183/Forfour-(W453)-EQ"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forfour 45 kW Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "61 hp / 45 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Forfour 52 kW (71HP) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Forfour 52 kW Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "999 cm3 (61 cu-in)",
+              "Potencia": "71 hp / 52 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Forfour 66 kW Turbo (90HP) Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2014"
+            },
+            {
+              "Motores de Gasolina": "Forfour 66 kW Turbo Twinamic Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "90 hp / 66 kW",
+              "Año": "2015"
+            },
+            {
+              "Motores de Gasolina": "Forfour BRABUS Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "898 cm3 (54.8 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2016"
+            }
+          ],
+          "actualFinalModelName": "Forfour (W 453) (2014 - 2019)",
+          "specifications": {
+            "Batalla:": "249.4 cm / 98.19 pulgadas",
+            "Consumos Medio:": "de 4.2 L/100 km / 67 MPG UK / 56 MPG US a 4.7 L/100 km / 60 MPG UK / 50 MPG US",
+            "Alto:": "155.4 cm / 61.18 pulgadas",
+            "Emisiones de CO2:": "de 96 a 108 g/Km",
+            "Potencia:": "de 61 PS / 60 HP / 45 kW a 109 PS / 108 HP / 80 kW",
+            "Largo:": "349.5 cm / 137.6 pulgadas",
+            "Ancho:": "166.5 cm / 65.55 pulgadas",
+            "Período de producción:": "de 2014 a 2019",
+            "Cilindrada:": "de 898 cm3 / 54.8 cu-in a 999 cm3 / 61 cu-in",
+            "Peso:": "de 970 kg / 2138 lbs a 1025 kg / 2260 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M7569/Forfour-(W453)"
+        },
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Forfour 1.0 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "64 hp / 47 kW",
+              "Año": "2005"
+            },
+            {
+              "Motores de Gasolina": "Forfour 1.1 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1124 cm3 (68.6 cu-in)",
+              "Potencia": "75 hp / 55 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Forfour 1.3 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1332 cm3 (81.3 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Forfour 1.5 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1499 cm3 (91.5 cu-in)",
+              "Potencia": "109 hp / 80 kW",
+              "Año": "2004"
+            },
+            {
+              "Motores de Gasolina": "Forfour 1.5 Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "1468 cm3 (89.6 cu-in)",
+              "Potencia": "177 hp / 130 kW",
+              "Año": "2005"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forfour 1.5 Cdi 68 Ficha Tecnica",
+              "Cilindrada": "1493 cm3 (91.1 cu-in)",
+              "Potencia": "68 hp / 50 kW",
+              "Año": "2004"
+            },
+            {
+              "Comparar con otro coche": "",
+              "Motores Diesel": "Forfour 1.5 cdi 95 Ficha Tecnica",
+              "Cilindrada": "1493 cm3 (91.1 cu-in)",
+              "Potencia": "95 hp / 70 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Forfour (W 454) (2004 - 2006)",
+          "specifications": {
+            "Batalla:": "250.0 cm / 98.43 pulgadas",
+            "Alto:": "145.0 cm / 57.09 pulgadas",
+            "Emisiones de CO2:": "de 121 a 159 g/Km",
+            "Potencia:": "de 64 PS / 63 HP / 47 kW a 177 PS / 175 HP / 130 kW",
+            "Largo:": "375.0 cm / 147.64 pulgadas",
+            "Ancho:": "168.0 cm / 66.14 pulgadas",
+            "Período de producción:": "de 2004 a 2006",
+            "Cilindrada:": "de 1124 cm3 / 68.6 cu-in a 1499 cm3 / 91.5 cu-in",
+            "Peso:": "de 940 kg / 2072 lbs a 1090 kg / 2403 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M947/Forfour-(W454)"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/10183/w170_Smart-Forfour-(W453)-EQ-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart-models/Smart-ForFour"
+    },
+    {
+      "modelName": "#1",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "#1 272HP 49 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "49.0 kWh"
+            },
+            {
+              "Eléctrico": "#1 272HP 66 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "66.0 kWh"
+            },
+            {
+              "Eléctrico": "#1 428HP 66 kWh AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "66.0 kWh"
+            },
+            {
+              "Eléctrico": "#1 Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2022",
+              "Capacidad de la batería": "66.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Smart #1 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "275.0 cm / 108.27 pulgadas",
+            "Alto:": "163.6 cm / 64.41 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 428 PS / 422 HP / 315 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "427.0 cm / 168.11 pulgadas",
+            "Ancho:": "182.2 cm / 71.73 pulgadas",
+            "Período de producción:": "2022",
+            "Peso:": "de 1780 kg / 3924 lbs a 1900 kg / 4189 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M13096/1"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/13096/w170_Smart-1-1.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M13096/1"
+    },
+    {
+      "modelName": "#3",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "#3 272HP 49 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "49.0 kWh"
+            },
+            {
+              "Eléctrico": "#3 272HP 66 kWh Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "272 hp / 200 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "66.0 kWh"
+            },
+            {
+              "Eléctrico": "#3 Brabus AWD Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "428 hp / 315 kW",
+              "Año": "2023",
+              "Capacidad de la batería": "66.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Smart #3 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "278.5 cm / 109.65 pulgadas",
+            "Alto:": "155.6 cm / 61.26 pulgadas",
+            "Potencia:": "de 272 PS / 268 HP / 200 kW a 428 PS / 422 HP / 315 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "440.0 cm / 173.23 pulgadas",
+            "Ancho:": "184.4 cm / 72.6 pulgadas",
+            "Período de producción:": "2023",
+            "Peso:": "1780 kg / 3924 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M13653/3"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/13653/w170_Smart--3-e8e4d9399970565b8b.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M13653/3"
+    },
+    {
+      "modelName": "#5",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Eléctrico": "#5 AWD 432kW Pulse Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "588 hp / 432 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "100.0 kWh"
+            },
+            {
+              "Eléctrico": "#5 Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "646 hp / 475 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "100.0 kWh"
+            },
+            {
+              "Eléctrico": "#5 RWD 250kW Pro Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "340 hp / 250 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "76.0 kWh"
+            },
+            {
+              "Eléctrico": "#5 RWD 267kW Pro+/Premium Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Potencia": "363 hp / 267 kW",
+              "Año": "2025",
+              "Capacidad de la batería": "100.0 kWh"
+            }
+          ],
+          "actualFinalModelName": "Smart #5 Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "290.0 cm / 114.17 pulgadas",
+            "Alto:": "170.5 cm / 67.13 pulgadas",
+            "Potencia:": "de 340 PS / 335 HP / 250 kW a 646 PS / 637 HP / 475 kW",
+            "Peso de remolque:": "1600 kg / 3527 lbs",
+            "Largo:": "470.5 cm / 185.24 pulgadas",
+            "Ancho:": "192.0 cm / 75.59 pulgadas",
+            "Período de producción:": "2025",
+            "Peso:": "de 2200 kg / 4850 lbs a 2378 kg / 5243 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M15039/5"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/15039/w170_Smart--5-9d5b85141b7c1d84f4.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M15039/5"
+    },
+    {
+      "modelName": "Roadster Coupe",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Roadster Coupe 60 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Roadster Coupe Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Smart Roadster Coupe Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "119.0 cm / 46.85 pulgadas",
+            "Emisiones de CO2:": "de 122 a 126 g/Km",
+            "Potencia:": "de 82 PS / 81 HP / 60 kW a 100 PS / 99 HP / 74 kW",
+            "Largo:": "343.0 cm / 135.04 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 2003 a 2006",
+            "Cilindrada:": "698 cm3 / 42.6 cu-in",
+            "Peso:": "de 810 kg / 1786 lbs a 852 kg / 1878 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M949/Roadster-Coupe"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/949/w170_Smart-Roadster-Coupe-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M949/Roadster-Coupe"
+    },
+    {
+      "modelName": "Roadster",
+      "versions": [
+        {
+          "table_versions": [
+            {
+              "Motores de Gasolina": "Roadster 45 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "62 hp / 46 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Roadster 60 Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "82 hp / 60 kW",
+              "Año": "2003"
+            },
+            {
+              "Motores de Gasolina": "Roadster Brabus Ficha Tecnica",
+              "Comparar con otro coche": "",
+              "Cilindrada": "698 cm3 (42.6 cu-in)",
+              "Potencia": "100 hp / 74 kW",
+              "Año": "2004"
+            }
+          ],
+          "actualFinalModelName": "Smart Roadster Ficha Tecnica",
+          "specifications": {
+            "Batalla:": "236.0 cm / 92.91 pulgadas",
+            "Alto:": "119.0 cm / 46.85 pulgadas",
+            "Emisiones de CO2:": "de 117 a 126 g/Km",
+            "Potencia:": "de 62 PS / 61 HP / 46 kW a 100 PS / 99 HP / 74 kW",
+            "Largo:": "343.0 cm / 135.04 pulgadas",
+            "Ancho:": "162.0 cm / 63.78 pulgadas",
+            "Período de producción:": "de 2003 a 2006",
+            "Cilindrada:": "698 cm3 / 42.6 cu-in",
+            "Peso:": "de 790 kg / 1742 lbs a 832 kg / 1834 lbs"
+          },
+          "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M948/Roadster"
+        }
+      ],
+      "imageUrl": "https://www.ultimatespecs.com/cargallery/56/948/w170_Smart-Roadster-2.jpg",
+      "url": "https://www.ultimatespecs.com/es/car-specs/Smart/M948/Roadster"
+    }
+  ],
+  "brandName": "Smart"
+}

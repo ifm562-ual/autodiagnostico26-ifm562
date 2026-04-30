@@ -1,7 +1,7 @@
 import { Component, OnDestroy, effect, inject, ElementRef, ViewChild, output, PLATFORM_ID, afterNextRender, signal } from '@angular/core';
 import { CommonModule, isPlatformBrowser } from '@angular/common';
-import { GeolocationService } from '../services/geolocation.service';
-import { WorkshopService } from '../services/workshop.service';
+import { GeolocationService } from '../../services/geolocation.service';
+import { WorkshopService } from '../../services/workshop.service';
 
 @Component({
   selector: 'app-map',

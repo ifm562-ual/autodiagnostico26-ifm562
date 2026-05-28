@@ -15,16 +15,11 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import java.io.InputStream;
 
-import org.apache.commons.text.similarity.LevenshteinDistance;
-
-import org.springframework.boot.ApplicationArguments;
-import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.context.ApplicationContext;
 
-import java.io.File;
 import java.io.IOException;
 
 import java.nio.file.*;
@@ -41,7 +36,6 @@ public class CarDataPopulationService {
     private final VehicleRepository vehicleRepository;
     private final VehicleModelRepository vehicleModelRepository;
     private final EngineRepository engineRepository;
-    private final ProductRepository productRepository;
     private final ApplicationContext applicationContext;
     private final ObjectMapper objectMapper;
 
@@ -320,7 +314,8 @@ public class CarDataPopulationService {
                             vm,
                             ctx.brand()));
 
-            System.out.println("Lista de transmisiones probables para el modelo de vehículo " + vm.getModelName() + " con marca " + ctx.brand() + ": " + transmissions);
+            System.out.println("Lista de transmisiones probables para el modelo de vehículo " + vm.getModelName()
+                    + " con marca " + ctx.brand() + ": " + transmissions);
 
             if (transmissions.isEmpty()) {
                 vm.setTransmission(TransmissionType.AT);
@@ -388,12 +383,10 @@ public class CarDataPopulationService {
 
     private String extractModelName(JsonNode entry) {
         // El nombre del modelo suele ser el valor de la clave del tipo de motor
-        Iterator<Map.Entry<String, JsonNode>> fields = entry.fields();
-        while (fields.hasNext()) {
-            Map.Entry<String, JsonNode> field = fields.next();
-            String key = field.getKey();
+        for (Map.Entry<String, JsonNode> property : entry.properties()) {
+            String key = property.getKey();
             if (isEngineCategoryKey(key)) {
-                return cleanFichaTecnica(field.getValue().asText());
+                return cleanFichaTecnica(property.getValue().asText());
             }
         }
         // Recurrir a "Otros" si no se encuentra ninguna clave de categoría
@@ -413,6 +406,7 @@ public class CarDataPopulationService {
 
         try {
             int yearInt = Integer.parseInt(year.asText());
+            System.out.println("Parsed year for model " + engine.getName() + ": " + yearInt);
         } catch (NumberFormatException e) {
             System.err.println("Error parsing year: " + year.asText());
         }
@@ -686,7 +680,8 @@ public class CarDataPopulationService {
                 break;
         }
 
-        System.out.println("Score para el modelo de vehículo " + vehicleModel.getModelName() + " con marca " + brand + ": " + score);
+        System.out.println("Score para el modelo de vehículo " + vehicleModel.getModelName() + " con marca " + brand
+                + ": " + score);
 
         return score;
 

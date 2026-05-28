@@ -15,7 +15,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 import es.ual.dra.autodiagnostico.dto.WorkshopApplicationRequestDTO;
 import es.ual.dra.autodiagnostico.dto.WorkshopApplicationResponseDTO;
-import es.ual.dra.autodiagnostico.model.entitity.core.Issue;
 import es.ual.dra.autodiagnostico.model.entitity.core.Workshop;
 import es.ual.dra.autodiagnostico.model.entitity.core.WorkshopApplication;
 import es.ual.dra.autodiagnostico.model.entitity.core.WorkshopApplicationStatus;
